@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "word_english": "Engineer",
+        "word_turkish": "Mühendis"
+    },
+    {
+        "id": 2,
+        "word_english": "Doctor",
+        "word_turkish": "Doktor"
+    },
+    {
+        "id": 3,
+        "word_english": "Teacher",
+        "word_turkish": "Öğretmen"
+    },
+    {
+        "id": 4,
+        "word_english": "Nurse",
+        "word_turkish": "Hemşire"
+    },
+    {
+        "id": 5,
+        "word_english": "Chef",
+        "word_turkish": "Aşçı"
+    },
+    {
+        "id": 6,
+        "word_english": "Artist",
+        "word_turkish": "Sanatçı"
+    },
+    {
+        "id": 7,
+        "word_english": "Lawyer",
+        "word_turkish": "Avukat"
+    },
+    {
+        "id": 8,
+        "word_english": "Teacher",
+        "word_turkish": "Öğretmen"
+    },
+    {
+        "id": 9,
+        "word_english": "Driver",
+        "word_turkish": "Sürücü"
+    },
+    {
+        "id": 10,
+        "word_english": "Soldier",
+        "word_turkish": "Asker"
+    },
+    {
+        "id": 11,
+        "word_english": "Waiter",
+        "word_turkish": "Garson"
+    },
+    {
+        "id": 12,
+        "word_english": "Scientist",
+        "word_turkish": "Bilim İnsanı"
+    },
+    {
+        "id": 13,
+        "word_english": "Architect",
+        "word_turkish": "Mimar"
+    },
+    {
+        "id": 14,
+        "word_english": "Plumber",
+        "word_turkish": "Tesisatçı"
+    },
+    {
+        "id": 15,
+        "word_english": "Electrician",
+        "word_turkish": "Elektrikçi"
+    },
+    {
+        "id": 16,
+        "word_english": "Dentist",
+        "word_turkish": "Diş Hekimi"
+    },
+    {
+        "id": 17,
+        "word_english": "Secretary",
+        "word_turkish": "Sekreter"
+    },
+    {
+        "id": 18,
+        "word_english": "Cleaner",
+        "word_turkish": "Temizlikçi"
+    },
+    {
+        "id": 19,
+        "word_english": "Farmer",
+        "word_turkish": "Çiftçi"
+    },
+    {
+        "id": 20,
+        "word_english": "Builder",
+        "word_turkish": "İnşaatçı"
+    },
+    {
+        "id": 21,
+        "word_english": "Mechanic",
+        "word_turkish": "Tamirci"
+    },
+    {
+        "id": 22,
+        "word_english": "Photographer",
+        "word_turkish": "Fotoğrafçı"
+    },
+    {
+        "id": 23,
+        "word_english": "Journalist",
+        "word_turkish": "Gazeteci"
+    },
+    {
+        "id": 24,
+        "word_english": "Writer",
+        "word_turkish": "Yazar"
+    },
+    {
+        "id": 25,
+        "word_english": "Driver",
+        "word_turkish": "Şoför"
+    },
+    {
+        "id": 26,
+        "word_english": "Farmer",
+        "word_turkish": "Çiftçi"
+    },
+    {
+        "id": 27,
+        "word_english": "Artist",
+        "word_turkish": "Sanatçı"
+    },
+    {
+        "id": 28,
+        "word_english": "Musician",
+        "word_turkish": "Müzisyen"
+    },
+    {
+        "id": 29,
+        "word_english": "Actor",
+        "word_turkish": "Aktör"
+    },
+    {
+        "id": 30,
+        "word_english": "Actress",
+        "word_turkish": "Aktris"
+    },
+    {
+        "id": 31,
+        "word_english": "Translator",
+        "word_turkish": "Çevirmen"
+    },
+    {
+        "id": 32,
+        "word_english": "Coach",
+        "word_turkish": "Koç"
+    },
+    {
+        "id": 33,
+        "word_english": "Librarian",
+        "word_turkish": "Kütüphaneci"
+    },
+    {
+        "id": 34,
+        "word_english": "Police officer",
+        "word_turkish": "Polis Memuru"
+    },
+    {
+        "id": 35,
+        "word_english": "Firefighter",
+        "word_turkish": "İtfaiyeci"
+    },
+    {
+        "id": 36,
+        "word_english": "Cashier",
+        "word_turkish": "Kasa Görevlisi"
+    },
+    {
+        "id": 37,
+        "word_english": "Nanny",
+        "word_turkish": "Dadı"
+    },
+    {
+        "id": 38,
+        "word_english": "Designer",
+        "word_turkish": "Tasarımcı"
+    },
+    {
+        "id": 39,
+        "word_english": "Entrepreneur",
+        "word_turkish": "Girişimci"
+    },
+    {
+        "id": 40,
+        "word_english": "Veterinarian",
+        "word_turkish": "Veteriner"
+    },
+    {
+        "id": 41,
+        "word_english": "Baker",
+        "word_turkish": "Fırıncı"
+    },
+    {
+        "id": 42,
+        "word_english": "Butcher",
+        "word_turkish": "Kasap"
+    },
+    {
+        "id": 43,
+        "word_english": "Courier",
+        "word_turkish": "Kuryer"
+    },
+    {
+        "id": 44,
+        "word_english": "Salesman",
+        "word_turkish": "Satıcı"
+    },
+    {
+        "id": 45,
+        "word_english": "Security guard",
+        "word_turkish": "Güvenlik Görevlisi"
+    },
+    {
+        "id": 46,
+        "word_english": "Pharmacist",
+        "word_turkish": "Eczacı"
+    },
+    {
+        "id": 47,
+        "word_english": "Social worker",
+        "word_turkish": "Sosyal Hizmetler Uzmanı"
+    },
+    {
+        "id": 48,
+        "word_english": "Counselor",
+        "word_turkish": "Danışman"
+    },
+    {
+        "id": 49,
+        "word_english": "Scientist",
+        "word_turkish": "Bilim İnsanı"
+    },
+    {
+        "id": 50,
+        "word_english": "Economist",
+        "word_turkish": "Ekonomist"
+    },
+    {
+        "id": 51,
+        "word_english": "Technician",
+        "word_turkish": "Teknisyen"
+    },
+    {
+        "id": 52,
+        "word_english": "Consultant",
+        "word_turkish": "Danışman"
+    },
+    {
+        "id": 53,
+        "word_english": "Software developer",
+        "word_turkish": "Yazılım Geliştirici"
+    },
+    {
+        "id": 54,
+        "word_english": "Web developer",
+        "word_turkish": "Web Geliştirici"
+    },
+    {
+        "id": 55,
+        "word_english": "HR manager",
+        "word_turkish": "İK Yöneticisi"
+    },
+    {
+        "id": 56,
+        "word_english": "Investment banker",
+        "word_turkish": "Yatırım Bankacısı"
+    },
+    {
+        "id": 57,
+        "word_english": "Interpreter",
+        "word_turkish": "Yorumcu"
+    },
+    {
+        "id": 58,
+        "word_english": "HR specialist",
+        "word_turkish": "İK Uzmanı"
+    },
+    {
+        "id": 59,
+        "word_english": "Recruiter",
+        "word_turkish": "İşe Alım Uzmanı"
+    },
+    {
+        "id": 60,
+        "word_english": "Accountant",
+        "word_turkish": "Muhasebeci"
+    },
+    {
+        "id": 61,
+        "word_english": "Financial advisor",
+        "word_turkish": "Mali Danışman"
+    },
+    {
+        "id": 62,
+        "word_english": "Professor",
+        "word_turkish": "Profesör"
+    },
+    {
+        "id": 63,
+        "word_english": "Researcher",
+        "word_turkish": "Araştırmacı"
+    },
+    {
+        "id": 64,
+        "word_english": "Optometrist",
+        "word_turkish": "Gözlükçü"
+    },
+    {
+        "id": 65,
+        "word_english": "Psychologist",
+        "word_turkish": "Psikolog"
+    },
+    {
+        "id": 66,
+        "word_english": "Public relations specialist",
+        "word_turkish": "Halkla İlişkiler Uzmanı"
+    },
+    {
+        "id": 67,
+        "word_english": "Event planner",
+        "word_turkish": "Etkinlik Planlayıcısı"
+    },
+    {
+        "id": 68,
+        "word_english": "Project manager",
+        "word_turkish": "Proje Yöneticisi"
+    },
+    {
+        "id": 69,
+        "word_english": "Tour guide",
+        "word_turkish": "Tur Rehberi"
+    },
+    {
+        "id": 70,
+        "word_english": "Cleaner",
+        "word_turkish": "Temizlikçi"
+    },
+    {
+        "id": 71,
+        "word_english": "Carpenter",
+        "word_turkish": "Marangoz"
+    },
+    {
+        "id": 72,
+        "word_english": "Hairdresser",
+        "word_turkish": "Kuaför"
+    },
+    {
+        "id": 73,
+        "word_english": "Fashion designer",
+        "word_turkish": "Moda Tasarımcısı"
+    },
+    {
+        "id": 74,
+        "word_english": "Film director",
+        "word_turkish": "Film Yönetmeni"
+    },
+    {
+        "id": 75,
+        "word_english": "Electrician",
+        "word_turkish": "Elektrikçi"
+    },
+    {
+        "id": 76,
+        "word_english": "Plumber",
+        "word_turkish": "Sıhhi Tesisatçı"
+    },
+    {
+        "id": 77,
+        "word_english": "Mechanic",
+        "word_turkish": "Tamirci"
+    },
+    {
+        "id": 78,
+        "word_english": "Chef",
+        "word_turkish": "Aşçı"
+    },
+    {
+        "id": 79,
+        "word_english": "Construction worker",
+        "word_turkish": "İnşaat İşçisi"
+    },
+    {
+        "id": 80,
+        "word_english": "Barista",
+        "word_turkish": "Kahve Uzmanı"
+    }
+]

@@ -1,0 +1,977 @@
+[
+    {
+        "id": 84,
+        "word_english": "Afghanistan",
+        "word_turkish": "Afganistan"
+    },
+    {
+        "id": 85,
+        "word_english": "Albania",
+        "word_turkish": "Arnavutluk"
+    },
+    {
+        "id": 86,
+        "word_english": "Algeria",
+        "word_turkish": "Cezayir"
+    },
+    {
+        "id": 87,
+        "word_english": "Andorra",
+        "word_turkish": "Andorra"
+    },
+    {
+        "id": 88,
+        "word_english": "Angola",
+        "word_turkish": "Angola"
+    },
+    {
+        "id": 89,
+        "word_english": "Antigua and Barbuda",
+        "word_turkish": "Antigua ve Barbuda"
+    },
+    {
+        "id": 90,
+        "word_english": "Argentina",
+        "word_turkish": "Arjantin"
+    },
+    {
+        "id": 91,
+        "word_english": "Armenia",
+        "word_turkish": "Ermenistan"
+    },
+    {
+        "id": 92,
+        "word_english": "Australia",
+        "word_turkish": "Avustralya"
+    },
+    {
+        "id": 93,
+        "word_english": "Austria",
+        "word_turkish": "Avusturya"
+    },
+    {
+        "id": 94,
+        "word_english": "Azerbaijan",
+        "word_turkish": "Azerbaycan"
+    },
+    {
+        "id": 95,
+        "word_english": "Bahamas",
+        "word_turkish": "Bahamalar"
+    },
+    {
+        "id": 96,
+        "word_english": "Bahrain",
+        "word_turkish": "Bahreyn"
+    },
+    {
+        "id": 97,
+        "word_english": "Bangladesh",
+        "word_turkish": "Bangladeş"
+    },
+    {
+        "id": 98,
+        "word_english": "Barbados",
+        "word_turkish": "Barbados"
+    },
+    {
+        "id": 99,
+        "word_english": "Belarus",
+        "word_turkish": "Beyaz Rusya"
+    },
+    {
+        "id": 100,
+        "word_english": "Belgium",
+        "word_turkish": "Belçika"
+    },
+    {
+        "id": 101,
+        "word_english": "Belize",
+        "word_turkish": "Belize"
+    },
+    {
+        "id": 102,
+        "word_english": "Benin",
+        "word_turkish": "Benin"
+    },
+    {
+        "id": 103,
+        "word_english": "Bhutan",
+        "word_turkish": "Bhutan"
+    },
+    {
+        "id": 104,
+        "word_english": "Bolivia",
+        "word_turkish": "Bolivya"
+    },
+    {
+        "id": 105,
+        "word_english": "Bosnia and Herzegovina",
+        "word_turkish": "Bosna-Hersek"
+    },
+    {
+        "id": 106,
+        "word_english": "Botswana",
+        "word_turkish": "Botsvana"
+    },
+    {
+        "id": 107,
+        "word_english": "Brazil",
+        "word_turkish": "Brezilya"
+    },
+    {
+        "id": 108,
+        "word_english": "Brunei",
+        "word_turkish": "Bruney"
+    },
+    {
+        "id": 109,
+        "word_english": "Bulgaria",
+        "word_turkish": "Bulgaristan"
+    },
+    {
+        "id": 110,
+        "word_english": "Burkina Faso",
+        "word_turkish": "Burkina Faso"
+    },
+    {
+        "id": 111,
+        "word_english": "Burundi",
+        "word_turkish": "Burundi"
+    },
+    {
+        "id": 112,
+        "word_english": "Cabo Verde",
+        "word_turkish": "Yeşil Burun Adaları"
+    },
+    {
+        "id": 113,
+        "word_english": "Cambodia",
+        "word_turkish": "Kamboçya"
+    },
+    {
+        "id": 114,
+        "word_english": "Cameroon",
+        "word_turkish": "Kamerun"
+    },
+    {
+        "id": 115,
+        "word_english": "Canada",
+        "word_turkish": "Kanada"
+    },
+    {
+        "id": 116,
+        "word_english": "Central African Republic",
+        "word_turkish": "Orta Afrika Cumhuriyeti"
+    },
+    {
+        "id": 117,
+        "word_english": "Chad",
+        "word_turkish": "Çad"
+    },
+    {
+        "id": 118,
+        "word_english": "Chile",
+        "word_turkish": "Şili"
+    },
+    {
+        "id": 119,
+        "word_english": "China",
+        "word_turkish": "Çin"
+    },
+    {
+        "id": 120,
+        "word_english": "Colombia",
+        "word_turkish": "Kolombiya"
+    },
+    {
+        "id": 121,
+        "word_english": "Comoros",
+        "word_turkish": "Komorlar"
+    },
+    {
+        "id": 122,
+        "word_english": "Congo",
+        "word_turkish": "Kongo"
+    },
+    {
+        "id": 123,
+        "word_english": "Costa Rica",
+        "word_turkish": "Kosta Rika"
+    },
+    {
+        "id": 124,
+        "word_english": "Croatia",
+        "word_turkish": "Hırvatistan"
+    },
+    {
+        "id": 125,
+        "word_english": "Cuba",
+        "word_turkish": "Küba"
+    },
+    {
+        "id": 126,
+        "word_english": "Cyprus",
+        "word_turkish": "Kıbrıs"
+    },
+    {
+        "id": 127,
+        "word_english": "Czech Republic",
+        "word_turkish": "Çek Cumhuriyeti"
+    },
+    {
+        "id": 128,
+        "word_english": "Denmark",
+        "word_turkish": "Danimarka"
+    },
+    {
+        "id": 129,
+        "word_english": "Djibouti",
+        "word_turkish": "Cibuti"
+    },
+    {
+        "id": 130,
+        "word_english": "Dominica",
+        "word_turkish": "Dominika"
+    },
+    {
+        "id": 131,
+        "word_english": "Dominican Republic",
+        "word_turkish": "Dominik Cumhuriyeti"
+    },
+    {
+        "id": 132,
+        "word_english": "Ecuador",
+        "word_turkish": "Ekvador"
+    },
+    {
+        "id": 133,
+        "word_english": "Egypt",
+        "word_turkish": "Mısır"
+    },
+    {
+        "id": 134,
+        "word_english": "El Salvador",
+        "word_turkish": "El Salvador"
+    },
+    {
+        "id": 135,
+        "word_english": "Equatorial Guinea",
+        "word_turkish": "Ekvator Ginesi"
+    },
+    {
+        "id": 136,
+        "word_english": "Eritrea",
+        "word_turkish": "Eritre"
+    },
+    {
+        "id": 137,
+        "word_english": "Estonia",
+        "word_turkish": "Estonya"
+    },
+    {
+        "id": 138,
+        "word_english": "Eswatini",
+        "word_turkish": "Esvatini"
+    },
+    {
+        "id": 139,
+        "word_english": "Ethiopia",
+        "word_turkish": "Etiyopya"
+    },
+    {
+        "id": 140,
+        "word_english": "Fiji",
+        "word_turkish": "Fiji"
+    },
+    {
+        "id": 141,
+        "word_english": "Finland",
+        "word_turkish": "Finlandiya"
+    },
+    {
+        "id": 142,
+        "word_english": "France",
+        "word_turkish": "Fransa"
+    },
+    {
+        "id": 143,
+        "word_english": "Gabon",
+        "word_turkish": "Gabon"
+    },
+    {
+        "id": 144,
+        "word_english": "Gambia",
+        "word_turkish": "Gambiya"
+    },
+    {
+        "id": 145,
+        "word_english": "Georgia",
+        "word_turkish": "Gürcistan"
+    },
+    {
+        "id": 146,
+        "word_english": "Germany",
+        "word_turkish": "Almanya"
+    },
+    {
+        "id": 147,
+        "word_english": "Ghana",
+        "word_turkish": "Gana"
+    },
+    {
+        "id": 148,
+        "word_english": "Greece",
+        "word_turkish": "Yunanistan"
+    },
+    {
+        "id": 149,
+        "word_english": "Grenada",
+        "word_turkish": "Grenada"
+    },
+    {
+        "id": 150,
+        "word_english": "Guatemala",
+        "word_turkish": "Guatemala"
+    },
+    {
+        "id": 151,
+        "word_english": "Guinea",
+        "word_turkish": "Gine"
+    },
+    {
+        "id": 152,
+        "word_english": "Guinea-Bissau",
+        "word_turkish": "Gine-Bisau"
+    },
+    {
+        "id": 153,
+        "word_english": "Guyana",
+        "word_turkish": "Guyana"
+    },
+    {
+        "id": 154,
+        "word_english": "Haiti",
+        "word_turkish": "Haiti"
+    },
+    {
+        "id": 155,
+        "word_english": "Honduras",
+        "word_turkish": "Honduras"
+    },
+    {
+        "id": 156,
+        "word_english": "Hungary",
+        "word_turkish": "Macaristan"
+    },
+    {
+        "id": 157,
+        "word_english": "Iceland",
+        "word_turkish": "İzlanda"
+    },
+    {
+        "id": 158,
+        "word_english": "India",
+        "word_turkish": "Hindistan"
+    },
+    {
+        "id": 159,
+        "word_english": "Indonesia",
+        "word_turkish": "Endonezya"
+    },
+    {
+        "id": 160,
+        "word_english": "Iran",
+        "word_turkish": "İran"
+    },
+    {
+        "id": 161,
+        "word_english": "Iraq",
+        "word_turkish": "Irak"
+    },
+    {
+        "id": 162,
+        "word_english": "Ireland",
+        "word_turkish": "İrlanda"
+    },
+    {
+        "id": 163,
+        "word_english": "Israel",
+        "word_turkish": "İsrail"
+    },
+    {
+        "id": 164,
+        "word_english": "Italy",
+        "word_turkish": "İtalya"
+    },
+    {
+        "id": 165,
+        "word_english": "Jamaica",
+        "word_turkish": "Jamaika"
+    },
+    {
+        "id": 166,
+        "word_english": "Japan",
+        "word_turkish": "Japonya"
+    },
+    {
+        "id": 167,
+        "word_english": "Jordan",
+        "word_turkish": "Ürdün"
+    },
+    {
+        "id": 168,
+        "word_english": "Kazakhstan",
+        "word_turkish": "Kazakistan"
+    },
+    {
+        "id": 169,
+        "word_english": "Kenya",
+        "word_turkish": "Kenya"
+    },
+    {
+        "id": 170,
+        "word_english": "Kiribati",
+        "word_turkish": "Kiribati"
+    },
+    {
+        "id": 171,
+        "word_english": "Korea, North",
+        "word_turkish": "Kuzey Kore"
+    },
+    {
+        "id": 172,
+        "word_english": "Korea, South",
+        "word_turkish": "Güney Kore"
+    },
+    {
+        "id": 173,
+        "word_english": "Kuwait",
+        "word_turkish": "Kuveyt"
+    },
+    {
+        "id": 174,
+        "word_english": "Kyrgyzstan",
+        "word_turkish": "Kırgızistan"
+    },
+    {
+        "id": 175,
+        "word_english": "Laos",
+        "word_turkish": "Laos"
+    },
+    {
+        "id": 176,
+        "word_english": "Latvia",
+        "word_turkish": "Letonya"
+    },
+    {
+        "id": 177,
+        "word_english": "Lebanon",
+        "word_turkish": "Lübnan"
+    },
+    {
+        "id": 178,
+        "word_english": "Lesotho",
+        "word_turkish": "Lesoto"
+    },
+    {
+        "id": 179,
+        "word_english": "Liberia",
+        "word_turkish": "Liberya"
+    },
+    {
+        "id": 180,
+        "word_english": "Libya",
+        "word_turkish": "Libya"
+    },
+    {
+        "id": 181,
+        "word_english": "Liechtenstein",
+        "word_turkish": "Lihtenştayn"
+    },
+    {
+        "id": 182,
+        "word_english": "Lithuania",
+        "word_turkish": "Litvanya"
+    },
+    {
+        "id": 183,
+        "word_english": "Luxembourg",
+        "word_turkish": "Lüksemburg"
+    },
+    {
+        "id": 184,
+        "word_english": "Madagascar",
+        "word_turkish": "Madagaskar"
+    },
+    {
+        "id": 185,
+        "word_english": "Malawi",
+        "word_turkish": "Malavi"
+    },
+    {
+        "id": 186,
+        "word_english": "Malaysia",
+        "word_turkish": "Malezya"
+    },
+    {
+        "id": 187,
+        "word_english": "Maldives",
+        "word_turkish": "Maldivler"
+    },
+    {
+        "id": 188,
+        "word_english": "Mali",
+        "word_turkish": "Mali"
+    },
+    {
+        "id": 189,
+        "word_english": "Malta",
+        "word_turkish": "Malta"
+    },
+    {
+        "id": 190,
+        "word_english": "Marshall Islands",
+        "word_turkish": "Marshall Adaları"
+    },
+    {
+        "id": 191,
+        "word_english": "Mauritania",
+        "word_turkish": "Moritanya"
+    },
+    {
+        "id": 192,
+        "word_english": "Mauritius",
+        "word_turkish": "Mauritius"
+    },
+    {
+        "id": 193,
+        "word_english": "Mexico",
+        "word_turkish": "Meksika"
+    },
+    {
+        "id": 194,
+        "word_english": "Micronesia",
+        "word_turkish": "Mikronezya"
+    },
+    {
+        "id": 195,
+        "word_english": "Moldova",
+        "word_turkish": "Moldova"
+    },
+    {
+        "id": 196,
+        "word_english": "Monaco",
+        "word_turkish": "Monako"
+    },
+    {
+        "id": 197,
+        "word_english": "Mongolia",
+        "word_turkish": "Moğolistan"
+    },
+    {
+        "id": 198,
+        "word_english": "Montenegro",
+        "word_turkish": "Karadağ"
+    },
+    {
+        "id": 199,
+        "word_english": "Morocco",
+        "word_turkish": "Fas"
+    },
+    {
+        "id": 200,
+        "word_english": "Mozambique",
+        "word_turkish": "Mozambik"
+    },
+    {
+        "id": 201,
+        "word_english": "Myanmar",
+        "word_turkish": "Myanmar"
+    },
+    {
+        "id": 202,
+        "word_english": "Namibia",
+        "word_turkish": "Namibya"
+    },
+    {
+        "id": 203,
+        "word_english": "Nauru",
+        "word_turkish": "Nauru"
+    },
+    {
+        "id": 204,
+        "word_english": "Nepal",
+        "word_turkish": "Nepal"
+    },
+    {
+        "id": 205,
+        "word_english": "Netherlands",
+        "word_turkish": "Hollanda"
+    },
+    {
+        "id": 206,
+        "word_english": "New Zealand",
+        "word_turkish": "Yeni Zelanda"
+    },
+    {
+        "id": 207,
+        "word_english": "Nicaragua",
+        "word_turkish": "Nikaragua"
+    },
+    {
+        "id": 208,
+        "word_english": "Niger",
+        "word_turkish": "Nijer"
+    },
+    {
+        "id": 209,
+        "word_english": "Nigeria",
+        "word_turkish": "Nijerya"
+    },
+    {
+        "id": 210,
+        "word_english": "North Macedonia",
+        "word_turkish": "Kuzey Makedonya"
+    },
+    {
+        "id": 211,
+        "word_english": "Norway",
+        "word_turkish": "Norveç"
+    },
+    {
+        "id": 212,
+        "word_english": "Oman",
+        "word_turkish": "Umman"
+    },
+    {
+        "id": 213,
+        "word_english": "Pakistan",
+        "word_turkish": "Pakistan"
+    },
+    {
+        "id": 214,
+        "word_english": "Palau",
+        "word_turkish": "Palau"
+    },
+    {
+        "id": 215,
+        "word_english": "Panama",
+        "word_turkish": "Panama"
+    },
+    {
+        "id": 216,
+        "word_english": "Papua New Guinea",
+        "word_turkish": "Papua Yeni Gine"
+    },
+    {
+        "id": 217,
+        "word_english": "Paraguay",
+        "word_turkish": "Paraguay"
+    },
+    {
+        "id": 218,
+        "word_english": "Peru",
+        "word_turkish": "Peru"
+    },
+    {
+        "id": 219,
+        "word_english": "Philippines",
+        "word_turkish": "Filipinler"
+    },
+    {
+        "id": 220,
+        "word_english": "Poland",
+        "word_turkish": "Polonya"
+    },
+    {
+        "id": 221,
+        "word_english": "Portugal",
+        "word_turkish": "Portekiz"
+    },
+    {
+        "id": 222,
+        "word_english": "Qatar",
+        "word_turkish": "Katar"
+    },
+    {
+        "id": 223,
+        "word_english": "Romania",
+        "word_turkish": "Romanya"
+    },
+    {
+        "id": 224,
+        "word_english": "Russia",
+        "word_turkish": "Rusya"
+    },
+    {
+        "id": 225,
+        "word_english": "Rwanda",
+        "word_turkish": "Ruanda"
+    },
+    {
+        "id": 226,
+        "word_english": "Saint Kitts and Nevis",
+        "word_turkish": "Saint Kitts ve Nevis"
+    },
+    {
+        "id": 227,
+        "word_english": "Saint Lucia",
+        "word_turkish": "Saint Lucia"
+    },
+    {
+        "id": 228,
+        "word_english": "Saint Vincent and the Grenadines",
+        "word_turkish": "Saint Vincent ve Grenadinler"
+    },
+    {
+        "id": 229,
+        "word_english": "Samoa",
+        "word_turkish": "Samoa"
+    },
+    {
+        "id": 230,
+        "word_english": "San Marino",
+        "word_turkish": "San Marino"
+    },
+    {
+        "id": 231,
+        "word_english": "Sao Tome and Principe",
+        "word_turkish": "São Tomé ve Prensip"
+    },
+    {
+        "id": 232,
+        "word_english": "Saudi Arabia",
+        "word_turkish": "Suudi Arabistan"
+    },
+    {
+        "id": 233,
+        "word_english": "Senegal",
+        "word_turkish": "Senegal"
+    },
+    {
+        "id": 234,
+        "word_english": "Serbia",
+        "word_turkish": "Sırbistan"
+    },
+    {
+        "id": 235,
+        "word_english": "Seychelles",
+        "word_turkish": "Seyşeller"
+    },
+    {
+        "id": 236,
+        "word_english": "Sierra Leone",
+        "word_turkish": "Sierra Leone"
+    },
+    {
+        "id": 237,
+        "word_english": "Singapore",
+        "word_turkish": "Singapur"
+    },
+    {
+        "id": 238,
+        "word_english": "Slovakia",
+        "word_turkish": "Slovakya"
+    },
+    {
+        "id": 239,
+        "word_english": "Slovenia",
+        "word_turkish": "Slovenya"
+    },
+    {
+        "id": 240,
+        "word_english": "Solomon Islands",
+        "word_turkish": "Solomon Adaları"
+    },
+    {
+        "id": 241,
+        "word_english": "Somalia",
+        "word_turkish": "Somali"
+    },
+    {
+        "id": 242,
+        "word_english": "South Africa",
+        "word_turkish": "Güney Afrika"
+    },
+    {
+        "id": 243,
+        "word_english": "South Sudan",
+        "word_turkish": "Güney Sudan"
+    },
+    {
+        "id": 244,
+        "word_english": "Spain",
+        "word_turkish": "İspanya"
+    },
+    {
+        "id": 245,
+        "word_english": "Sri Lanka",
+        "word_turkish": "Sri Lanka"
+    },
+    {
+        "id": 246,
+        "word_english": "Sudan",
+        "word_turkish": "Sudan"
+    },
+    {
+        "id": 247,
+        "word_english": "Suriname",
+        "word_turkish": "Surinam"
+    },
+    {
+        "id": 248,
+        "word_english": "Sweden",
+        "word_turkish": "İsveç"
+    },
+    {
+        "id": 249,
+        "word_english": "Switzerland",
+        "word_turkish": "İsviçre"
+    },
+    {
+        "id": 250,
+        "word_english": "Syria",
+        "word_turkish": "Suriye"
+    },
+    {
+        "id": 251,
+        "word_english": "Taiwan",
+        "word_turkish": "Tayvan"
+    },
+    {
+        "id": 252,
+        "word_english": "Tajikistan",
+        "word_turkish": "Tacikistan"
+    },
+    {
+        "id": 253,
+        "word_english": "Tanzania",
+        "word_turkish": "Tanzanya"
+    },
+    {
+        "id": 254,
+        "word_english": "Thailand",
+        "word_turkish": "Tayland"
+    },
+    {
+        "id": 255,
+        "word_english": "Timor-Leste",
+        "word_turkish": "Doğu Timor"
+    },
+    {
+        "id": 256,
+        "word_english": "Togo",
+        "word_turkish": "Togo"
+    },
+    {
+        "id": 257,
+        "word_english": "Tonga",
+        "word_turkish": "Tonga"
+    },
+    {
+        "id": 258,
+        "word_english": "Trinidad and Tobago",
+        "word_turkish": "Trinidad ve Tobago"
+    },
+    {
+        "id": 259,
+        "word_english": "Tunisia",
+        "word_turkish": "Tunus"
+    },
+    {
+        "id": 260,
+        "word_english": "Turkey",
+        "word_turkish": "Türkiye"
+    },
+    {
+        "id": 261,
+        "word_english": "Turkmenistan",
+        "word_turkish": "Türkmenistan"
+    },
+    {
+        "id": 262,
+        "word_english": "Tuvalu",
+        "word_turkish": "Tuvalu"
+    },
+    {
+        "id": 263,
+        "word_english": "Uganda",
+        "word_turkish": "Uganda"
+    },
+    {
+        "id": 264,
+        "word_english": "Ukraine",
+        "word_turkish": "Ukrayna"
+    },
+    {
+        "id": 265,
+        "word_english": "United Arab Emirates",
+        "word_turkish": "Birleşik Arap Emirlikleri"
+    },
+    {
+        "id": 266,
+        "word_english": "United Kingdom",
+        "word_turkish": "Birleşik Krallık"
+    },
+    {
+        "id": 267,
+        "word_english": "United States",
+        "word_turkish": "Amerika Birleşik Devletleri"
+    },
+    {
+        "id": 268,
+        "word_english": "Uruguay",
+        "word_turkish": "Uruguay"
+    },
+    {
+        "id": 269,
+        "word_english": "Uzbekistan",
+        "word_turkish": "Özbekistan"
+    },
+    {
+        "id": 270,
+        "word_english": "Vanuatu",
+        "word_turkish": "Vanuatu"
+    },
+    {
+        "id": 271,
+        "word_english": "Vatican City",
+        "word_turkish": "Vatikan"
+    },
+    {
+        "id": 272,
+        "word_english": "Venezuela",
+        "word_turkish": "Venezuela"
+    },
+    {
+        "id": 273,
+        "word_english": "Vietnam",
+        "word_turkish": "Vietnam"
+    },
+    {
+        "id": 274,
+        "word_english": "Yemen",
+        "word_turkish": "Yemen"
+    },
+    {
+        "id": 275,
+        "word_english": "Zambia",
+        "word_turkish": "Zambiya"
+    },
+    {
+        "id": 276,
+        "word_english": "Zimbabwe",
+        "word_turkish": "Zimbabve"
+    },
+    {
+        "id": 277,
+        "word_english": "Vatican City",
+        "word_turkish": "Vatikan"
+    },
+    {
+        "id": 278,
+        "word_english": "Palestine",
+        "word_turkish": "Filistin"
+    }
+]

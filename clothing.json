@@ -1,0 +1,837 @@
+[
+    {
+        "id": 1,
+        "word_english": "Shirt",
+        "word_turkish": "Gömlek"
+    },
+    {
+        "id": 2,
+        "word_english": "T-shirt",
+        "word_turkish": "Tişört"
+    },
+    {
+        "id": 3,
+        "word_english": "Blouse",
+        "word_turkish": "Bluz"
+    },
+    {
+        "id": 4,
+        "word_english": "Sweater",
+        "word_turkish": "Kazak"
+    },
+    {
+        "id": 5,
+        "word_english": "Jacket",
+        "word_turkish": "Ceket"
+    },
+    {
+        "id": 6,
+        "word_english": "Coat",
+        "word_turkish": "Palto"
+    },
+    {
+        "id": 7,
+        "word_english": "Jeans",
+        "word_turkish": "Kot Pantolon"
+    },
+    {
+        "id": 8,
+        "word_english": "Trousers",
+        "word_turkish": "Pantolon"
+    },
+    {
+        "id": 9,
+        "word_english": "Shorts",
+        "word_turkish": "Şort"
+    },
+    {
+        "id": 10,
+        "word_english": "Skirt",
+        "word_turkish": "Etek"
+    },
+    {
+        "id": 11,
+        "word_english": "Dress",
+        "word_turkish": "Elbise"
+    },
+    {
+        "id": 12,
+        "word_english": "Suit",
+        "word_turkish": "Takım Elbise"
+    },
+    {
+        "id": 13,
+        "word_english": "Blazer",
+        "word_turkish": "Blazer Ceket"
+    },
+    {
+        "id": 14,
+        "word_english": "Cardigan",
+        "word_turkish": "Kardigan"
+    },
+    {
+        "id": 15,
+        "word_english": "Hoodie",
+        "word_turkish": "Kapüşonlu Sweatshirt"
+    },
+    {
+        "id": 16,
+        "word_english": "Sweatshirt",
+        "word_turkish": "Eşofman Üstü"
+    },
+    {
+        "id": 17,
+        "word_english": "Pants",
+        "word_turkish": "Pantolon"
+    },
+    {
+        "id": 18,
+        "word_english": "Leggings",
+        "word_turkish": "Çoraplı Tayt"
+    },
+    {
+        "id": 19,
+        "word_english": "Jumpsuit",
+        "word_turkish": "Tulum"
+    },
+    {
+        "id": 20,
+        "word_english": "Overall",
+        "word_turkish": "Önlük"
+    },
+    {
+        "id": 21,
+        "word_english": "Belt",
+        "word_turkish": "Kemer"
+    },
+    {
+        "id": 22,
+        "word_english": "Scarf",
+        "word_turkish": "Atkı"
+    },
+    {
+        "id": 23,
+        "word_english": "Tie",
+        "word_turkish": "Kravat"
+    },
+    {
+        "id": 24,
+        "word_english": "Bow tie",
+        "word_turkish": "Papyon"
+    },
+    {
+        "id": 25,
+        "word_english": "Gloves",
+        "word_turkish": "Eldiven"
+    },
+    {
+        "id": 26,
+        "word_english": "Hat",
+        "word_turkish": "Şapka"
+    },
+    {
+        "id": 27,
+        "word_english": "Cap",
+        "word_turkish": "Bere"
+    },
+    {
+        "id": 28,
+        "word_english": "Socks",
+        "word_turkish": "Çorap"
+    },
+    {
+        "id": 29,
+        "word_english": "Stockings",
+        "word_turkish": "Çorap (Kadın)"
+    },
+    {
+        "id": 30,
+        "word_english": "Pantyhose",
+        "word_turkish": "Dantel Çorap"
+    },
+    {
+        "id": 31,
+        "word_english": "Shoes",
+        "word_turkish": "Ayakkabı"
+    },
+    {
+        "id": 32,
+        "word_english": "Boots",
+        "word_turkish": "Bot"
+    },
+    {
+        "id": 33,
+        "word_english": "Sandals",
+        "word_turkish": "Sandalet"
+    },
+    {
+        "id": 34,
+        "word_english": "Flip-flops",
+        "word_turkish": "Terlik"
+    },
+    {
+        "id": 35,
+        "word_english": "Slippers",
+        "word_turkish": "Ev Terliği"
+    },
+    {
+        "id": 36,
+        "word_english": "Heels",
+        "word_turkish": "Topuklu Ayakkabı"
+    },
+    {
+        "id": 37,
+        "word_english": "Sneakers",
+        "word_turkish": "Spor Ayakkabı"
+    },
+    {
+        "id": 38,
+        "word_english": "Loafers",
+        "word_turkish": "Loafer"
+    },
+    {
+        "id": 39,
+        "word_english": "Wedges",
+        "word_turkish": "Platform Ayakkabı"
+    },
+    {
+        "id": 40,
+        "word_english": "Clogs",
+        "word_turkish": "Terlik"
+    },
+    {
+        "id": 41,
+        "word_english": "Raincoat",
+        "word_turkish": "Yağmurluk"
+    },
+    {
+        "id": 42,
+        "word_english": "Swimsuit",
+        "word_turkish": "Mayolar"
+    },
+    {
+        "id": 43,
+        "word_english": "Bikini",
+        "word_turkish": "Bikini"
+    },
+    {
+        "id": 44,
+        "word_english": "Lingerie",
+        "word_turkish": "İç Çamaşırı"
+    },
+    {
+        "id": 45,
+        "word_english": "Bra",
+        "word_turkish": "Sütyen"
+    },
+    {
+        "id": 46,
+        "word_english": "Panties",
+        "word_turkish": "İç Çamaşırı (Kadın)"
+    },
+    {
+        "id": 47,
+        "word_english": "Boxers",
+        "word_turkish": "Boxer"
+    },
+    {
+        "id": 48,
+        "word_english": "Briefs",
+        "word_turkish": "Sıkı İç Çamaşırı"
+    },
+    {
+        "id": 49,
+        "word_english": "Underwear",
+        "word_turkish": "İç Giyim"
+    },
+    {
+        "id": 50,
+        "word_english": "Pajamas",
+        "word_turkish": "Pijama"
+    },
+    {
+        "id": 51,
+        "word_english": "Nightgown",
+        "word_turkish": "Gece Elbisesi"
+    },
+    {
+        "id": 52,
+        "word_english": "Bathrobe",
+        "word_turkish": "Bornoz"
+    },
+    {
+        "id": 53,
+        "word_english": "Towel",
+        "word_turkish": "Havlu"
+    },
+    {
+        "id": 54,
+        "word_english": "Kimono",
+        "word_turkish": "Kimono"
+    },
+    {
+        "id": 55,
+        "word_english": "Rain boots",
+        "word_turkish": "Yağmur Çizmesi"
+    },
+    {
+        "id": 56,
+        "word_english": "Flip-flop",
+        "word_turkish": "Terlik"
+    },
+    {
+        "id": 57,
+        "word_english": "Umbrella",
+        "word_turkish": "Şemsiye"
+    },
+    {
+        "id": 58,
+        "word_english": "Vest",
+        "word_turkish": "Yelek"
+    },
+    {
+        "id": 59,
+        "word_english": "Puffer jacket",
+        "word_turkish": "Şişme Ceket"
+    },
+    {
+        "id": 60,
+        "word_english": "Windbreaker",
+        "word_turkish": "Rüzgarlık"
+    },
+    {
+        "id": 61,
+        "word_english": "Parka",
+        "word_turkish": "Parka Ceket"
+    },
+    {
+        "id": 62,
+        "word_english": "Cloak",
+        "word_turkish": "Pelerin"
+    },
+    {
+        "id": 63,
+        "word_english": "Poncho",
+        "word_turkish": "Ponço"
+    },
+    {
+        "id": 64,
+        "word_english": "Cape",
+        "word_turkish": "Pelerin"
+    },
+    {
+        "id": 65,
+        "word_english": "Dungarees",
+        "word_turkish": "Tulum"
+    },
+    {
+        "id": 66,
+        "word_english": "Tracksuit",
+        "word_turkish": "Eşofman Takımı"
+    },
+    {
+        "id": 67,
+        "word_english": "Sport bra",
+        "word_turkish": "Spor Sütyeni"
+    },
+    {
+        "id": 68,
+        "word_english": "Bodysuit",
+        "word_turkish": "Badi"
+    },
+    {
+        "id": 69,
+        "word_english": "Shapewear",
+        "word_turkish": "Vücut Şekillendirici"
+    },
+    {
+        "id": 70,
+        "word_english": "Kimono",
+        "word_turkish": "Kimono"
+    },
+    {
+        "id": 71,
+        "word_english": "Thermal wear",
+        "word_turkish": "Termal Üst"
+    },
+    {
+        "id": 72,
+        "word_english": "Fleece",
+        "word_turkish": "Polar"
+    },
+    {
+        "id": 73,
+        "word_english": "Puffer vest",
+        "word_turkish": "Şişme Yelek"
+    },
+    {
+        "id": 74,
+        "word_english": "Chinos",
+        "word_turkish": "Chino Pantolon"
+    },
+    {
+        "id": 75,
+        "word_english": "Cargo pants",
+        "word_turkish": "Cep Pantolonu"
+    },
+    {
+        "id": 76,
+        "word_english": "Tunic",
+        "word_turkish": "Tunik"
+    },
+    {
+        "id": 77,
+        "word_english": "Peacoat",
+        "word_turkish": "Peacoat Ceket"
+    },
+    {
+        "id": 78,
+        "word_english": "Denim jacket",
+        "word_turkish": "Kot Ceket"
+    },
+    {
+        "id": 79,
+        "word_english": "Kimono jacket",
+        "word_turkish": "Kimono Ceket"
+    },
+    {
+        "id": 80,
+        "word_english": "Biker jacket",
+        "word_turkish": "Motosiklet Ceketi"
+    },
+    {
+        "id": 81,
+        "word_english": "Sweatpants",
+        "word_turkish": "Eşofman Altı"
+    },
+    {
+        "id": 82,
+        "word_english": "Yoga pants",
+        "word_turkish": "Yoga Pantolonu"
+    },
+    {
+        "id": 83,
+        "word_english": "Harem pants",
+        "word_turkish": "Harem Pantolonu"
+    },
+    {
+        "id": 84,
+        "word_english": "Polo shirt",
+        "word_turkish": "Polo Yaka Tişört"
+    },
+    {
+        "id": 85,
+        "word_english": "Henley shirt",
+        "word_turkish": "Henley Tişört"
+    },
+    {
+        "id": 86,
+        "word_english": "Flannel shirt",
+        "word_turkish": "Flanel Gömlek"
+    },
+    {
+        "id": 87,
+        "word_english": "Plaid shirt",
+        "word_turkish": "Kareli Gömlek"
+    },
+    {
+        "id": 88,
+        "word_english": "Cargo shorts",
+        "word_turkish": "Cep Şortları"
+    },
+    {
+        "id": 89,
+        "word_english": "Board shorts",
+        "word_turkish": "Sörf Şortları"
+    },
+    {
+        "id": 90,
+        "word_english": "Fleece jacket",
+        "word_turkish": "Polar Ceket"
+    },
+    {
+        "id": 91,
+        "word_english": "Bermuda shorts",
+        "word_turkish": "Bermuda Şortları"
+    },
+    {
+        "id": 92,
+        "word_english": "Rompers",
+        "word_turkish": "Tulum"
+    },
+    {
+        "id": 93,
+        "word_english": "Culottes",
+        "word_turkish": "Pantolon Etek"
+    },
+    {
+        "id": 94,
+        "word_english": "A-line skirt",
+        "word_turkish": "A Kesim Etek"
+    },
+    {
+        "id": 95,
+        "word_english": "Pencil skirt",
+        "word_turkish": "Kalem Etek"
+    },
+    {
+        "id": 96,
+        "word_english": "Pleated skirt",
+        "word_turkish": "Pileli Etek"
+    },
+    {
+        "id": 97,
+        "word_english": "Mini skirt",
+        "word_turkish": "Mini Etek"
+    },
+    {
+        "id": 98,
+        "word_english": "Maxi dress",
+        "word_turkish": "Maxi Elbise"
+    },
+    {
+        "id": 99,
+        "word_english": "Midi dress",
+        "word_turkish": "Midi Elbise"
+    },
+    {
+        "id": 100,
+        "word_english": "Shirt dress",
+        "word_turkish": "Gömlek Elbisesi"
+    },
+    {
+        "id": 101,
+        "word_english": "Off-shoulder dress",
+        "word_turkish": "Omuz Açık Elbise"
+    },
+    {
+        "id": 102,
+        "word_english": "Bandeau dress",
+        "word_turkish": "Bandeau Elbise"
+    },
+    {
+        "id": 103,
+        "word_english": "Sundress",
+        "word_turkish": "Günlük Elbise"
+    },
+    {
+        "id": 104,
+        "word_english": "Ruffle dress",
+        "word_turkish": "Fırfırlı Elbise"
+    },
+    {
+        "id": 105,
+        "word_english": "Pinafore dress",
+        "word_turkish": "Pinafore Elbise"
+    },
+    {
+        "id": 106,
+        "word_english": "Shift dress",
+        "word_turkish": "Shift Elbise"
+    },
+    {
+        "id": 107,
+        "word_english": "Cocktail dress",
+        "word_turkish": "Kokteyl Elbisesi"
+    },
+    {
+        "id": 108,
+        "word_english": "Maxi skirt",
+        "word_turkish": "Maxi Etek"
+    },
+    {
+        "id": 109,
+        "word_english": "Tank top",
+        "word_turkish": "Kolsuz Tişört"
+    },
+    {
+        "id": 110,
+        "word_english": "Crop top",
+        "word_turkish": "Kısa Tişört"
+    },
+    {
+        "id": 111,
+        "word_english": "Belly top",
+        "word_turkish": "Karın Üstü Tişört"
+    },
+    {
+        "id": 112,
+        "word_english": "V-neck shirt",
+        "word_turkish": "V Yaka Tişört"
+    },
+    {
+        "id": 113,
+        "word_english": "Round neck shirt",
+        "word_turkish": "Yuvarlak Yaka Tişört"
+    },
+    {
+        "id": 114,
+        "word_english": "Sweater dress",
+        "word_turkish": "Kazak Elbisesi"
+    },
+    {
+        "id": 115,
+        "word_english": "Hooded sweatshirt",
+        "word_turkish": "Kapüşonlu Eşofman Üstü"
+    },
+    {
+        "id": 116,
+        "word_english": "Tie-dye shirt",
+        "word_turkish": "Renkli Tişört"
+    },
+    {
+        "id": 117,
+        "word_english": "Graphic t-shirt",
+        "word_turkish": "Grafikli Tişört"
+    },
+    {
+        "id": 118,
+        "word_english": "Puffer jacket",
+        "word_turkish": "Şişme Mont"
+    },
+    {
+        "id": 119,
+        "word_english": "Duster coat",
+        "word_turkish": "Duster Ceket"
+    },
+    {
+        "id": 120,
+        "word_english": "Peacoat",
+        "word_turkish": "Peacoat Ceket"
+    },
+    {
+        "id": 121,
+        "word_english": "Wool coat",
+        "word_turkish": "Yün Ceket"
+    },
+    {
+        "id": 122,
+        "word_english": "Bermuda shorts",
+        "word_turkish": "Bermuda Şort"
+    },
+    {
+        "id": 123,
+        "word_english": "Bowler hat",
+        "word_turkish": "Bowler Şapka"
+    },
+    {
+        "id": 124,
+        "word_english": "Sun hat",
+        "word_turkish": "Güneş Şapkası"
+    },
+    {
+        "id": 125,
+        "word_english": "Visor",
+        "word_turkish": "Visör"
+    },
+    {
+        "id": 126,
+        "word_english": "Fedora",
+        "word_turkish": "Fedora Şapka"
+    },
+    {
+        "id": 127,
+        "word_english": "Beanie",
+        "word_turkish": "Bere"
+    },
+    {
+        "id": 128,
+        "word_english": "Bucket hat",
+        "word_turkish": "Kova Şapka"
+    },
+    {
+        "id": 129,
+        "word_english": "Panama hat",
+        "word_turkish": "Panama Şapka"
+    },
+    {
+        "id": 130,
+        "word_english": "Trilby",
+        "word_turkish": "Trilby Şapka"
+    },
+    {
+        "id": 131,
+        "word_english": "Pajama set",
+        "word_turkish": "Pijama Takımı"
+    },
+    {
+        "id": 132,
+        "word_english": "Flannel pajamas",
+        "word_turkish": "Flanel Pijama"
+    },
+    {
+        "id": 133,
+        "word_english": "Sleepwear",
+        "word_turkish": "Uykuluk"
+    },
+    {
+        "id": 134,
+        "word_english": "Nightshirt",
+        "word_turkish": "Gece Gömleği"
+    },
+    {
+        "id": 135,
+        "word_english": "Sleeveless top",
+        "word_turkish": "Kolsuz Üst"
+    },
+    {
+        "id": 136,
+        "word_english": "Bodice",
+        "word_turkish": "Büstiyer"
+    },
+    {
+        "id": 137,
+        "word_english": "Sleep bra",
+        "word_turkish": "Uykuluk Sütyeni"
+    },
+    {
+        "id": 138,
+        "word_english": "Pajama pants",
+        "word_turkish": "Pijama Pantolonu"
+    },
+    {
+        "id": 139,
+        "word_english": "Nightgown",
+        "word_turkish": "Gece Elbisesi"
+    },
+    {
+        "id": 140,
+        "word_english": "Slumberwear",
+        "word_turkish": "Uykuluk"
+    },
+    {
+        "id": 141,
+        "word_english": "Knitwear",
+        "word_turkish": "Örgü Ürün"
+    },
+    {
+        "id": 142,
+        "word_english": "Double-breasted coat",
+        "word_turkish": "Çift Düğmeli Ceket"
+    },
+    {
+        "id": 143,
+        "word_english": "Cape coat",
+        "word_turkish": "Pelerin Ceket"
+    },
+    {
+        "id": 144,
+        "word_english": "Parkas",
+        "word_turkish": "Karla Parka"
+    },
+    {
+        "id": 145,
+        "word_english": "Quilted coat",
+        "word_turkish": "Kapatmalı Ceket"
+    },
+    {
+        "id": 146,
+        "word_english": "Trench coat",
+        "word_turkish": "Yağmurluk Ceket"
+    },
+    {
+        "id": 147,
+        "word_english": "Double-breasted blazer",
+        "word_turkish": "Çift Düğmeli Blazer"
+    },
+    {
+        "id": 148,
+        "word_english": "Lounge wear",
+        "word_turkish": "Ev Giysisi"
+    },
+    {
+        "id": 149,
+        "word_english": "Sheath dress",
+        "word_turkish": "Sıkı Elbise"
+    },
+    {
+        "id": 150,
+        "word_english": "Tulle skirt",
+        "word_turkish": "Tül Etek"
+    },
+    {
+        "id": 151,
+        "word_english": "Harem pants",
+        "word_turkish": "Harem Pantolonu"
+    },
+    {
+        "id": 152,
+        "word_english": "Chinos",
+        "word_turkish": "Chino Pantolon"
+    },
+    {
+        "id": 153,
+        "word_english": "Ring",
+        "word_turkish": "Yüzük"
+    },
+    {
+        "id": 154,
+        "word_english": "Necklace",
+        "word_turkish": "Kolye"
+    },
+    {
+        "id": 155,
+        "word_english": "Bracelet",
+        "word_turkish": "Bilezik"
+    },
+    {
+        "id": 156,
+        "word_english": "Earring",
+        "word_turkish": "Küpe"
+    },
+    {
+        "id": 157,
+        "word_english": "Watch",
+        "word_turkish": "Saat"
+    },
+    {
+        "id": 158,
+        "word_english": "Diamond",
+        "word_turkish": "Elmas"
+    },
+    {
+        "id": 159,
+        "word_english": "Gold",
+        "word_turkish": "Altın"
+    },
+    {
+        "id": 160,
+        "word_english": "Silver",
+        "word_turkish": "Gümüş"
+    },
+    {
+        "id": 161,
+        "word_english": "Pearl",
+        "word_turkish": "İnci"
+    },
+    {
+        "id": 162,
+        "word_english": "Chain",
+        "word_turkish": "Zincir"
+    },
+    {
+        "id": 163,
+        "word_english": "Pendant",
+        "word_turkish": "Kolye Ucu"
+    },
+    {
+        "id": 164,
+        "word_english": "Cufflinks",
+        "word_turkish": "Kol Düğmesi"
+    },
+    {
+        "id": 165,
+        "word_english": "Bangle",
+        "word_turkish": "Bangle"
+    },
+    {
+        "id": 166,
+        "word_english": "Brooch",
+        "word_turkish": "Broş"
+    },
+    {
+        "id": 167,
+        "word_english": "Charm",
+        "word_turkish": "Charmlı Takı"
+    }
+]

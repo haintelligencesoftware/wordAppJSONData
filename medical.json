@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "word_english": "Anatomy",
+        "word_turkish": "Anatomi"
+    },
+    {
+        "id": 2,
+        "word_english": "Physiology",
+        "word_turkish": "Fizyoloji"
+    },
+    {
+        "id": 3,
+        "word_english": "Pathology",
+        "word_turkish": "Patoloji"
+    },
+    {
+        "id": 4,
+        "word_english": "Diagnosis",
+        "word_turkish": "Teşhis"
+    },
+    {
+        "id": 5,
+        "word_english": "Treatment",
+        "word_turkish": "Tedavi"
+    },
+    {
+        "id": 6,
+        "word_english": "Surgery",
+        "word_turkish": "Ameliyat"
+    },
+    {
+        "id": 7,
+        "word_english": "Medication",
+        "word_turkish": "İlaç"
+    },
+    {
+        "id": 8,
+        "word_english": "Symptom",
+        "word_turkish": "Semptom"
+    },
+    {
+        "id": 9,
+        "word_english": "Chronic",
+        "word_turkish": "Kronik"
+    },
+    {
+        "id": 10,
+        "word_english": "Acute",
+        "word_turkish": "Akut"
+    },
+    {
+        "id": 11,
+        "word_english": "Infection",
+        "word_turkish": "Enfeksiyon"
+    },
+    {
+        "id": 12,
+        "word_english": "Allergy",
+        "word_turkish": "Alerji"
+    },
+    {
+        "id": 13,
+        "word_english": "Immunity",
+        "word_turkish": "Bağışıklık"
+    },
+    {
+        "id": 14,
+        "word_english": "Vaccine",
+        "word_turkish": "Aşı"
+    },
+    {
+        "id": 15,
+        "word_english": "Antibiotic",
+        "word_turkish": "Antibiyotik"
+    },
+    {
+        "id": 16,
+        "word_english": "Painkiller",
+        "word_turkish": "Ağrı kesici"
+    },
+    {
+        "id": 17,
+        "word_english": "Inflammation",
+        "word_turkish": "İltihap"
+    },
+    {
+        "id": 18,
+        "word_english": "Fracture",
+        "word_turkish": "Kırık"
+    },
+    {
+        "id": 19,
+        "word_english": "Dislocation",
+        "word_turkish": "Çıkık"
+    },
+    {
+        "id": 20,
+        "word_english": "Bruise",
+        "word_turkish": "Morarma"
+    },
+    {
+        "id": 21,
+        "word_english": "Burn",
+        "word_turkish": "Yanık"
+    },
+    {
+        "id": 22,
+        "word_english": "Bleeding",
+        "word_turkish": "Kanama"
+    },
+    {
+        "id": 23,
+        "word_english": "Fever",
+        "word_turkish": "Ateş"
+    },
+    {
+        "id": 24,
+        "word_english": "Nausea",
+        "word_turkish": "Mide Bulantısı"
+    },
+    {
+        "id": 25,
+        "word_english": "Dizziness",
+        "word_turkish": "Baş Dönmesi"
+    },
+    {
+        "id": 26,
+        "word_english": "Fatigue",
+        "word_turkish": "Yorgunluk"
+    },
+    {
+        "id": 27,
+        "word_english": "Cough",
+        "word_turkish": "Öksürük"
+    },
+    {
+        "id": 28,
+        "word_english": "Cold",
+        "word_turkish": "Soğuk Algınlığı"
+    },
+    {
+        "id": 29,
+        "word_english": "Flu",
+        "word_turkish": "Grip"
+    },
+    {
+        "id": 30,
+        "word_english": "Cancer",
+        "word_turkish": "Kanser"
+    },
+    {
+        "id": 31,
+        "word_english": "Diabetes",
+        "word_turkish": "Diyabet"
+    },
+    {
+        "id": 32,
+        "word_english": "Asthma",
+        "word_turkish": "Astım"
+    },
+    {
+        "id": 33,
+        "word_english": "Hypertension",
+        "word_turkish": "Yüksek Tansiyon"
+    },
+    {
+        "id": 34,
+        "word_english": "Heart Disease",
+        "word_turkish": "Kalp Hastalığı"
+    },
+    {
+        "id": 35,
+        "word_english": "Stroke",
+        "word_turkish": "İnme"
+    },
+    {
+        "id": 36,
+        "word_english": "Epilepsy",
+        "word_turkish": "Epilepsi"
+    },
+    {
+        "id": 37,
+        "word_english": "Cholesterol",
+        "word_turkish": "Kolesterol"
+    },
+    {
+        "id": 38,
+        "word_english": "Blood Pressure",
+        "word_turkish": "Kan Basıncı"
+    },
+    {
+        "id": 39,
+        "word_english": "Hormone",
+        "word_turkish": "Hormon"
+    },
+    {
+        "id": 40,
+        "word_english": "Gene",
+        "word_turkish": "Gen"
+    },
+    {
+        "id": 41,
+        "word_english": "Organ",
+        "word_turkish": "Organ"
+    },
+    {
+        "id": 42,
+        "word_english": "Tissue",
+        "word_turkish": "Doku"
+    },
+    {
+        "id": 43,
+        "word_english": "Cell",
+        "word_turkish": "Hücre"
+    },
+    {
+        "id": 44,
+        "word_english": "Blood",
+        "word_turkish": "Kan"
+    },
+    {
+        "id": 45,
+        "word_english": "Oxygen",
+        "word_turkish": "Oksijen"
+    },
+    {
+        "id": 46,
+        "word_english": "Hemoglobin",
+        "word_turkish": "Hemoglobin"
+    },
+    {
+        "id": 47,
+        "word_english": "White Blood Cell",
+        "word_turkish": "Beyaz Kan Hücresi"
+    },
+    {
+        "id": 48,
+        "word_english": "Red Blood Cell",
+        "word_turkish": "Kırmızı Kan Hücresi"
+    },
+    {
+        "id": 49,
+        "word_english": "Platelet",
+        "word_turkish": "Trombosit"
+    },
+    {
+        "id": 50,
+        "word_english": "Vessel",
+        "word_turkish": "Damar"
+    },
+    {
+        "id": 51,
+        "word_english": "Nerve",
+        "word_turkish": "Sinir"
+    },
+    {
+        "id": 52,
+        "word_english": "Brain",
+        "word_turkish": "Beyin"
+    },
+    {
+        "id": 53,
+        "word_english": "Liver",
+        "word_turkish": "Karaciğer"
+    },
+    {
+        "id": 54,
+        "word_english": "Kidney",
+        "word_turkish": "Böbrek"
+    },
+    {
+        "id": 55,
+        "word_english": "Lungs",
+        "word_turkish": "Akciğer"
+    },
+    {
+        "id": 56,
+        "word_english": "Heart",
+        "word_turkish": "Kalp"
+    },
+    {
+        "id": 57,
+        "word_english": "Stomach",
+        "word_turkish": "Mide"
+    },
+    {
+        "id": 58,
+        "word_english": "Intestine",
+        "word_turkish": "Bağırsak"
+    },
+    {
+        "id": 59,
+        "word_english": "Bladder",
+        "word_turkish": "Mesane"
+    },
+    {
+        "id": 60,
+        "word_english": "Pancreas",
+        "word_turkish": "Pankreas"
+    },
+    {
+        "id": 61,
+        "word_english": "Skin",
+        "word_turkish": "Cilt"
+    },
+    {
+        "id": 62,
+        "word_english": "Muscle",
+        "word_turkish": "Kas"
+    },
+    {
+        "id": 63,
+        "word_english": "Bone",
+        "word_turkish": "Kemik"
+    },
+    {
+        "id": 64,
+        "word_english": "Joint",
+        "word_turkish": "Eklem"
+    },
+    {
+        "id": 65,
+        "word_english": "Ligament",
+        "word_turkish": "Bağ"
+    },
+    {
+        "id": 66,
+        "word_english": "Tendon",
+        "word_turkish": "Tendon"
+    },
+    {
+        "id": 67,
+        "word_english": "Cartilage",
+        "word_turkish": "Kıkırdak"
+    },
+    {
+        "id": 68,
+        "word_english": "Spine",
+        "word_turkish": "Omurga"
+    },
+    {
+        "id": 69,
+        "word_english": "Vertebra",
+        "word_turkish": "Omurga Kemiği"
+    },
+    {
+        "id": 70,
+        "word_english": "Cervical",
+        "word_turkish": "Servikal"
+    },
+    {
+        "id": 71,
+        "word_english": "Thoracic",
+        "word_turkish": "Torakal"
+    },
+    {
+        "id": 72,
+        "word_english": "Lumbar",
+        "word_turkish": "Lomber"
+    },
+    {
+        "id": 73,
+        "word_english": "Sacral",
+        "word_turkish": "Sakral"
+    },
+    {
+        "id": 74,
+        "word_english": "Coccyx",
+        "word_turkish": "Koksa"
+    },
+    {
+        "id": 75,
+        "word_english": "Artery",
+        "word_turkish": "Atardamar"
+    },
+    {
+        "id": 76,
+        "word_english": "Vein",
+        "word_turkish": "Toplardamar"
+    },
+    {
+        "id": 77,
+        "word_english": "Capillary",
+        "word_turkish": "Kılcal Damar"
+    },
+    {
+        "id": 78,
+        "word_english": "Lymph",
+        "word_turkish": "Lenf"
+    },
+    {
+        "id": 79,
+        "word_english": "Spleen",
+        "word_turkish": "Dalak"
+    },
+    {
+        "id": 80,
+        "word_english": "Thyroid",
+        "word_turkish": "Tiroid"
+    },
+    {
+        "id": 81,
+        "word_english": "Hormonal",
+        "word_turkish": "Hormonel"
+    },
+    {
+        "id": 82,
+        "word_english": "Bacteria",
+        "word_turkish": "Bakteri"
+    },
+    {
+        "id": 83,
+        "word_english": "Virus",
+        "word_turkish": "Virüs"
+    },
+    {
+        "id": 84,
+        "word_english": "Fungus",
+        "word_turkish": "Maya"
+    },
+    {
+        "id": 85,
+        "word_english": "Parasite",
+        "word_turkish": "Parazit"
+    },
+    {
+        "id": 86,
+        "word_english": "Pathogen",
+        "word_turkish": "Patojen"
+    },
+    {
+        "id": 87,
+        "word_english": "Antibody",
+        "word_turkish": "Antikor"
+    },
+    {
+        "id": 88,
+        "word_english": "Antigen",
+        "word_turkish": "Antijen"
+    },
+    {
+        "id": 89,
+        "word_english": "Viral",
+        "word_turkish": "Viral"
+    },
+    {
+        "id": 90,
+        "word_english": "Bacterial",
+        "word_turkish": "Bakteriyel"
+    },
+    {
+        "id": 91,
+        "word_english": "Infection",
+        "word_turkish": "Enfeksiyon"
+    },
+    {
+        "id": 92,
+        "word_english": "Immunization",
+        "word_turkish": "Aşılamama"
+    },
+    {
+        "id": 93,
+        "word_english": "Treatment",
+        "word_turkish": "Tedavi"
+    },
+    {
+        "id": 94,
+        "word_english": "Therapy",
+        "word_turkish": "Terapi"
+    },
+    {
+        "id": 95,
+        "word_english": "Surgery",
+        "word_turkish": "Ameliyat"
+    },
+    {
+        "id": 96,
+        "word_english": "Recovery",
+        "word_turkish": "İyileşme"
+    },
+    {
+        "id": 97,
+        "word_english": "Rehabilitation",
+        "word_turkish": "Rehabilitasyon"
+    },
+    {
+        "id": 98,
+        "word_english": "Prognosis",
+        "word_turkish": "Prognoz"
+    },
+    {
+        "id": 99,
+        "word_english": "Prevention",
+        "word_turkish": "Koruma"
+    },
+    {
+        "id": 100,
+        "word_english": "Screening",
+        "word_turkish": "Tarama"
+    }
+]

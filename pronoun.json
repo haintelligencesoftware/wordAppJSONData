@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 1,
+        "word_english": "I",
+        "word_turkish": "ben"
+    },
+    {
+        "id": 2,
+        "word_english": "you",
+        "word_turkish": "sen"
+    },
+    {
+        "id": 3,
+        "word_english": "he",
+        "word_turkish": "o (erkek)"
+    },
+    {
+        "id": 4,
+        "word_english": "she",
+        "word_turkish": "o (kadın)"
+    },
+    {
+        "id": 5,
+        "word_english": "it",
+        "word_turkish": "o (cansız)"
+    },
+    {
+        "id": 6,
+        "word_english": "we",
+        "word_turkish": "biz"
+    },
+    {
+        "id": 7,
+        "word_english": "they",
+        "word_turkish": "onlar"
+    },
+    {
+        "id": 8,
+        "word_english": "me",
+        "word_turkish": "beni"
+    },
+    {
+        "id": 9,
+        "word_english": "you",
+        "word_turkish": "seni"
+    },
+    {
+        "id": 10,
+        "word_english": "him",
+        "word_turkish": "onu (erkek)"
+    },
+    {
+        "id": 11,
+        "word_english": "her",
+        "word_turkish": "onu (kadın)"
+    },
+    {
+        "id": 12,
+        "word_english": "it",
+        "word_turkish": "onu (cansız)"
+    },
+    {
+        "id": 13,
+        "word_english": "us",
+        "word_turkish": "bizi"
+    },
+    {
+        "id": 14,
+        "word_english": "them",
+        "word_turkish": "onları"
+    },
+    {
+        "id": 15,
+        "word_english": "my",
+        "word_turkish": "benim"
+    },
+    {
+        "id": 16,
+        "word_english": "your",
+        "word_turkish": "senin"
+    },
+    {
+        "id": 17,
+        "word_english": "his",
+        "word_turkish": "onun (erkek)"
+    },
+    {
+        "id": 18,
+        "word_english": "her",
+        "word_turkish": "onun (kadın)"
+    },
+    {
+        "id": 19,
+        "word_english": "its",
+        "word_turkish": "onun (cansız)"
+    },
+    {
+        "id": 20,
+        "word_english": "our",
+        "word_turkish": "bizim"
+    },
+    {
+        "id": 21,
+        "word_english": "their",
+        "word_turkish": "onların"
+    },
+    {
+        "id": 22,
+        "word_english": "myself",
+        "word_turkish": "kendim"
+    },
+    {
+        "id": 23,
+        "word_english": "yourself",
+        "word_turkish": "kendin"
+    },
+    {
+        "id": 24,
+        "word_english": "himself",
+        "word_turkish": "kendisi (erkek)"
+    },
+    {
+        "id": 25,
+        "word_english": "herself",
+        "word_turkish": "kendisi (kadın)"
+    },
+    {
+        "id": 26,
+        "word_english": "itself",
+        "word_turkish": "kendisi (cansız)"
+    },
+    {
+        "id": 27,
+        "word_english": "ourselves",
+        "word_turkish": "kendimiz"
+    },
+    {
+        "id": 28,
+        "word_english": "yourselves",
+        "word_turkish": "kendiniz"
+    },
+    {
+        "id": 29,
+        "word_english": "themselves",
+        "word_turkish": "kendileri"
+    },
+    {
+        "id": 30,
+        "word_english": "who",
+        "word_turkish": "kim"
+    },
+    {
+        "id": 31,
+        "word_english": "whom",
+        "word_turkish": "kimi"
+    },
+    {
+        "id": 32,
+        "word_english": "whose",
+        "word_turkish": "kimin"
+    },
+    {
+        "id": 33,
+        "word_english": "which",
+        "word_turkish": "hangisi"
+    },
+    {
+        "id": 34,
+        "word_english": "that",
+        "word_turkish": "şu"
+    },
+    {
+        "id": 35,
+        "word_english": "this",
+        "word_turkish": "bu"
+    },
+    {
+        "id": 36,
+        "word_english": "these",
+        "word_turkish": "bunlar"
+    },
+    {
+        "id": 37,
+        "word_english": "those",
+        "word_turkish": "şunlar"
+    },
+    {
+        "id": 38,
+        "word_english": "anyone",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 39,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 40,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 41,
+        "word_english": "no one",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 42,
+        "word_english": "everybody",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 43,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 44,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 45,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 46,
+        "word_english": "it",
+        "word_turkish": "bu"
+    },
+    {
+        "id": 47,
+        "word_english": "them",
+        "word_turkish": "onlar"
+    },
+    {
+        "id": 48,
+        "word_english": "him",
+        "word_turkish": "o (erkek)"
+    },
+    {
+        "id": 49,
+        "word_english": "her",
+        "word_turkish": "o (kadın)"
+    },
+    {
+        "id": 50,
+        "word_english": "it",
+        "word_turkish": "bu"
+    },
+    {
+        "id": 51,
+        "word_english": "one",
+        "word_turkish": "bir"
+    },
+    {
+        "id": 52,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 53,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 54,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 55,
+        "word_english": "neither",
+        "word_turkish": "ne o ne de bu"
+    },
+    {
+        "id": 56,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 57,
+        "word_english": "both",
+        "word_turkish": "ikisi de"
+    },
+    {
+        "id": 58,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 59,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 60,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 61,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 62,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 63,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 64,
+        "word_english": "each",
+        "word_turkish": "her"
+    },
+    {
+        "id": 65,
+        "word_english": "either",
+        "word_turkish": "ya bir"
+    },
+    {
+        "id": 66,
+        "word_english": "neither",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 67,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 68,
+        "word_english": "both",
+        "word_turkish": "her ikisi"
+    },
+    {
+        "id": 69,
+        "word_english": "few",
+        "word_turkish": "az sayıda"
+    },
+    {
+        "id": 70,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 71,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 72,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 73,
+        "word_english": "some",
+        "word_turkish": "bazı"
+    },
+    {
+        "id": 74,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 75,
+        "word_english": "one",
+        "word_turkish": "bir"
+    },
+    {
+        "id": 76,
+        "word_english": "two",
+        "word_turkish": "iki"
+    },
+    {
+        "id": 77,
+        "word_english": "three",
+        "word_turkish": "üç"
+    },
+    {
+        "id": 78,
+        "word_english": "four",
+        "word_turkish": "dört"
+    },
+    {
+        "id": 79,
+        "word_english": "five",
+        "word_turkish": "beş"
+    },
+    {
+        "id": 80,
+        "word_english": "six",
+        "word_turkish": "altı"
+    },
+    {
+        "id": 81,
+        "word_english": "seven",
+        "word_turkish": "yedi"
+    },
+    {
+        "id": 82,
+        "word_english": "eight",
+        "word_turkish": "sekiz"
+    },
+    {
+        "id": 83,
+        "word_english": "nine",
+        "word_turkish": "dokuz"
+    },
+    {
+        "id": 84,
+        "word_english": "ten",
+        "word_turkish": "on"
+    },
+    {
+        "id": 85,
+        "word_english": "some",
+        "word_turkish": "bazı"
+    },
+    {
+        "id": 86,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 87,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 88,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 89,
+        "word_english": "every",
+        "word_turkish": "her"
+    },
+    {
+        "id": 90,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 91,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 92,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 93,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 94,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 95,
+        "word_english": "everybody",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 96,
+        "word_english": "anyone",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 97,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 98,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 99,
+        "word_english": "whoever",
+        "word_turkish": "her kimse"
+    },
+    {
+        "id": 100,
+        "word_english": "whosoever",
+        "word_turkish": "her kimse"
+    },
+    {
+        "id": 101,
+        "word_english": "whichsoever",
+        "word_turkish": "hangisi"
+    },
+    {
+        "id": 102,
+        "word_english": "whichever",
+        "word_turkish": "hangisi"
+    },
+    {
+        "id": 103,
+        "word_english": "whoever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 104,
+        "word_english": "whosoever",
+        "word_turkish": "her kimse"
+    },
+    {
+        "id": 105,
+        "word_english": "whomever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 106,
+        "word_english": "whosever",
+        "word_turkish": "kimin olursa olsun"
+    },
+    {
+        "id": 107,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 108,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 109,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 110,
+        "word_english": "whatever",
+        "word_turkish": "herhangi bir şey"
+    },
+    {
+        "id": 111,
+        "word_english": "whichever",
+        "word_turkish": "hangisi"
+    },
+    {
+        "id": 112,
+        "word_english": "whoever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 113,
+        "word_english": "whosoever",
+        "word_turkish": "her kimse"
+    },
+    {
+        "id": 114,
+        "word_english": "whomever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 115,
+        "word_english": "whosever",
+        "word_turkish": "kimin olursa olsun"
+    },
+    {
+        "id": 116,
+        "word_english": "whatever",
+        "word_turkish": "herhangi bir şey"
+    },
+    {
+        "id": 117,
+        "word_english": "whichever",
+        "word_turkish": "hangisi"
+    },
+    {
+        "id": 118,
+        "word_english": "whoever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 119,
+        "word_english": "whosoever",
+        "word_turkish": "her kimse"
+    },
+    {
+        "id": 120,
+        "word_english": "whomever",
+        "word_turkish": "kim olursa olsun"
+    },
+    {
+        "id": 121,
+        "word_english": "whosever",
+        "word_turkish": "kimin olursa olsun"
+    },
+    {
+        "id": 122,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 123,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 124,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 125,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 126,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 127,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 128,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 129,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 130,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 131,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 132,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 133,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 134,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 135,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 136,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 137,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 138,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 139,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 140,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 141,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 142,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 143,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 144,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 145,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 146,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 147,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 148,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 149,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 150,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 151,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 152,
+        "word_english": "some",
+        "word_turkish": "bazı"
+    },
+    {
+        "id": 153,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 154,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 155,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 156,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 157,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 158,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 159,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 160,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 161,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 162,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 163,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 164,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 165,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 166,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 167,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 168,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 169,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 170,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 171,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 172,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 173,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 174,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 175,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 176,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 177,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 178,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 179,
+        "word_english": "each",
+        "word_turkish": "her biri"
+    },
+    {
+        "id": 180,
+        "word_english": "any",
+        "word_turkish": "herhangi"
+    },
+    {
+        "id": 181,
+        "word_english": "some",
+        "word_turkish": "bazı"
+    },
+    {
+        "id": 182,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 183,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 184,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 185,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 186,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 187,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 188,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 189,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 190,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 191,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 192,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 193,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 194,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 195,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 196,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 197,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 198,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 199,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 200,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 201,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 202,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 203,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 204,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 205,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 206,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 207,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 208,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 209,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 210,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 211,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 212,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 213,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 214,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 215,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 216,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 217,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 218,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 219,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 220,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 221,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 222,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 223,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 224,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 225,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 226,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 227,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 228,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 229,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 230,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 231,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 232,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 233,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 234,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 235,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 236,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 237,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 238,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 239,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 240,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 241,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 242,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 243,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 244,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 245,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 246,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 247,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 248,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 249,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 250,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 251,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 252,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 253,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 254,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 255,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 256,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 257,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 258,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 259,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 260,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 261,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 262,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 263,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 264,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 265,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 266,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 267,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 268,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 269,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 270,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 271,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 272,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 273,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 274,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 275,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 276,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 277,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 278,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 279,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 280,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 281,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 282,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 283,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 284,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 285,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 286,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 287,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 288,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 289,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 290,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 291,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 292,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 293,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 294,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 295,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 296,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 297,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 298,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 299,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 300,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 301,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 302,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 303,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 304,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 305,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 306,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 307,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 308,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 309,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 310,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 311,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 312,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 313,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 314,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 315,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 316,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 317,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 318,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 319,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 320,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 321,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 322,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 323,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 324,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 325,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 326,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 327,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 328,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 329,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 330,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 331,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 332,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 333,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 334,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 335,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 336,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 337,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 338,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 339,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 340,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 341,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 342,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 343,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 344,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 345,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 346,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 347,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 348,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 349,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 350,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 351,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 352,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 353,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 354,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 355,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 356,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 357,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 358,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 359,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 360,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 361,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 362,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 363,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 364,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 365,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 366,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 367,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 368,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 369,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 370,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 371,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 372,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 373,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 374,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 375,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 376,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 377,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 378,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 379,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 380,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 381,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 382,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 383,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 384,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 385,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 386,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 387,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 388,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 389,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 390,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 391,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 392,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 393,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 394,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 395,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 396,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 397,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 398,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 399,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 400,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 401,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 402,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 403,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 404,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 405,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 406,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 407,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 408,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 409,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 410,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 411,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 412,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 413,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 414,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 415,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 416,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 417,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 418,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 419,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 420,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 421,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 422,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 423,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 424,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 425,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 426,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 427,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 428,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 429,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 430,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 431,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 432,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 433,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 434,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 435,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 436,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 437,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 438,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 439,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 440,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 441,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 442,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 443,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 444,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 445,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 446,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 447,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 448,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 449,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 450,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 451,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 452,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 453,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 454,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 455,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 456,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 457,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 458,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 459,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 460,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 461,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 462,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 463,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 464,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 465,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 466,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 467,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 468,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 469,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 470,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    },
+    {
+        "id": 471,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 472,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 473,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 474,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 475,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 476,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 477,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 478,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 479,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 480,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 481,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 482,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 483,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 484,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 485,
+        "word_english": "all",
+        "word_turkish": "tümü"
+    },
+    {
+        "id": 486,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 487,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 488,
+        "word_english": "nobody",
+        "word_turkish": "hiç kimse"
+    },
+    {
+        "id": 489,
+        "word_english": "somebody",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 490,
+        "word_english": "anybody",
+        "word_turkish": "herhangi biri"
+    },
+    {
+        "id": 491,
+        "word_english": "everyone",
+        "word_turkish": "herkes"
+    },
+    {
+        "id": 492,
+        "word_english": "someone",
+        "word_turkish": "birisi"
+    },
+    {
+        "id": 493,
+        "word_english": "none",
+        "word_turkish": "hiçbiri"
+    },
+    {
+        "id": 494,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 495,
+        "word_english": "neither",
+        "word_turkish": "ikisi de değil"
+    },
+    {
+        "id": 496,
+        "word_english": "some",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 497,
+        "word_english": "many",
+        "word_turkish": "birçok"
+    },
+    {
+        "id": 498,
+        "word_english": "few",
+        "word_turkish": "az"
+    },
+    {
+        "id": 499,
+        "word_english": "several",
+        "word_turkish": "birkaç"
+    },
+    {
+        "id": 500,
+        "word_english": "all",
+        "word_turkish": "hepsi"
+    }
+]

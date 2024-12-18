@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "word_english": "Red",
+        "word_turkish": "Kırmızı"
+    },
+    {
+        "id": 2,
+        "word_english": "Blue",
+        "word_turkish": "Mavi"
+    },
+    {
+        "id": 3,
+        "word_english": "Green",
+        "word_turkish": "Yeşil"
+    },
+    {
+        "id": 4,
+        "word_english": "Yellow",
+        "word_turkish": "Sarı"
+    },
+    {
+        "id": 5,
+        "word_english": "Orange",
+        "word_turkish": "Turuncu"
+    },
+    {
+        "id": 6,
+        "word_english": "Pink",
+        "word_turkish": "Pembe"
+    },
+    {
+        "id": 7,
+        "word_english": "Purple",
+        "word_turkish": "Mor"
+    },
+    {
+        "id": 8,
+        "word_english": "Brown",
+        "word_turkish": "Kahverengi"
+    },
+    {
+        "id": 9,
+        "word_english": "Black",
+        "word_turkish": "Siyah"
+    },
+    {
+        "id": 10,
+        "word_english": "White",
+        "word_turkish": "Beyaz"
+    },
+    {
+        "id": 11,
+        "word_english": "Gray",
+        "word_turkish": "Gri"
+    },
+    {
+        "id": 12,
+        "word_english": "Cyan",
+        "word_turkish": "Camgöbeği"
+    },
+    {
+        "id": 13,
+        "word_english": "Magenta",
+        "word_turkish": "Macenta"
+    },
+    {
+        "id": 14,
+        "word_english": "Teal",
+        "word_turkish": "Deniz Mavisi"
+    },
+    {
+        "id": 15,
+        "word_english": "Indigo",
+        "word_turkish": "İndigo"
+    },
+    {
+        "id": 16,
+        "word_english": "Violet",
+        "word_turkish": "Menekşe"
+    },
+    {
+        "id": 17,
+        "word_english": "Beige",
+        "word_turkish": "Bej"
+    },
+    {
+        "id": 18,
+        "word_english": "Lavender",
+        "word_turkish": "Lavanta"
+    },
+    {
+        "id": 19,
+        "word_english": "Turquoise",
+        "word_turkish": "Turkuaz"
+    },
+    {
+        "id": 20,
+        "word_english": "Crimson",
+        "word_turkish": "Kızıl"
+    },
+    {
+        "id": 21,
+        "word_english": "Aqua",
+        "word_turkish": "Su Yeşili"
+    },
+    {
+        "id": 22,
+        "word_english": "Emerald",
+        "word_turkish": "Zümrüt Yeşili"
+    },
+    {
+        "id": 23,
+        "word_english": "Ivory",
+        "word_turkish": "Fildişi"
+    },
+    {
+        "id": 24,
+        "word_english": "Peach",
+        "word_turkish": "Şeftali"
+    },
+    {
+        "id": 25,
+        "word_english": "Gold",
+        "word_turkish": "Altın"
+    },
+    {
+        "id": 26,
+        "word_english": "Silver",
+        "word_turkish": "Gümüş"
+    },
+    {
+        "id": 27,
+        "word_english": "Copper",
+        "word_turkish": "Bakır"
+    },
+    {
+        "id": 28,
+        "word_english": "Bronze",
+        "word_turkish": "Bronz"
+    },
+    {
+        "id": 29,
+        "word_english": "Lilac",
+        "word_turkish": "Leylak"
+    },
+    {
+        "id": 30,
+        "word_english": "Scarlet",
+        "word_turkish": "Kızıl"
+    },
+    {
+        "id": 31,
+        "word_english": "Chartreuse",
+        "word_turkish": "Sarıkavher"
+    },
+    {
+        "id": 32,
+        "word_english": "Coral",
+        "word_turkish": "Mercan"
+    },
+    {
+        "id": 33,
+        "word_english": "Mauve",
+        "word_turkish": "Morumsu Pembe"
+    },
+    {
+        "id": 34,
+        "word_english": "Mint",
+        "word_turkish": "Nane Yeşili"
+    },
+    {
+        "id": 35,
+        "word_english": "Sapphire",
+        "word_turkish": "Safir"
+    },
+    {
+        "id": 36,
+        "word_english": "Ruby",
+        "word_turkish": "Yakut"
+    },
+    {
+        "id": 37,
+        "word_english": "Topaz",
+        "word_turkish": "Topaz"
+    },
+    {
+        "id": 38,
+        "word_english": "Plum",
+        "word_turkish": "Erik Moru"
+    },
+    {
+        "id": 39,
+        "word_english": "Maroon",
+        "word_turkish": "Bordo"
+    },
+    {
+        "id": 40,
+        "word_english": "Burgundy",
+        "word_turkish": "Burgonya"
+    },
+    {
+        "id": 41,
+        "word_english": "Khaki",
+        "word_turkish": "Haki"
+    },
+    {
+        "id": 42,
+        "word_english": "Olive",
+        "word_turkish": "Zeytin Yeşili"
+    },
+    {
+        "id": 43,
+        "word_english": "Lime",
+        "word_turkish": "Lime Yeşili"
+    },
+    {
+        "id": 44,
+        "word_english": "Salmon",
+        "word_turkish": "Somon"
+    },
+    {
+        "id": 45,
+        "word_english": "Sea Green",
+        "word_turkish": "Deniz Yeşili"
+    },
+    {
+        "id": 46,
+        "word_english": "Steel Blue",
+        "word_turkish": "Çelik Mavisi"
+    },
+    {
+        "id": 47,
+        "word_english": "Royal Blue",
+        "word_turkish": "Kraliyet Mavisi"
+    },
+    {
+        "id": 48,
+        "word_english": "Peacock Blue",
+        "word_turkish": "Tavuskuşu Mavisi"
+    },
+    {
+        "id": 49,
+        "word_english": "Honeydew",
+        "word_turkish": "Bal Kabağı Yeşili"
+    },
+    {
+        "id": 50,
+        "word_english": "Lavender Blush",
+        "word_turkish": "Lavanta Pembe"
+    },
+    {
+        "id": 51,
+        "word_english": "Blanched Almond",
+        "word_turkish": "Ağarmış Badem"
+    },
+    {
+        "id": 52,
+        "word_english": "Alice Blue",
+        "word_turkish": "Alice Mavisi"
+    },
+    {
+        "id": 53,
+        "word_english": "Beetroot",
+        "word_turkish": "Pancar Kırmızısı"
+    },
+    {
+        "id": 54,
+        "word_english": "Firebrick",
+        "word_turkish": "Kömür Kırmızısı"
+    },
+    {
+        "id": 55,
+        "word_english": "Dark Slate Blue",
+        "word_turkish": "Koyu Mavi-Yeşil"
+    },
+    {
+        "id": 56,
+        "word_english": "Medium Sea Green",
+        "word_turkish": "Orta Deniz Yeşili"
+    },
+    {
+        "id": 57,
+        "word_english": "Medium Orchid",
+        "word_turkish": "Orta Orkide Moru"
+    },
+    {
+        "id": 58,
+        "word_english": "Medium Purple",
+        "word_turkish": "Orta Mor"
+    },
+    {
+        "id": 59,
+        "word_english": "Medium Violet Red",
+        "word_turkish": "Orta Menekşe Kırmızısı"
+    },
+    {
+        "id": 60,
+        "word_english": "Medium Turquoise",
+        "word_turkish": "Orta Turkuaz"
+    },
+    {
+        "id": 61,
+        "word_english": "Medium Spring Green",
+        "word_turkish": "Orta Bahar Yeşili"
+    },
+    {
+        "id": 62,
+        "word_english": "Navajo White",
+        "word_turkish": "Navajo Beyazı"
+    },
+    {
+        "id": 63,
+        "word_english": "Old Lace",
+        "word_turkish": "Eski Dantel"
+    },
+    {
+        "id": 64,
+        "word_english": "Papaya Whip",
+        "word_turkish": "Papaya Çırpması"
+    },
+    {
+        "id": 65,
+        "word_english": "Pink Lace",
+        "word_turkish": "Pembe Dantel"
+    },
+    {
+        "id": 66,
+        "word_english": "Sea Shell",
+        "word_turkish": "Deniz Kabukları"
+    },
+    {
+        "id": 67,
+        "word_english": "Slate Blue",
+        "word_turkish": "Kiremit Mavi"
+    },
+    {
+        "id": 68,
+        "word_english": "Snow",
+        "word_turkish": "Kar"
+    },
+    {
+        "id": 69,
+        "word_english": "Tan",
+        "word_turkish": "Kum Rengi"
+    },
+    {
+        "id": 70,
+        "word_english": "Antique White",
+        "word_turkish": "Antika Beyazı"
+    },
+    {
+        "id": 71,
+        "word_english": "Chocolate",
+        "word_turkish": "Çikolata"
+    },
+    {
+        "id": 72,
+        "word_english": "Dark Olive Green",
+        "word_turkish": "Koyu Zeytin Yeşili"
+    },
+    {
+        "id": 73,
+        "word_english": "Dark Sea Green",
+        "word_turkish": "Koyu Deniz Yeşili"
+    },
+    {
+        "id": 74,
+        "word_english": "Green Yellow",
+        "word_turkish": "Yeşil Sarı"
+    },
+    {
+        "id": 75,
+        "word_english": "Honey",
+        "word_turkish": "Bal"
+    },
+    {
+        "id": 76,
+        "word_english": "Lime Green",
+        "word_turkish": "Yeşil Lime"
+    },
+    {
+        "id": 77,
+        "word_english": "Mint Cream",
+        "word_turkish": "Nane Kreması"
+    },
+    {
+        "id": 78,
+        "word_english": "Misty Rose",
+        "word_turkish": "Sisli Gül"
+    },
+    {
+        "id": 79,
+        "word_english": "Papaya",
+        "word_turkish": "Papaya"
+    },
+    {
+        "id": 80,
+        "word_english": "Peach Puff",
+        "word_turkish": "Şeftali Puf"
+    },
+    {
+        "id": 81,
+        "word_english": "Purple Heart",
+        "word_turkish": "Mor Kalp"
+    }
+]

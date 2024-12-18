@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "word_english": "Computer",
+        "word_turkish": "Bilgisayar"
+    },
+    {
+        "id": 2,
+        "word_english": "Keyboard",
+        "word_turkish": "Klavye"
+    },
+    {
+        "id": 3,
+        "word_english": "Mouse",
+        "word_turkish": "Fare"
+    },
+    {
+        "id": 4,
+        "word_english": "Monitor",
+        "word_turkish": "Monitör"
+    },
+    {
+        "id": 5,
+        "word_english": "Screen",
+        "word_turkish": "Ekran"
+    },
+    {
+        "id": 6,
+        "word_english": "Laptop",
+        "word_turkish": "Dizüstü bilgisayar"
+    },
+    {
+        "id": 7,
+        "word_english": "Desktop",
+        "word_turkish": "Masaüstü bilgisayar"
+    },
+    {
+        "id": 8,
+        "word_english": "Tablet",
+        "word_turkish": "Tablet"
+    },
+    {
+        "id": 9,
+        "word_english": "Smartphone",
+        "word_turkish": "Akıllı telefon"
+    },
+    {
+        "id": 10,
+        "word_english": "Printer",
+        "word_turkish": "Yazıcı"
+    },
+    {
+        "id": 11,
+        "word_english": "Scanner",
+        "word_turkish": "Tarayıcı"
+    },
+    {
+        "id": 12,
+        "word_english": "CPU",
+        "word_turkish": "İşlemci"
+    },
+    {
+        "id": 13,
+        "word_english": "RAM",
+        "word_turkish": "Bellek (RAM)"
+    },
+    {
+        "id": 14,
+        "word_english": "Hard drive",
+        "word_turkish": "Sabit disk"
+    },
+    {
+        "id": 15,
+        "word_english": "SSD",
+        "word_turkish": "Katı hal sürücüsü (SSD)"
+    },
+    {
+        "id": 16,
+        "word_english": "Motherboard",
+        "word_turkish": "Anakart"
+    },
+    {
+        "id": 17,
+        "word_english": "Graphics card",
+        "word_turkish": "Ekran kartı"
+    },
+    {
+        "id": 18,
+        "word_english": "Power supply",
+        "word_turkish": "Güç kaynağı"
+    },
+    {
+        "id": 19,
+        "word_english": "USB",
+        "word_turkish": "USB"
+    },
+    {
+        "id": 20,
+        "word_english": "HDMI",
+        "word_turkish": "HDMI"
+    },
+    {
+        "id": 21,
+        "word_english": "Ethernet",
+        "word_turkish": "Ethernet"
+    },
+    {
+        "id": 22,
+        "word_english": "WiFi",
+        "word_turkish": "Wi-Fi"
+    },
+    {
+        "id": 23,
+        "word_english": "Bluetooth",
+        "word_turkish": "Bluetooth"
+    },
+    {
+        "id": 24,
+        "word_english": "Operating system",
+        "word_turkish": "İşletim sistemi"
+    },
+    {
+        "id": 25,
+        "word_english": "Software",
+        "word_turkish": "Yazılım"
+    },
+    {
+        "id": 26,
+        "word_english": "Hardware",
+        "word_turkish": "Donanım"
+    },
+    {
+        "id": 27,
+        "word_english": "Application",
+        "word_turkish": "Uygulama"
+    },
+    {
+        "id": 28,
+        "word_english": "File",
+        "word_turkish": "Dosya"
+    },
+    {
+        "id": 29,
+        "word_english": "Folder",
+        "word_turkish": "Klasör"
+    },
+    {
+        "id": 30,
+        "word_english": "Browser",
+        "word_turkish": "Tarayıcı"
+    },
+    {
+        "id": 31,
+        "word_english": "Internet",
+        "word_turkish": "İnternet"
+    },
+    {
+        "id": 32,
+        "word_english": "Download",
+        "word_turkish": "İndirmek"
+    },
+    {
+        "id": 33,
+        "word_english": "Upload",
+        "word_turkish": "Yüklemek"
+    },
+    {
+        "id": 34,
+        "word_english": "Cloud storage",
+        "word_turkish": "Bulut depolama"
+    },
+    {
+        "id": 35,
+        "word_english": "Email",
+        "word_turkish": "E-posta"
+    },
+    {
+        "id": 36,
+        "word_english": "Firewall",
+        "word_turkish": "Güvenlik duvarı"
+    },
+    {
+        "id": 37,
+        "word_english": "Antivirus",
+        "word_turkish": "Antivirüs"
+    },
+    {
+        "id": 38,
+        "word_english": "Encryption",
+        "word_turkish": "Şifreleme"
+    },
+    {
+        "id": 39,
+        "word_english": "Backup",
+        "word_turkish": "Yedekleme"
+    },
+    {
+        "id": 40,
+        "word_english": "Network",
+        "word_turkish": "Ağ"
+    },
+    {
+        "id": 41,
+        "word_english": "Database",
+        "word_turkish": "Veritabanı"
+    },
+    {
+        "id": 42,
+        "word_english": "Server",
+        "word_turkish": "Sunucu"
+    },
+    {
+        "id": 43,
+        "word_english": "Client",
+        "word_turkish": "İstemci"
+    },
+    {
+        "id": 44,
+        "word_english": "IP address",
+        "word_turkish": "IP adresi"
+    },
+    {
+        "id": 45,
+        "word_english": "Domain",
+        "word_turkish": "Alan adı"
+    },
+    {
+        "id": 46,
+        "word_english": "URL",
+        "word_turkish": "URL"
+    },
+    {
+        "id": 47,
+        "word_english": "Code",
+        "word_turkish": "Kod"
+    },
+    {
+        "id": 48,
+        "word_english": "Algorithm",
+        "word_turkish": "Algoritma"
+    },
+    {
+        "id": 49,
+        "word_english": "Bug",
+        "word_turkish": "Hata"
+    },
+    {
+        "id": 50,
+        "word_english": "Debugging",
+        "word_turkish": "Hata ayıklama"
+    },
+    {
+        "id": 51,
+        "word_english": "Compiler",
+        "word_turkish": "Derleyici"
+    },
+    {
+        "id": 52,
+        "word_english": "Program",
+        "word_turkish": "Program"
+    },
+    {
+        "id": 53,
+        "word_english": "Programming language",
+        "word_turkish": "Programlama dili"
+    },
+    {
+        "id": 54,
+        "word_english": "Script",
+        "word_turkish": "Betik"
+    },
+    {
+        "id": 55,
+        "word_english": "Interface",
+        "word_turkish": "Arayüz"
+    },
+    {
+        "id": 56,
+        "word_english": "Login",
+        "word_turkish": "Giriş yapma"
+    },
+    {
+        "id": 57,
+        "word_english": "Logout",
+        "word_turkish": "Çıkış yapma"
+    },
+    {
+        "id": 58,
+        "word_english": "Username",
+        "word_turkish": "Kullanıcı adı"
+    },
+    {
+        "id": 59,
+        "word_english": "Password",
+        "word_turkish": "Şifre"
+    },
+    {
+        "id": 60,
+        "word_english": "Permission",
+        "word_turkish": "İzin"
+    },
+    {
+        "id": 61,
+        "word_english": "Processor",
+        "word_turkish": "İşlemci"
+    },
+    {
+        "id": 62,
+        "word_english": "Storage",
+        "word_turkish": "Depolama"
+    },
+    {
+        "id": 63,
+        "word_english": "Cache",
+        "word_turkish": "Önbellek"
+    },
+    {
+        "id": 64,
+        "word_english": "Bit",
+        "word_turkish": "Bit"
+    },
+    {
+        "id": 65,
+        "word_english": "Byte",
+        "word_turkish": "Bayt"
+    },
+    {
+        "id": 66,
+        "word_english": "Resolution",
+        "word_turkish": "Çözünürlük"
+    },
+    {
+        "id": 67,
+        "word_english": "Pixel",
+        "word_turkish": "Piksel"
+    },
+    {
+        "id": 68,
+        "word_english": "Database management",
+        "word_turkish": "Veritabanı yönetimi"
+    },
+    {
+        "id": 69,
+        "word_english": "Data transfer",
+        "word_turkish": "Veri transferi"
+    },
+    {
+        "id": 70,
+        "word_english": "Artificial intelligence",
+        "word_turkish": "Yapay zeka"
+    },
+    {
+        "id": 71,
+        "word_english": "Machine learning",
+        "word_turkish": "Makine öğrenimi"
+    },
+    {
+        "id": 72,
+        "word_english": "Virtual reality",
+        "word_turkish": "Sanal gerçeklik"
+    },
+    {
+        "id": 73,
+        "word_english": "Augmented reality",
+        "word_turkish": "Artırılmış gerçeklik"
+    },
+    {
+        "id": 74,
+        "word_english": "Cybersecurity",
+        "word_turkish": "Siber güvenlik"
+    },
+    {
+        "id": 75,
+        "word_english": "Malware",
+        "word_turkish": "Kötü amaçlı yazılım"
+    },
+    {
+        "id": 76,
+        "word_english": "Phishing",
+        "word_turkish": "Oltalama"
+    },
+    {
+        "id": 77,
+        "word_english": "Spyware",
+        "word_turkish": "Casus yazılım"
+    },
+    {
+        "id": 78,
+        "word_english": "Trojan",
+        "word_turkish": "Truva atı"
+    },
+    {
+        "id": 79,
+        "word_english": "Virus",
+        "word_turkish": "Virüs"
+    },
+    {
+        "id": 80,
+        "word_english": "Worm",
+        "word_turkish": "Solucan"
+    },
+    {
+        "id": 81,
+        "word_english": "Spam",
+        "word_turkish": "İstenmeyen posta"
+    },
+    {
+        "id": 82,
+        "word_english": "Bandwidth",
+        "word_turkish": "Bant genişliği"
+    },
+    {
+        "id": 83,
+        "word_english": "Latency",
+        "word_turkish": "Gecikme"
+    },
+    {
+        "id": 84,
+        "word_english": "Protocol",
+        "word_turkish": "Protokol"
+    },
+    {
+        "id": 85,
+        "word_english": "FTP",
+        "word_turkish": "FTP"
+    },
+    {
+        "id": 86,
+        "word_english": "HTTP",
+        "word_turkish": "HTTP"
+    },
+    {
+        "id": 87,
+        "word_english": "HTTPS",
+        "word_turkish": "HTTPS"
+    },
+    {
+        "id": 88,
+        "word_english": "VPN",
+        "word_turkish": "VPN"
+    },
+    {
+        "id": 89,
+        "word_english": "LAN",
+        "word_turkish": "Yerel ağ (LAN)"
+    },
+    {
+        "id": 90,
+        "word_english": "WAN",
+        "word_turkish": "Geniş alan ağı (WAN)"
+    },
+    {
+        "id": 91,
+        "word_english": "Resolution",
+        "word_turkish": "Çözünürlük"
+    },
+    {
+        "id": 92,
+        "word_english": "Cloud computing",
+        "word_turkish": "Bulut bilişim"
+    },
+    {
+        "id": 93,
+        "word_english": "Multimedia",
+        "word_turkish": "Multimedya"
+    },
+    {
+        "id": 94,
+        "word_english": "Emulator",
+        "word_turkish": "Emülatör"
+    },
+    {
+        "id": 95,
+        "word_english": "Framework",
+        "word_turkish": "Çerçeve yapısı"
+    },
+    {
+        "id": 96,
+        "word_english": "Library",
+        "word_turkish": "Kütüphane"
+    },
+    {
+        "id": 97,
+        "word_english": "Plugin",
+        "word_turkish": "Eklenti"
+    },
+    {
+        "id": 98,
+        "word_english": "Widget",
+        "word_turkish": "Araç"
+    },
+    {
+        "id": 99,
+        "word_english": "Router",
+        "word_turkish": "Yönlendirici"
+    },
+    {
+        "id": 100,
+        "word_english": "Gateway",
+        "word_turkish": "Ağ geçidi"
+    }
+]

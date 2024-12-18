@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "word_english": "Cuisine",
+        "word_turkish": "Mutfak (kültür)"
+    },
+    {
+        "id": 2,
+        "word_english": "Gastronomy",
+        "word_turkish": "Gastronomi"
+    },
+    {
+        "id": 3,
+        "word_english": "Chef",
+        "word_turkish": "Şef"
+    },
+    {
+        "id": 4,
+        "word_english": "Recipe",
+        "word_turkish": "Tarif"
+    },
+    {
+        "id": 5,
+        "word_english": "Ingredient",
+        "word_turkish": "Malzeme"
+    },
+    {
+        "id": 6,
+        "word_english": "Flavor",
+        "word_turkish": "Lezzet"
+    },
+    {
+        "id": 7,
+        "word_english": "Aroma",
+        "word_turkish": "Aroma"
+    },
+    {
+        "id": 8,
+        "word_english": "Spice",
+        "word_turkish": "Baharat"
+    },
+    {
+        "id": 9,
+        "word_english": "Herb",
+        "word_turkish": "Ot"
+    },
+    {
+        "id": 10,
+        "word_english": "Sauce",
+        "word_turkish": "Sos"
+    },
+    {
+        "id": 11,
+        "word_english": "Seasoning",
+        "word_turkish": "Baharatlandırma"
+    },
+    {
+        "id": 12,
+        "word_english": "Dish",
+        "word_turkish": "Yemek"
+    },
+    {
+        "id": 13,
+        "word_english": "Appetizer",
+        "word_turkish": "Aperatif"
+    },
+    {
+        "id": 14,
+        "word_english": "Main course",
+        "word_turkish": "Ana yemek"
+    },
+    {
+        "id": 15,
+        "word_english": "Dessert",
+        "word_turkish": "Tatlı"
+    },
+    {
+        "id": 16,
+        "word_english": "Pastry",
+        "word_turkish": "Hamur işi"
+    },
+    {
+        "id": 17,
+        "word_english": "Bakery",
+        "word_turkish": "Fırın"
+    },
+    {
+        "id": 18,
+        "word_english": "Baking",
+        "word_turkish": "Fırında pişirme"
+    },
+    {
+        "id": 19,
+        "word_english": "Roasting",
+        "word_turkish": "Kavurma"
+    },
+    {
+        "id": 20,
+        "word_english": "Frying",
+        "word_turkish": "Kızartma"
+    },
+    {
+        "id": 21,
+        "word_english": "Boiling",
+        "word_turkish": "Haşlama"
+    },
+    {
+        "id": 22,
+        "word_english": "Steaming",
+        "word_turkish": "Buharda pişirme"
+    },
+    {
+        "id": 23,
+        "word_english": "Grilling",
+        "word_turkish": "Izgara yapma"
+    },
+    {
+        "id": 24,
+        "word_english": "Sautéing",
+        "word_turkish": "Soteleme"
+    },
+    {
+        "id": 25,
+        "word_english": "Marinating",
+        "word_turkish": "Marine etme"
+    },
+    {
+        "id": 26,
+        "word_english": "Fermentation",
+        "word_turkish": "Fermantasyon"
+    },
+    {
+        "id": 27,
+        "word_english": "Pickling",
+        "word_turkish": "Turşu yapma"
+    },
+    {
+        "id": 28,
+        "word_english": "Smoking",
+        "word_turkish": "Tütsüleme"
+    },
+    {
+        "id": 29,
+        "word_english": "Chopping",
+        "word_turkish": "Doğrama"
+    },
+    {
+        "id": 30,
+        "word_english": "Dicing",
+        "word_turkish": "Küp küp kesme"
+    },
+    {
+        "id": 31,
+        "word_english": "Slicing",
+        "word_turkish": "Dilimleme"
+    },
+    {
+        "id": 32,
+        "word_english": "Whisking",
+        "word_turkish": "Çırpma"
+    },
+    {
+        "id": 33,
+        "word_english": "Mixing",
+        "word_turkish": "Karıştırma"
+    },
+    {
+        "id": 34,
+        "word_english": "Blending",
+        "word_turkish": "Blendirme"
+    },
+    {
+        "id": 35,
+        "word_english": "Garnish",
+        "word_turkish": "Süsleme"
+    },
+    {
+        "id": 36,
+        "word_english": "Presentation",
+        "word_turkish": "Sunum"
+    },
+    {
+        "id": 37,
+        "word_english": "Plating",
+        "word_turkish": "Tabaklama"
+    },
+    {
+        "id": 38,
+        "word_english": "Taste",
+        "word_turkish": "Tat"
+    },
+    {
+        "id": 39,
+        "word_english": "Texture",
+        "word_turkish": "Doku"
+    },
+    {
+        "id": 40,
+        "word_english": "Umami",
+        "word_turkish": "Umami"
+    },
+    {
+        "id": 41,
+        "word_english": "Sweet",
+        "word_turkish": "Tatlı"
+    },
+    {
+        "id": 42,
+        "word_english": "Salty",
+        "word_turkish": "Tuzlu"
+    },
+    {
+        "id": 43,
+        "word_english": "Bitter",
+        "word_turkish": "Acı"
+    },
+    {
+        "id": 44,
+        "word_english": "Sour",
+        "word_turkish": "Ekşi"
+    },
+    {
+        "id": 45,
+        "word_english": "Savory",
+        "word_turkish": "Lezzetli"
+    },
+    {
+        "id": 46,
+        "word_english": "Fusion",
+        "word_turkish": "Birleşim"
+    },
+    {
+        "id": 47,
+        "word_english": "Ethnic cuisine",
+        "word_turkish": "Etnik mutfak"
+    },
+    {
+        "id": 48,
+        "word_english": "Fine dining",
+        "word_turkish": "Lüks yemek"
+    },
+    {
+        "id": 49,
+        "word_english": "Street food",
+        "word_turkish": "Sokak yemeği"
+    },
+    {
+        "id": 50,
+        "word_english": "Seasonal",
+        "word_turkish": "Mevsimsel"
+    },
+    {
+        "id": 51,
+        "word_english": "Organic",
+        "word_turkish": "Organik"
+    },
+    {
+        "id": 52,
+        "word_english": "Farm-to-table",
+        "word_turkish": "Çiftlikten sofraya"
+    },
+    {
+        "id": 53,
+        "word_english": "Local",
+        "word_turkish": "Yerel"
+    },
+    {
+        "id": 54,
+        "word_english": "Sustainable",
+        "word_turkish": "Sürdürülebilir"
+    },
+    {
+        "id": 55,
+        "word_english": "Artisan",
+        "word_turkish": "Zanaatkâr"
+    },
+    {
+        "id": 56,
+        "word_english": "Gourmet",
+        "word_turkish": "Gurme"
+    },
+    {
+        "id": 57,
+        "word_english": "Michelin star",
+        "word_turkish": "Michelin yıldızı"
+    },
+    {
+        "id": 58,
+        "word_english": "Food critic",
+        "word_turkish": "Gastronomi eleştirmeni"
+    },
+    {
+        "id": 59,
+        "word_english": "Tasting menu",
+        "word_turkish": "Tatma menüsü"
+    },
+    {
+        "id": 60,
+        "word_english": "Buffet",
+        "word_turkish": "Açık büfe"
+    },
+    {
+        "id": 61,
+        "word_english": "Catering",
+        "word_turkish": "Catering"
+    },
+    {
+        "id": 62,
+        "word_english": "Food styling",
+        "word_turkish": "Yemek stilizasyonu"
+    },
+    {
+        "id": 63,
+        "word_english": "Edible",
+        "word_turkish": "Yenilebilir"
+    },
+    {
+        "id": 64,
+        "word_english": "Preservation",
+        "word_turkish": "Koruma"
+    },
+    {
+        "id": 65,
+        "word_english": "Reduction",
+        "word_turkish": "Azaltma (sos)"
+    },
+    {
+        "id": 66,
+        "word_english": "Broth",
+        "word_turkish": "Et suyu"
+    },
+    {
+        "id": 67,
+        "word_english": "Stock",
+        "word_turkish": "Stok (su)"
+    },
+    {
+        "id": 68,
+        "word_english": "Consommé",
+        "word_turkish": "Berrak çorba"
+    },
+    {
+        "id": 69,
+        "word_english": "Foam",
+        "word_turkish": "Köpük"
+    },
+    {
+        "id": 70,
+        "word_english": "Gastrique",
+        "word_turkish": "Gastrik sos"
+    },
+    {
+        "id": 71,
+        "word_english": "Infusion",
+        "word_turkish": "Demleme"
+    },
+    {
+        "id": 72,
+        "word_english": "Sous-vide",
+        "word_turkish": "Vakumda pişirme"
+    },
+    {
+        "id": 73,
+        "word_english": "Caramelization",
+        "word_turkish": "Karamelizasyon"
+    },
+    {
+        "id": 74,
+        "word_english": "Deglazing",
+        "word_turkish": "Tavayı temizleme"
+    },
+    {
+        "id": 75,
+        "word_english": "Culinary arts",
+        "word_turkish": "Mutfak sanatları"
+    },
+    {
+        "id": 76,
+        "word_english": "Fermented",
+        "word_turkish": "Fermante edilmiş"
+    },
+    {
+        "id": 77,
+        "word_english": "Pickled",
+        "word_turkish": "Turşulanmış"
+    },
+    {
+        "id": 78,
+        "word_english": "Cured",
+        "word_turkish": "Şarküteri usulü"
+    },
+    {
+        "id": 79,
+        "word_english": "Foie gras",
+        "word_turkish": "Kaz ciğeri"
+    },
+    {
+        "id": 80,
+        "word_english": "Charcuterie",
+        "word_turkish": "Şarküteri"
+    },
+    {
+        "id": 81,
+        "word_english": "Tartare",
+        "word_turkish": "Çiğ et yemeği"
+    },
+    {
+        "id": 82,
+        "word_english": "Confit",
+        "word_turkish": "Konfi"
+    },
+    {
+        "id": 83,
+        "word_english": "Brine",
+        "word_turkish": "Salamura"
+    },
+    {
+        "id": 84,
+        "word_english": "Roux",
+        "word_turkish": "Roux (yağ ve un karışımı)"
+    },
+    {
+        "id": 85,
+        "word_english": "Al dente",
+        "word_turkish": "Dişe gelir (pişirme)"
+    },
+    {
+        "id": 86,
+        "word_english": "Bain-marie",
+        "word_turkish": "Benmari usulü"
+    },
+    {
+        "id": 87,
+        "word_english": "Mise en place",
+        "word_turkish": "Hazırlık"
+    },
+    {
+        "id": 88,
+        "word_english": "Crème fraîche",
+        "word_turkish": "Krema"
+    },
+    {
+        "id": 89,
+        "word_english": "Velouté",
+        "word_turkish": "Kadife sos"
+    },
+    {
+        "id": 90,
+        "word_english": "Beurre blanc",
+        "word_turkish": "Beyaz tereyağ sosu"
+    },
+    {
+        "id": 91,
+        "word_english": "Bouquet garni",
+        "word_turkish": "Aromatik ot demeti"
+    },
+    {
+        "id": 92,
+        "word_english": "Bisque",
+        "word_turkish": "Deniz ürünleri çorbası"
+    },
+    {
+        "id": 93,
+        "word_english": "Pâté",
+        "word_turkish": "Pate (ezme)"
+    },
+    {
+        "id": 94,
+        "word_english": "Mousse",
+        "word_turkish": "Mus"
+    },
+    {
+        "id": 95,
+        "word_english": "Ratatouille",
+        "word_turkish": "Sebze güveci"
+    },
+    {
+        "id": 96,
+        "word_english": "Brûlée",
+        "word_turkish": "Brulee (yakılmış)"
+    },
+    {
+        "id": 97,
+        "word_english": "Gastronomic",
+        "word_turkish": "Gastronomik"
+    },
+    {
+        "id": 98,
+        "word_english": "Degustation",
+        "word_turkish": "Tadım"
+    },
+    {
+        "id": 99,
+        "word_english": "Epicurean",
+        "word_turkish": "Zevkine düşkün"
+    },
+    {
+        "id": 100,
+        "word_english": "Tasting notes",
+        "word_turkish": "Tat notları"
+    }
+]

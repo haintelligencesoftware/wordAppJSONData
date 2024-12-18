@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "word_english": "Dog",
+        "word_turkish": "Köpek"
+    },
+    {
+        "id": 2,
+        "word_english": "Cat",
+        "word_turkish": "Kedi"
+    },
+    {
+        "id": 3,
+        "word_english": "Horse",
+        "word_turkish": "At"
+    },
+    {
+        "id": 4,
+        "word_english": "Cow",
+        "word_turkish": "İnek"
+    },
+    {
+        "id": 5,
+        "word_english": "Sheep",
+        "word_turkish": "Koyun"
+    },
+    {
+        "id": 6,
+        "word_english": "Goat",
+        "word_turkish": "Keçi"
+    },
+    {
+        "id": 7,
+        "word_english": "Chicken",
+        "word_turkish": "Tavuk"
+    },
+    {
+        "id": 8,
+        "word_english": "Duck",
+        "word_turkish": "Ördek"
+    },
+    {
+        "id": 9,
+        "word_english": "Pig",
+        "word_turkish": "Domuz"
+    },
+    {
+        "id": 10,
+        "word_english": "Rabbit",
+        "word_turkish": "Tavşan"
+    },
+    {
+        "id": 11,
+        "word_english": "Lion",
+        "word_turkish": "Aslan"
+    },
+    {
+        "id": 12,
+        "word_english": "Tiger",
+        "word_turkish": "Kaplan"
+    },
+    {
+        "id": 13,
+        "word_english": "Elephant",
+        "word_turkish": "Fil"
+    },
+    {
+        "id": 14,
+        "word_english": "Monkey",
+        "word_turkish": "Maymun"
+    },
+    {
+        "id": 15,
+        "word_english": "Bear",
+        "word_turkish": "Ayı"
+    },
+    {
+        "id": 16,
+        "word_english": "Wolf",
+        "word_turkish": "Kurt"
+    },
+    {
+        "id": 17,
+        "word_english": "Deer",
+        "word_turkish": "Geyik"
+    },
+    {
+        "id": 18,
+        "word_english": "Giraffe",
+        "word_turkish": "Zürafa"
+    },
+    {
+        "id": 19,
+        "word_english": "Kangaroo",
+        "word_turkish": "Kanguru"
+    },
+    {
+        "id": 20,
+        "word_english": "Zebra",
+        "word_turkish": "Zebra"
+    },
+    {
+        "id": 21,
+        "word_english": "Koala",
+        "word_turkish": "Koala"
+    },
+    {
+        "id": 22,
+        "word_english": "Panda",
+        "word_turkish": "Panda"
+    },
+    {
+        "id": 23,
+        "word_english": "Camel",
+        "word_turkish": "Deve"
+    },
+    {
+        "id": 24,
+        "word_english": "Horse",
+        "word_turkish": "At"
+    },
+    {
+        "id": 25,
+        "word_english": "Eagle",
+        "word_turkish": "Kartal"
+    },
+    {
+        "id": 26,
+        "word_english": "Falcon",
+        "word_turkish": "Şahin"
+    },
+    {
+        "id": 27,
+        "word_english": "Hawk",
+        "word_turkish": "Şahin"
+    },
+    {
+        "id": 28,
+        "word_english": "Owl",
+        "word_turkish": "Baykuş"
+    },
+    {
+        "id": 29,
+        "word_english": "Parrot",
+        "word_turkish": "Papağan"
+    },
+    {
+        "id": 30,
+        "word_english": "Penguin",
+        "word_turkish": "Penguen"
+    },
+    {
+        "id": 31,
+        "word_english": "Bat",
+        "word_turkish": "Yarasa"
+    },
+    {
+        "id": 32,
+        "word_english": "Fish",
+        "word_turkish": "Balık"
+    },
+    {
+        "id": 33,
+        "word_english": "Shark",
+        "word_turkish": "Köpekbalığı"
+    },
+    {
+        "id": 34,
+        "word_english": "Whale",
+        "word_turkish": "Balina"
+    },
+    {
+        "id": 35,
+        "word_english": "Dolphin",
+        "word_turkish": "Yunus"
+    },
+    {
+        "id": 36,
+        "word_english": "Starfish",
+        "word_turkish": "Yıldızbalığı"
+    },
+    {
+        "id": 37,
+        "word_english": "Octopus",
+        "word_turkish": "Ahtapot"
+    },
+    {
+        "id": 38,
+        "word_english": "Crab",
+        "word_turkish": "Yengeç"
+    },
+    {
+        "id": 39,
+        "word_english": "Lobster",
+        "word_turkish": "Istakoz"
+    },
+    {
+        "id": 40,
+        "word_english": "Squid",
+        "word_turkish": "Mürekkep Balığı"
+    },
+    {
+        "id": 41,
+        "word_english": "Crocodile",
+        "word_turkish": "Timsah"
+    },
+    {
+        "id": 42,
+        "word_english": "Alligator",
+        "word_turkish": "Timsah"
+    },
+    {
+        "id": 43,
+        "word_english": "Snake",
+        "word_turkish": "Yılan"
+    },
+    {
+        "id": 44,
+        "word_english": "Frog",
+        "word_turkish": "Kurbağa"
+    },
+    {
+        "id": 45,
+        "word_english": "Toad",
+        "word_turkish": "Kamış Kurbağası"
+    },
+    {
+        "id": 46,
+        "word_english": "Lizard",
+        "word_turkish": "Kertenkele"
+    },
+    {
+        "id": 47,
+        "word_english": "Turtle",
+        "word_turkish": "Kaplumbağa"
+    },
+    {
+        "id": 48,
+        "word_english": "Snail",
+        "word_turkish": "Salyangoz"
+    },
+    {
+        "id": 49,
+        "word_english": "Ant",
+        "word_turkish": "Karınca"
+    },
+    {
+        "id": 50,
+        "word_english": "Bee",
+        "word_turkish": "Arı"
+    },
+    {
+        "id": 51,
+        "word_english": "Fly",
+        "word_turkish": "Sinek"
+    },
+    {
+        "id": 52,
+        "word_english": "Mosquito",
+        "word_turkish": "Sivrisinek"
+    },
+    {
+        "id": 53,
+        "word_english": "Butterfly",
+        "word_turkish": "Kelebek"
+    },
+    {
+        "id": 54,
+        "word_english": "Moth",
+        "word_turkish": "Moth"
+    },
+    {
+        "id": 55,
+        "word_english": "Dragonfly",
+        "word_turkish": "Yusufçuk"
+    },
+    {
+        "id": 56,
+        "word_english": "Caterpillar",
+        "word_turkish": "Tırtıl"
+    },
+    {
+        "id": 57,
+        "word_english": "Grasshopper",
+        "word_turkish": "Cırcır Böceği"
+    },
+    {
+        "id": 58,
+        "word_english": "Ladybug",
+        "word_turkish": "Uğur Böceği"
+    },
+    {
+        "id": 59,
+        "word_english": "Beetle",
+        "word_turkish": "Böcek"
+    },
+    {
+        "id": 60,
+        "word_english": "Worm",
+        "word_turkish": "Kurtçuk"
+    },
+    {
+        "id": 61,
+        "word_english": "Horsefly",
+        "word_turkish": "At Sineği"
+    },
+    {
+        "id": 62,
+        "word_english": "Termite",
+        "word_turkish": "Beyaz Ant"
+    },
+    {
+        "id": 63,
+        "word_english": "Cockroach",
+        "word_turkish": "Hamam Böceği"
+    },
+    {
+        "id": 64,
+        "word_english": "Spider",
+        "word_turkish": "Örümcek"
+    },
+    {
+        "id": 65,
+        "word_english": "Scorpion",
+        "word_turkish": "Akrep"
+    },
+    {
+        "id": 66,
+        "word_english": "Cricket",
+        "word_turkish": "Cırcır Böceği"
+    },
+    {
+        "id": 67,
+        "word_english": "Antelope",
+        "word_turkish": "Antilop"
+    },
+    {
+        "id": 68,
+        "word_english": "Bison",
+        "word_turkish": "Bizon"
+    },
+    {
+        "id": 69,
+        "word_english": "Buffalo",
+        "word_turkish": "Büffalo"
+    },
+    {
+        "id": 70,
+        "word_english": "Yak",
+        "word_turkish": "Yük"
+    },
+    {
+        "id": 71,
+        "word_english": "Gnu",
+        "word_turkish": "Gnu"
+    },
+    {
+        "id": 72,
+        "word_english": "Cheetah",
+        "word_turkish": "Çita"
+    },
+    {
+        "id": 73,
+        "word_english": "Leopard",
+        "word_turkish": "Leopar"
+    },
+    {
+        "id": 74,
+        "word_english": "Jaguar",
+        "word_turkish": "Jaguar"
+    },
+    {
+        "id": 75,
+        "word_english": "Puma",
+        "word_turkish": "Puma"
+    },
+    {
+        "id": 76,
+        "word_english": "Lynx",
+        "word_turkish": "Vaşak"
+    },
+    {
+        "id": 77,
+        "word_english": "Coyote",
+        "word_turkish": "Koyote"
+    },
+    {
+        "id": 78,
+        "word_english": "Meerkat",
+        "word_turkish": "Surikata"
+    },
+    {
+        "id": 79,
+        "word_english": "Vulture",
+        "word_turkish": "Akbaba"
+    },
+    {
+        "id": 80,
+        "word_english": "Raven",
+        "word_turkish": "Kuzgun"
+    },
+    {
+        "id": 81,
+        "word_english": "Crow",
+        "word_turkish": "Karga"
+    },
+    {
+        "id": 82,
+        "word_english": "Sparrow",
+        "word_turkish": "Serçe"
+    },
+    {
+        "id": 83,
+        "word_english": "Pigeon",
+        "word_turkish": "Güvercin"
+    },
+    {
+        "id": 84,
+        "word_english": "Woodpecker",
+        "word_turkish": "Ağaçkakan"
+    },
+    {
+        "id": 85,
+        "word_english": "Swan",
+        "word_turkish": "Kuğu"
+    },
+    {
+        "id": 86,
+        "word_english": "Goose",
+        "word_turkish": "Kaz"
+    },
+    {
+        "id": 87,
+        "word_english": "Turkey",
+        "word_turkish": "Hindi"
+    },
+    {
+        "id": 88,
+        "word_english": "Peacock",
+        "word_turkish": "Tavuskuşu"
+    },
+    {
+        "id": 89,
+        "word_english": "Flamingo",
+        "word_turkish": "Flamingo"
+    },
+    {
+        "id": 90,
+        "word_english": "Stork",
+        "word_turkish": "Leylek"
+    },
+    {
+        "id": 91,
+        "word_english": "Pelican",
+        "word_turkish": "Pelikan"
+    }
+]

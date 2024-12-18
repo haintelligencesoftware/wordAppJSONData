@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "word_english": "Shop",
+        "word_turkish": "Dükkan"
+    },
+    {
+        "id": 2,
+        "word_english": "Mall",
+        "word_turkish": "Alışveriş merkezi"
+    },
+    {
+        "id": 3,
+        "word_english": "Market",
+        "word_turkish": "Pazar"
+    },
+    {
+        "id": 4,
+        "word_english": "Store",
+        "word_turkish": "Mağaza"
+    },
+    {
+        "id": 5,
+        "word_english": "Supermarket",
+        "word_turkish": "Süpermarket"
+    },
+    {
+        "id": 6,
+        "word_english": "Department store",
+        "word_turkish": "Büyük mağaza"
+    },
+    {
+        "id": 7,
+        "word_english": "Boutique",
+        "word_turkish": "Butik"
+    },
+    {
+        "id": 8,
+        "word_english": "Pharmacy",
+        "word_turkish": "Eczane"
+    },
+    {
+        "id": 9,
+        "word_english": "Grocery store",
+        "word_turkish": "Bakkal"
+    },
+    {
+        "id": 10,
+        "word_english": "Cash register",
+        "word_turkish": "Yazar kasa"
+    },
+    {
+        "id": 11,
+        "word_english": "Sale",
+        "word_turkish": "İndirim"
+    },
+    {
+        "id": 12,
+        "word_english": "Discount",
+        "word_turkish": "İndirim"
+    },
+    {
+        "id": 13,
+        "word_english": "Customer",
+        "word_turkish": "Müşteri"
+    },
+    {
+        "id": 14,
+        "word_english": "Price",
+        "word_turkish": "Fiyat"
+    },
+    {
+        "id": 15,
+        "word_english": "Receipt",
+        "word_turkish": "Fiş"
+    },
+    {
+        "id": 16,
+        "word_english": "Shopping cart",
+        "word_turkish": "Alışveriş arabası"
+    },
+    {
+        "id": 17,
+        "word_english": "Basket",
+        "word_turkish": "Sepet"
+    },
+    {
+        "id": 18,
+        "word_english": "Cashier",
+        "word_turkish": "Kasiyer"
+    },
+    {
+        "id": 19,
+        "word_english": "Checkout",
+        "word_turkish": "Ödeme noktası"
+    },
+    {
+        "id": 20,
+        "word_english": "Return",
+        "word_turkish": "İade"
+    },
+    {
+        "id": 21,
+        "word_english": "Refund",
+        "word_turkish": "Geri ödeme"
+    },
+    {
+        "id": 22,
+        "word_english": "Credit card",
+        "word_turkish": "Kredi kartı"
+    },
+    {
+        "id": 23,
+        "word_english": "Debit card",
+        "word_turkish": "Banka kartı"
+    },
+    {
+        "id": 24,
+        "word_english": "Cash",
+        "word_turkish": "Nakit"
+    },
+    {
+        "id": 25,
+        "word_english": "Receipt",
+        "word_turkish": "Makbuz"
+    },
+    {
+        "id": 26,
+        "word_english": "Price tag",
+        "word_turkish": "Fiyat etiketi"
+    },
+    {
+        "id": 27,
+        "word_english": "Shelf",
+        "word_turkish": "Raf"
+    },
+    {
+        "id": 28,
+        "word_english": "Aisle",
+        "word_turkish": "Koridor"
+    },
+    {
+        "id": 29,
+        "word_english": "Counter",
+        "word_turkish": "Tezgah"
+    },
+    {
+        "id": 30,
+        "word_english": "Product",
+        "word_turkish": "Ürün"
+    },
+    {
+        "id": 31,
+        "word_english": "Brand",
+        "word_turkish": "Marka"
+    },
+    {
+        "id": 32,
+        "word_english": "Size",
+        "word_turkish": "Beden"
+    },
+    {
+        "id": 33,
+        "word_english": "Quality",
+        "word_turkish": "Kalite"
+    },
+    {
+        "id": 34,
+        "word_english": "Quantity",
+        "word_turkish": "Miktar"
+    },
+    {
+        "id": 35,
+        "word_english": "Promotion",
+        "word_turkish": "Promosyon"
+    },
+    {
+        "id": 36,
+        "word_english": "Offer",
+        "word_turkish": "Teklif"
+    },
+    {
+        "id": 37,
+        "word_english": "Stock",
+        "word_turkish": "Stok"
+    },
+    {
+        "id": 38,
+        "word_english": "Sold out",
+        "word_turkish": "Tükendi"
+    },
+    {
+        "id": 39,
+        "word_english": "Delivery",
+        "word_turkish": "Teslimat"
+    },
+    {
+        "id": 40,
+        "word_english": "Order",
+        "word_turkish": "Sipariş"
+    },
+    {
+        "id": 41,
+        "word_english": "Online shopping",
+        "word_turkish": "Online alışveriş"
+    },
+    {
+        "id": 42,
+        "word_english": "Warranty",
+        "word_turkish": "Garanti"
+    },
+    {
+        "id": 43,
+        "word_english": "Exchange",
+        "word_turkish": "Değişim"
+    },
+    {
+        "id": 44,
+        "word_english": "Barcode",
+        "word_turkish": "Barkod"
+    },
+    {
+        "id": 45,
+        "word_english": "Catalog",
+        "word_turkish": "Katalog"
+    },
+    {
+        "id": 46,
+        "word_english": "Gift",
+        "word_turkish": "Hediye"
+    },
+    {
+        "id": 47,
+        "word_english": "Gift card",
+        "word_turkish": "Hediye kartı"
+    },
+    {
+        "id": 48,
+        "word_english": "Bag",
+        "word_turkish": "Çanta"
+    },
+    {
+        "id": 49,
+        "word_english": "Packaging",
+        "word_turkish": "Paketleme"
+    },
+    {
+        "id": 50,
+        "word_english": "Shopper",
+        "word_turkish": "Alışveriş yapan"
+    },
+    {
+        "id": 51,
+        "word_english": "Shopping list",
+        "word_turkish": "Alışveriş listesi"
+    },
+    {
+        "id": 52,
+        "word_english": "Budget",
+        "word_turkish": "Bütçe"
+    },
+    {
+        "id": 53,
+        "word_english": "Luxury",
+        "word_turkish": "Lüks"
+    },
+    {
+        "id": 54,
+        "word_english": "Affordable",
+        "word_turkish": "Uygun fiyatlı"
+    },
+    {
+        "id": 55,
+        "word_english": "Expensive",
+        "word_turkish": "Pahalı"
+    },
+    {
+        "id": 56,
+        "word_english": "Cheap",
+        "word_turkish": "Ucuz"
+    },
+    {
+        "id": 57,
+        "word_english": "Wholesale",
+        "word_turkish": "Toptan"
+    },
+    {
+        "id": 58,
+        "word_english": "Retail",
+        "word_turkish": "Perakende"
+    },
+    {
+        "id": 59,
+        "word_english": "Fitting room",
+        "word_turkish": "Deneme kabini"
+    },
+    {
+        "id": 60,
+        "word_english": "Try on",
+        "word_turkish": "Denemek"
+    },
+    {
+        "id": 61,
+        "word_english": "Receipt",
+        "word_turkish": "Fiş"
+    },
+    {
+        "id": 62,
+        "word_english": "Bill",
+        "word_turkish": "Fatura"
+    },
+    {
+        "id": 63,
+        "word_english": "Shop assistant",
+        "word_turkish": "Mağaza görevlisi"
+    },
+    {
+        "id": 64,
+        "word_english": "Store manager",
+        "word_turkish": "Mağaza müdürü"
+    },
+    {
+        "id": 65,
+        "word_english": "Window shopping",
+        "word_turkish": "Vitrin bakmak"
+    },
+    {
+        "id": 66,
+        "word_english": "Impulse buying",
+        "word_turkish": "Dürtüsel satın alma"
+    },
+    {
+        "id": 67,
+        "word_english": "Bargain",
+        "word_turkish": "Pazarlık"
+    },
+    {
+        "id": 68,
+        "word_english": "Loyalty card",
+        "word_turkish": "Sadakat kartı"
+    },
+    {
+        "id": 69,
+        "word_english": "Membership",
+        "word_turkish": "Üyelik"
+    },
+    {
+        "id": 70,
+        "word_english": "Outlet",
+        "word_turkish": "İndirim mağazası"
+    },
+    {
+        "id": 71,
+        "word_english": "Clearance sale",
+        "word_turkish": "Temizlik satışı"
+    },
+    {
+        "id": 72,
+        "word_english": "Layaway",
+        "word_turkish": "Peşinatlı satış"
+    },
+    {
+        "id": 73,
+        "word_english": "Installment",
+        "word_turkish": "Taksit"
+    },
+    {
+        "id": 74,
+        "word_english": "Secondhand",
+        "word_turkish": "İkinci el"
+    },
+    {
+        "id": 75,
+        "word_english": "New arrival",
+        "word_turkish": "Yeni gelen"
+    }
+]

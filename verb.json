@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 1,
+        "word_english": "be",
+        "word_turkish": "olmak"
+    },
+    {
+        "id": 2,
+        "word_english": "have",
+        "word_turkish": "sahip olmak"
+    },
+    {
+        "id": 3,
+        "word_english": "do",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 4,
+        "word_english": "say",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 5,
+        "word_english": "get",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 6,
+        "word_english": "make",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 7,
+        "word_english": "know",
+        "word_turkish": "bilmek"
+    },
+    {
+        "id": 8,
+        "word_english": "think",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 9,
+        "word_english": "take",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 10,
+        "word_english": "see",
+        "word_turkish": "görmek"
+    },
+    {
+        "id": 11,
+        "word_english": "come",
+        "word_turkish": "gelmek"
+    },
+    {
+        "id": 12,
+        "word_english": "want",
+        "word_turkish": "istemek"
+    },
+    {
+        "id": 13,
+        "word_english": "look",
+        "word_turkish": "bakmak"
+    },
+    {
+        "id": 14,
+        "word_english": "use",
+        "word_turkish": "kullanmak"
+    },
+    {
+        "id": 15,
+        "word_english": "find",
+        "word_turkish": "bulmak"
+    },
+    {
+        "id": 16,
+        "word_english": "give",
+        "word_turkish": "vermek"
+    },
+    {
+        "id": 17,
+        "word_english": "tell",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 18,
+        "word_english": "work",
+        "word_turkish": "çalışmak"
+    },
+    {
+        "id": 19,
+        "word_english": "call",
+        "word_turkish": "aramak"
+    },
+    {
+        "id": 20,
+        "word_english": "try",
+        "word_turkish": "denemek"
+    },
+    {
+        "id": 21,
+        "word_english": "ask",
+        "word_turkish": "sormak"
+    },
+    {
+        "id": 22,
+        "word_english": "need",
+        "word_turkish": "ihtiyacı olmak"
+    },
+    {
+        "id": 23,
+        "word_english": "feel",
+        "word_turkish": "hissetmek"
+    },
+    {
+        "id": 24,
+        "word_english": "become",
+        "word_turkish": "olmak (hale gelmek)"
+    },
+    {
+        "id": 25,
+        "word_english": "leave",
+        "word_turkish": "ayrılmak"
+    },
+    {
+        "id": 26,
+        "word_english": "put",
+        "word_turkish": "koymak"
+    },
+    {
+        "id": 27,
+        "word_english": "mean",
+        "word_turkish": "anlamına gelmek"
+    },
+    {
+        "id": 28,
+        "word_english": "keep",
+        "word_turkish": "saklamak"
+    },
+    {
+        "id": 29,
+        "word_english": "let",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 30,
+        "word_english": "begin",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 31,
+        "word_english": "seem",
+        "word_turkish": "görünmek"
+    },
+    {
+        "id": 32,
+        "word_english": "help",
+        "word_turkish": "yardım etmek"
+    },
+    {
+        "id": 33,
+        "word_english": "talk",
+        "word_turkish": "konuşmak"
+    },
+    {
+        "id": 34,
+        "word_english": "turn",
+        "word_turkish": "dönmek"
+    },
+    {
+        "id": 35,
+        "word_english": "start",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 36,
+        "word_english": "show",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 37,
+        "word_english": "hear",
+        "word_turkish": "duymak"
+    },
+    {
+        "id": 38,
+        "word_english": "play",
+        "word_turkish": "oynamak"
+    },
+    {
+        "id": 39,
+        "word_english": "run",
+        "word_turkish": "koşmak"
+    },
+    {
+        "id": 40,
+        "word_english": "move",
+        "word_turkish": "hareket etmek"
+    },
+    {
+        "id": 41,
+        "word_english": "like",
+        "word_turkish": "beğenmek"
+    },
+    {
+        "id": 42,
+        "word_english": "live",
+        "word_turkish": "yaşamak"
+    },
+    {
+        "id": 43,
+        "word_english": "believe",
+        "word_turkish": "inanmak"
+    },
+    {
+        "id": 44,
+        "word_english": "hold",
+        "word_turkish": "tutmak"
+    },
+    {
+        "id": 45,
+        "word_english": "bring",
+        "word_turkish": "getirmek"
+    },
+    {
+        "id": 46,
+        "word_english": "happen",
+        "word_turkish": "olmak"
+    },
+    {
+        "id": 47,
+        "word_english": "must",
+        "word_turkish": "-meli, -malı"
+    },
+    {
+        "id": 48,
+        "word_english": "write",
+        "word_turkish": "yazmak"
+    },
+    {
+        "id": 49,
+        "word_english": "provide",
+        "word_turkish": "sağlamak"
+    },
+    {
+        "id": 50,
+        "word_english": "sit",
+        "word_turkish": "oturmak"
+    },
+    {
+        "id": 51,
+        "word_english": "stand",
+        "word_turkish": "ayakta durmak"
+    },
+    {
+        "id": 52,
+        "word_english": "lose",
+        "word_turkish": "kaybetmek"
+    },
+    {
+        "id": 53,
+        "word_english": "pay",
+        "word_turkish": "ödemek"
+    },
+    {
+        "id": 54,
+        "word_english": "meet",
+        "word_turkish": "tanışmak"
+    },
+    {
+        "id": 55,
+        "word_english": "include",
+        "word_turkish": "içermek"
+    },
+    {
+        "id": 56,
+        "word_english": "continue",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 57,
+        "word_english": "set",
+        "word_turkish": "ayarlamak"
+    },
+    {
+        "id": 58,
+        "word_english": "learn",
+        "word_turkish": "öğrenmek"
+    },
+    {
+        "id": 59,
+        "word_english": "change",
+        "word_turkish": "değişmek"
+    },
+    {
+        "id": 60,
+        "word_english": "lead",
+        "word_turkish": "yönetmek"
+    },
+    {
+        "id": 61,
+        "word_english": "understand",
+        "word_turkish": "anlamak"
+    },
+    {
+        "id": 62,
+        "word_english": "watch",
+        "word_turkish": "izlemek"
+    },
+    {
+        "id": 63,
+        "word_english": "follow",
+        "word_turkish": "takip etmek"
+    },
+    {
+        "id": 64,
+        "word_english": "stop",
+        "word_turkish": "durmak"
+    },
+    {
+        "id": 65,
+        "word_english": "create",
+        "word_turkish": "oluşturmak"
+    },
+    {
+        "id": 66,
+        "word_english": "speak",
+        "word_turkish": "konuşmak"
+    },
+    {
+        "id": 67,
+        "word_english": "read",
+        "word_turkish": "okumak"
+    },
+    {
+        "id": 68,
+        "word_english": "allow",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 69,
+        "word_english": "add",
+        "word_turkish": "eklemek"
+    },
+    {
+        "id": 70,
+        "word_english": "spend",
+        "word_turkish": "harcamak"
+    },
+    {
+        "id": 71,
+        "word_english": "grow",
+        "word_turkish": "büyümek"
+    },
+    {
+        "id": 72,
+        "word_english": "open",
+        "word_turkish": "açmak"
+    },
+    {
+        "id": 73,
+        "word_english": "walk",
+        "word_turkish": "yürümek"
+    },
+    {
+        "id": 74,
+        "word_english": "win",
+        "word_turkish": "kazanmak"
+    },
+    {
+        "id": 75,
+        "word_english": "offer",
+        "word_turkish": "teklif etmek"
+    },
+    {
+        "id": 76,
+        "word_english": "remember",
+        "word_turkish": "hatırlamak"
+    },
+    {
+        "id": 77,
+        "word_english": "love",
+        "word_turkish": "sevmek"
+    },
+    {
+        "id": 78,
+        "word_english": "consider",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 79,
+        "word_english": "appear",
+        "word_turkish": "görünmek"
+    },
+    {
+        "id": 80,
+        "word_english": "buy",
+        "word_turkish": "satın almak"
+    },
+    {
+        "id": 81,
+        "word_english": "wait",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 82,
+        "word_english": "serve",
+        "word_turkish": "hizmet etmek"
+    },
+    {
+        "id": 83,
+        "word_english": "die",
+        "word_turkish": "ölmek"
+    },
+    {
+        "id": 84,
+        "word_english": "send",
+        "word_turkish": "göndermek"
+    },
+    {
+        "id": 85,
+        "word_english": "expect",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 86,
+        "word_english": "build",
+        "word_turkish": "inşa etmek"
+    },
+    {
+        "id": 87,
+        "word_english": "stay",
+        "word_turkish": "kalmak"
+    },
+    {
+        "id": 88,
+        "word_english": "fall",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 89,
+        "word_english": "cut",
+        "word_turkish": "kesmek"
+    },
+    {
+        "id": 90,
+        "word_english": "reach",
+        "word_turkish": "ulaşmak"
+    },
+    {
+        "id": 91,
+        "word_english": "kill",
+        "word_turkish": "öldürmek"
+    },
+    {
+        "id": 92,
+        "word_english": "remain",
+        "word_turkish": "kalmak"
+    },
+    {
+        "id": 93,
+        "word_english": "suggest",
+        "word_turkish": "önermek"
+    },
+    {
+        "id": 94,
+        "word_english": "raise",
+        "word_turkish": "yükseltmek"
+    },
+    {
+        "id": 95,
+        "word_english": "pass",
+        "word_turkish": "geçmek"
+    },
+    {
+        "id": 96,
+        "word_english": "sell",
+        "word_turkish": "satmak"
+    },
+    {
+        "id": 97,
+        "word_english": "require",
+        "word_turkish": "gerektirmek"
+    },
+    {
+        "id": 98,
+        "word_english": "report",
+        "word_turkish": "rapor etmek"
+    },
+    {
+        "id": 99,
+        "word_english": "decide",
+        "word_turkish": "karar vermek"
+    },
+    {
+        "id": 100,
+        "word_english": "pull",
+        "word_turkish": "çekmek"
+    },
+    {
+        "id": 101,
+        "word_english": "return",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 102,
+        "word_english": "explain",
+        "word_turkish": "açıklamak"
+    },
+    {
+        "id": 103,
+        "word_english": "hope",
+        "word_turkish": "ummak"
+    },
+    {
+        "id": 104,
+        "word_english": "develop",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 105,
+        "word_english": "carry",
+        "word_turkish": "taşımak"
+    },
+    {
+        "id": 106,
+        "word_english": "break",
+        "word_turkish": "kırmak"
+    },
+    {
+        "id": 107,
+        "word_english": "receive",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 108,
+        "word_english": "agree",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 109,
+        "word_english": "support",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 110,
+        "word_english": "hit",
+        "word_turkish": "vurmak"
+    },
+    {
+        "id": 111,
+        "word_english": "produce",
+        "word_turkish": "üretmek"
+    },
+    {
+        "id": 112,
+        "word_english": "eat",
+        "word_turkish": "yemek"
+    },
+    {
+        "id": 113,
+        "word_english": "cover",
+        "word_turkish": "örtmek"
+    },
+    {
+        "id": 114,
+        "word_english": "catch",
+        "word_turkish": "yakalamak"
+    },
+    {
+        "id": 115,
+        "word_english": "draw",
+        "word_turkish": "çizmek"
+    },
+    {
+        "id": 116,
+        "word_english": "choose",
+        "word_turkish": "seçmek"
+    },
+    {
+        "id": 117,
+        "word_english": "cause",
+        "word_turkish": "neden olmak"
+    },
+    {
+        "id": 118,
+        "word_english": "point",
+        "word_turkish": "işaret etmek"
+    },
+    {
+        "id": 119,
+        "word_english": "listen",
+        "word_turkish": "dinlemek"
+    },
+    {
+        "id": 120,
+        "word_english": "realize",
+        "word_turkish": "farkına varmak"
+    },
+    {
+        "id": 121,
+        "word_english": "place",
+        "word_turkish": "yerleştirmek"
+    },
+    {
+        "id": 122,
+        "word_english": "close",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 123,
+        "word_english": "involve",
+        "word_turkish": "dahil etmek"
+    },
+    {
+        "id": 124,
+        "word_english": "increase",
+        "word_turkish": "arttırmak"
+    },
+    {
+        "id": 125,
+        "word_english": "wish",
+        "word_turkish": "dilemek"
+    },
+    {
+        "id": 126,
+        "word_english": "fail",
+        "word_turkish": "başarısız olmak"
+    },
+    {
+        "id": 127,
+        "word_english": "announce",
+        "word_turkish": "duyurmak"
+    },
+    {
+        "id": 128,
+        "word_english": "examine",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 129,
+        "word_english": "demonstrate",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 130,
+        "word_english": "remember",
+        "word_turkish": "hatırlamak"
+    },
+    {
+        "id": 131,
+        "word_english": "claim",
+        "word_turkish": "iddia etmek"
+    },
+    {
+        "id": 132,
+        "word_english": "conclude",
+        "word_turkish": "sonuçlandırmak"
+    },
+    {
+        "id": 133,
+        "word_english": "accept",
+        "word_turkish": "kabul etmek"
+    },
+    {
+        "id": 134,
+        "word_english": "decide",
+        "word_turkish": "karar vermek"
+    },
+    {
+        "id": 135,
+        "word_english": "perform",
+        "word_turkish": "gerçekleştirmek"
+    },
+    {
+        "id": 136,
+        "word_english": "identify",
+        "word_turkish": "tanımlamak"
+    },
+    {
+        "id": 137,
+        "word_english": "indicate",
+        "word_turkish": "belirtmek"
+    },
+    {
+        "id": 138,
+        "word_english": "prevent",
+        "word_turkish": "önlemek"
+    },
+    {
+        "id": 139,
+        "word_english": "establish",
+        "word_turkish": "kurmak"
+    },
+    {
+        "id": 140,
+        "word_english": "examine",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 141,
+        "word_english": "succeed",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 142,
+        "word_english": "improve",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 143,
+        "word_english": "increase",
+        "word_turkish": "arttırmak"
+    },
+    {
+        "id": 144,
+        "word_english": "realize",
+        "word_turkish": "fark etmek"
+    },
+    {
+        "id": 145,
+        "word_english": "introduce",
+        "word_turkish": "tanıtmak"
+    },
+    {
+        "id": 146,
+        "word_english": "apply",
+        "word_turkish": "başvurmak"
+    },
+    {
+        "id": 147,
+        "word_english": "manage",
+        "word_turkish": "yönetmek"
+    },
+    {
+        "id": 148,
+        "word_english": "seek",
+        "word_turkish": "aramak"
+    },
+    {
+        "id": 149,
+        "word_english": "approach",
+        "word_turkish": "yaklaşmak"
+    },
+    {
+        "id": 150,
+        "word_english": "publish",
+        "word_turkish": "yayınlamak"
+    },
+    {
+        "id": 151,
+        "word_english": "respond",
+        "word_turkish": "yanıtlamak"
+    },
+    {
+        "id": 152,
+        "word_english": "control",
+        "word_turkish": "kontrol etmek"
+    },
+    {
+        "id": 153,
+        "word_english": "obtain",
+        "word_turkish": "elde etmek"
+    },
+    {
+        "id": 154,
+        "word_english": "examine",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 155,
+        "word_english": "ensure",
+        "word_turkish": "sağlamak"
+    },
+    {
+        "id": 156,
+        "word_english": "protect",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 157,
+        "word_english": "direct",
+        "word_turkish": "yönlendirmek"
+    },
+    {
+        "id": 158,
+        "word_english": "seek",
+        "word_turkish": "aramak"
+    },
+    {
+        "id": 159,
+        "word_english": "maintain",
+        "word_turkish": "sürdürmek"
+    },
+    {
+        "id": 160,
+        "word_english": "challenge",
+        "word_turkish": "meydan okumak"
+    },
+    {
+        "id": 161,
+        "word_english": "create",
+        "word_turkish": "oluşturmak"
+    },
+    {
+        "id": 162,
+        "word_english": "evaluate",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 163,
+        "word_english": "describe",
+        "word_turkish": "tanımlamak"
+    },
+    {
+        "id": 164,
+        "word_english": "achieve",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 165,
+        "word_english": "demand",
+        "word_turkish": "talep etmek"
+    },
+    {
+        "id": 166,
+        "word_english": "support",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 167,
+        "word_english": "seek",
+        "word_turkish": "aramak"
+    },
+    {
+        "id": 168,
+        "word_english": "conclude",
+        "word_turkish": "sonuçlandırmak"
+    },
+    {
+        "id": 169,
+        "word_english": "discover",
+        "word_turkish": "keşfetmek"
+    },
+    {
+        "id": 170,
+        "word_english": "examine",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 171,
+        "word_english": "identify",
+        "word_turkish": "tanımlamak"
+    },
+    {
+        "id": 172,
+        "word_english": "suffer",
+        "word_turkish": "acı çekmek"
+    },
+    {
+        "id": 173,
+        "word_english": "argue",
+        "word_turkish": "tartışmak"
+    },
+    {
+        "id": 174,
+        "word_english": "claim",
+        "word_turkish": "iddia etmek"
+    },
+    {
+        "id": 175,
+        "word_english": "adapt",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 176,
+        "word_english": "encourage",
+        "word_turkish": "teşvik etmek"
+    },
+    {
+        "id": 177,
+        "word_english": "predict",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 178,
+        "word_english": "support",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 179,
+        "word_english": "prepare",
+        "word_turkish": "hazırlamak"
+    },
+    {
+        "id": 180,
+        "word_english": "establish",
+        "word_turkish": "kurmak"
+    },
+    {
+        "id": 181,
+        "word_english": "reflect",
+        "word_turkish": "yansıtmak"
+    },
+    {
+        "id": 182,
+        "word_english": "suppose",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 183,
+        "word_english": "ignore",
+        "word_turkish": "göz ardı etmek"
+    },
+    {
+        "id": 184,
+        "word_english": "guess",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 185,
+        "word_english": "confirm",
+        "word_turkish": "onaylamak"
+    },
+    {
+        "id": 186,
+        "word_english": "review",
+        "word_turkish": "gözden geçirmek"
+    },
+    {
+        "id": 187,
+        "word_english": "assume",
+        "word_turkish": "farz etmek"
+    },
+    {
+        "id": 188,
+        "word_english": "celebrate",
+        "word_turkish": "kutlamak"
+    },
+    {
+        "id": 189,
+        "word_english": "assure",
+        "word_turkish": "garanti vermek"
+    },
+    {
+        "id": 190,
+        "word_english": "accept",
+        "word_turkish": "kabul etmek"
+    },
+    {
+        "id": 191,
+        "word_english": "assume",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 192,
+        "word_english": "defend",
+        "word_turkish": "savunmak"
+    },
+    {
+        "id": 193,
+        "word_english": "deny",
+        "word_turkish": "reddetmek"
+    },
+    {
+        "id": 194,
+        "word_english": "cope",
+        "word_turkish": "başa çıkmak"
+    },
+    {
+        "id": 195,
+        "word_english": "recommend",
+        "word_turkish": "önermek"
+    },
+    {
+        "id": 196,
+        "word_english": "reveal",
+        "word_turkish": "açığa çıkarmak"
+    },
+    {
+        "id": 197,
+        "word_english": "address",
+        "word_turkish": "hitap etmek"
+    },
+    {
+        "id": 198,
+        "word_english": "focus",
+        "word_turkish": "odaklanmak"
+    },
+    {
+        "id": 199,
+        "word_english": "appreciate",
+        "word_turkish": "takdir etmek"
+    },
+    {
+        "id": 200,
+        "word_english": "achieve",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 201,
+        "word_english": "invest",
+        "word_turkish": "yatırım yapmak"
+    },
+    {
+        "id": 202,
+        "word_english": "organize",
+        "word_turkish": "düzenlemek"
+    },
+    {
+        "id": 203,
+        "word_english": "contribute",
+        "word_turkish": "katkıda bulunmak"
+    },
+    {
+        "id": 204,
+        "word_english": "measure",
+        "word_turkish": "ölçmek"
+    },
+    {
+        "id": 205,
+        "word_english": "prefer",
+        "word_turkish": "tercih etmek"
+    },
+    {
+        "id": 206,
+        "word_english": "reflect",
+        "word_turkish": "yansıtmak"
+    },
+    {
+        "id": 207,
+        "word_english": "recall",
+        "word_turkish": "hatırlamak"
+    },
+    {
+        "id": 208,
+        "word_english": "assess",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 209,
+        "word_english": "insist",
+        "word_turkish": "ısrar etmek"
+    },
+    {
+        "id": 210,
+        "word_english": "expose",
+        "word_turkish": "maruz bırakmak"
+    },
+    {
+        "id": 211,
+        "word_english": "adapt",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 212,
+        "word_english": "approve",
+        "word_turkish": "onaylamak"
+    },
+    {
+        "id": 213,
+        "word_english": "deserve",
+        "word_turkish": "hak etmek"
+    },
+    {
+        "id": 214,
+        "word_english": "verify",
+        "word_turkish": "doğrulamak"
+    },
+    {
+        "id": 215,
+        "word_english": "explore",
+        "word_turkish": "keşfetmek"
+    },
+    {
+        "id": 216,
+        "word_english": "construct",
+        "word_turkish": "inşa etmek"
+    },
+    {
+        "id": 217,
+        "word_english": "reserve",
+        "word_turkish": "ayırmak"
+    },
+    {
+        "id": 218,
+        "word_english": "recover",
+        "word_turkish": "iyileşmek"
+    },
+    {
+        "id": 219,
+        "word_english": "preserve",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 220,
+        "word_english": "publish",
+        "word_turkish": "yayınlamak"
+    },
+    {
+        "id": 221,
+        "word_english": "restrict",
+        "word_turkish": "sınırlamak"
+    },
+    {
+        "id": 222,
+        "word_english": "locate",
+        "word_turkish": "bulmak"
+    },
+    {
+        "id": 223,
+        "word_english": "impose",
+        "word_turkish": "dayatmak"
+    },
+    {
+        "id": 224,
+        "word_english": "convey",
+        "word_turkish": "iletmek"
+    },
+    {
+        "id": 225,
+        "word_english": "sustain",
+        "word_turkish": "sürdürmek"
+    },
+    {
+        "id": 226,
+        "word_english": "resolve",
+        "word_turkish": "çözmek"
+    },
+    {
+        "id": 227,
+        "word_english": "exceed",
+        "word_turkish": "aşmak"
+    },
+    {
+        "id": 228,
+        "word_english": "consist",
+        "word_turkish": "oluşmak"
+    },
+    {
+        "id": 229,
+        "word_english": "surround",
+        "word_turkish": "çevrelemek"
+    },
+    {
+        "id": 230,
+        "word_english": "obtain",
+        "word_turkish": "elde etmek"
+    },
+    {
+        "id": 231,
+        "word_english": "promote",
+        "word_turkish": "terfi ettirmek"
+    },
+    {
+        "id": 232,
+        "word_english": "launch",
+        "word_turkish": "başlatmak"
+    },
+    {
+        "id": 233,
+        "word_english": "evaluate",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 234,
+        "word_english": "motivate",
+        "word_turkish": "motive etmek"
+    },
+    {
+        "id": 235,
+        "word_english": "anticipate",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 236,
+        "word_english": "calculate",
+        "word_turkish": "hesaplamak"
+    },
+    {
+        "id": 237,
+        "word_english": "implement",
+        "word_turkish": "uygulamak"
+    },
+    {
+        "id": 238,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 239,
+        "word_english": "distribute",
+        "word_turkish": "dağıtmak"
+    },
+    {
+        "id": 240,
+        "word_english": "generate",
+        "word_turkish": "üretmek"
+    },
+    {
+        "id": 241,
+        "word_english": "presume",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 242,
+        "word_english": "transform",
+        "word_turkish": "dönüştürmek"
+    },
+    {
+        "id": 243,
+        "word_english": "formulate",
+        "word_turkish": "formüle etmek"
+    },
+    {
+        "id": 244,
+        "word_english": "concentrate",
+        "word_turkish": "konsantre olmak"
+    },
+    {
+        "id": 245,
+        "word_english": "advocate",
+        "word_turkish": "savunmak"
+    },
+    {
+        "id": 246,
+        "word_english": "alter",
+        "word_turkish": "değiştirmek"
+    },
+    {
+        "id": 247,
+        "word_english": "clarify",
+        "word_turkish": "açıklığa kavuşturmak"
+    },
+    {
+        "id": 248,
+        "word_english": "suppress",
+        "word_turkish": "bastırmak"
+    },
+    {
+        "id": 249,
+        "word_english": "oblige",
+        "word_turkish": "zorunlu kılmak"
+    },
+    {
+        "id": 250,
+        "word_english": "expand",
+        "word_turkish": "genişletmek"
+    },
+    {
+        "id": 251,
+        "word_english": "trace",
+        "word_turkish": "izlemek"
+    },
+    {
+        "id": 252,
+        "word_english": "distinguish",
+        "word_turkish": "ayırt etmek"
+    },
+    {
+        "id": 253,
+        "word_english": "acknowledge",
+        "word_turkish": "kabul etmek"
+    },
+    {
+        "id": 254,
+        "word_english": "dictate",
+        "word_turkish": "dikte etmek"
+    },
+    {
+        "id": 255,
+        "word_english": "detect",
+        "word_turkish": "tespit etmek"
+    },
+    {
+        "id": 256,
+        "word_english": "absorb",
+        "word_turkish": "emmek"
+    },
+    {
+        "id": 257,
+        "word_english": "remind",
+        "word_turkish": "hatırlatmak"
+    },
+    {
+        "id": 258,
+        "word_english": "stimulate",
+        "word_turkish": "uyarmak"
+    },
+    {
+        "id": 259,
+        "word_english": "modify",
+        "word_turkish": "değiştirmek"
+    },
+    {
+        "id": 260,
+        "word_english": "interpret",
+        "word_turkish": "yorumlamak"
+    },
+    {
+        "id": 261,
+        "word_english": "defer",
+        "word_turkish": "ertelemek"
+    },
+    {
+        "id": 262,
+        "word_english": "neglect",
+        "word_turkish": "ihmal etmek"
+    },
+    {
+        "id": 263,
+        "word_english": "manipulate",
+        "word_turkish": "manipüle etmek"
+    },
+    {
+        "id": 264,
+        "word_english": "reinforce",
+        "word_turkish": "pekiştirmek"
+    },
+    {
+        "id": 265,
+        "word_english": "optimize",
+        "word_turkish": "optimize etmek"
+    },
+    {
+        "id": 266,
+        "word_english": "utilize",
+        "word_turkish": "kullanmak"
+    },
+    {
+        "id": 267,
+        "word_english": "assert",
+        "word_turkish": "iddia etmek"
+    },
+    {
+        "id": 268,
+        "word_english": "sacrifice",
+        "word_turkish": "feda etmek"
+    },
+    {
+        "id": 269,
+        "word_english": "substitute",
+        "word_turkish": "yerine geçmek"
+    },
+    {
+        "id": 270,
+        "word_english": "counter",
+        "word_turkish": "karşı koymak"
+    },
+    {
+        "id": 271,
+        "word_english": "enhance",
+        "word_turkish": "arttırmak"
+    },
+    {
+        "id": 272,
+        "word_english": "rectify",
+        "word_turkish": "düzeltmek"
+    },
+    {
+        "id": 273,
+        "word_english": "elaborate",
+        "word_turkish": "detaylandırmak"
+    },
+    {
+        "id": 274,
+        "word_english": "divert",
+        "word_turkish": "yönlendirmek"
+    },
+    {
+        "id": 275,
+        "word_english": "acquire",
+        "word_turkish": "edinmek"
+    },
+    {
+        "id": 276,
+        "word_english": "illustrate",
+        "word_turkish": "örneklemek"
+    },
+    {
+        "id": 277,
+        "word_english": "overcome",
+        "word_turkish": "üstesinden gelmek"
+    },
+    {
+        "id": 278,
+        "word_english": "justify",
+        "word_turkish": "haklı çıkarmak"
+    },
+    {
+        "id": 279,
+        "word_english": "accumulate",
+        "word_turkish": "biriktirmek"
+    },
+    {
+        "id": 280,
+        "word_english": "correlate",
+        "word_turkish": "ilişkilendirmek"
+    },
+    {
+        "id": 281,
+        "word_english": "suspend",
+        "word_turkish": "askıya almak"
+    },
+    {
+        "id": 282,
+        "word_english": "induce",
+        "word_turkish": "teşvik etmek"
+    },
+    {
+        "id": 283,
+        "word_english": "retain",
+        "word_turkish": "muhafaza etmek"
+    },
+    {
+        "id": 284,
+        "word_english": "perceive",
+        "word_turkish": "algılamak"
+    },
+    {
+        "id": 285,
+        "word_english": "diverge",
+        "word_turkish": "sapmak"
+    },
+    {
+        "id": 286,
+        "word_english": "formulate",
+        "word_turkish": "formüle etmek"
+    },
+    {
+        "id": 287,
+        "word_english": "diagnose",
+        "word_turkish": "teşhis koymak"
+    },
+    {
+        "id": 288,
+        "word_english": "integrate",
+        "word_turkish": "bütünleştirmek"
+    },
+    {
+        "id": 289,
+        "word_english": "fluctuate",
+        "word_turkish": "dalgalanmak"
+    },
+    {
+        "id": 290,
+        "word_english": "comply",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 291,
+        "word_english": "simulate",
+        "word_turkish": "simüle etmek"
+    },
+    {
+        "id": 292,
+        "word_english": "consolidate",
+        "word_turkish": "sağlamlaştırmak"
+    },
+    {
+        "id": 293,
+        "word_english": "endorse",
+        "word_turkish": "onaylamak"
+    },
+    {
+        "id": 294,
+        "word_english": "evoke",
+        "word_turkish": "uyandırmak"
+    },
+    {
+        "id": 295,
+        "word_english": "adapt",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 296,
+        "word_english": "improvise",
+        "word_turkish": "doğaçlama yapmak"
+    },
+    {
+        "id": 297,
+        "word_english": "conceive",
+        "word_turkish": "tasarlamak"
+    },
+    {
+        "id": 298,
+        "word_english": "synthesize",
+        "word_turkish": "sentezlemek"
+    },
+    {
+        "id": 299,
+        "word_english": "mediate",
+        "word_turkish": "aracılık etmek"
+    },
+    {
+        "id": 300,
+        "word_english": "correspond",
+        "word_turkish": "karşılık gelmek"
+    },
+    {
+        "id": 301,
+        "word_english": "cooperate",
+        "word_turkish": "işbirliği yapmak"
+    },
+    {
+        "id": 302,
+        "word_english": "exhibit",
+        "word_turkish": "sergilemek"
+    },
+    {
+        "id": 303,
+        "word_english": "reveal",
+        "word_turkish": "açığa çıkarmak"
+    },
+    {
+        "id": 304,
+        "word_english": "speculate",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 305,
+        "word_english": "adopt",
+        "word_turkish": "benimsemek"
+    },
+    {
+        "id": 306,
+        "word_english": "compensate",
+        "word_turkish": "telafi etmek"
+    },
+    {
+        "id": 307,
+        "word_english": "contaminate",
+        "word_turkish": "kirletmek"
+    },
+    {
+        "id": 308,
+        "word_english": "investigate",
+        "word_turkish": "araştırmak"
+    },
+    {
+        "id": 309,
+        "word_english": "engage",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 310,
+        "word_english": "verify",
+        "word_turkish": "doğrulamak"
+    },
+    {
+        "id": 311,
+        "word_english": "exaggerate",
+        "word_turkish": "abartmak"
+    },
+    {
+        "id": 312,
+        "word_english": "engage",
+        "word_turkish": "meşgul etmek"
+    },
+    {
+        "id": 313,
+        "word_english": "emphasize",
+        "word_turkish": "vurgulamak"
+    },
+    {
+        "id": 314,
+        "word_english": "anticipate",
+        "word_turkish": "önceden bilmek"
+    },
+    {
+        "id": 315,
+        "word_english": "eliminate",
+        "word_turkish": "elemek"
+    },
+    {
+        "id": 316,
+        "word_english": "motivate",
+        "word_turkish": "güdülemek"
+    },
+    {
+        "id": 317,
+        "word_english": "utilize",
+        "word_turkish": "yararlanmak"
+    },
+    {
+        "id": 318,
+        "word_english": "underestimate",
+        "word_turkish": "küçümsemek"
+    },
+    {
+        "id": 319,
+        "word_english": "duplicate",
+        "word_turkish": "kopyalamak"
+    },
+    {
+        "id": 320,
+        "word_english": "instigate",
+        "word_turkish": "kışkırtmak"
+    },
+    {
+        "id": 321,
+        "word_english": "migrate",
+        "word_turkish": "göç etmek"
+    },
+    {
+        "id": 322,
+        "word_english": "navigate",
+        "word_turkish": "yön bulmak"
+    },
+    {
+        "id": 323,
+        "word_english": "operate",
+        "word_turkish": "işletmek"
+    },
+    {
+        "id": 324,
+        "word_english": "consolidate",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 325,
+        "word_english": "disclose",
+        "word_turkish": "açıklamak"
+    },
+    {
+        "id": 326,
+        "word_english": "deprive",
+        "word_turkish": "mahrum etmek"
+    },
+    {
+        "id": 327,
+        "word_english": "transform",
+        "word_turkish": "dönüştürmek"
+    },
+    {
+        "id": 328,
+        "word_english": "initiate",
+        "word_turkish": "başlatmak"
+    },
+    {
+        "id": 329,
+        "word_english": "depict",
+        "word_turkish": "tasvir etmek"
+    },
+    {
+        "id": 330,
+        "word_english": "critique",
+        "word_turkish": "eleştirmek"
+    },
+    {
+        "id": 331,
+        "word_english": "extract",
+        "word_turkish": "çıkarmak"
+    },
+    {
+        "id": 332,
+        "word_english": "convene",
+        "word_turkish": "toplanmak"
+    },
+    {
+        "id": 333,
+        "word_english": "extrapolate",
+        "word_turkish": "genellemek"
+    },
+    {
+        "id": 334,
+        "word_english": "intervene",
+        "word_turkish": "müdahale etmek"
+    },
+    {
+        "id": 335,
+        "word_english": "reassess",
+        "word_turkish": "yeniden değerlendirmek"
+    },
+    {
+        "id": 336,
+        "word_english": "reciprocate",
+        "word_turkish": "karşılık vermek"
+    },
+    {
+        "id": 337,
+        "word_english": "flourish",
+        "word_turkish": "gelişmek"
+    },
+    {
+        "id": 338,
+        "word_english": "cultivate",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 339,
+        "word_english": "quench",
+        "word_turkish": "dindirmek"
+    },
+    {
+        "id": 340,
+        "word_english": "quarantine",
+        "word_turkish": "karantinaya almak"
+    },
+    {
+        "id": 341,
+        "word_english": "presume",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 342,
+        "word_english": "conjecture",
+        "word_turkish": "varsayımda bulunmak"
+    },
+    {
+        "id": 343,
+        "word_english": "embark",
+        "word_turkish": "yola çıkmak"
+    },
+    {
+        "id": 344,
+        "word_english": "streamline",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 345,
+        "word_english": "safeguard",
+        "word_turkish": "koruma altına almak"
+    },
+    {
+        "id": 346,
+        "word_english": "propose",
+        "word_turkish": "öneride bulunmak"
+    },
+    {
+        "id": 347,
+        "word_english": "compromise",
+        "word_turkish": "uzlaşmak"
+    },
+    {
+        "id": 348,
+        "word_english": "differentiate",
+        "word_turkish": "ayırt etmek"
+    },
+    {
+        "id": 349,
+        "word_english": "compile",
+        "word_turkish": "derlemek"
+    },
+    {
+        "id": 350,
+        "word_english": "exploit",
+        "word_turkish": "sömürmek"
+    },
+    {
+        "id": 351,
+        "word_english": "negate",
+        "word_turkish": "yok saymak"
+    },
+    {
+        "id": 352,
+        "word_english": "curtail",
+        "word_turkish": "kısaltmak"
+    },
+    {
+        "id": 353,
+        "word_english": "fluctuate",
+        "word_turkish": "dalgalanmak"
+    },
+    {
+        "id": 354,
+        "word_english": "substantiate",
+        "word_turkish": "kanıtlamak"
+    },
+    {
+        "id": 355,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 356,
+        "word_english": "enforce",
+        "word_turkish": "uygulamak"
+    },
+    {
+        "id": 357,
+        "word_english": "arbitrate",
+        "word_turkish": "hakemlik yapmak"
+    },
+    {
+        "id": 358,
+        "word_english": "contemplate",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 359,
+        "word_english": "mitigate",
+        "word_turkish": "hafifletmek"
+    },
+    {
+        "id": 360,
+        "word_english": "diminish",
+        "word_turkish": "azaltmak"
+    },
+    {
+        "id": 361,
+        "word_english": "reiterate",
+        "word_turkish": "tekrar etmek"
+    },
+    {
+        "id": 362,
+        "word_english": "incorporate",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 363,
+        "word_english": "disrupt",
+        "word_turkish": "bozmak"
+    },
+    {
+        "id": 364,
+        "word_english": "activate",
+        "word_turkish": "etkinleştirmek"
+    },
+    {
+        "id": 365,
+        "word_english": "ascertain",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 366,
+        "word_english": "alleviate",
+        "word_turkish": "hafifletmek"
+    },
+    {
+        "id": 367,
+        "word_english": "forge",
+        "word_turkish": "şekil vermek"
+    },
+    {
+        "id": 368,
+        "word_english": "delegate",
+        "word_turkish": "delege etmek"
+    },
+    {
+        "id": 369,
+        "word_english": "exonerate",
+        "word_turkish": "aklamak"
+    },
+    {
+        "id": 370,
+        "word_english": "authorize",
+        "word_turkish": "yetkilendirmek"
+    },
+    {
+        "id": 371,
+        "word_english": "interpret",
+        "word_turkish": "yorumlamak"
+    },
+    {
+        "id": 372,
+        "word_english": "foresee",
+        "word_turkish": "öngörmek"
+    },
+    {
+        "id": 373,
+        "word_english": "conclude",
+        "word_turkish": "sonuçlandırmak"
+    },
+    {
+        "id": 374,
+        "word_english": "oppose",
+        "word_turkish": "karşı çıkmak"
+    },
+    {
+        "id": 375,
+        "word_english": "speculate",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 376,
+        "word_english": "procrastinate",
+        "word_turkish": "ertelemek"
+    },
+    {
+        "id": 377,
+        "word_english": "advocate",
+        "word_turkish": "savunmak"
+    },
+    {
+        "id": 378,
+        "word_english": "demonstrate",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 379,
+        "word_english": "articulate",
+        "word_turkish": "açıkça ifade etmek"
+    },
+    {
+        "id": 380,
+        "word_english": "apprehend",
+        "word_turkish": "yakalamak"
+    },
+    {
+        "id": 381,
+        "word_english": "negotiate",
+        "word_turkish": "müzakere etmek"
+    },
+    {
+        "id": 382,
+        "word_english": "resist",
+        "word_turkish": "karşı koymak"
+    },
+    {
+        "id": 383,
+        "word_english": "preserve",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 384,
+        "word_english": "reconcile",
+        "word_turkish": "uzlaştırmak"
+    },
+    {
+        "id": 385,
+        "word_english": "elucidate",
+        "word_turkish": "açıklığa kavuşturmak"
+    },
+    {
+        "id": 386,
+        "word_english": "calculate",
+        "word_turkish": "hesaplamak"
+    },
+    {
+        "id": 387,
+        "word_english": "authenticate",
+        "word_turkish": "doğrulamak"
+    },
+    {
+        "id": 388,
+        "word_english": "implement",
+        "word_turkish": "uygulamak"
+    },
+    {
+        "id": 389,
+        "word_english": "escalate",
+        "word_turkish": "arttırmak"
+    },
+    {
+        "id": 390,
+        "word_english": "transmit",
+        "word_turkish": "iletmek"
+    },
+    {
+        "id": 391,
+        "word_english": "postulate",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 392,
+        "word_english": "authenticate",
+        "word_turkish": "kimliğini doğrulamak"
+    },
+    {
+        "id": 393,
+        "word_english": "perpetuate",
+        "word_turkish": "sürdürülebilir hale getirmek"
+    },
+    {
+        "id": 394,
+        "word_english": "scrutinize",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 395,
+        "word_english": "instantiate",
+        "word_turkish": "örneklendirmek"
+    },
+    {
+        "id": 396,
+        "word_english": "transcend",
+        "word_turkish": "aşmak"
+    },
+    {
+        "id": 397,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 398,
+        "word_english": "perceive",
+        "word_turkish": "algılamak"
+    },
+    {
+        "id": 399,
+        "word_english": "eliminate",
+        "word_turkish": "elemek"
+    },
+    {
+        "id": 400,
+        "word_english": "summarize",
+        "word_turkish": "özetlemek"
+    },
+    {
+        "id": 401,
+        "word_english": "refine",
+        "word_turkish": "arıtmak"
+    },
+    {
+        "id": 402,
+        "word_english": "evaluate",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 403,
+        "word_english": "optimize",
+        "word_turkish": "optimize etmek"
+    },
+    {
+        "id": 404,
+        "word_english": "formulate",
+        "word_turkish": "formüle etmek"
+    },
+    {
+        "id": 405,
+        "word_english": "simulate",
+        "word_turkish": "simüle etmek"
+    },
+    {
+        "id": 406,
+        "word_english": "expedite",
+        "word_turkish": "hızlandırmak"
+    },
+    {
+        "id": 407,
+        "word_english": "speculate",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 408,
+        "word_english": "authenticate",
+        "word_turkish": "kimliğini doğrulamak"
+    },
+    {
+        "id": 409,
+        "word_english": "instruct",
+        "word_turkish": "talimat vermek"
+    },
+    {
+        "id": 410,
+        "word_english": "convey",
+        "word_turkish": "aktarmak"
+    },
+    {
+        "id": 411,
+        "word_english": "appreciate",
+        "word_turkish": "takdir etmek"
+    },
+    {
+        "id": 412,
+        "word_english": "persuade",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 413,
+        "word_english": "collaborate",
+        "word_turkish": "işbirliği yapmak"
+    },
+    {
+        "id": 414,
+        "word_english": "delegate",
+        "word_turkish": "delege etmek"
+    },
+    {
+        "id": 415,
+        "word_english": "initiate",
+        "word_turkish": "başlatmak"
+    },
+    {
+        "id": 416,
+        "word_english": "renovate",
+        "word_turkish": "yenilemek"
+    },
+    {
+        "id": 417,
+        "word_english": "compile",
+        "word_turkish": "derlemek"
+    },
+    {
+        "id": 418,
+        "word_english": "prescribe",
+        "word_turkish": "reçete yazmak"
+    },
+    {
+        "id": 419,
+        "word_english": "elucidate",
+        "word_turkish": "açıklığa kavuşturmak"
+    },
+    {
+        "id": 420,
+        "word_english": "defer",
+        "word_turkish": "ertelemek"
+    },
+    {
+        "id": 421,
+        "word_english": "disseminate",
+        "word_turkish": "yaymak"
+    },
+    {
+        "id": 422,
+        "word_english": "negotiate",
+        "word_turkish": "müzakere etmek"
+    },
+    {
+        "id": 423,
+        "word_english": "differentiate",
+        "word_turkish": "ayırt etmek"
+    },
+    {
+        "id": 424,
+        "word_english": "demand",
+        "word_turkish": "talep etmek"
+    },
+    {
+        "id": 425,
+        "word_english": "reiterate",
+        "word_turkish": "tekrar etmek"
+    },
+    {
+        "id": 426,
+        "word_english": "innovate",
+        "word_turkish": "yenilik yapmak"
+    },
+    {
+        "id": 427,
+        "word_english": "postulate",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 428,
+        "word_english": "adapt",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 429,
+        "word_english": "reinforce",
+        "word_turkish": "güçlendirmek"
+    },
+    {
+        "id": 430,
+        "word_english": "activate",
+        "word_turkish": "etkinleştirmek"
+    },
+    {
+        "id": 431,
+        "word_english": "cultivate",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 432,
+        "word_english": "maximize",
+        "word_turkish": "maksimize etmek"
+    },
+    {
+        "id": 433,
+        "word_english": "minimize",
+        "word_turkish": "minimize etmek"
+    },
+    {
+        "id": 434,
+        "word_english": "monitor",
+        "word_turkish": "izlemek"
+    },
+    {
+        "id": 435,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 436,
+        "word_english": "ameliorate",
+        "word_turkish": "iyileştirmek"
+    },
+    {
+        "id": 437,
+        "word_english": "foster",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 438,
+        "word_english": "generate",
+        "word_turkish": "oluşturmak"
+    },
+    {
+        "id": 439,
+        "word_english": "adapt",
+        "word_turkish": "uyarlamak"
+    },
+    {
+        "id": 440,
+        "word_english": "clarify",
+        "word_turkish": "açıklığa kavuşturmak"
+    },
+    {
+        "id": 441,
+        "word_english": "tackle",
+        "word_turkish": "ele almak"
+    },
+    {
+        "id": 442,
+        "word_english": "mediate",
+        "word_turkish": "arabuluculuk yapmak"
+    },
+    {
+        "id": 443,
+        "word_english": "oversee",
+        "word_turkish": "denetlemek"
+    },
+    {
+        "id": 444,
+        "word_english": "ascertain",
+        "word_turkish": "belirlemek"
+    },
+    {
+        "id": 445,
+        "word_english": "convince",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 446,
+        "word_english": "allocate",
+        "word_turkish": "tahsis etmek"
+    },
+    {
+        "id": 447,
+        "word_english": "achieve",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 448,
+        "word_english": "secure",
+        "word_turkish": "güvence altına almak"
+    },
+    {
+        "id": 449,
+        "word_english": "entail",
+        "word_turkish": "gerektirmek"
+    },
+    {
+        "id": 450,
+        "word_english": "convene",
+        "word_turkish": "toplanmak"
+    },
+    {
+        "id": 451,
+        "word_english": "generate",
+        "word_turkish": "üretmek"
+    },
+    {
+        "id": 452,
+        "word_english": "curtail",
+        "word_turkish": "kısıtlamak"
+    },
+    {
+        "id": 453,
+        "word_english": "evaluate",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 454,
+        "word_english": "strategize",
+        "word_turkish": "strateji geliştirmek"
+    },
+    {
+        "id": 455,
+        "word_english": "implement",
+        "word_turkish": "uygulamak"
+    },
+    {
+        "id": 456,
+        "word_english": "consolidate",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 457,
+        "word_english": "persuade",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 458,
+        "word_english": "collaborate",
+        "word_turkish": "işbirliği yapmak"
+    },
+    {
+        "id": 459,
+        "word_english": "differentiate",
+        "word_turkish": "farklılaştırmak"
+    },
+    {
+        "id": 460,
+        "word_english": "eliminate",
+        "word_turkish": "ortadan kaldırmak"
+    },
+    {
+        "id": 461,
+        "word_english": "anticipate",
+        "word_turkish": "öngörmek"
+    },
+    {
+        "id": 462,
+        "word_english": "maximize",
+        "word_turkish": "maksimize etmek"
+    },
+    {
+        "id": 463,
+        "word_english": "oversee",
+        "word_turkish": "gözlemlemek"
+    },
+    {
+        "id": 464,
+        "word_english": "substantiate",
+        "word_turkish": "kanıtlamak"
+    },
+    {
+        "id": 465,
+        "word_english": "reiterate",
+        "word_turkish": "tekrar etmek"
+    },
+    {
+        "id": 466,
+        "word_english": "authenticate",
+        "word_turkish": "doğrulamak"
+    },
+    {
+        "id": 467,
+        "word_english": "reaffirm",
+        "word_turkish": "yeniden teyit etmek"
+    },
+    {
+        "id": 468,
+        "word_english": "preserve",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 469,
+        "word_english": "transmit",
+        "word_turkish": "iletmek"
+    },
+    {
+        "id": 470,
+        "word_english": "engage",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 471,
+        "word_english": "illustrate",
+        "word_turkish": "örneklerle anlatmak"
+    },
+    {
+        "id": 472,
+        "word_english": "anticipate",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 473,
+        "word_english": "renounce",
+        "word_turkish": "feragat etmek"
+    },
+    {
+        "id": 474,
+        "word_english": "legitimize",
+        "word_turkish": "meşrulaştırmak"
+    },
+    {
+        "id": 475,
+        "word_english": "inspire",
+        "word_turkish": "ilham vermek"
+    },
+    {
+        "id": 476,
+        "word_english": "corroborate",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 477,
+        "word_english": "foster",
+        "word_turkish": "teşvik etmek"
+    },
+    {
+        "id": 478,
+        "word_english": "recruit",
+        "word_turkish": "işe almak"
+    },
+    {
+        "id": 479,
+        "word_english": "persuade",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 480,
+        "word_english": "influence",
+        "word_turkish": "etkilemek"
+    },
+    {
+        "id": 481,
+        "word_english": "calculate",
+        "word_turkish": "hesaplamak"
+    },
+    {
+        "id": 482,
+        "word_english": "prescribe",
+        "word_turkish": "reçete yazmak"
+    },
+    {
+        "id": 483,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 484,
+        "word_english": "entrench",
+        "word_turkish": "yerleşmek"
+    },
+    {
+        "id": 485,
+        "word_english": "discern",
+        "word_turkish": "ayırt etmek"
+    },
+    {
+        "id": 486,
+        "word_english": "diminish",
+        "word_turkish": "azaltmak"
+    },
+    {
+        "id": 487,
+        "word_english": "elicit",
+        "word_turkish": "ortaya çıkarmak"
+    },
+    {
+        "id": 488,
+        "word_english": "correlate",
+        "word_turkish": "ilişkilendirmek"
+    },
+    {
+        "id": 489,
+        "word_english": "extrapolate",
+        "word_turkish": "genellemek"
+    },
+    {
+        "id": 490,
+        "word_english": "compile",
+        "word_turkish": "derlemek"
+    },
+    {
+        "id": 491,
+        "word_english": "synthesize",
+        "word_turkish": "sentezlemek"
+    },
+    {
+        "id": 492,
+        "word_english": "perpetuate",
+        "word_turkish": "devam ettirmek"
+    },
+    {
+        "id": 493,
+        "word_english": "cultivate",
+        "word_turkish": "yetiştirmek"
+    },
+    {
+        "id": 494,
+        "word_english": "illustrate",
+        "word_turkish": "görselleştirmek"
+    },
+    {
+        "id": 495,
+        "word_english": "assemble",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 496,
+        "word_english": "decompose",
+        "word_turkish": "parçalara ayırmak"
+    },
+    {
+        "id": 497,
+        "word_english": "assimilate",
+        "word_turkish": "özümsemek"
+    },
+    {
+        "id": 498,
+        "word_english": "facilitate",
+        "word_turkish": "kolaylaştırmak"
+    },
+    {
+        "id": 499,
+        "word_english": "reform",
+        "word_turkish": "reform yapmak"
+    },
+    {
+        "id": 500,
+        "word_english": "ameliorate",
+        "word_turkish": "iyileştirmek"
+    }
+]

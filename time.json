@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "word_english": "Time",
+        "word_turkish": "Zaman"
+    },
+    {
+        "id": 2,
+        "word_english": "Hour",
+        "word_turkish": "Saat"
+    },
+    {
+        "id": 3,
+        "word_english": "Minute",
+        "word_turkish": "Dakika"
+    },
+    {
+        "id": 4,
+        "word_english": "Second",
+        "word_turkish": "Saniye"
+    },
+    {
+        "id": 5,
+        "word_english": "Day",
+        "word_turkish": "Gün"
+    },
+    {
+        "id": 6,
+        "word_english": "Week",
+        "word_turkish": "Hafta"
+    },
+    {
+        "id": 7,
+        "word_english": "Month",
+        "word_turkish": "Ay"
+    },
+    {
+        "id": 8,
+        "word_english": "Year",
+        "word_turkish": "Yıl"
+    },
+    {
+        "id": 9,
+        "word_english": "Decade",
+        "word_turkish": "On yıl"
+    },
+    {
+        "id": 10,
+        "word_english": "Century",
+        "word_turkish": "Yüzyıl"
+    },
+    {
+        "id": 11,
+        "word_english": "Millennium",
+        "word_turkish": "Bin yıl"
+    },
+    {
+        "id": 12,
+        "word_english": "Past",
+        "word_turkish": "Geçmiş"
+    },
+    {
+        "id": 13,
+        "word_english": "Present",
+        "word_turkish": "Şimdi"
+    },
+    {
+        "id": 14,
+        "word_english": "Future",
+        "word_turkish": "Gelecek"
+    },
+    {
+        "id": 15,
+        "word_english": "Morning",
+        "word_turkish": "Sabah"
+    },
+    {
+        "id": 16,
+        "word_english": "Afternoon",
+        "word_turkish": "Öğleden sonra"
+    },
+    {
+        "id": 17,
+        "word_english": "Evening",
+        "word_turkish": "Akşam"
+    },
+    {
+        "id": 18,
+        "word_english": "Night",
+        "word_turkish": "Gece"
+    },
+    {
+        "id": 19,
+        "word_english": "Midnight",
+        "word_turkish": "Gece yarısı"
+    },
+    {
+        "id": 20,
+        "word_english": "Noon",
+        "word_turkish": "Öğle"
+    },
+    {
+        "id": 21,
+        "word_english": "Sunrise",
+        "word_turkish": "Gün doğumu"
+    },
+    {
+        "id": 22,
+        "word_english": "Sunset",
+        "word_turkish": "Gün batımı"
+    },
+    {
+        "id": 23,
+        "word_english": "Dawn",
+        "word_turkish": "Şafak"
+    },
+    {
+        "id": 24,
+        "word_english": "Dusk",
+        "word_turkish": "Alacakaranlık"
+    },
+    {
+        "id": 25,
+        "word_english": "Moment",
+        "word_turkish": "An"
+    },
+    {
+        "id": 26,
+        "word_english": "Instant",
+        "word_turkish": "Anlık"
+    },
+    {
+        "id": 27,
+        "word_english": "Era",
+        "word_turkish": "Çağ"
+    },
+    {
+        "id": 28,
+        "word_english": "Epoch",
+        "word_turkish": "Devir"
+    },
+    {
+        "id": 29,
+        "word_english": "Age",
+        "word_turkish": "Çağ"
+    },
+    {
+        "id": 30,
+        "word_english": "Quarter",
+        "word_turkish": "Çeyrek"
+    },
+    {
+        "id": 31,
+        "word_english": "Half",
+        "word_turkish": "Yarım"
+    },
+    {
+        "id": 32,
+        "word_english": "Duration",
+        "word_turkish": "Süre"
+    },
+    {
+        "id": 33,
+        "word_english": "Interval",
+        "word_turkish": "Aralık"
+    },
+    {
+        "id": 34,
+        "word_english": "Period",
+        "word_turkish": "Dönem"
+    },
+    {
+        "id": 35,
+        "word_english": "Schedule",
+        "word_turkish": "Program"
+    },
+    {
+        "id": 36,
+        "word_english": "Calendar",
+        "word_turkish": "Takvim"
+    },
+    {
+        "id": 37,
+        "word_english": "Timeline",
+        "word_turkish": "Zaman çizelgesi"
+    },
+    {
+        "id": 38,
+        "word_english": "Deadline",
+        "word_turkish": "Son tarih"
+    },
+    {
+        "id": 39,
+        "word_english": "Countdown",
+        "word_turkish": "Geri sayım"
+    },
+    {
+        "id": 40,
+        "word_english": "Cycle",
+        "word_turkish": "Döngü"
+    },
+    {
+        "id": 41,
+        "word_english": "Season",
+        "word_turkish": "Mevsim"
+    },
+    {
+        "id": 42,
+        "word_english": "Spring",
+        "word_turkish": "İlkbahar"
+    },
+    {
+        "id": 43,
+        "word_english": "Summer",
+        "word_turkish": "Yaz"
+    },
+    {
+        "id": 44,
+        "word_english": "Autumn",
+        "word_turkish": "Sonbahar"
+    },
+    {
+        "id": 45,
+        "word_english": "Winter",
+        "word_turkish": "Kış"
+    },
+    {
+        "id": 46,
+        "word_english": "Leap year",
+        "word_turkish": "Artık yıl"
+    },
+    {
+        "id": 47,
+        "word_english": "Solstice",
+        "word_turkish": "Gündönümü"
+    },
+    {
+        "id": 48,
+        "word_english": "Equinox",
+        "word_turkish": "Ekinoks"
+    },
+    {
+        "id": 49,
+        "word_english": "Century",
+        "word_turkish": "Yüzyıl"
+    },
+    {
+        "id": 50,
+        "word_english": "Millisecond",
+        "word_turkish": "Milisaniye"
+    },
+    {
+        "id": 51,
+        "word_english": "Nanosecond",
+        "word_turkish": "Nanosaniye"
+    },
+    {
+        "id": 52,
+        "word_english": "Era",
+        "word_turkish": "Dönem"
+    },
+    {
+        "id": 53,
+        "word_english": "Frequency",
+        "word_turkish": "Frekans"
+    },
+    {
+        "id": 54,
+        "word_english": "Session",
+        "word_turkish": "Oturum"
+    },
+    {
+        "id": 55,
+        "word_english": "Phase",
+        "word_turkish": "Aşama"
+    },
+    {
+        "id": 56,
+        "word_english": "Chronology",
+        "word_turkish": "Kronoloji"
+    },
+    {
+        "id": 57,
+        "word_english": "Punctual",
+        "word_turkish": "Dakik"
+    },
+    {
+        "id": 58,
+        "word_english": "Temporal",
+        "word_turkish": "Zamansal"
+    },
+    {
+        "id": 59,
+        "word_english": "Eternal",
+        "word_turkish": "Ebedi"
+    },
+    {
+        "id": 60,
+        "word_english": "Transient",
+        "word_turkish": "Geçici"
+    },
+    {
+        "id": 61,
+        "word_english": "Timely",
+        "word_turkish": "Zamanında"
+    },
+    {
+        "id": 62,
+        "word_english": "Timeless",
+        "word_turkish": "Zamansız"
+    },
+    {
+        "id": 63,
+        "word_english": "Chronicle",
+        "word_turkish": "Kronik"
+    },
+    {
+        "id": 64,
+        "word_english": "Era",
+        "word_turkish": "Çağ"
+    },
+    {
+        "id": 65,
+        "word_english": "Instantaneous",
+        "word_turkish": "Ani"
+    },
+    {
+        "id": 66,
+        "word_english": "Continuous",
+        "word_turkish": "Sürekli"
+    },
+    {
+        "id": 67,
+        "word_english": "Momentary",
+        "word_turkish": "Anlık"
+    },
+    {
+        "id": 68,
+        "word_english": "Lifetime",
+        "word_turkish": "Ömür"
+    },
+    {
+        "id": 69,
+        "word_english": "Annual",
+        "word_turkish": "Yıllık"
+    },
+    {
+        "id": 70,
+        "word_english": "Biannual",
+        "word_turkish": "İki yılda bir"
+    },
+    {
+        "id": 71,
+        "word_english": "Quarterly",
+        "word_turkish": "Üç ayda bir"
+    },
+    {
+        "id": 72,
+        "word_english": "Monthly",
+        "word_turkish": "Aylık"
+    },
+    {
+        "id": 73,
+        "word_english": "Daily",
+        "word_turkish": "Günlük"
+    },
+    {
+        "id": 74,
+        "word_english": "Hourly",
+        "word_turkish": "Saatlik"
+    },
+    {
+        "id": 75,
+        "word_english": "Decade",
+        "word_turkish": "On yıl"
+    },
+    {
+        "id": 76,
+        "word_english": "In the meantime",
+        "word_turkish": "Bu arada"
+    },
+    {
+        "id": 77,
+        "word_english": "Eventually",
+        "word_turkish": "Sonunda"
+    },
+    {
+        "id": 78,
+        "word_english": "Simultaneous",
+        "word_turkish": "Eşzamanlı"
+    },
+    {
+        "id": 79,
+        "word_english": "On time",
+        "word_turkish": "Zamanında"
+    },
+    {
+        "id": 80,
+        "word_english": "Every other day",
+        "word_turkish": "Gün aşırı"
+    }
+]

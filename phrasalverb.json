@@ -1,0 +1,2897 @@
+[
+    {
+        "id": 219,
+        "word_english": "ask around",
+        "word_turkish": "etrafa sormak"
+    },
+    {
+        "id": 220,
+        "word_english": "add up to",
+        "word_turkish": "toplamda bir sonuca ulaşmak"
+    },
+    {
+        "id": 221,
+        "word_english": "back up",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 222,
+        "word_english": "blow up",
+        "word_turkish": "patlamak"
+    },
+    {
+        "id": 223,
+        "word_english": "break down",
+        "word_turkish": "bozulmak"
+    },
+    {
+        "id": 224,
+        "word_english": "break in",
+        "word_turkish": "zorla girmek"
+    },
+    {
+        "id": 225,
+        "word_english": "break into",
+        "word_turkish": "zorla içeri girmek"
+    },
+    {
+        "id": 226,
+        "word_english": "break out",
+        "word_turkish": "patlak vermek"
+    },
+    {
+        "id": 227,
+        "word_english": "bring up",
+        "word_turkish": "gündeme getirmek"
+    },
+    {
+        "id": 228,
+        "word_english": "call back",
+        "word_turkish": "geri aramak"
+    },
+    {
+        "id": 229,
+        "word_english": "call off",
+        "word_turkish": "iptal etmek"
+    },
+    {
+        "id": 230,
+        "word_english": "call up",
+        "word_turkish": "telefonla aramak"
+    },
+    {
+        "id": 231,
+        "word_english": "calm down",
+        "word_turkish": "sakinleşmek"
+    },
+    {
+        "id": 232,
+        "word_english": "catch up",
+        "word_turkish": "yetişmek"
+    },
+    {
+        "id": 233,
+        "word_english": "check in",
+        "word_turkish": "giriş yapmak"
+    },
+    {
+        "id": 234,
+        "word_english": "check out",
+        "word_turkish": "çıkış yapmak"
+    },
+    {
+        "id": 235,
+        "word_english": "chip in",
+        "word_turkish": "katkıda bulunmak"
+    },
+    {
+        "id": 236,
+        "word_english": "clean up",
+        "word_turkish": "temizlemek"
+    },
+    {
+        "id": 237,
+        "word_english": "come across",
+        "word_turkish": "karşılaşmak"
+    },
+    {
+        "id": 238,
+        "word_english": "come apart",
+        "word_turkish": "dağılmak"
+    },
+    {
+        "id": 239,
+        "word_english": "come down with",
+        "word_turkish": "hastalanmak"
+    },
+    {
+        "id": 240,
+        "word_english": "come forward",
+        "word_turkish": "yardıma gönüllü olmak"
+    },
+    {
+        "id": 241,
+        "word_english": "count on",
+        "word_turkish": "güvenmek"
+    },
+    {
+        "id": 242,
+        "word_english": "cross out",
+        "word_turkish": "üstünü çizmek"
+    },
+    {
+        "id": 243,
+        "word_english": "cut back on",
+        "word_turkish": "azaltmak"
+    },
+    {
+        "id": 244,
+        "word_english": "cut down on",
+        "word_turkish": "daha az kullanmak"
+    },
+    {
+        "id": 245,
+        "word_english": "cut in",
+        "word_turkish": "sözünü kesmek"
+    },
+    {
+        "id": 246,
+        "word_english": "cut off",
+        "word_turkish": "kesmek, durdurmak"
+    },
+    {
+        "id": 247,
+        "word_english": "do over",
+        "word_turkish": "tekrar yapmak"
+    },
+    {
+        "id": 248,
+        "word_english": "do without",
+        "word_turkish": "olmadan idare etmek"
+    },
+    {
+        "id": 249,
+        "word_english": "dress up",
+        "word_turkish": "giyinmek"
+    },
+    {
+        "id": 250,
+        "word_english": "drop by",
+        "word_turkish": "uğramak"
+    },
+    {
+        "id": 251,
+        "word_english": "drop off",
+        "word_turkish": "bırakmak"
+    },
+    {
+        "id": 252,
+        "word_english": "end up",
+        "word_turkish": "sonuçlanmak"
+    },
+    {
+        "id": 253,
+        "word_english": "fall apart",
+        "word_turkish": "dağılmak"
+    },
+    {
+        "id": 254,
+        "word_english": "fall down",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 255,
+        "word_english": "figure out",
+        "word_turkish": "çözmek"
+    },
+    {
+        "id": 256,
+        "word_english": "find out",
+        "word_turkish": "öğrenmek"
+    },
+    {
+        "id": 257,
+        "word_english": "fill in",
+        "word_turkish": "form doldurmak"
+    },
+    {
+        "id": 258,
+        "word_english": "fill out",
+        "word_turkish": "formu doldurmak"
+    },
+    {
+        "id": 259,
+        "word_english": "fill up",
+        "word_turkish": "tamamen doldurmak"
+    },
+    {
+        "id": 260,
+        "word_english": "get along",
+        "word_turkish": "iyi geçinmek"
+    },
+    {
+        "id": 261,
+        "word_english": "get around",
+        "word_turkish": "dolaşmak"
+    },
+    {
+        "id": 262,
+        "word_english": "get away",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 263,
+        "word_english": "get back",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 264,
+        "word_english": "get over",
+        "word_turkish": "atlatmak"
+    },
+    {
+        "id": 265,
+        "word_english": "give away",
+        "word_turkish": "bağışlamak"
+    },
+    {
+        "id": 266,
+        "word_english": "give back",
+        "word_turkish": "geri vermek"
+    },
+    {
+        "id": 267,
+        "word_english": "give up",
+        "word_turkish": "vazgeçmek"
+    },
+    {
+        "id": 268,
+        "word_english": "go after",
+        "word_turkish": "peşinden gitmek"
+    },
+    {
+        "id": 269,
+        "word_english": "go against",
+        "word_turkish": "karşı gelmek"
+    },
+    {
+        "id": 270,
+        "word_english": "go ahead",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 271,
+        "word_english": "go back",
+        "word_turkish": "geri gitmek"
+    },
+    {
+        "id": 272,
+        "word_english": "go over",
+        "word_turkish": "gözden geçirmek"
+    },
+    {
+        "id": 273,
+        "word_english": "go through",
+        "word_turkish": "yaşamak"
+    },
+    {
+        "id": 274,
+        "word_english": "grow up",
+        "word_turkish": "büyümek"
+    },
+    {
+        "id": 275,
+        "word_english": "hand in",
+        "word_turkish": "teslim etmek"
+    },
+    {
+        "id": 276,
+        "word_english": "hand out",
+        "word_turkish": "dağıtmak"
+    },
+    {
+        "id": 277,
+        "word_english": "hang on",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 278,
+        "word_english": "hang out",
+        "word_turkish": "vakit geçirmek"
+    },
+    {
+        "id": 279,
+        "word_english": "hold back",
+        "word_turkish": "geri tutmak"
+    },
+    {
+        "id": 280,
+        "word_english": "hold on",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 281,
+        "word_english": "hold up",
+        "word_turkish": "geciktirmek"
+    },
+    {
+        "id": 282,
+        "word_english": "keep on",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 283,
+        "word_english": "keep up with",
+        "word_turkish": "ayak uydurmak"
+    },
+    {
+        "id": 284,
+        "word_english": "kick off",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 285,
+        "word_english": "let down",
+        "word_turkish": "hayal kırıklığına uğratmak"
+    },
+    {
+        "id": 286,
+        "word_english": "look after",
+        "word_turkish": "ilgilenmek"
+    },
+    {
+        "id": 287,
+        "word_english": "look down on",
+        "word_turkish": "hor görmek"
+    },
+    {
+        "id": 288,
+        "word_english": "look forward to",
+        "word_turkish": "dört gözle beklemek"
+    },
+    {
+        "id": 289,
+        "word_english": "look out",
+        "word_turkish": "dikkat etmek"
+    },
+    {
+        "id": 290,
+        "word_english": "look over",
+        "word_turkish": "incelemek"
+    },
+    {
+        "id": 291,
+        "word_english": "look up to",
+        "word_turkish": "saygı duymak"
+    },
+    {
+        "id": 292,
+        "word_english": "make up",
+        "word_turkish": "uydurmak"
+    },
+    {
+        "id": 293,
+        "word_english": "mix up",
+        "word_turkish": "karıştırmak"
+    },
+    {
+        "id": 294,
+        "word_english": "move in",
+        "word_turkish": "taşınmak"
+    },
+    {
+        "id": 295,
+        "word_english": "move out",
+        "word_turkish": "taşınmak"
+    },
+    {
+        "id": 296,
+        "word_english": "pass away",
+        "word_turkish": "vefat etmek"
+    },
+    {
+        "id": 297,
+        "word_english": "pass out",
+        "word_turkish": "bayılmak"
+    },
+    {
+        "id": 298,
+        "word_english": "pick up",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 299,
+        "word_english": "point out",
+        "word_turkish": "işaret etmek"
+    },
+    {
+        "id": 300,
+        "word_english": "put down",
+        "word_turkish": "yerine koymak"
+    },
+    {
+        "id": 301,
+        "word_english": "put off",
+        "word_turkish": "ertelemek"
+    },
+    {
+        "id": 302,
+        "word_english": "put up with",
+        "word_turkish": "katlanmak"
+    },
+    {
+        "id": 303,
+        "word_english": "run into",
+        "word_turkish": "karşılaşmak"
+    },
+    {
+        "id": 304,
+        "word_english": "run out of",
+        "word_turkish": "tükenmek"
+    },
+    {
+        "id": 305,
+        "word_english": "set up",
+        "word_turkish": "kurmak"
+    },
+    {
+        "id": 306,
+        "word_english": "show up",
+        "word_turkish": "ortaya çıkmak"
+    },
+    {
+        "id": 307,
+        "word_english": "shut down",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 308,
+        "word_english": "sort out",
+        "word_turkish": "çözmek"
+    },
+    {
+        "id": 309,
+        "word_english": "stand up",
+        "word_turkish": "ayağa kalkmak"
+    },
+    {
+        "id": 310,
+        "word_english": "stick to",
+        "word_turkish": "bağlı kalmak"
+    },
+    {
+        "id": 311,
+        "word_english": "take after",
+        "word_turkish": "benzemek"
+    },
+    {
+        "id": 312,
+        "word_english": "take apart",
+        "word_turkish": "parçalara ayırmak"
+    },
+    {
+        "id": 313,
+        "word_english": "take away",
+        "word_turkish": "götürmek"
+    },
+    {
+        "id": 314,
+        "word_english": "take care of",
+        "word_turkish": "ilgilenmek"
+    },
+    {
+        "id": 315,
+        "word_english": "take off",
+        "word_turkish": "havalanmak"
+    },
+    {
+        "id": 316,
+        "word_english": "take up",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 317,
+        "word_english": "think over",
+        "word_turkish": "iyice düşünmek"
+    },
+    {
+        "id": 318,
+        "word_english": "throw away",
+        "word_turkish": "atmak"
+    },
+    {
+        "id": 319,
+        "word_english": "turn down",
+        "word_turkish": "reddetmek"
+    },
+    {
+        "id": 320,
+        "word_english": "turn into",
+        "word_turkish": "dönüşmek"
+    },
+    {
+        "id": 321,
+        "word_english": "turn off",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 322,
+        "word_english": "turn on",
+        "word_turkish": "açmak"
+    },
+    {
+        "id": 323,
+        "word_english": "use up",
+        "word_turkish": "tüketmek"
+    },
+    {
+        "id": 324,
+        "word_english": "wake up",
+        "word_turkish": "uyanmak"
+    },
+    {
+        "id": 325,
+        "word_english": "warm up",
+        "word_turkish": "ısınmak"
+    },
+    {
+        "id": 326,
+        "word_english": "watch out",
+        "word_turkish": "dikkat etmek"
+    },
+    {
+        "id": 327,
+        "word_english": "work out",
+        "word_turkish": "antrenman yapmak"
+    },
+    {
+        "id": 328,
+        "word_english": "act up",
+        "word_turkish": "yaramazlık yapmak, sorun çıkarmak"
+    },
+    {
+        "id": 329,
+        "word_english": "ask for",
+        "word_turkish": "istemek"
+    },
+    {
+        "id": 330,
+        "word_english": "back down",
+        "word_turkish": "geri adım atmak"
+    },
+    {
+        "id": 331,
+        "word_english": "back out",
+        "word_turkish": "vazgeçmek"
+    },
+    {
+        "id": 332,
+        "word_english": "back out of",
+        "word_turkish": "bir şeyden caymak"
+    },
+    {
+        "id": 333,
+        "word_english": "back up",
+        "word_turkish": "geri çekilmek, desteklemek"
+    },
+    {
+        "id": 334,
+        "word_english": "bail out",
+        "word_turkish": "kurtarmak"
+    },
+    {
+        "id": 335,
+        "word_english": "bear down on",
+        "word_turkish": "baskı yapmak"
+    },
+    {
+        "id": 336,
+        "word_english": "bear on",
+        "word_turkish": "ilgili olmak"
+    },
+    {
+        "id": 337,
+        "word_english": "bear up",
+        "word_turkish": "dayanmak"
+    },
+    {
+        "id": 338,
+        "word_english": "bear up under",
+        "word_turkish": "zor bir durumda dayanmak"
+    },
+    {
+        "id": 339,
+        "word_english": "blow in",
+        "word_turkish": "çıkagelmek"
+    },
+    {
+        "id": 340,
+        "word_english": "blow over",
+        "word_turkish": "geçmek, sona ermek"
+    },
+    {
+        "id": 341,
+        "word_english": "blow up",
+        "word_turkish": "patlamak, küplere binmek"
+    },
+    {
+        "id": 342,
+        "word_english": "break away",
+        "word_turkish": "kaçmak, ayrılmak"
+    },
+    {
+        "id": 343,
+        "word_english": "break in",
+        "word_turkish": "zorla girmek"
+    },
+    {
+        "id": 344,
+        "word_english": "break into",
+        "word_turkish": "bir yere zorla girmek"
+    },
+    {
+        "id": 345,
+        "word_english": "break off",
+        "word_turkish": "kopmak, sonlandırmak"
+    },
+    {
+        "id": 346,
+        "word_english": "break out",
+        "word_turkish": "başlamak, patlak vermek"
+    },
+    {
+        "id": 347,
+        "word_english": "break out of",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 348,
+        "word_english": "break up",
+        "word_turkish": "ayrılmak, sona ermek"
+    },
+    {
+        "id": 349,
+        "word_english": "bring about",
+        "word_turkish": "sebep olmak"
+    },
+    {
+        "id": 350,
+        "word_english": "bring along",
+        "word_turkish": "yanında getirmek"
+    },
+    {
+        "id": 351,
+        "word_english": "bring around",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 352,
+        "word_english": "bring away",
+        "word_turkish": "ders çıkarmak"
+    },
+    {
+        "id": 353,
+        "word_english": "bring back",
+        "word_turkish": "geri getirmek"
+    },
+    {
+        "id": 354,
+        "word_english": "bring down",
+        "word_turkish": "aşağı çekmek, devirmek"
+    },
+    {
+        "id": 355,
+        "word_english": "bring forward",
+        "word_turkish": "öne sürmek"
+    },
+    {
+        "id": 356,
+        "word_english": "bring in",
+        "word_turkish": "getirmek"
+    },
+    {
+        "id": 357,
+        "word_english": "bring off",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 358,
+        "word_english": "bring on",
+        "word_turkish": "sebep olmak"
+    },
+    {
+        "id": 359,
+        "word_english": "bring out",
+        "word_turkish": "ortaya çıkarmak"
+    },
+    {
+        "id": 360,
+        "word_english": "bring over",
+        "word_turkish": "ikna etmek, yanında getirmek"
+    },
+    {
+        "id": 361,
+        "word_english": "bring to",
+        "word_turkish": "ayılmak, kendine gelmek"
+    },
+    {
+        "id": 362,
+        "word_english": "bring up",
+        "word_turkish": "gündeme getirmek, büyütmek"
+    },
+    {
+        "id": 363,
+        "word_english": "brush up on",
+        "word_turkish": "tazelemek, yenilemek"
+    },
+    {
+        "id": 364,
+        "word_english": "bump into",
+        "word_turkish": "tesadüfen karşılaşmak"
+    },
+    {
+        "id": 365,
+        "word_english": "burn down",
+        "word_turkish": "yanıp kül olmak"
+    },
+    {
+        "id": 366,
+        "word_english": "burn up",
+        "word_turkish": "yakmak, sinirlenmek"
+    },
+    {
+        "id": 367,
+        "word_english": "butt in",
+        "word_turkish": "sözünü kesmek"
+    },
+    {
+        "id": 368,
+        "word_english": "call for",
+        "word_turkish": "gerektirmek, istemek"
+    },
+    {
+        "id": 369,
+        "word_english": "call in",
+        "word_turkish": "yardım istemek, içeri almak"
+    },
+    {
+        "id": 370,
+        "word_english": "call off",
+        "word_turkish": "iptal etmek"
+    },
+    {
+        "id": 371,
+        "word_english": "call on",
+        "word_turkish": "ziyaret etmek, başvurmak"
+    },
+    {
+        "id": 372,
+        "word_english": "call up",
+        "word_turkish": "telefon etmek"
+    },
+    {
+        "id": 373,
+        "word_english": "calm down",
+        "word_turkish": "sakinleşmek"
+    },
+    {
+        "id": 374,
+        "word_english": "carry on",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 375,
+        "word_english": "carry out",
+        "word_turkish": "gerçekleştirmek"
+    },
+    {
+        "id": 376,
+        "word_english": "carry over",
+        "word_turkish": "aktarmak, ertelemek"
+    },
+    {
+        "id": 377,
+        "word_english": "catch on",
+        "word_turkish": "anlamak, popüler olmak"
+    },
+    {
+        "id": 378,
+        "word_english": "catch up with",
+        "word_turkish": "yetişmek"
+    },
+    {
+        "id": 379,
+        "word_english": "check back",
+        "word_turkish": "tekrar kontrol etmek"
+    },
+    {
+        "id": 380,
+        "word_english": "check in",
+        "word_turkish": "giriş yapmak"
+    },
+    {
+        "id": 381,
+        "word_english": "check into",
+        "word_turkish": "soruşturmak"
+    },
+    {
+        "id": 382,
+        "word_english": "check off",
+        "word_turkish": "işaretlemek"
+    },
+    {
+        "id": 383,
+        "word_english": "check on",
+        "word_turkish": "kontrol etmek"
+    },
+    {
+        "id": 384,
+        "word_english": "check out",
+        "word_turkish": "çıkış yapmak, gözden geçirmek"
+    },
+    {
+        "id": 385,
+        "word_english": "check over",
+        "word_turkish": "dikkatlice incelemek"
+    },
+    {
+        "id": 386,
+        "word_english": "check up on",
+        "word_turkish": "denetlemek"
+    },
+    {
+        "id": 387,
+        "word_english": "cheer up",
+        "word_turkish": "neşelendirmek"
+    },
+    {
+        "id": 388,
+        "word_english": "chip in",
+        "word_turkish": "katkıda bulunmak"
+    },
+    {
+        "id": 389,
+        "word_english": "clean up",
+        "word_turkish": "temizlemek"
+    },
+    {
+        "id": 390,
+        "word_english": "clear out",
+        "word_turkish": "boşaltmak"
+    },
+    {
+        "id": 391,
+        "word_english": "clear up",
+        "word_turkish": "açıklığa kavuşturmak"
+    },
+    {
+        "id": 392,
+        "word_english": "close down",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 393,
+        "word_english": "close in on",
+        "word_turkish": "yaklaşmak"
+    },
+    {
+        "id": 394,
+        "word_english": "close up",
+        "word_turkish": "yakınlaşmak, kapatmak"
+    },
+    {
+        "id": 395,
+        "word_english": "come about",
+        "word_turkish": "olmak, meydana gelmek"
+    },
+    {
+        "id": 396,
+        "word_english": "come across",
+        "word_turkish": "rastlamak"
+    },
+    {
+        "id": 397,
+        "word_english": "come along",
+        "word_turkish": "eşlik etmek"
+    },
+    {
+        "id": 398,
+        "word_english": "come apart",
+        "word_turkish": "dağılmak"
+    },
+    {
+        "id": 399,
+        "word_english": "come around",
+        "word_turkish": "uğramak, fikrini değiştirmek"
+    },
+    {
+        "id": 400,
+        "word_english": "come away",
+        "word_turkish": "uzaklaşmak"
+    },
+    {
+        "id": 401,
+        "word_english": "come back",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 402,
+        "word_english": "come by",
+        "word_turkish": "elde etmek, uğramak"
+    },
+    {
+        "id": 403,
+        "word_english": "come down",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 404,
+        "word_english": "come down on",
+        "word_turkish": "azarlamak"
+    },
+    {
+        "id": 405,
+        "word_english": "come down with",
+        "word_turkish": "hastalanmak"
+    },
+    {
+        "id": 406,
+        "word_english": "come forward",
+        "word_turkish": "öne çıkmak"
+    },
+    {
+        "id": 407,
+        "word_english": "come from",
+        "word_turkish": "-den gelmek"
+    },
+    {
+        "id": 408,
+        "word_english": "come in",
+        "word_turkish": "girmek"
+    },
+    {
+        "id": 409,
+        "word_english": "come into",
+        "word_turkish": "miras kalmak"
+    },
+    {
+        "id": 410,
+        "word_english": "come off",
+        "word_turkish": "başarıyla tamamlanmak"
+    },
+    {
+        "id": 411,
+        "word_english": "come on",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 412,
+        "word_english": "come out",
+        "word_turkish": "çıkmak, ortaya çıkmak"
+    },
+    {
+        "id": 413,
+        "word_english": "come over",
+        "word_turkish": "ziyaret etmek"
+    },
+    {
+        "id": 414,
+        "word_english": "come round",
+        "word_turkish": "uğramak, ayılmak"
+    },
+    {
+        "id": 415,
+        "word_english": "come through",
+        "word_turkish": "başarmak, atlatmak"
+    },
+    {
+        "id": 416,
+        "word_english": "come to",
+        "word_turkish": "varmak, kendine gelmek"
+    },
+    {
+        "id": 417,
+        "word_english": "come up",
+        "word_turkish": "gündeme gelmek, ortaya çıkmak"
+    },
+    {
+        "id": 418,
+        "word_english": "come up against",
+        "word_turkish": "karşılaşmak, yüzleşmek"
+    },
+    {
+        "id": 419,
+        "word_english": "come up with",
+        "word_turkish": "çözüm bulmak"
+    },
+    {
+        "id": 420,
+        "word_english": "count on",
+        "word_turkish": "güvenmek"
+    },
+    {
+        "id": 421,
+        "word_english": "cross out",
+        "word_turkish": "üstünü çizmek"
+    },
+    {
+        "id": 422,
+        "word_english": "cut across",
+        "word_turkish": "kestirmeden gitmek"
+    },
+    {
+        "id": 423,
+        "word_english": "cut back",
+        "word_turkish": "azaltmak"
+    },
+    {
+        "id": 424,
+        "word_english": "cut back on",
+        "word_turkish": "tasarruf etmek"
+    },
+    {
+        "id": 425,
+        "word_english": "cut down",
+        "word_turkish": "azaltmak, kesmek"
+    },
+    {
+        "id": 426,
+        "word_english": "cut down on",
+        "word_turkish": "daha az kullanmak"
+    },
+    {
+        "id": 427,
+        "word_english": "cut in",
+        "word_turkish": "müdahale etmek, lafa karışmak"
+    },
+    {
+        "id": 428,
+        "word_english": "cut off",
+        "word_turkish": "kesmek"
+    },
+    {
+        "id": 429,
+        "word_english": "cut out",
+        "word_turkish": "çıkarmak, kesip almak"
+    },
+    {
+        "id": 430,
+        "word_english": "cut up",
+        "word_turkish": "doğramak, dilimlemek"
+    },
+    {
+        "id": 431,
+        "word_english": "deal with",
+        "word_turkish": "uğraşmak, başa çıkmak"
+    },
+    {
+        "id": 432,
+        "word_english": "die away",
+        "word_turkish": "yavaş yavaş yok olmak"
+    },
+    {
+        "id": 433,
+        "word_english": "die down",
+        "word_turkish": "yatışmak, sakinleşmek"
+    },
+    {
+        "id": 434,
+        "word_english": "die off",
+        "word_turkish": "teker teker yok olmak"
+    },
+    {
+        "id": 435,
+        "word_english": "die out",
+        "word_turkish": "soyu tükenmek"
+    },
+    {
+        "id": 436,
+        "word_english": "dig into",
+        "word_turkish": "detaylı incelemek, kurcalamak"
+    },
+    {
+        "id": 437,
+        "word_english": "dig up",
+        "word_turkish": "kazıp çıkarmak, ortaya çıkarmak"
+    },
+    {
+        "id": 438,
+        "word_english": "do away with",
+        "word_turkish": "yok etmek, kurtulmak"
+    },
+    {
+        "id": 439,
+        "word_english": "do over",
+        "word_turkish": "tekrar yapmak"
+    },
+    {
+        "id": 440,
+        "word_english": "do up",
+        "word_turkish": "bağlamak, iliklemek, restore etmek"
+    },
+    {
+        "id": 441,
+        "word_english": "do without",
+        "word_turkish": "bir şey olmadan idare etmek"
+    },
+    {
+        "id": 442,
+        "word_english": "draw back",
+        "word_turkish": "geri çekilmek"
+    },
+    {
+        "id": 443,
+        "word_english": "draw in",
+        "word_turkish": "dahil etmek, cezbetmek"
+    },
+    {
+        "id": 444,
+        "word_english": "draw on",
+        "word_turkish": "yararlanmak, yaklaşmak"
+    },
+    {
+        "id": 445,
+        "word_english": "draw out",
+        "word_turkish": "uzatmak, çekmek"
+    },
+    {
+        "id": 446,
+        "word_english": "draw up",
+        "word_turkish": "düzenlemek, hazırlamak"
+    },
+    {
+        "id": 447,
+        "word_english": "dress up",
+        "word_turkish": "giyinip süslenmek"
+    },
+    {
+        "id": 448,
+        "word_english": "drop by",
+        "word_turkish": "uğramak"
+    },
+    {
+        "id": 449,
+        "word_english": "drop in",
+        "word_turkish": "habersiz uğramak"
+    },
+    {
+        "id": 450,
+        "word_english": "drop off",
+        "word_turkish": "indirmek, azalmak"
+    },
+    {
+        "id": 451,
+        "word_english": "drop out",
+        "word_turkish": "bırakmak, kaydını sildirmek"
+    },
+    {
+        "id": 452,
+        "word_english": "ease off",
+        "word_turkish": "hafiflemek, azalmak"
+    },
+    {
+        "id": 453,
+        "word_english": "end in",
+        "word_turkish": "sonuçlanmak"
+    },
+    {
+        "id": 454,
+        "word_english": "end up",
+        "word_turkish": "sonuçlanmak, bitmek"
+    },
+    {
+        "id": 455,
+        "word_english": "face up to",
+        "word_turkish": "yüzleşmek, kabullenmek"
+    },
+    {
+        "id": 456,
+        "word_english": "fall apart",
+        "word_turkish": "parçalanmak, dağılmak"
+    },
+    {
+        "id": 457,
+        "word_english": "fall back on",
+        "word_turkish": "başka bir seçeneğe yönelmek"
+    },
+    {
+        "id": 458,
+        "word_english": "fall behind",
+        "word_turkish": "geri kalmak"
+    },
+    {
+        "id": 459,
+        "word_english": "fall down",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 460,
+        "word_english": "fall for",
+        "word_turkish": "kanmak, aşık olmak"
+    },
+    {
+        "id": 461,
+        "word_english": "fall off",
+        "word_turkish": "düşmek, azalmak"
+    },
+    {
+        "id": 462,
+        "word_english": "fall out",
+        "word_turkish": "bozuşmak, kavga etmek"
+    },
+    {
+        "id": 463,
+        "word_english": "fall through",
+        "word_turkish": "başarısız olmak"
+    },
+    {
+        "id": 464,
+        "word_english": "feel up to",
+        "word_turkish": "kendini yeterli hissetmek"
+    },
+    {
+        "id": 465,
+        "word_english": "figure on",
+        "word_turkish": "beklemek, tahmin etmek"
+    },
+    {
+        "id": 466,
+        "word_english": "figure out",
+        "word_turkish": "anlamak, çözmek"
+    },
+    {
+        "id": 467,
+        "word_english": "fill in",
+        "word_turkish": "doldurmak"
+    },
+    {
+        "id": 468,
+        "word_english": "fill out",
+        "word_turkish": "form doldurmak"
+    },
+    {
+        "id": 469,
+        "word_english": "fill up",
+        "word_turkish": "doldurmak"
+    },
+    {
+        "id": 470,
+        "word_english": "find out",
+        "word_turkish": "öğrenmek, keşfetmek"
+    },
+    {
+        "id": 471,
+        "word_english": "fix up",
+        "word_turkish": "düzenlemek, onarmak"
+    },
+    {
+        "id": 472,
+        "word_english": "focus on",
+        "word_turkish": "odaklanmak"
+    },
+    {
+        "id": 473,
+        "word_english": "fool around",
+        "word_turkish": "oyalanmak, boş boş gezmek"
+    },
+    {
+        "id": 474,
+        "word_english": "get across",
+        "word_turkish": "anlatmak, anlaşılmak"
+    },
+    {
+        "id": 475,
+        "word_english": "get ahead",
+        "word_turkish": "ilerlemek, başarılı olmak"
+    },
+    {
+        "id": 476,
+        "word_english": "get along",
+        "word_turkish": "iyi geçinmek"
+    },
+    {
+        "id": 477,
+        "word_english": "get around",
+        "word_turkish": "gezmek, yayılmak"
+    },
+    {
+        "id": 478,
+        "word_english": "get away",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 479,
+        "word_english": "get away with",
+        "word_turkish": "cezalandırılmamak, yanına kar kalmak"
+    },
+    {
+        "id": 480,
+        "word_english": "get back",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 481,
+        "word_english": "get back at",
+        "word_turkish": "öç almak"
+    },
+    {
+        "id": 482,
+        "word_english": "get by",
+        "word_turkish": "idare etmek"
+    },
+    {
+        "id": 483,
+        "word_english": "get down",
+        "word_turkish": "morali bozulmak, not almak"
+    },
+    {
+        "id": 484,
+        "word_english": "get in",
+        "word_turkish": "girmek"
+    },
+    {
+        "id": 485,
+        "word_english": "get into",
+        "word_turkish": "ilgi duymak, başlamak"
+    },
+    {
+        "id": 486,
+        "word_english": "get off",
+        "word_turkish": "inmek"
+    },
+    {
+        "id": 487,
+        "word_english": "get on",
+        "word_turkish": "binmek, devam etmek"
+    },
+    {
+        "id": 488,
+        "word_english": "get out",
+        "word_turkish": "çıkmak"
+    },
+    {
+        "id": 489,
+        "word_english": "get out of",
+        "word_turkish": "kurtulmak, kaçınmak"
+    },
+    {
+        "id": 490,
+        "word_english": "get over",
+        "word_turkish": "atlatmak"
+    },
+    {
+        "id": 491,
+        "word_english": "get through",
+        "word_turkish": "üstesinden gelmek"
+    },
+    {
+        "id": 492,
+        "word_english": "get together",
+        "word_turkish": "toplanmak"
+    },
+    {
+        "id": 493,
+        "word_english": "get up",
+        "word_turkish": "kalkmak"
+    },
+    {
+        "id": 494,
+        "word_english": "give away",
+        "word_turkish": "açığa vurmak, hediye etmek"
+    },
+    {
+        "id": 495,
+        "word_english": "give back",
+        "word_turkish": "geri vermek"
+    },
+    {
+        "id": 496,
+        "word_english": "give in",
+        "word_turkish": "teslim olmak"
+    },
+    {
+        "id": 497,
+        "word_english": "give off",
+        "word_turkish": "yaymak"
+    },
+    {
+        "id": 498,
+        "word_english": "give out",
+        "word_turkish": "dağıtmak, tükenmek"
+    },
+    {
+        "id": 499,
+        "word_english": "give up",
+        "word_turkish": "vazgeçmek"
+    },
+    {
+        "id": 500,
+        "word_english": "go after",
+        "word_turkish": "peşinden gitmek"
+    },
+    {
+        "id": 501,
+        "word_english": "go ahead",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 502,
+        "word_english": "go along",
+        "word_turkish": "eşlik etmek, ilerlemek"
+    },
+    {
+        "id": 503,
+        "word_english": "go around",
+        "word_turkish": "dolaşmak, yeterince olmak"
+    },
+    {
+        "id": 504,
+        "word_english": "go away",
+        "word_turkish": "gitmek, ayrılmak"
+    },
+    {
+        "id": 505,
+        "word_english": "go back",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 506,
+        "word_english": "go back on",
+        "word_turkish": "sözünden dönmek"
+    },
+    {
+        "id": 507,
+        "word_english": "go by",
+        "word_turkish": "geçip gitmek"
+    },
+    {
+        "id": 508,
+        "word_english": "go down",
+        "word_turkish": "inmek, batmak"
+    },
+    {
+        "id": 509,
+        "word_english": "go for",
+        "word_turkish": "seçmek, saldırmak"
+    },
+    {
+        "id": 510,
+        "word_english": "go in for",
+        "word_turkish": "katılmak, ilgilenmek"
+    },
+    {
+        "id": 511,
+        "word_english": "go into",
+        "word_turkish": "detayına inmek"
+    },
+    {
+        "id": 512,
+        "word_english": "go off",
+        "word_turkish": "patlamak, bozulmak"
+    },
+    {
+        "id": 513,
+        "word_english": "go on",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 514,
+        "word_english": "go out",
+        "word_turkish": "dışarı çıkmak, sönmek"
+    },
+    {
+        "id": 515,
+        "word_english": "go over",
+        "word_turkish": "gözden geçirmek, incelemek"
+    },
+    {
+        "id": 516,
+        "word_english": "go through",
+        "word_turkish": "geçmek, incelemek"
+    },
+    {
+        "id": 517,
+        "word_english": "go together",
+        "word_turkish": "birlikte gitmek, uyumlu olmak"
+    },
+    {
+        "id": 518,
+        "word_english": "go under",
+        "word_turkish": "iflas etmek"
+    },
+    {
+        "id": 519,
+        "word_english": "go up",
+        "word_turkish": "yükselmek"
+    },
+    {
+        "id": 520,
+        "word_english": "go with",
+        "word_turkish": "uyum sağlamak, birlikte gitmek"
+    },
+    {
+        "id": 521,
+        "word_english": "go without",
+        "word_turkish": "yokluğunu çekmek"
+    },
+    {
+        "id": 522,
+        "word_english": "grow apart",
+        "word_turkish": "uzaklaşmak"
+    },
+    {
+        "id": 523,
+        "word_english": "grow back",
+        "word_turkish": "yeniden çıkmak"
+    },
+    {
+        "id": 524,
+        "word_english": "grow into",
+        "word_turkish": "zamanla alışmak, uyum sağlamak"
+    },
+    {
+        "id": 525,
+        "word_english": "grow out of",
+        "word_turkish": "büyüdükçe bırakmak"
+    },
+    {
+        "id": 526,
+        "word_english": "grow up",
+        "word_turkish": "büyümek"
+    },
+    {
+        "id": 527,
+        "word_english": "hand back",
+        "word_turkish": "geri vermek"
+    },
+    {
+        "id": 528,
+        "word_english": "hand down",
+        "word_turkish": "kuşaktan kuşağa aktarmak"
+    },
+    {
+        "id": 529,
+        "word_english": "hand in",
+        "word_turkish": "teslim etmek"
+    },
+    {
+        "id": 530,
+        "word_english": "hand out",
+        "word_turkish": "dağıtmak"
+    },
+    {
+        "id": 531,
+        "word_english": "hand over",
+        "word_turkish": "teslim etmek"
+    },
+    {
+        "id": 532,
+        "word_english": "hang around",
+        "word_turkish": "oyalanmak, dolanmak"
+    },
+    {
+        "id": 533,
+        "word_english": "hang on",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 534,
+        "word_english": "hang out",
+        "word_turkish": "takılmak"
+    },
+    {
+        "id": 535,
+        "word_english": "hang up",
+        "word_turkish": "telefonu kapatmak"
+    },
+    {
+        "id": 536,
+        "word_english": "hold back",
+        "word_turkish": "tutmak, kontrol etmek"
+    },
+    {
+        "id": 537,
+        "word_english": "hold on",
+        "word_turkish": "beklemek"
+    },
+    {
+        "id": 538,
+        "word_english": "hold up",
+        "word_turkish": "yukarı kaldırmak, geciktirmek"
+    },
+    {
+        "id": 539,
+        "word_english": "iron out",
+        "word_turkish": "düzeltmek, çözmek"
+    },
+    {
+        "id": 540,
+        "word_english": "jack up",
+        "word_turkish": "arttırmak, zam yapmak"
+    },
+    {
+        "id": 541,
+        "word_english": "jot down",
+        "word_turkish": "not almak"
+    },
+    {
+        "id": 542,
+        "word_english": "jump in",
+        "word_turkish": "müdahale etmek"
+    },
+    {
+        "id": 543,
+        "word_english": "keep at",
+        "word_turkish": "ısrar etmek, devam etmek"
+    },
+    {
+        "id": 544,
+        "word_english": "keep away",
+        "word_turkish": "uzak tutmak"
+    },
+    {
+        "id": 545,
+        "word_english": "keep back",
+        "word_turkish": "saklamak, geri durmak"
+    },
+    {
+        "id": 546,
+        "word_english": "keep down",
+        "word_turkish": "kontrol altında tutmak"
+    },
+    {
+        "id": 547,
+        "word_english": "keep from",
+        "word_turkish": "uzak durmak, saklamak"
+    },
+    {
+        "id": 548,
+        "word_english": "keep off",
+        "word_turkish": "yaklaşmamak"
+    },
+    {
+        "id": 549,
+        "word_english": "keep on",
+        "word_turkish": "devam etmek"
+    },
+    {
+        "id": 550,
+        "word_english": "keep out",
+        "word_turkish": "dışarıda tutmak"
+    },
+    {
+        "id": 551,
+        "word_english": "keep up",
+        "word_turkish": "devam ettirmek"
+    },
+    {
+        "id": 552,
+        "word_english": "kick back",
+        "word_turkish": "rahatlamak, karşılık vermek"
+    },
+    {
+        "id": 553,
+        "word_english": "kick in",
+        "word_turkish": "etkisini göstermek"
+    },
+    {
+        "id": 554,
+        "word_english": "kick off",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 555,
+        "word_english": "knock down",
+        "word_turkish": "devirmek, yıkmak"
+    },
+    {
+        "id": 556,
+        "word_english": "knock out",
+        "word_turkish": "nakavt etmek"
+    },
+    {
+        "id": 557,
+        "word_english": "lay off",
+        "word_turkish": "işten çıkarmak"
+    },
+    {
+        "id": 558,
+        "word_english": "leave out",
+        "word_turkish": "dışarıda bırakmak, hariç tutmak"
+    },
+    {
+        "id": 559,
+        "word_english": "let down",
+        "word_turkish": "hayal kırıklığına uğratmak"
+    },
+    {
+        "id": 560,
+        "word_english": "let in",
+        "word_turkish": "içeri almak"
+    },
+    {
+        "id": 561,
+        "word_english": "let off",
+        "word_turkish": "serbest bırakmak"
+    },
+    {
+        "id": 562,
+        "word_english": "let out",
+        "word_turkish": "serbest bırakmak"
+    },
+    {
+        "id": 563,
+        "word_english": "live down",
+        "word_turkish": "unutmak, telafi etmek"
+    },
+    {
+        "id": 564,
+        "word_english": "live up to",
+        "word_turkish": "beklentilere uygun yaşamak"
+    },
+    {
+        "id": 565,
+        "word_english": "look after",
+        "word_turkish": "ilgilenmek, bakmak"
+    },
+    {
+        "id": 566,
+        "word_english": "look back on",
+        "word_turkish": "geçmişi hatırlamak"
+    },
+    {
+        "id": 567,
+        "word_english": "look down on",
+        "word_turkish": "hor görmek"
+    },
+    {
+        "id": 568,
+        "word_english": "look for",
+        "word_turkish": "aramak"
+    },
+    {
+        "id": 569,
+        "word_english": "look forward to",
+        "word_turkish": "dört gözle beklemek"
+    },
+    {
+        "id": 570,
+        "word_english": "look in on",
+        "word_turkish": "ziyaret etmek"
+    },
+    {
+        "id": 571,
+        "word_english": "look into",
+        "word_turkish": "incelemek, araştırmak"
+    },
+    {
+        "id": 572,
+        "word_english": "look out",
+        "word_turkish": "dikkat etmek"
+    },
+    {
+        "id": 573,
+        "word_english": "look out for",
+        "word_turkish": "göz kulak olmak"
+    },
+    {
+        "id": 574,
+        "word_english": "look over",
+        "word_turkish": "incelemek, göz gezdirmek"
+    },
+    {
+        "id": 575,
+        "word_english": "look through",
+        "word_turkish": "gözden geçirmek"
+    },
+    {
+        "id": 576,
+        "word_english": "look up",
+        "word_turkish": "araştırmak, bakmak"
+    },
+    {
+        "id": 577,
+        "word_english": "look up to",
+        "word_turkish": "hayranlık duymak, saygı göstermek"
+    },
+    {
+        "id": 578,
+        "word_english": "make do with",
+        "word_turkish": "idare etmek"
+    },
+    {
+        "id": 579,
+        "word_english": "make for",
+        "word_turkish": "bir yere doğru gitmek"
+    },
+    {
+        "id": 580,
+        "word_english": "make of",
+        "word_turkish": "anlam çıkarmak"
+    },
+    {
+        "id": 581,
+        "word_english": "make off with",
+        "word_turkish": "çalmak, alıp kaçmak"
+    },
+    {
+        "id": 582,
+        "word_english": "make out",
+        "word_turkish": "anlamak, fark etmek"
+    },
+    {
+        "id": 583,
+        "word_english": "make over",
+        "word_turkish": "devretmek"
+    },
+    {
+        "id": 584,
+        "word_english": "make up",
+        "word_turkish": "uydurmak, barışmak"
+    },
+    {
+        "id": 585,
+        "word_english": "make up for",
+        "word_turkish": "telafi etmek"
+    },
+    {
+        "id": 586,
+        "word_english": "mix up",
+        "word_turkish": "karıştırmak"
+    },
+    {
+        "id": 587,
+        "word_english": "narrow down",
+        "word_turkish": "sınırlamak, azaltmak"
+    },
+    {
+        "id": 588,
+        "word_english": "nod off",
+        "word_turkish": "uyuklamak"
+    },
+    {
+        "id": 589,
+        "word_english": "open up",
+        "word_turkish": "açmak, içini dökmek"
+    },
+    {
+        "id": 590,
+        "word_english": "own up",
+        "word_turkish": "itiraf etmek"
+    },
+    {
+        "id": 591,
+        "word_english": "pass away",
+        "word_turkish": "ölmek"
+    },
+    {
+        "id": 592,
+        "word_english": "pass by",
+        "word_turkish": "yanından geçmek"
+    },
+    {
+        "id": 593,
+        "word_english": "pass off",
+        "word_turkish": "gerçek gibi göstermek"
+    },
+    {
+        "id": 594,
+        "word_english": "pass out",
+        "word_turkish": "bayılmak, dağıtmak"
+    },
+    {
+        "id": 595,
+        "word_english": "pay back",
+        "word_turkish": "geri ödemek"
+    },
+    {
+        "id": 596,
+        "word_english": "pay off",
+        "word_turkish": "borcunu kapatmak, karşılığını vermek"
+    },
+    {
+        "id": 597,
+        "word_english": "pick on",
+        "word_turkish": "takılmak, sataşmak"
+    },
+    {
+        "id": 598,
+        "word_english": "pick out",
+        "word_turkish": "seçmek"
+    },
+    {
+        "id": 599,
+        "word_english": "pick up",
+        "word_turkish": "almak, öğrenmek"
+    },
+    {
+        "id": 600,
+        "word_english": "play down",
+        "word_turkish": "önemsememek"
+    },
+    {
+        "id": 601,
+        "word_english": "play up",
+        "word_turkish": "abartmak"
+    },
+    {
+        "id": 602,
+        "word_english": "point out",
+        "word_turkish": "dikkat çekmek"
+    },
+    {
+        "id": 603,
+        "word_english": "pull down",
+        "word_turkish": "yıkmak"
+    },
+    {
+        "id": 604,
+        "word_english": "pull in",
+        "word_turkish": "çekmek, varmak"
+    },
+    {
+        "id": 605,
+        "word_english": "pull off",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 606,
+        "word_english": "pull out",
+        "word_turkish": "çıkarmak, geri çekilmek"
+    },
+    {
+        "id": 607,
+        "word_english": "pull over",
+        "word_turkish": "aracı kenara çekmek"
+    },
+    {
+        "id": 608,
+        "word_english": "put across",
+        "word_turkish": "anlatmak, açıklamak"
+    },
+    {
+        "id": 609,
+        "word_english": "put aside",
+        "word_turkish": "bir kenara koymak"
+    },
+    {
+        "id": 610,
+        "word_english": "put away",
+        "word_turkish": "yerine koymak"
+    },
+    {
+        "id": 611,
+        "word_english": "put down",
+        "word_turkish": "not almak, bastırmak"
+    },
+    {
+        "id": 612,
+        "word_english": "put forward",
+        "word_turkish": "öne sürmek"
+    },
+    {
+        "id": 613,
+        "word_english": "put off",
+        "word_turkish": "ertelemek"
+    },
+    {
+        "id": 614,
+        "word_english": "put on",
+        "word_turkish": "giyinmek, kilo almak"
+    },
+    {
+        "id": 615,
+        "word_english": "put out",
+        "word_turkish": "söndürmek"
+    },
+    {
+        "id": 616,
+        "word_english": "put through",
+        "word_turkish": "telefona bağlamak, zor duruma sokmak"
+    },
+    {
+        "id": 617,
+        "word_english": "put together",
+        "word_turkish": "bir araya getirmek"
+    },
+    {
+        "id": 618,
+        "word_english": "put up",
+        "word_turkish": "misafir etmek, kaldırmak"
+    },
+    {
+        "id": 619,
+        "word_english": "put up with",
+        "word_turkish": "katlanmak"
+    },
+    {
+        "id": 620,
+        "word_english": "read over",
+        "word_turkish": "gözden geçirmek"
+    },
+    {
+        "id": 621,
+        "word_english": "ring up",
+        "word_turkish": "telefon etmek"
+    },
+    {
+        "id": 622,
+        "word_english": "rule out",
+        "word_turkish": "hariç tutmak"
+    },
+    {
+        "id": 623,
+        "word_english": "run across",
+        "word_turkish": "rastlamak"
+    },
+    {
+        "id": 624,
+        "word_english": "run away",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 625,
+        "word_english": "run into",
+        "word_turkish": "rastlamak"
+    },
+    {
+        "id": 626,
+        "word_english": "run out",
+        "word_turkish": "tükenmek"
+    },
+    {
+        "id": 627,
+        "word_english": "run out of",
+        "word_turkish": "bitirmek"
+    },
+    {
+        "id": 628,
+        "word_english": "run over",
+        "word_turkish": "ezmek, çiğnemek"
+    },
+    {
+        "id": 629,
+        "word_english": "see about",
+        "word_turkish": "ilgilenmek, halletmek"
+    },
+    {
+        "id": 630,
+        "word_english": "see off",
+        "word_turkish": "uğurlamak"
+    },
+    {
+        "id": 631,
+        "word_english": "see through",
+        "word_turkish": "iç yüzünü görmek"
+    },
+    {
+        "id": 632,
+        "word_english": "see to",
+        "word_turkish": "halletmek, ilgilenmek"
+    },
+    {
+        "id": 633,
+        "word_english": "sell out",
+        "word_turkish": "hepsini satmak"
+    },
+    {
+        "id": 634,
+        "word_english": "set about",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 635,
+        "word_english": "set aside",
+        "word_turkish": "bir kenara koymak"
+    },
+    {
+        "id": 636,
+        "word_english": "set back",
+        "word_turkish": "geri bırakmak"
+    },
+    {
+        "id": 637,
+        "word_english": "set down",
+        "word_turkish": "not etmek"
+    },
+    {
+        "id": 638,
+        "word_english": "set in",
+        "word_turkish": "başlamak, yerleşmek"
+    },
+    {
+        "id": 639,
+        "word_english": "set off",
+        "word_turkish": "yola çıkmak"
+    },
+    {
+        "id": 640,
+        "word_english": "set out",
+        "word_turkish": "başlamak, yola çıkmak"
+    },
+    {
+        "id": 641,
+        "word_english": "set up",
+        "word_turkish": "kurmak, ayarlamak"
+    },
+    {
+        "id": 642,
+        "word_english": "settle down",
+        "word_turkish": "yerleşmek, sakinleşmek"
+    },
+    {
+        "id": 643,
+        "word_english": "settle for",
+        "word_turkish": "kabul etmek"
+    },
+    {
+        "id": 644,
+        "word_english": "settle in",
+        "word_turkish": "alışmak"
+    },
+    {
+        "id": 645,
+        "word_english": "show off",
+        "word_turkish": "gösteriş yapmak"
+    },
+    {
+        "id": 646,
+        "word_english": "show up",
+        "word_turkish": "ortaya çıkmak"
+    },
+    {
+        "id": 647,
+        "word_english": "shut down",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 648,
+        "word_english": "shut off",
+        "word_turkish": "kapatmak, durdurmak"
+    },
+    {
+        "id": 649,
+        "word_english": "shut out",
+        "word_turkish": "dışlamak, engellemek"
+    },
+    {
+        "id": 650,
+        "word_english": "side with",
+        "word_turkish": "tarafını tutmak"
+    },
+    {
+        "id": 651,
+        "word_english": "sign in",
+        "word_turkish": "giriş yapmak"
+    },
+    {
+        "id": 652,
+        "word_english": "sign out",
+        "word_turkish": "çıkış yapmak"
+    },
+    {
+        "id": 653,
+        "word_english": "sign up",
+        "word_turkish": "kaydolmak"
+    },
+    {
+        "id": 654,
+        "word_english": "sit back",
+        "word_turkish": "rahatlamak"
+    },
+    {
+        "id": 655,
+        "word_english": "sit down",
+        "word_turkish": "oturmak"
+    },
+    {
+        "id": 656,
+        "word_english": "sleep in",
+        "word_turkish": "uyuyakalmak"
+    },
+    {
+        "id": 657,
+        "word_english": "slow down",
+        "word_turkish": "yavaşlamak"
+    },
+    {
+        "id": 658,
+        "word_english": "sort out",
+        "word_turkish": "çözmek, ayıklamak"
+    },
+    {
+        "id": 659,
+        "word_english": "speak up",
+        "word_turkish": "sesini yükseltmek"
+    },
+    {
+        "id": 660,
+        "word_english": "spell out",
+        "word_turkish": "açıklamak, hecelemek"
+    },
+    {
+        "id": 661,
+        "word_english": "stand by",
+        "word_turkish": "desteklemek, beklemek"
+    },
+    {
+        "id": 662,
+        "word_english": "stand for",
+        "word_turkish": "temsil etmek, anlamına gelmek"
+    },
+    {
+        "id": 663,
+        "word_english": "stand out",
+        "word_turkish": "dikkat çekmek, göze çarpmak"
+    },
+    {
+        "id": 664,
+        "word_english": "stand up",
+        "word_turkish": "ayağa kalkmak"
+    },
+    {
+        "id": 665,
+        "word_english": "start off",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 666,
+        "word_english": "start out",
+        "word_turkish": "başlamak, yola çıkmak"
+    },
+    {
+        "id": 667,
+        "word_english": "stick to",
+        "word_turkish": "sadık kalmak"
+    },
+    {
+        "id": 668,
+        "word_english": "stick up for",
+        "word_turkish": "savunmak"
+    },
+    {
+        "id": 669,
+        "word_english": "sum up",
+        "word_turkish": "özetlemek"
+    },
+    {
+        "id": 670,
+        "word_english": "take after",
+        "word_turkish": "benzemek"
+    },
+    {
+        "id": 671,
+        "word_english": "take apart",
+        "word_turkish": "parçalarına ayırmak"
+    },
+    {
+        "id": 672,
+        "word_english": "take away",
+        "word_turkish": "götürmek"
+    },
+    {
+        "id": 673,
+        "word_english": "take back",
+        "word_turkish": "geri almak"
+    },
+    {
+        "id": 674,
+        "word_english": "take down",
+        "word_turkish": "not almak"
+    },
+    {
+        "id": 675,
+        "word_english": "take in",
+        "word_turkish": "anlamak, içeri almak"
+    },
+    {
+        "id": 676,
+        "word_english": "take off",
+        "word_turkish": "çıkarmak, havalanmak"
+    },
+    {
+        "id": 677,
+        "word_english": "take on",
+        "word_turkish": "kabul etmek, üstlenmek"
+    },
+    {
+        "id": 678,
+        "word_english": "take out",
+        "word_turkish": "çıkarmak, dışarı çıkmak"
+    },
+    {
+        "id": 679,
+        "word_english": "take over",
+        "word_turkish": "devralmak, yönetimini almak"
+    },
+    {
+        "id": 680,
+        "word_english": "take up",
+        "word_turkish": "başlamak, zaman almak"
+    },
+    {
+        "id": 681,
+        "word_english": "talk back",
+        "word_turkish": "karşılık vermek"
+    },
+    {
+        "id": 682,
+        "word_english": "talk over",
+        "word_turkish": "tartışmak"
+    },
+    {
+        "id": 683,
+        "word_english": "tear down",
+        "word_turkish": "yıkmak"
+    },
+    {
+        "id": 684,
+        "word_english": "tear off",
+        "word_turkish": "koparmak"
+    },
+    {
+        "id": 685,
+        "word_english": "think ahead",
+        "word_turkish": "ileriyi düşünmek"
+    },
+    {
+        "id": 686,
+        "word_english": "think back",
+        "word_turkish": "hatırlamak"
+    },
+    {
+        "id": 687,
+        "word_english": "think over",
+        "word_turkish": "düşünmek, değerlendirmek"
+    },
+    {
+        "id": 688,
+        "word_english": "think through",
+        "word_turkish": "düşünerek değerlendirmek"
+    },
+    {
+        "id": 689,
+        "word_english": "throw away",
+        "word_turkish": "atmak, israf etmek"
+    },
+    {
+        "id": 690,
+        "word_english": "throw up",
+        "word_turkish": "kusmak, inşa etmek"
+    },
+    {
+        "id": 691,
+        "word_english": "tire out",
+        "word_turkish": "yormak"
+    },
+    {
+        "id": 692,
+        "word_english": "touch down",
+        "word_turkish": "inmek"
+    },
+    {
+        "id": 693,
+        "word_english": "try on",
+        "word_turkish": "denemek"
+    },
+    {
+        "id": 694,
+        "word_english": "try out",
+        "word_turkish": "denemek"
+    },
+    {
+        "id": 695,
+        "word_english": "turn around",
+        "word_turkish": "dönmek, tersine çevirmek"
+    },
+    {
+        "id": 696,
+        "word_english": "turn away",
+        "word_turkish": "geri çevirmek"
+    },
+    {
+        "id": 697,
+        "word_english": "turn back",
+        "word_turkish": "geri dönmek"
+    },
+    {
+        "id": 698,
+        "word_english": "turn down",
+        "word_turkish": "reddetmek, kısmak"
+    },
+    {
+        "id": 699,
+        "word_english": "turn in",
+        "word_turkish": "teslim etmek, yatmak"
+    },
+    {
+        "id": 700,
+        "word_english": "turn into",
+        "word_turkish": "dönüşmek"
+    },
+    {
+        "id": 701,
+        "word_english": "turn off",
+        "word_turkish": "kapamak"
+    },
+    {
+        "id": 702,
+        "word_english": "turn on",
+        "word_turkish": "açmak"
+    },
+    {
+        "id": 703,
+        "word_english": "turn out",
+        "word_turkish": "sonuçlanmak, ortaya çıkmak"
+    },
+    {
+        "id": 704,
+        "word_english": "turn over",
+        "word_turkish": "devretmek, çevirmek"
+    },
+    {
+        "id": 705,
+        "word_english": "turn to",
+        "word_turkish": "yardım istemek, başvurmak"
+    },
+    {
+        "id": 706,
+        "word_english": "turn up",
+        "word_turkish": "ortaya çıkmak, sesini açmak"
+    },
+    {
+        "id": 707,
+        "word_english": "use up",
+        "word_turkish": "tüketmek, bitirmek"
+    },
+    {
+        "id": 708,
+        "word_english": "wake up",
+        "word_turkish": "uyanmak, uyandırmak"
+    },
+    {
+        "id": 709,
+        "word_english": "walk away",
+        "word_turkish": "uzaklaşmak, çekip gitmek"
+    },
+    {
+        "id": 710,
+        "word_english": "walk out",
+        "word_turkish": "çıkıp gitmek"
+    },
+    {
+        "id": 711,
+        "word_english": "watch out",
+        "word_turkish": "dikkat etmek"
+    },
+    {
+        "id": 712,
+        "word_english": "wear away",
+        "word_turkish": "aşındırmak, yok etmek"
+    },
+    {
+        "id": 713,
+        "word_english": "wear down",
+        "word_turkish": "yıpratmak"
+    },
+    {
+        "id": 714,
+        "word_english": "wear off",
+        "word_turkish": "etkisini kaybetmek"
+    },
+    {
+        "id": 715,
+        "word_english": "wear out",
+        "word_turkish": "eskimek, yorulmak"
+    },
+    {
+        "id": 716,
+        "word_english": "wind down",
+        "word_turkish": "gevşemek, rahatlamak"
+    },
+    {
+        "id": 717,
+        "word_english": "wind up",
+        "word_turkish": "bitirmek, sonlandırmak"
+    },
+    {
+        "id": 718,
+        "word_english": "wipe out",
+        "word_turkish": "yok etmek"
+    },
+    {
+        "id": 719,
+        "word_english": "work on",
+        "word_turkish": "üzerinde çalışmak"
+    },
+    {
+        "id": 720,
+        "word_english": "work out",
+        "word_turkish": "anlamak, çözmek"
+    },
+    {
+        "id": 721,
+        "word_english": "wrap up",
+        "word_turkish": "bitirmek, paketlemek"
+    },
+    {
+        "id": 722,
+        "word_english": "write down",
+        "word_turkish": "not almak"
+    },
+    {
+        "id": 723,
+        "word_english": "yield to",
+        "word_turkish": "boyun eğmek"
+    },
+    {
+        "id": 724,
+        "word_english": "zoom in",
+        "word_turkish": "yakınlaştırmak"
+    },
+    {
+        "id": 725,
+        "word_english": "zoom out",
+        "word_turkish": "uzaklaştırmak"
+    },
+    {
+        "id": 726,
+        "word_english": "be off",
+        "word_turkish": "uzaklaşmak, gitmek"
+    },
+    {
+        "id": 727,
+        "word_english": "break down",
+        "word_turkish": "bozulmak, çökmek"
+    },
+    {
+        "id": 728,
+        "word_english": "break in",
+        "word_turkish": "zorla girmek, sözünü kesmek"
+    },
+    {
+        "id": 729,
+        "word_english": "call for",
+        "word_turkish": "gerektirmek, istemek"
+    },
+    {
+        "id": 730,
+        "word_english": "come by",
+        "word_turkish": "uğramak, elde etmek"
+    },
+    {
+        "id": 731,
+        "word_english": "count on",
+        "word_turkish": "güvenmek"
+    },
+    {
+        "id": 732,
+        "word_english": "fall through",
+        "word_turkish": "başarısız olmak"
+    },
+    {
+        "id": 733,
+        "word_english": "get around",
+        "word_turkish": "yayılmak, dolaşmak"
+    },
+    {
+        "id": 734,
+        "word_english": "get by",
+        "word_turkish": "idare etmek, geçinmek"
+    },
+    {
+        "id": 735,
+        "word_english": "go after",
+        "word_turkish": "peşinden gitmek"
+    },
+    {
+        "id": 736,
+        "word_english": "go along with",
+        "word_turkish": "katılmak, desteklemek"
+    },
+    {
+        "id": 737,
+        "word_english": "go for",
+        "word_turkish": "tercih etmek, istemek"
+    },
+    {
+        "id": 738,
+        "word_english": "go off",
+        "word_turkish": "patlamak, bozulmak"
+    },
+    {
+        "id": 739,
+        "word_english": "hold on to",
+        "word_turkish": "tutunmak, bırakmamak"
+    },
+    {
+        "id": 740,
+        "word_english": "keep up",
+        "word_turkish": "sürdürmek, ayak uydurmak"
+    },
+    {
+        "id": 741,
+        "word_english": "lay out",
+        "word_turkish": "düzenlemek, sermek"
+    },
+    {
+        "id": 742,
+        "word_english": "look up to",
+        "word_turkish": "saygı duymak"
+    },
+    {
+        "id": 743,
+        "word_english": "make do",
+        "word_turkish": "idare etmek"
+    },
+    {
+        "id": 744,
+        "word_english": "make up for",
+        "word_turkish": "telafi etmek"
+    },
+    {
+        "id": 745,
+        "word_english": "pass on",
+        "word_turkish": "iletmek, devretmek"
+    },
+    {
+        "id": 746,
+        "word_english": "pick up on",
+        "word_turkish": "fark etmek, anlamak"
+    },
+    {
+        "id": 747,
+        "word_english": "pull through",
+        "word_turkish": "iyileşmek, atlatmak"
+    },
+    {
+        "id": 748,
+        "word_english": "put up with",
+        "word_turkish": "katlanmak"
+    },
+    {
+        "id": 749,
+        "word_english": "run into",
+        "word_turkish": "karşılaşmak, rastlamak"
+    },
+    {
+        "id": 750,
+        "word_english": "see off",
+        "word_turkish": "uğurlamak"
+    },
+    {
+        "id": 751,
+        "word_english": "send off",
+        "word_turkish": "göndermek"
+    },
+    {
+        "id": 752,
+        "word_english": "set about",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 753,
+        "word_english": "set aside",
+        "word_turkish": "bir kenara koymak"
+    },
+    {
+        "id": 754,
+        "word_english": "set out",
+        "word_turkish": "başlamak, yola çıkmak"
+    },
+    {
+        "id": 755,
+        "word_english": "settle down",
+        "word_turkish": "yerleşmek, sakinleşmek"
+    },
+    {
+        "id": 756,
+        "word_english": "show up",
+        "word_turkish": "ortaya çıkmak"
+    },
+    {
+        "id": 757,
+        "word_english": "stand by",
+        "word_turkish": "desteklemek, beklemek"
+    },
+    {
+        "id": 758,
+        "word_english": "stick to",
+        "word_turkish": "sadık kalmak"
+    },
+    {
+        "id": 759,
+        "word_english": "take after",
+        "word_turkish": "benzemek"
+    },
+    {
+        "id": 760,
+        "word_english": "take apart",
+        "word_turkish": "parçalamak"
+    },
+    {
+        "id": 761,
+        "word_english": "take back",
+        "word_turkish": "geri almak"
+    },
+    {
+        "id": 762,
+        "word_english": "take in",
+        "word_turkish": "anlamak, almak"
+    },
+    {
+        "id": 763,
+        "word_english": "take off",
+        "word_turkish": "uçmak, çıkarmak"
+    },
+    {
+        "id": 764,
+        "word_english": "take over",
+        "word_turkish": "devralmak"
+    },
+    {
+        "id": 765,
+        "word_english": "take up",
+        "word_turkish": "başlamak, ilgilenmek"
+    },
+    {
+        "id": 766,
+        "word_english": "tear down",
+        "word_turkish": "yıkmak"
+    },
+    {
+        "id": 767,
+        "word_english": "throw away",
+        "word_turkish": "atmak, israf etmek"
+    },
+    {
+        "id": 768,
+        "word_english": "turn down",
+        "word_turkish": "reddetmek"
+    },
+    {
+        "id": 769,
+        "word_english": "turn in",
+        "word_turkish": "teslim etmek"
+    },
+    {
+        "id": 770,
+        "word_english": "turn on",
+        "word_turkish": "açmak"
+    },
+    {
+        "id": 771,
+        "word_english": "turn out",
+        "word_turkish": "sonuçlanmak"
+    },
+    {
+        "id": 772,
+        "word_english": "turn up",
+        "word_turkish": "ortaya çıkmak, açmak"
+    },
+    {
+        "id": 773,
+        "word_english": "wear out",
+        "word_turkish": "eskimek"
+    },
+    {
+        "id": 774,
+        "word_english": "work out",
+        "word_turkish": "çözmek, spor yapmak"
+    },
+    {
+        "id": 775,
+        "word_english": "write off",
+        "word_turkish": "zarar hanesine yazmak, silmek"
+    },
+    {
+        "id": 776,
+        "word_english": "check in",
+        "word_turkish": "giriş yapmak, kaydolmak"
+    },
+    {
+        "id": 777,
+        "word_english": "check out",
+        "word_turkish": "çıkış yapmak, gözden geçirmek"
+    },
+    {
+        "id": 778,
+        "word_english": "come across",
+        "word_turkish": "rastlamak, karşılaşmak"
+    },
+    {
+        "id": 779,
+        "word_english": "come out",
+        "word_turkish": "ortaya çıkmak, yayımlanmak"
+    },
+    {
+        "id": 780,
+        "word_english": "deal with",
+        "word_turkish": "baş etmek, uğraşmak"
+    },
+    {
+        "id": 781,
+        "word_english": "drop by",
+        "word_turkish": "uğramak"
+    },
+    {
+        "id": 782,
+        "word_english": "figure out",
+        "word_turkish": "çözmek, anlamak"
+    },
+    {
+        "id": 783,
+        "word_english": "fill in",
+        "word_turkish": "doldurmak, bilgilendirmek"
+    },
+    {
+        "id": 784,
+        "word_english": "give in",
+        "word_turkish": "teslim olmak, pes etmek"
+    },
+    {
+        "id": 785,
+        "word_english": "hang around",
+        "word_turkish": "takılmak, vakit geçirmek"
+    },
+    {
+        "id": 786,
+        "word_english": "let down",
+        "word_turkish": "hayal kırıklığına uğratmak"
+    },
+    {
+        "id": 787,
+        "word_english": "let in",
+        "word_turkish": "içeri almak"
+    },
+    {
+        "id": 788,
+        "word_english": "look out for",
+        "word_turkish": "göz kulak olmak"
+    },
+    {
+        "id": 789,
+        "word_english": "look up",
+        "word_turkish": "araştırmak, bakmak"
+    },
+    {
+        "id": 790,
+        "word_english": "make out",
+        "word_turkish": "anlamak, fark etmek"
+    },
+    {
+        "id": 791,
+        "word_english": "move in",
+        "word_turkish": "taşınmak"
+    },
+    {
+        "id": 792,
+        "word_english": "put out",
+        "word_turkish": "söndürmek"
+    },
+    {
+        "id": 793,
+        "word_english": "run across",
+        "word_turkish": "rastlamak"
+    },
+    {
+        "id": 794,
+        "word_english": "run out",
+        "word_turkish": "bitmek, tükenmek"
+    },
+    {
+        "id": 795,
+        "word_english": "show off",
+        "word_turkish": "gösteriş yapmak"
+    },
+    {
+        "id": 796,
+        "word_english": "take over",
+        "word_turkish": "yönetimi devralmak"
+    },
+    {
+        "id": 797,
+        "word_english": "work on",
+        "word_turkish": "çalışmak, uğraşmak"
+    }
+]

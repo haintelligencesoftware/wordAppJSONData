@@ -1,0 +1,797 @@
+[
+    {
+        "id": 141,
+        "word_english": "Swimming pool",
+        "word_turkish": "Yüzme Havuzu"
+    },
+    {
+        "id": 142,
+        "word_english": "Fitness center",
+        "word_turkish": "Spor Salonu"
+    },
+    {
+        "id": 143,
+        "word_english": "Yoga studio",
+        "word_turkish": "Yoga Stüdyosu"
+    },
+    {
+        "id": 144,
+        "word_english": "Court",
+        "word_turkish": "Mahkeme"
+    },
+    {
+        "id": 145,
+        "word_english": "Bridge",
+        "word_turkish": "Köprü"
+    },
+    {
+        "id": 146,
+        "word_english": "Gas station",
+        "word_turkish": "Benzinlik"
+    },
+    {
+        "id": 147,
+        "word_english": "Museum",
+        "word_turkish": "Müze"
+    },
+    {
+        "id": 148,
+        "word_english": "Art gallery",
+        "word_turkish": "Sanat Galerisi"
+    },
+    {
+        "id": 149,
+        "word_english": "Observation deck",
+        "word_turkish": "Gözlem Kulesi"
+    },
+    {
+        "id": 150,
+        "word_english": "Skyscraper",
+        "word_turkish": "Gökdelen"
+    },
+    {
+        "id": 151,
+        "word_english": "Amphitheater",
+        "word_turkish": "Açık Hava Tiyatrosu"
+    },
+    {
+        "id": 152,
+        "word_english": "Playhouse",
+        "word_turkish": "Çocuk Tiyatrosu"
+    },
+    {
+        "id": 153,
+        "word_english": "Music hall",
+        "word_turkish": "Müzik Salonu"
+    },
+    {
+        "id": 154,
+        "word_english": "Night market",
+        "word_turkish": "Gece Pazarı"
+    },
+    {
+        "id": 155,
+        "word_english": "Food court",
+        "word_turkish": "Yemek Alanı"
+    },
+    {
+        "id": 156,
+        "word_english": "Rooftop bar",
+        "word_turkish": "Çatı Barı"
+    },
+    {
+        "id": 157,
+        "word_english": "Train station",
+        "word_turkish": "Tren Garı"
+    },
+    {
+        "id": 158,
+        "word_english": "Ferry terminal",
+        "word_turkish": "Vapur İskelesi"
+    },
+    {
+        "id": 159,
+        "word_english": "Parking lot",
+        "word_turkish": "Otopark"
+    },
+    {
+        "id": 160,
+        "word_english": "Travel agency",
+        "word_turkish": "Seyahat Acentası"
+    },
+    {
+        "id": 161,
+        "word_english": "Eiffel Tower",
+        "word_turkish": "Eyfel Kulesi"
+    },
+    {
+        "id": 162,
+        "word_english": "Great Wall of China",
+        "word_turkish": "Çin Seddi"
+    },
+    {
+        "id": 163,
+        "word_english": "Pyramids of Giza",
+        "word_turkish": "Giza Piramitleri"
+    },
+    {
+        "id": 164,
+        "word_english": "Machu Picchu",
+        "word_turkish": "Machu Picchu"
+    },
+    {
+        "id": 165,
+        "word_english": "Colosseum",
+        "word_turkish": "Kolezyum"
+    },
+    {
+        "id": 166,
+        "word_english": "Taj Mahal",
+        "word_turkish": "Taj Mahal"
+    },
+    {
+        "id": 167,
+        "word_english": "Statue of Liberty",
+        "word_turkish": "Özgürlük Heykeli"
+    },
+    {
+        "id": 168,
+        "word_english": "Sydney Opera House",
+        "word_turkish": "Sydney Opera Binası"
+    },
+    {
+        "id": 169,
+        "word_english": "Christ the Redeemer",
+        "word_turkish": "İsa Kurtarıcı Heykeli"
+    },
+    {
+        "id": 170,
+        "word_english": "Stonehenge",
+        "word_turkish": "Stonehenge"
+    },
+    {
+        "id": 171,
+        "word_english": "Big Ben",
+        "word_turkish": "Big Ben"
+    },
+    {
+        "id": 172,
+        "word_english": "Grand Canyon",
+        "word_turkish": "Büyük Kanyon"
+    },
+    {
+        "id": 173,
+        "word_english": "Mount Everest",
+        "word_turkish": "Everest Dağı"
+    },
+    {
+        "id": 174,
+        "word_english": "Mount Fuji",
+        "word_turkish": "Fuji Dağı"
+    },
+    {
+        "id": 175,
+        "word_english": "Niagara Falls",
+        "word_turkish": "Niagara Şelaleleri"
+    },
+    {
+        "id": 176,
+        "word_english": "Acropolis",
+        "word_turkish": "Akropolis"
+    },
+    {
+        "id": 177,
+        "word_english": "Chichen Itza",
+        "word_turkish": "Chichen Itza"
+    },
+    {
+        "id": 178,
+        "word_english": "Easter Island",
+        "word_turkish": "Paskalya Adası"
+    },
+    {
+        "id": 179,
+        "word_english": "Alhambra",
+        "word_turkish": "Elhamra Sarayı"
+    },
+    {
+        "id": 180,
+        "word_english": "Petra",
+        "word_turkish": "Petra Antik Kenti"
+    },
+    {
+        "id": 181,
+        "word_english": "Mount Rushmore",
+        "word_turkish": "Mount Rushmore"
+    },
+    {
+        "id": 182,
+        "word_english": "Galileo Museum",
+        "word_turkish": "Galileo Müzesi"
+    },
+    {
+        "id": 183,
+        "word_english": "Vatican Museums",
+        "word_turkish": "Vatikan Müzeleri"
+    },
+    {
+        "id": 184,
+        "word_english": "Empire State Building",
+        "word_turkish": "Empire State Binası"
+    },
+    {
+        "id": 185,
+        "word_english": "Great Barrier Reef",
+        "word_turkish": "Büyük Set Resifi"
+    },
+    {
+        "id": 186,
+        "word_english": "Buckingham Palace",
+        "word_turkish": "Buckingham Sarayı"
+    },
+    {
+        "id": 187,
+        "word_english": "Sydney Harbour Bridge",
+        "word_turkish": "Sydney Limanı Köprüsü"
+    },
+    {
+        "id": 188,
+        "word_english": "Piazza San Marco",
+        "word_turkish": "San Marco Meydanı"
+    },
+    {
+        "id": 189,
+        "word_english": "Giza Pyramids",
+        "word_turkish": "Giza Piramitleri"
+    },
+    {
+        "id": 190,
+        "word_english": "Uluru",
+        "word_turkish": "Uluru"
+    },
+    {
+        "id": 191,
+        "word_english": "Banff National Park",
+        "word_turkish": "Banff Milli Parkı"
+    },
+    {
+        "id": 192,
+        "word_english": "Acropolis of Athens",
+        "word_turkish": "Atina Akropolü"
+    },
+    {
+        "id": 193,
+        "word_english": "Hagia Sophia",
+        "word_turkish": "Ayasofya"
+    },
+    {
+        "id": 194,
+        "word_english": "Alcatraz Island",
+        "word_turkish": "Alcatraz Adası"
+    },
+    {
+        "id": 195,
+        "word_english": "Red Square",
+        "word_turkish": "Kızıl Meydan"
+    },
+    {
+        "id": 196,
+        "word_english": "Mount Vesuvius",
+        "word_turkish": "Vezüv Yanardağı"
+    },
+    {
+        "id": 197,
+        "word_english": "Mount Etna",
+        "word_turkish": "Etna Yanardağı"
+    },
+    {
+        "id": 198,
+        "word_english": "Pike Place Market",
+        "word_turkish": "Pike Place Pazarı"
+    },
+    {
+        "id": 199,
+        "word_english": "Forbidden City",
+        "word_turkish": "Yasak Şehir"
+    },
+    {
+        "id": 200,
+        "word_english": "Giza Plateau",
+        "word_turkish": "Giza Platosu"
+    },
+    {
+        "id": 201,
+        "word_english": "The Vatican",
+        "word_turkish": "Vatikan"
+    },
+    {
+        "id": 202,
+        "word_english": "Mount Sinai",
+        "word_turkish": "Sinai Dağı"
+    },
+    {
+        "id": 203,
+        "word_english": "Tulum",
+        "word_turkish": "Tulum"
+    },
+    {
+        "id": 204,
+        "word_english": "Redwood National Park",
+        "word_turkish": "Redwood Milli Parkı"
+    },
+    {
+        "id": 205,
+        "word_english": "Niagara Falls",
+        "word_turkish": "Niagara Şelaleleri"
+    },
+    {
+        "id": 206,
+        "word_english": "Santiago de Compostela",
+        "word_turkish": "Santiago de Compostela"
+    },
+    {
+        "id": 207,
+        "word_english": "Shwedagon Pagoda",
+        "word_turkish": "Shwedagon Pagodası"
+    },
+    {
+        "id": 208,
+        "word_english": "Machu Picchu",
+        "word_turkish": "Machu Picchu"
+    },
+    {
+        "id": 209,
+        "word_english": "Sequoia National Park",
+        "word_turkish": "Sequoia Milli Parkı"
+    },
+    {
+        "id": 210,
+        "word_english": "Niagara Falls",
+        "word_turkish": "Niagara Şelaleleri"
+    },
+    {
+        "id": 211,
+        "word_english": "Hollywood Sign",
+        "word_turkish": "Hollywood Yazısı"
+    },
+    {
+        "id": 212,
+        "word_english": "Kilimanjaro National Park",
+        "word_turkish": "Kilimanjaro Milli Parkı"
+    },
+    {
+        "id": 213,
+        "word_english": "Madain Saleh",
+        "word_turkish": "Madain Saleh"
+    },
+    {
+        "id": 214,
+        "word_english": "Mount Cook",
+        "word_turkish": "Cook Dağı"
+    },
+    {
+        "id": 215,
+        "word_english": "Pyramids of Meroë",
+        "word_turkish": "Meroe Piramitleri"
+    },
+    {
+        "id": 216,
+        "word_english": "Mount Nebo",
+        "word_turkish": "Nebo Dağı"
+    },
+    {
+        "id": 81,
+        "word_english": "City",
+        "word_turkish": "Şehir"
+    },
+    {
+        "id": 82,
+        "word_english": "Town",
+        "word_turkish": "Kasaba"
+    },
+    {
+        "id": 83,
+        "word_english": "Village",
+        "word_turkish": "Köy"
+    },
+    {
+        "id": 84,
+        "word_english": "Street",
+        "word_turkish": "Sokak"
+    },
+    {
+        "id": 85,
+        "word_english": "Road",
+        "word_turkish": "Yol"
+    },
+    {
+        "id": 86,
+        "word_english": "Park",
+        "word_turkish": "Park"
+    },
+    {
+        "id": 87,
+        "word_english": "Building",
+        "word_turkish": "Bina"
+    },
+    {
+        "id": 88,
+        "word_english": "School",
+        "word_turkish": "Okul"
+    },
+    {
+        "id": 89,
+        "word_english": "Hospital",
+        "word_turkish": "Hastane"
+    },
+    {
+        "id": 90,
+        "word_english": "Library",
+        "word_turkish": "Kütüphane"
+    },
+    {
+        "id": 91,
+        "word_english": "Restaurant",
+        "word_turkish": "Restoran"
+    },
+    {
+        "id": 92,
+        "word_english": "Mall",
+        "word_turkish": "Alışveriş Merkezi"
+    },
+    {
+        "id": 93,
+        "word_english": "Hotel",
+        "word_turkish": "Otel"
+    },
+    {
+        "id": 94,
+        "word_english": "Airport",
+        "word_turkish": "Havaalanı"
+    },
+    {
+        "id": 95,
+        "word_english": "Beach",
+        "word_turkish": "Plaj"
+    },
+    {
+        "id": 96,
+        "word_english": "Museum",
+        "word_turkish": "Müze"
+    },
+    {
+        "id": 97,
+        "word_english": "University",
+        "word_turkish": "Üniversite"
+    },
+    {
+        "id": 98,
+        "word_english": "Bank",
+        "word_turkish": "Banka"
+    },
+    {
+        "id": 99,
+        "word_english": "Church",
+        "word_turkish": "Kilise"
+    },
+    {
+        "id": 100,
+        "word_english": "Temple",
+        "word_turkish": "Tapınak"
+    },
+    {
+        "id": 101,
+        "word_english": "Post office",
+        "word_turkish": "Ptt"
+    },
+    {
+        "id": 102,
+        "word_english": "Supermarket",
+        "word_turkish": "Süpermarket"
+    },
+    {
+        "id": 103,
+        "word_english": "Pharmacy",
+        "word_turkish": "Eczane"
+    },
+    {
+        "id": 104,
+        "word_english": "Cinema",
+        "word_turkish": "Sinema"
+    },
+    {
+        "id": 105,
+        "word_english": "Stadium",
+        "word_turkish": "Stadyum"
+    },
+    {
+        "id": 106,
+        "word_english": "Theater",
+        "word_turkish": "Tiyatro"
+    },
+    {
+        "id": 107,
+        "word_english": "Market",
+        "word_turkish": "Pazar"
+    },
+    {
+        "id": 108,
+        "word_english": "Castle",
+        "word_turkish": "Kale"
+    },
+    {
+        "id": 109,
+        "word_english": "Lake",
+        "word_turkish": "Göl"
+    },
+    {
+        "id": 110,
+        "word_english": "River",
+        "word_turkish": "Nehir"
+    },
+    {
+        "id": 111,
+        "word_english": "Mountain",
+        "word_turkish": "Dağ"
+    },
+    {
+        "id": 112,
+        "word_english": "Forest",
+        "word_turkish": "Orman"
+    },
+    {
+        "id": 113,
+        "word_english": "Island",
+        "word_turkish": "Ada"
+    },
+    {
+        "id": 114,
+        "word_english": "Farm",
+        "word_turkish": "Çiftlik"
+    },
+    {
+        "id": 115,
+        "word_english": "Restaurant",
+        "word_turkish": "Lokanta"
+    },
+    {
+        "id": 116,
+        "word_english": "Cafe",
+        "word_turkish": "Kafe"
+    },
+    {
+        "id": 117,
+        "word_english": "Zoo",
+        "word_turkish": "Hayvanat Bahçesi"
+    },
+    {
+        "id": 118,
+        "word_english": "Parking lot",
+        "word_turkish": "Park Alanı"
+    },
+    {
+        "id": 119,
+        "word_english": "Gas station",
+        "word_turkish": "Benzin İstasyonu"
+    },
+    {
+        "id": 120,
+        "word_english": "Train station",
+        "word_turkish": "Tren İstasyonu"
+    },
+    {
+        "id": 121,
+        "word_english": "Bus stop",
+        "word_turkish": "Otobüs Durağı"
+    },
+    {
+        "id": 122,
+        "word_english": "Subway station",
+        "word_turkish": "Metro İstasyonu"
+    },
+    {
+        "id": 123,
+        "word_english": "Dock",
+        "word_turkish": "İskelesi"
+    },
+    {
+        "id": 124,
+        "word_english": "Library",
+        "word_turkish": "Kütüphane"
+    },
+    {
+        "id": 125,
+        "word_english": "Community center",
+        "word_turkish": "Toplum Merkezi"
+    },
+    {
+        "id": 126,
+        "word_english": "Police station",
+        "word_turkish": "Karakol"
+    },
+    {
+        "id": 127,
+        "word_english": "Fire station",
+        "word_turkish": "İtfaiye"
+    },
+    {
+        "id": 128,
+        "word_english": "Playground",
+        "word_turkish": "Oyun Alanı"
+    },
+    {
+        "id": 129,
+        "word_english": "Shop",
+        "word_turkish": "Dükkan"
+    },
+    {
+        "id": 130,
+        "word_english": "Parking garage",
+        "word_turkish": "Otopark"
+    },
+    {
+        "id": 131,
+        "word_english": "Shopping center",
+        "word_turkish": "Alışveriş Merkezi"
+    },
+    {
+        "id": 132,
+        "word_english": "Amusement park",
+        "word_turkish": "Eğlence Parkı"
+    },
+    {
+        "id": 133,
+        "word_english": "Convenience store",
+        "word_turkish": "Market"
+    },
+    {
+        "id": 134,
+        "word_english": "Bakery",
+        "word_turkish": "Fırın"
+    },
+    {
+        "id": 135,
+        "word_english": "Workshop",
+        "word_turkish": "Atölye"
+    },
+    {
+        "id": 136,
+        "word_english": "Art gallery",
+        "word_turkish": "Sanat Galerisi"
+    },
+    {
+        "id": 137,
+        "word_english": "Nightclub",
+        "word_turkish": "Gece Kulübü"
+    },
+    {
+        "id": 138,
+        "word_english": "Cemetery",
+        "word_turkish": "Mezarlık"
+    },
+    {
+        "id": 139,
+        "word_english": "Café",
+        "word_turkish": "Kafe"
+    },
+    {
+        "id": 140,
+        "word_english": "Conference center",
+        "word_turkish": "Konferans Merkezi"
+    },
+    {
+        "id": 217,
+        "word_english": "The Great Barrier Reef",
+        "word_turkish": "Büyük Set Resifi"
+    },
+    {
+        "id": 218,
+        "word_english": "Pompeii",
+        "word_turkish": "Pompeii"
+    },
+    {
+        "id": 219,
+        "word_english": "Alhambra Palace",
+        "word_turkish": "Elhamra Sarayı"
+    },
+    {
+        "id": 220,
+        "word_english": "Hiroshima Peace Memorial Park",
+        "word_turkish": "Hiroshima Barış Anıtı Parkı"
+    },
+    {
+        "id": 221,
+        "word_english": "Sagrada Familia",
+        "word_turkish": "Sagrada Familia"
+    },
+    {
+        "id": 222,
+        "word_english": "Louvre Museum",
+        "word_turkish": "Louvre Müzesi"
+    },
+    {
+        "id": 223,
+        "word_english": "Burj Khalifa",
+        "word_turkish": "Burç Halife"
+    },
+    {
+        "id": 224,
+        "word_english": "Angkor Wat",
+        "word_turkish": "Angkor Wat Tapınağı"
+    },
+    {
+        "id": 225,
+        "word_english": "Versailles Palace",
+        "word_turkish": "Versay Sarayı"
+    },
+    {
+        "id": 226,
+        "word_english": "Mount Kilimanjaro",
+        "word_turkish": "Kilimanjaro Dağı"
+    },
+    {
+        "id": 227,
+        "word_english": "Galápagos Islands",
+        "word_turkish": "Galápagos Adaları"
+    },
+    {
+        "id": 228,
+        "word_english": "Milan Cathedral",
+        "word_turkish": "Milano Katedrali"
+    },
+    {
+        "id": 229,
+        "word_english": "Santorini",
+        "word_turkish": "Santorini"
+    },
+    {
+        "id": 230,
+        "word_english": "Golden Gate Bridge",
+        "word_turkish": "Golden Gate Köprüsü"
+    },
+    {
+        "id": 231,
+        "word_english": "Acropolis Museum",
+        "word_turkish": "Akropolis Müzesi"
+    },
+    {
+        "id": 232,
+        "word_english": "Guggenheim Museum",
+        "word_turkish": "Guggenheim Müzesi"
+    },
+    {
+        "id": 233,
+        "word_english": "St. Peters Basilica",
+        "word_turkish": "Aziz Petrus Bazilikası"
+    },
+    {
+        "id": 234,
+        "word_english": "Sistine Chapel",
+        "word_turkish": "Sistine Şapeli"
+    },
+    {
+        "id": 235,
+        "word_english": "Kremlin",
+        "word_turkish": "Kremlin"
+    },
+    {
+        "id": 236,
+        "word_english": "Brandenburg Gate",
+        "word_turkish": "Brandenburg Kapısı"
+    },
+    {
+        "id": 237,
+        "word_english": "Neuschwanstein Castle",
+        "word_turkish": "Neuschwanstein Şatosu"
+    },
+    {
+        "id": 238,
+        "word_english": "Lake Baikal",
+        "word_turkish": "Lake Baikal"
+    },
+    {
+        "id": 239,
+        "word_english": "Bora Bora",
+        "word_turkish": "Bora Bora"
+    }
+]

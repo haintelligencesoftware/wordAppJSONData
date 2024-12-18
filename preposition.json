@@ -1,0 +1,857 @@
+[
+    {
+        "id": 1,
+        "word_english": "about",
+        "word_turkish": "hakkında"
+    },
+    {
+        "id": 2,
+        "word_english": "above",
+        "word_turkish": "üstünde"
+    },
+    {
+        "id": 3,
+        "word_english": "across",
+        "word_turkish": "karşısında"
+    },
+    {
+        "id": 4,
+        "word_english": "after",
+        "word_turkish": "sonra"
+    },
+    {
+        "id": 5,
+        "word_english": "against",
+        "word_turkish": "karşı"
+    },
+    {
+        "id": 6,
+        "word_english": "along",
+        "word_turkish": "boyunca"
+    },
+    {
+        "id": 7,
+        "word_english": "among",
+        "word_turkish": "arasında"
+    },
+    {
+        "id": 8,
+        "word_english": "around",
+        "word_turkish": "çevresinde"
+    },
+    {
+        "id": 9,
+        "word_english": "at",
+        "word_turkish": "de"
+    },
+    {
+        "id": 10,
+        "word_english": "before",
+        "word_turkish": "önce"
+    },
+    {
+        "id": 11,
+        "word_english": "behind",
+        "word_turkish": "arkasında"
+    },
+    {
+        "id": 12,
+        "word_english": "below",
+        "word_turkish": "aşağısında"
+    },
+    {
+        "id": 13,
+        "word_english": "beneath",
+        "word_turkish": "altında"
+    },
+    {
+        "id": 14,
+        "word_english": "beside",
+        "word_turkish": "yanında"
+    },
+    {
+        "id": 15,
+        "word_english": "between",
+        "word_turkish": "arasında"
+    },
+    {
+        "id": 16,
+        "word_english": "beyond",
+        "word_turkish": "ötesinde"
+    },
+    {
+        "id": 17,
+        "word_english": "by",
+        "word_turkish": "tarafından"
+    },
+    {
+        "id": 18,
+        "word_english": "despite",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 19,
+        "word_english": "down",
+        "word_turkish": "aşağı"
+    },
+    {
+        "id": 20,
+        "word_english": "during",
+        "word_turkish": "süresince"
+    },
+    {
+        "id": 21,
+        "word_english": "except",
+        "word_turkish": "hariç"
+    },
+    {
+        "id": 22,
+        "word_english": "for",
+        "word_turkish": "için"
+    },
+    {
+        "id": 23,
+        "word_english": "from",
+        "word_turkish": "-den"
+    },
+    {
+        "id": 24,
+        "word_english": "in",
+        "word_turkish": "içinde"
+    },
+    {
+        "id": 25,
+        "word_english": "inside",
+        "word_turkish": "içinde"
+    },
+    {
+        "id": 26,
+        "word_english": "into",
+        "word_turkish": "içine"
+    },
+    {
+        "id": 27,
+        "word_english": "like",
+        "word_turkish": "gibi"
+    },
+    {
+        "id": 28,
+        "word_english": "near",
+        "word_turkish": "yakınında"
+    },
+    {
+        "id": 29,
+        "word_english": "of",
+        "word_turkish": "ın"
+    },
+    {
+        "id": 30,
+        "word_english": "off",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 31,
+        "word_english": "on",
+        "word_turkish": "üzerinde"
+    },
+    {
+        "id": 32,
+        "word_english": "onto",
+        "word_turkish": "üzerine"
+    },
+    {
+        "id": 33,
+        "word_english": "opposite",
+        "word_turkish": "karşısında"
+    },
+    {
+        "id": 34,
+        "word_english": "out",
+        "word_turkish": "dışarı"
+    },
+    {
+        "id": 35,
+        "word_english": "outside",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 36,
+        "word_english": "over",
+        "word_turkish": "üzerinde"
+    },
+    {
+        "id": 37,
+        "word_english": "past",
+        "word_turkish": "geçmiş"
+    },
+    {
+        "id": 38,
+        "word_english": "regarding",
+        "word_turkish": "hakkında"
+    },
+    {
+        "id": 39,
+        "word_english": "since",
+        "word_turkish": "beri"
+    },
+    {
+        "id": 40,
+        "word_english": "through",
+        "word_turkish": "boyunca"
+    },
+    {
+        "id": 41,
+        "word_english": "throughout",
+        "word_turkish": "boyunca"
+    },
+    {
+        "id": 42,
+        "word_english": "till",
+        "word_turkish": "kadar"
+    },
+    {
+        "id": 43,
+        "word_english": "to",
+        "word_turkish": "e"
+    },
+    {
+        "id": 44,
+        "word_english": "toward",
+        "word_turkish": "doğru"
+    },
+    {
+        "id": 45,
+        "word_english": "under",
+        "word_turkish": "altında"
+    },
+    {
+        "id": 46,
+        "word_english": "underneath",
+        "word_turkish": "altında"
+    },
+    {
+        "id": 47,
+        "word_english": "until",
+        "word_turkish": "e kadar"
+    },
+    {
+        "id": 48,
+        "word_english": "up",
+        "word_turkish": "yukarı"
+    },
+    {
+        "id": 49,
+        "word_english": "upon",
+        "word_turkish": "üzerine"
+    },
+    {
+        "id": 50,
+        "word_english": "with",
+        "word_turkish": "ile"
+    },
+    {
+        "id": 51,
+        "word_english": "within",
+        "word_turkish": "içinde"
+    },
+    {
+        "id": 52,
+        "word_english": "without",
+        "word_turkish": "olmadan"
+    },
+    {
+        "id": 53,
+        "word_english": "according to",
+        "word_turkish": "göre"
+    },
+    {
+        "id": 54,
+        "word_english": "ahead of",
+        "word_turkish": "önünde"
+    },
+    {
+        "id": 55,
+        "word_english": "along with",
+        "word_turkish": "ile birlikte"
+    },
+    {
+        "id": 56,
+        "word_english": "apart from",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 57,
+        "word_english": "as for",
+        "word_turkish": "gelince"
+    },
+    {
+        "id": 58,
+        "word_english": "as of",
+        "word_turkish": "itibariyle"
+    },
+    {
+        "id": 59,
+        "word_english": "as per",
+        "word_turkish": "uyarınca"
+    },
+    {
+        "id": 60,
+        "word_english": "as to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 61,
+        "word_english": "as well as",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 62,
+        "word_english": "aside from",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 63,
+        "word_english": "because of",
+        "word_turkish": "yüzünden"
+    },
+    {
+        "id": 64,
+        "word_english": "close to",
+        "word_turkish": "yakınında"
+    },
+    {
+        "id": 65,
+        "word_english": "due to",
+        "word_turkish": "nedeniyle"
+    },
+    {
+        "id": 66,
+        "word_english": "except for",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 67,
+        "word_english": "far from",
+        "word_turkish": "uzakta"
+    },
+    {
+        "id": 68,
+        "word_english": "in addition to",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 69,
+        "word_english": "in case of",
+        "word_turkish": "durumunda"
+    },
+    {
+        "id": 70,
+        "word_english": "in front of",
+        "word_turkish": "önünde"
+    },
+    {
+        "id": 71,
+        "word_english": "in lieu of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 72,
+        "word_english": "in place of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 73,
+        "word_english": "in regard to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 74,
+        "word_english": "in spite of",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 75,
+        "word_english": "instead of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 76,
+        "word_english": "on account of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 77,
+        "word_english": "on behalf of",
+        "word_turkish": "adına"
+    },
+    {
+        "id": 78,
+        "word_english": "on top of",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 79,
+        "word_english": "out of",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 80,
+        "word_english": "owing to",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 81,
+        "word_english": "prior to",
+        "word_turkish": "öncesinde"
+    },
+    {
+        "id": 82,
+        "word_english": "regardless of",
+        "word_turkish": "bakılmaksızın"
+    },
+    {
+        "id": 83,
+        "word_english": "subsequent to",
+        "word_turkish": "ardından"
+    },
+    {
+        "id": 84,
+        "word_english": "such as",
+        "word_turkish": "gibi"
+    },
+    {
+        "id": 85,
+        "word_english": "thanks to",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 86,
+        "word_english": "up to",
+        "word_turkish": "kadar"
+    },
+    {
+        "id": 87,
+        "word_english": "with regard to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 88,
+        "word_english": "with respect to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 89,
+        "word_english": "in terms of",
+        "word_turkish": "açısından"
+    },
+    {
+        "id": 90,
+        "word_english": "in view of",
+        "word_turkish": "göz önünde"
+    },
+    {
+        "id": 91,
+        "word_english": "next to",
+        "word_turkish": "yanında"
+    },
+    {
+        "id": 92,
+        "word_english": "compared to",
+        "word_turkish": "ile karşılaştırıldığında"
+    },
+    {
+        "id": 93,
+        "word_english": "as compared with",
+        "word_turkish": "ile karşılaştırıldığında"
+    },
+    {
+        "id": 94,
+        "word_english": "alongside",
+        "word_turkish": "yanında"
+    },
+    {
+        "id": 95,
+        "word_english": "apart from",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 96,
+        "word_english": "by means of",
+        "word_turkish": "yoluyla"
+    },
+    {
+        "id": 97,
+        "word_english": "by way of",
+        "word_turkish": "yoluyla"
+    },
+    {
+        "id": 98,
+        "word_english": "in accordance with",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 99,
+        "word_english": "in connection with",
+        "word_turkish": "ile bağlantılı"
+    },
+    {
+        "id": 100,
+        "word_english": "in contrast to",
+        "word_turkish": "aksine"
+    },
+    {
+        "id": 101,
+        "word_english": "in favor of",
+        "word_turkish": "lehinde"
+    },
+    {
+        "id": 102,
+        "word_english": "in light of",
+        "word_turkish": "ışığında"
+    },
+    {
+        "id": 103,
+        "word_english": "in line with",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 104,
+        "word_english": "in opposition to",
+        "word_turkish": "karşı olarak"
+    },
+    {
+        "id": 105,
+        "word_english": "in order to",
+        "word_turkish": "amacıyla"
+    },
+    {
+        "id": 106,
+        "word_english": "in relation to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 107,
+        "word_english": "in respect of",
+        "word_turkish": "bakımından"
+    },
+    {
+        "id": 108,
+        "word_english": "in spite of",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 109,
+        "word_english": "in touch with",
+        "word_turkish": "ile temas halinde"
+    },
+    {
+        "id": 110,
+        "word_english": "on account of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 111,
+        "word_english": "on behalf of",
+        "word_turkish": "adına"
+    },
+    {
+        "id": 112,
+        "word_english": "on grounds of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 113,
+        "word_english": "on top of",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 114,
+        "word_english": "out of",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 115,
+        "word_english": "owing to",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 116,
+        "word_english": "pursuant to",
+        "word_turkish": "uyarınca"
+    },
+    {
+        "id": 117,
+        "word_english": "subsequent to",
+        "word_turkish": "ardından"
+    },
+    {
+        "id": 118,
+        "word_english": "thanks to",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 119,
+        "word_english": "up against",
+        "word_turkish": "karşı karşıya"
+    },
+    {
+        "id": 120,
+        "word_english": "with a view to",
+        "word_turkish": "amacıyla"
+    },
+    {
+        "id": 121,
+        "word_english": "with an eye to",
+        "word_turkish": "amacıyla"
+    },
+    {
+        "id": 122,
+        "word_english": "with regard to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 123,
+        "word_english": "with respect to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 124,
+        "word_english": "by virtue of",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 125,
+        "word_english": "in anticipation of",
+        "word_turkish": "önceden düşünerek"
+    },
+    {
+        "id": 126,
+        "word_english": "in connection with",
+        "word_turkish": "ile bağlantılı"
+    },
+    {
+        "id": 127,
+        "word_english": "in deference to",
+        "word_turkish": "saygı göstererek"
+    },
+    {
+        "id": 128,
+        "word_english": "in excess of",
+        "word_turkish": "fazlası"
+    },
+    {
+        "id": 129,
+        "word_english": "in face of",
+        "word_turkish": "karşısında"
+    },
+    {
+        "id": 130,
+        "word_english": "in fulfillment of",
+        "word_turkish": "yerine getirme"
+    },
+    {
+        "id": 131,
+        "word_english": "in honor of",
+        "word_turkish": "onuruna"
+    },
+    {
+        "id": 132,
+        "word_english": "in keeping with",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 133,
+        "word_english": "in opposition to",
+        "word_turkish": "karşı olarak"
+    },
+    {
+        "id": 134,
+        "word_english": "in place of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 135,
+        "word_english": "in pursuit of",
+        "word_turkish": "peşinde"
+    },
+    {
+        "id": 136,
+        "word_english": "in recognition of",
+        "word_turkish": "tanıyarak"
+    },
+    {
+        "id": 137,
+        "word_english": "in the event of",
+        "word_turkish": "durumunda"
+    },
+    {
+        "id": 138,
+        "word_english": "in the light of",
+        "word_turkish": "ışığında"
+    },
+    {
+        "id": 139,
+        "word_english": "in the midst of",
+        "word_turkish": "ortasında"
+    },
+    {
+        "id": 140,
+        "word_english": "on behalf of",
+        "word_turkish": "adına"
+    },
+    {
+        "id": 141,
+        "word_english": "on the basis of",
+        "word_turkish": "temeline dayanarak"
+    },
+    {
+        "id": 142,
+        "word_english": "on the strength of",
+        "word_turkish": "gücüyle"
+    },
+    {
+        "id": 143,
+        "word_english": "on the threshold of",
+        "word_turkish": "eşğinde"
+    },
+    {
+        "id": 144,
+        "word_english": "in return for",
+        "word_turkish": "karşılığında"
+    },
+    {
+        "id": 145,
+        "word_english": "in exchange for",
+        "word_turkish": "karşılığında"
+    },
+    {
+        "id": 146,
+        "word_english": "in the course of",
+        "word_turkish": "sürecinde"
+    },
+    {
+        "id": 147,
+        "word_english": "for the sake of",
+        "word_turkish": "hatırına"
+    },
+    {
+        "id": 148,
+        "word_english": "at the expense of",
+        "word_turkish": "pahasına"
+    },
+    {
+        "id": 149,
+        "word_english": "by means of",
+        "word_turkish": "vasıtasıyla"
+    },
+    {
+        "id": 150,
+        "word_english": "by reason of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 151,
+        "word_english": "on condition that",
+        "word_turkish": "şartıyla"
+    },
+    {
+        "id": 152,
+        "word_english": "by dint of",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 153,
+        "word_english": "at variance with",
+        "word_turkish": "aykırı olarak"
+    },
+    {
+        "id": 154,
+        "word_english": "in accord with",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 155,
+        "word_english": "on a par with",
+        "word_turkish": "eşit olarak"
+    },
+    {
+        "id": 156,
+        "word_english": "at the hands of",
+        "word_turkish": "elinden"
+    },
+    {
+        "id": 157,
+        "word_english": "at odds with",
+        "word_turkish": "çatışma içinde"
+    },
+    {
+        "id": 158,
+        "word_english": "by contrast with",
+        "word_turkish": "karşılaştırıldığında"
+    },
+    {
+        "id": 159,
+        "word_english": "in defense of",
+        "word_turkish": "savunmak için"
+    },
+    {
+        "id": 160,
+        "word_english": "in the presence of",
+        "word_turkish": "mevcut"
+    },
+    {
+        "id": 161,
+        "word_english": "in support of",
+        "word_turkish": "desteklemek için"
+    },
+    {
+        "id": 162,
+        "word_english": "in view of",
+        "word_turkish": "göz önüne alarak"
+    },
+    {
+        "id": 163,
+        "word_english": "with a view to",
+        "word_turkish": "amacıyla"
+    },
+    {
+        "id": 164,
+        "word_english": "under the auspices of",
+        "word_turkish": "himayesinde"
+    },
+    {
+        "id": 165,
+        "word_english": "within reach of",
+        "word_turkish": "yakınında"
+    },
+    {
+        "id": 166,
+        "word_english": "out of reach of",
+        "word_turkish": "erişimin dışında"
+    },
+    {
+        "id": 167,
+        "word_english": "in favor of",
+        "word_turkish": "lehinde"
+    },
+    {
+        "id": 168,
+        "word_english": "on account of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 169,
+        "word_english": "by the side of",
+        "word_turkish": "yanında"
+    },
+    {
+        "id": 170,
+        "word_english": "by the name of",
+        "word_turkish": "adına"
+    },
+    {
+        "id": 171,
+        "word_english": "in care of",
+        "word_turkish": "bakımı için"
+    }
+]

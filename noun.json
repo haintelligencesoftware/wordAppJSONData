@@ -1,0 +1,1577 @@
+[
+    {
+        "id": 1,
+        "word_english": "apple",
+        "word_turkish": "elma"
+    },
+    {
+        "id": 2,
+        "word_english": "banana",
+        "word_turkish": "muz"
+    },
+    {
+        "id": 3,
+        "word_english": "book",
+        "word_turkish": "kitap"
+    },
+    {
+        "id": 4,
+        "word_english": "car",
+        "word_turkish": "araba"
+    },
+    {
+        "id": 5,
+        "word_english": "cat",
+        "word_turkish": "kedi"
+    },
+    {
+        "id": 6,
+        "word_english": "dog",
+        "word_turkish": "köpek"
+    },
+    {
+        "id": 7,
+        "word_english": "egg",
+        "word_turkish": "yumurta"
+    },
+    {
+        "id": 8,
+        "word_english": "fish",
+        "word_turkish": "balık"
+    },
+    {
+        "id": 9,
+        "word_english": "flower",
+        "word_turkish": "çiçek"
+    },
+    {
+        "id": 10,
+        "word_english": "food",
+        "word_turkish": "yiyecek"
+    },
+    {
+        "id": 11,
+        "word_english": "friend",
+        "word_turkish": "arkadaş"
+    },
+    {
+        "id": 12,
+        "word_english": "house",
+        "word_turkish": "ev"
+    },
+    {
+        "id": 13,
+        "word_english": "job",
+        "word_turkish": "iş"
+    },
+    {
+        "id": 14,
+        "word_english": "key",
+        "word_turkish": "anahtar"
+    },
+    {
+        "id": 15,
+        "word_english": "love",
+        "word_turkish": "aşk"
+    },
+    {
+        "id": 16,
+        "word_english": "man",
+        "word_turkish": "adam"
+    },
+    {
+        "id": 17,
+        "word_english": "money",
+        "word_turkish": "para"
+    },
+    {
+        "id": 18,
+        "word_english": "moon",
+        "word_turkish": "ay"
+    },
+    {
+        "id": 19,
+        "word_english": "mountain",
+        "word_turkish": "dağ"
+    },
+    {
+        "id": 20,
+        "word_english": "music",
+        "word_turkish": "müzik"
+    },
+    {
+        "id": 21,
+        "word_english": "name",
+        "word_turkish": "isim"
+    },
+    {
+        "id": 22,
+        "word_english": "night",
+        "word_turkish": "gece"
+    },
+    {
+        "id": 23,
+        "word_english": "paper",
+        "word_turkish": "kağıt"
+    },
+    {
+        "id": 24,
+        "word_english": "party",
+        "word_turkish": "parti"
+    },
+    {
+        "id": 25,
+        "word_english": "person",
+        "word_turkish": "kişi"
+    },
+    {
+        "id": 26,
+        "word_english": "place",
+        "word_turkish": "yer"
+    },
+    {
+        "id": 27,
+        "word_english": "rain",
+        "word_turkish": "yağmur"
+    },
+    {
+        "id": 28,
+        "word_english": "school",
+        "word_turkish": "okul"
+    },
+    {
+        "id": 29,
+        "word_english": "seed",
+        "word_turkish": "tohum"
+    },
+    {
+        "id": 30,
+        "word_english": "star",
+        "word_turkish": "yıldız"
+    },
+    {
+        "id": 31,
+        "word_english": "street",
+        "word_turkish": "sokak"
+    },
+    {
+        "id": 32,
+        "word_english": "sun",
+        "word_turkish": "güneş"
+    },
+    {
+        "id": 33,
+        "word_english": "tea",
+        "word_turkish": "çay"
+    },
+    {
+        "id": 34,
+        "word_english": "time",
+        "word_turkish": "zaman"
+    },
+    {
+        "id": 35,
+        "word_english": "tree",
+        "word_turkish": "ağaç"
+    },
+    {
+        "id": 36,
+        "word_english": "water",
+        "word_turkish": "su"
+    },
+    {
+        "id": 37,
+        "word_english": "wind",
+        "word_turkish": "rüzgar"
+    },
+    {
+        "id": 38,
+        "word_english": "year",
+        "word_turkish": "yıl"
+    },
+    {
+        "id": 39,
+        "word_english": "zebra",
+        "word_turkish": "zebra"
+    },
+    {
+        "id": 40,
+        "word_english": "adult",
+        "word_turkish": "yetişkin"
+    },
+    {
+        "id": 41,
+        "word_english": "air",
+        "word_turkish": "hava"
+    },
+    {
+        "id": 42,
+        "word_english": "animal",
+        "word_turkish": "hayvan"
+    },
+    {
+        "id": 43,
+        "word_english": "baby",
+        "word_turkish": "bebek"
+    },
+    {
+        "id": 44,
+        "word_english": "bag",
+        "word_turkish": "çanta"
+    },
+    {
+        "id": 45,
+        "word_english": "ball",
+        "word_turkish": "top"
+    },
+    {
+        "id": 46,
+        "word_english": "band",
+        "word_turkish": "grup"
+    },
+    {
+        "id": 47,
+        "word_english": "beach",
+        "word_turkish": "plaj"
+    },
+    {
+        "id": 48,
+        "word_english": "bed",
+        "word_turkish": "yatak"
+    },
+    {
+        "id": 49,
+        "word_english": "bill",
+        "word_turkish": "fatura"
+    },
+    {
+        "id": 50,
+        "word_english": "bottle",
+        "word_turkish": "şişe"
+    },
+    {
+        "id": 51,
+        "word_english": "bowl",
+        "word_turkish": "kase"
+    },
+    {
+        "id": 52,
+        "word_english": "brother",
+        "word_turkish": "erkek kardeş"
+    },
+    {
+        "id": 53,
+        "word_english": "cake",
+        "word_turkish": "pasta"
+    },
+    {
+        "id": 54,
+        "word_english": "camera",
+        "word_turkish": "kamera"
+    },
+    {
+        "id": 55,
+        "word_english": "candy",
+        "word_turkish": "şeker"
+    },
+    {
+        "id": 56,
+        "word_english": "carpet",
+        "word_turkish": "halı"
+    },
+    {
+        "id": 57,
+        "word_english": "chair",
+        "word_turkish": "sandalye"
+    },
+    {
+        "id": 58,
+        "word_english": "child",
+        "word_turkish": "çocuk"
+    },
+    {
+        "id": 59,
+        "word_english": "city",
+        "word_turkish": "şehir"
+    },
+    {
+        "id": 60,
+        "word_english": "cloud",
+        "word_turkish": "bulut"
+    },
+    {
+        "id": 61,
+        "word_english": "coat",
+        "word_turkish": "ceket"
+    },
+    {
+        "id": 62,
+        "word_english": "computer",
+        "word_turkish": "bilgisayar"
+    },
+    {
+        "id": 63,
+        "word_english": "country",
+        "word_turkish": "ülke"
+    },
+    {
+        "id": 64,
+        "word_english": "cup",
+        "word_turkish": "fincan"
+    },
+    {
+        "id": 65,
+        "word_english": "day",
+        "word_turkish": "gün"
+    },
+    {
+        "id": 66,
+        "word_english": "desk",
+        "word_turkish": "masa"
+    },
+    {
+        "id": 67,
+        "word_english": "doctor",
+        "word_turkish": "doktor"
+    },
+    {
+        "id": 68,
+        "word_english": "door",
+        "word_turkish": "kapı"
+    },
+    {
+        "id": 69,
+        "word_english": "dream",
+        "word_turkish": "rüya"
+    },
+    {
+        "id": 70,
+        "word_english": "ear",
+        "word_turkish": "kulak"
+    },
+    {
+        "id": 71,
+        "word_english": "eggplant",
+        "word_turkish": "patlıcan"
+    },
+    {
+        "id": 72,
+        "word_english": "engine",
+        "word_turkish": "motor"
+    },
+    {
+        "id": 73,
+        "word_english": "eye",
+        "word_turkish": "göz"
+    },
+    {
+        "id": 74,
+        "word_english": "face",
+        "word_turkish": "yüz"
+    },
+    {
+        "id": 75,
+        "word_english": "family",
+        "word_turkish": "aile"
+    },
+    {
+        "id": 76,
+        "word_english": "finger",
+        "word_turkish": "parmak"
+    },
+    {
+        "id": 77,
+        "word_english": "flowerpot",
+        "word_turkish": "saksı"
+    },
+    {
+        "id": 78,
+        "word_english": "game",
+        "word_turkish": "oyun"
+    },
+    {
+        "id": 79,
+        "word_english": "garden",
+        "word_turkish": "bahçe"
+    },
+    {
+        "id": 80,
+        "word_english": "gift",
+        "word_turkish": "hediye"
+    },
+    {
+        "id": 81,
+        "word_english": "glove",
+        "word_turkish": "eldiven"
+    },
+    {
+        "id": 82,
+        "word_english": "hand",
+        "word_turkish": "el"
+    },
+    {
+        "id": 83,
+        "word_english": "hat",
+        "word_turkish": "şapka"
+    },
+    {
+        "id": 84,
+        "word_english": "heart",
+        "word_turkish": "kalp"
+    },
+    {
+        "id": 85,
+        "word_english": "hill",
+        "word_turkish": "tepe"
+    },
+    {
+        "id": 86,
+        "word_english": "home",
+        "word_turkish": "ev"
+    },
+    {
+        "id": 87,
+        "word_english": "idea",
+        "word_turkish": "fikir"
+    },
+    {
+        "id": 88,
+        "word_english": "island",
+        "word_turkish": "ada"
+    },
+    {
+        "id": 89,
+        "word_english": "jacket",
+        "word_turkish": "ceket"
+    },
+    {
+        "id": 90,
+        "word_english": "job",
+        "word_turkish": "iş"
+    },
+    {
+        "id": 91,
+        "word_english": "joke",
+        "word_turkish": "şaka"
+    },
+    {
+        "id": 92,
+        "word_english": "juice",
+        "word_turkish": "meyve suyu"
+    },
+    {
+        "id": 93,
+        "word_english": "kitchen",
+        "word_turkish": "mutfak"
+    },
+    {
+        "id": 94,
+        "word_english": "laugh",
+        "word_turkish": "kahkaha"
+    },
+    {
+        "id": 95,
+        "word_english": "leg",
+        "word_turkish": "bacak"
+    },
+    {
+        "id": 96,
+        "word_english": "letter",
+        "word_turkish": "mektup"
+    },
+    {
+        "id": 97,
+        "word_english": "light",
+        "word_turkish": "ışık"
+    },
+    {
+        "id": 98,
+        "word_english": "line",
+        "word_turkish": "çizgi"
+    },
+    {
+        "id": 99,
+        "word_english": "lunch",
+        "word_turkish": "öğle yemeği"
+    },
+    {
+        "id": 100,
+        "word_english": "man",
+        "word_turkish": "adam"
+    },
+    {
+        "id": 101,
+        "word_english": "map",
+        "word_turkish": "harita"
+    },
+    {
+        "id": 102,
+        "word_english": "market",
+        "word_turkish": "pazar"
+    },
+    {
+        "id": 103,
+        "word_english": "message",
+        "word_turkish": "mesaj"
+    },
+    {
+        "id": 104,
+        "word_english": "milk",
+        "word_turkish": "süt"
+    },
+    {
+        "id": 105,
+        "word_english": "mirror",
+        "word_turkish": "ayna"
+    },
+    {
+        "id": 106,
+        "word_english": "moment",
+        "word_turkish": "an"
+    },
+    {
+        "id": 107,
+        "word_english": "morning",
+        "word_turkish": "sabah"
+    },
+    {
+        "id": 108,
+        "word_english": "mother",
+        "word_turkish": "anne"
+    },
+    {
+        "id": 109,
+        "word_english": "mountain",
+        "word_turkish": "dağ"
+    },
+    {
+        "id": 110,
+        "word_english": "music",
+        "word_turkish": "müzik"
+    },
+    {
+        "id": 111,
+        "word_english": "neck",
+        "word_turkish": "boyun"
+    },
+    {
+        "id": 112,
+        "word_english": "night",
+        "word_turkish": "gece"
+    },
+    {
+        "id": 113,
+        "word_english": "ocean",
+        "word_turkish": "okyanus"
+    },
+    {
+        "id": 114,
+        "word_english": "orange",
+        "word_turkish": "portakal"
+    },
+    {
+        "id": 115,
+        "word_english": "oven",
+        "word_turkish": "fırın"
+    },
+    {
+        "id": 116,
+        "word_english": "package",
+        "word_turkish": "paket"
+    },
+    {
+        "id": 117,
+        "word_english": "page",
+        "word_turkish": "sayfa"
+    },
+    {
+        "id": 118,
+        "word_english": "pancake",
+        "word_turkish": "krep"
+    },
+    {
+        "id": 119,
+        "word_english": "pencil",
+        "word_turkish": "kurşun kalem"
+    },
+    {
+        "id": 120,
+        "word_english": "phone",
+        "word_turkish": "telefon"
+    },
+    {
+        "id": 121,
+        "word_english": "photo",
+        "word_turkish": "fotoğraf"
+    },
+    {
+        "id": 122,
+        "word_english": "place",
+        "word_turkish": "yer"
+    },
+    {
+        "id": 123,
+        "word_english": "plant",
+        "word_turkish": "bitki"
+    },
+    {
+        "id": 124,
+        "word_english": "pool",
+        "word_turkish": "havuz"
+    },
+    {
+        "id": 125,
+        "word_english": "potato",
+        "word_turkish": "patates"
+    },
+    {
+        "id": 126,
+        "word_english": "pudding",
+        "word_turkish": "puding"
+    },
+    {
+        "id": 127,
+        "word_english": "rainbow",
+        "word_turkish": "gökkuşağı"
+    },
+    {
+        "id": 128,
+        "word_english": "recipe",
+        "word_turkish": "tarif"
+    },
+    {
+        "id": 129,
+        "word_english": "river",
+        "word_turkish": "nehir"
+    },
+    {
+        "id": 130,
+        "word_english": "road",
+        "word_turkish": "yol"
+    },
+    {
+        "id": 131,
+        "word_english": "rock",
+        "word_turkish": "taş"
+    },
+    {
+        "id": 132,
+        "word_english": "room",
+        "word_turkish": "oda"
+    },
+    {
+        "id": 133,
+        "word_english": "sail",
+        "word_turkish": "yelken"
+    },
+    {
+        "id": 134,
+        "word_english": "sandwich",
+        "word_turkish": "sandviç"
+    },
+    {
+        "id": 135,
+        "word_english": "school",
+        "word_turkish": "okul"
+    },
+    {
+        "id": 136,
+        "word_english": "scooter",
+        "word_turkish": "scooter"
+    },
+    {
+        "id": 137,
+        "word_english": "sea",
+        "word_turkish": "deniz"
+    },
+    {
+        "id": 138,
+        "word_english": "sister",
+        "word_turkish": "kız kardeş"
+    },
+    {
+        "id": 139,
+        "word_english": "sky",
+        "word_turkish": "gökyüzü"
+    },
+    {
+        "id": 140,
+        "word_english": "smile",
+        "word_turkish": "gülümseme"
+    },
+    {
+        "id": 141,
+        "word_english": "snow",
+        "word_turkish": "kar"
+    },
+    {
+        "id": 142,
+        "word_english": "sock",
+        "word_turkish": "çorap"
+    },
+    {
+        "id": 143,
+        "word_english": "soup",
+        "word_turkish": "çorba"
+    },
+    {
+        "id": 144,
+        "word_english": "spoon",
+        "word_turkish": "kaşık"
+    },
+    {
+        "id": 145,
+        "word_english": "star",
+        "word_turkish": "yıldız"
+    },
+    {
+        "id": 146,
+        "word_english": "sunshine",
+        "word_turkish": "güneş ışığı"
+    },
+    {
+        "id": 147,
+        "word_english": "table",
+        "word_turkish": "masa"
+    },
+    {
+        "id": 148,
+        "word_english": "taco",
+        "word_turkish": "taco"
+    },
+    {
+        "id": 149,
+        "word_english": "tea",
+        "word_turkish": "çay"
+    },
+    {
+        "id": 150,
+        "word_english": "theater",
+        "word_turkish": "tiyatro"
+    },
+    {
+        "id": 151,
+        "word_english": "throat",
+        "word_turkish": "boğaz"
+    },
+    {
+        "id": 152,
+        "word_english": "time",
+        "word_turkish": "zaman"
+    },
+    {
+        "id": 153,
+        "word_english": "tooth",
+        "word_turkish": "diş"
+    },
+    {
+        "id": 154,
+        "word_english": "tree",
+        "word_turkish": "ağaç"
+    },
+    {
+        "id": 155,
+        "word_english": "trunk",
+        "word_turkish": "gövde"
+    },
+    {
+        "id": 156,
+        "word_english": "turtle",
+        "word_turkish": "kaplumbağa"
+    },
+    {
+        "id": 157,
+        "word_english": "umbrella",
+        "word_turkish": "şemsiye"
+    },
+    {
+        "id": 158,
+        "word_english": "uniform",
+        "word_turkish": "forma"
+    },
+    {
+        "id": 159,
+        "word_english": "vacation",
+        "word_turkish": "tatil"
+    },
+    {
+        "id": 160,
+        "word_english": "vase",
+        "word_turkish": "vazo"
+    },
+    {
+        "id": 161,
+        "word_english": "video",
+        "word_turkish": "video"
+    },
+    {
+        "id": 162,
+        "word_english": "week",
+        "word_turkish": "hafta"
+    },
+    {
+        "id": 163,
+        "word_english": "window",
+        "word_turkish": "pencere"
+    },
+    {
+        "id": 164,
+        "word_english": "wish",
+        "word_turkish": "dilek"
+    },
+    {
+        "id": 165,
+        "word_english": "yarn",
+        "word_turkish": "iplik"
+    },
+    {
+        "id": 166,
+        "word_english": "yesterday",
+        "word_turkish": "dün"
+    },
+    {
+        "id": 167,
+        "word_english": "zoo",
+        "word_turkish": "zoo"
+    },
+    {
+        "id": 168,
+        "word_english": "ability",
+        "word_turkish": "yetenek"
+    },
+    {
+        "id": 169,
+        "word_english": "accident",
+        "word_turkish": "kaza"
+    },
+    {
+        "id": 170,
+        "word_english": "action",
+        "word_turkish": "hareket"
+    },
+    {
+        "id": 171,
+        "word_english": "activity",
+        "word_turkish": "etkinlik"
+    },
+    {
+        "id": 172,
+        "word_english": "advice",
+        "word_turkish": "tavsiye"
+    },
+    {
+        "id": 173,
+        "word_english": "age",
+        "word_turkish": "yaş"
+    },
+    {
+        "id": 174,
+        "word_english": "agreement",
+        "word_turkish": "anlaşma"
+    },
+    {
+        "id": 175,
+        "word_english": "alcohol",
+        "word_turkish": "alkol"
+    },
+    {
+        "id": 176,
+        "word_english": "animal",
+        "word_turkish": "hayvan"
+    },
+    {
+        "id": 177,
+        "word_english": "answer",
+        "word_turkish": "cevap"
+    },
+    {
+        "id": 178,
+        "word_english": "appearance",
+        "word_turkish": "görünüm"
+    },
+    {
+        "id": 179,
+        "word_english": "area",
+        "word_turkish": "alan"
+    },
+    {
+        "id": 180,
+        "word_english": "argument",
+        "word_turkish": "tartışma"
+    },
+    {
+        "id": 181,
+        "word_english": "art",
+        "word_turkish": "sanat"
+    },
+    {
+        "id": 182,
+        "word_english": "attack",
+        "word_turkish": "saldırı"
+    },
+    {
+        "id": 183,
+        "word_english": "attempt",
+        "word_turkish": "deneme"
+    },
+    {
+        "id": 184,
+        "word_english": "audience",
+        "word_turkish": "izleyici"
+    },
+    {
+        "id": 185,
+        "word_english": "balance",
+        "word_turkish": "denge"
+    },
+    {
+        "id": 186,
+        "word_english": "band",
+        "word_turkish": "grup"
+    },
+    {
+        "id": 187,
+        "word_english": "behavior",
+        "word_turkish": "davranış"
+    },
+    {
+        "id": 188,
+        "word_english": "benefit",
+        "word_turkish": "fayda"
+    },
+    {
+        "id": 189,
+        "word_english": "bottle",
+        "word_turkish": "şişe"
+    },
+    {
+        "id": 190,
+        "word_english": "challenge",
+        "word_turkish": "meydan okuma"
+    },
+    {
+        "id": 191,
+        "word_english": "chance",
+        "word_turkish": "şans"
+    },
+    {
+        "id": 192,
+        "word_english": "choice",
+        "word_turkish": "seçim"
+    },
+    {
+        "id": 193,
+        "word_english": "circumstance",
+        "word_turkish": "durum"
+    },
+    {
+        "id": 194,
+        "word_english": "city",
+        "word_turkish": "şehir"
+    },
+    {
+        "id": 195,
+        "word_english": "community",
+        "word_turkish": "topluluk"
+    },
+    {
+        "id": 196,
+        "word_english": "company",
+        "word_turkish": "şirket"
+    },
+    {
+        "id": 197,
+        "word_english": "comparison",
+        "word_turkish": "karşılaştırma"
+    },
+    {
+        "id": 198,
+        "word_english": "concept",
+        "word_turkish": "kavram"
+    },
+    {
+        "id": 199,
+        "word_english": "connection",
+        "word_turkish": "bağlantı"
+    },
+    {
+        "id": 200,
+        "word_english": "consequence",
+        "word_turkish": "sonuç"
+    },
+    {
+        "id": 201,
+        "word_english": "conversation",
+        "word_turkish": "konuşma"
+    },
+    {
+        "id": 202,
+        "word_english": "country",
+        "word_turkish": "ülke"
+    },
+    {
+        "id": 203,
+        "word_english": "court",
+        "word_turkish": "mahkeme"
+    },
+    {
+        "id": 204,
+        "word_english": "credit",
+        "word_turkish": "kredi"
+    },
+    {
+        "id": 205,
+        "word_english": "decision",
+        "word_turkish": "karar"
+    },
+    {
+        "id": 206,
+        "word_english": "discussion",
+        "word_turkish": "tartışma"
+    },
+    {
+        "id": 207,
+        "word_english": "disease",
+        "word_turkish": "hastalık"
+    },
+    {
+        "id": 208,
+        "word_english": "education",
+        "word_turkish": "eğitim"
+    },
+    {
+        "id": 209,
+        "word_english": "effect",
+        "word_turkish": "etki"
+    },
+    {
+        "id": 210,
+        "word_english": "effort",
+        "word_turkish": "çaba"
+    },
+    {
+        "id": 211,
+        "word_english": "element",
+        "word_turkish": "eleman"
+    },
+    {
+        "id": 212,
+        "word_english": "emotion",
+        "word_turkish": "duygu"
+    },
+    {
+        "id": 213,
+        "word_english": "employee",
+        "word_turkish": "çalışan"
+    },
+    {
+        "id": 214,
+        "word_english": "engine",
+        "word_turkish": "motor"
+    },
+    {
+        "id": 215,
+        "word_english": "environment",
+        "word_turkish": "çevre"
+    },
+    {
+        "id": 216,
+        "word_english": "event",
+        "word_turkish": "etkinlik"
+    },
+    {
+        "id": 217,
+        "word_english": "experience",
+        "word_turkish": "deneyim"
+    },
+    {
+        "id": 218,
+        "word_english": "expert",
+        "word_turkish": "uzman"
+    },
+    {
+        "id": 219,
+        "word_english": "fact",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 220,
+        "word_english": "family",
+        "word_turkish": "aile"
+    },
+    {
+        "id": 221,
+        "word_english": "feature",
+        "word_turkish": "özellik"
+    },
+    {
+        "id": 222,
+        "word_english": "field",
+        "word_turkish": "alan"
+    },
+    {
+        "id": 223,
+        "word_english": "fight",
+        "word_turkish": "mücadele"
+    },
+    {
+        "id": 224,
+        "word_english": "focus",
+        "word_turkish": "odak"
+    },
+    {
+        "id": 225,
+        "word_english": "friendship",
+        "word_turkish": "arkadaşlık"
+    },
+    {
+        "id": 226,
+        "word_english": "goal",
+        "word_turkish": "hedef"
+    },
+    {
+        "id": 227,
+        "word_english": "government",
+        "word_turkish": "hükümet"
+    },
+    {
+        "id": 228,
+        "word_english": "group",
+        "word_turkish": "grup"
+    },
+    {
+        "id": 229,
+        "word_english": "guideline",
+        "word_turkish": "kılavuz"
+    },
+    {
+        "id": 230,
+        "word_english": "happiness",
+        "word_turkish": "mutluluk"
+    },
+    {
+        "id": 231,
+        "word_english": "idea",
+        "word_turkish": "fikir"
+    },
+    {
+        "id": 232,
+        "word_english": "impact",
+        "word_turkish": "etki"
+    },
+    {
+        "id": 233,
+        "word_english": "importance",
+        "word_turkish": "önem"
+    },
+    {
+        "id": 234,
+        "word_english": "increase",
+        "word_turkish": "artış"
+    },
+    {
+        "id": 235,
+        "word_english": "information",
+        "word_turkish": "bilgi"
+    },
+    {
+        "id": 236,
+        "word_english": "inspiration",
+        "word_turkish": "ilham"
+    },
+    {
+        "id": 237,
+        "word_english": "issue",
+        "word_turkish": "konu"
+    },
+    {
+        "id": 238,
+        "word_english": "knowledge",
+        "word_turkish": "bilgi"
+    },
+    {
+        "id": 239,
+        "word_english": "language",
+        "word_turkish": "dil"
+    },
+    {
+        "id": 240,
+        "word_english": "lesson",
+        "word_turkish": "ders"
+    },
+    {
+        "id": 241,
+        "word_english": "literature",
+        "word_turkish": "edebiyat"
+    },
+    {
+        "id": 242,
+        "word_english": "location",
+        "word_turkish": "konum"
+    },
+    {
+        "id": 243,
+        "word_english": "majority",
+        "word_turkish": "çoğunluk"
+    },
+    {
+        "id": 244,
+        "word_english": "management",
+        "word_turkish": "yönetim"
+    },
+    {
+        "id": 245,
+        "word_english": "method",
+        "word_turkish": "yöntem"
+    },
+    {
+        "id": 246,
+        "word_english": "mind",
+        "word_turkish": "zihin"
+    },
+    {
+        "id": 247,
+        "word_english": "moment",
+        "word_turkish": "an"
+    },
+    {
+        "id": 248,
+        "word_english": "motivation",
+        "word_turkish": "motivasyon"
+    },
+    {
+        "id": 249,
+        "word_english": "nature",
+        "word_turkish": "doğa"
+    },
+    {
+        "id": 250,
+        "word_english": "news",
+        "word_turkish": "haber"
+    },
+    {
+        "id": 251,
+        "word_english": "opinion",
+        "word_turkish": "görüş"
+    },
+    {
+        "id": 252,
+        "word_english": "option",
+        "word_turkish": "seçenek"
+    },
+    {
+        "id": 253,
+        "word_english": "organization",
+        "word_turkish": "örgüt"
+    },
+    {
+        "id": 254,
+        "word_english": "outcome",
+        "word_turkish": "sonuç"
+    },
+    {
+        "id": 255,
+        "word_english": "owner",
+        "word_turkish": "sahip"
+    },
+    {
+        "id": 256,
+        "word_english": "participation",
+        "word_turkish": "katılım"
+    },
+    {
+        "id": 257,
+        "word_english": "patient",
+        "word_turkish": "hasta"
+    },
+    {
+        "id": 258,
+        "word_english": "peace",
+        "word_turkish": "barış"
+    },
+    {
+        "id": 259,
+        "word_english": "place",
+        "word_turkish": "yer"
+    },
+    {
+        "id": 260,
+        "word_english": "policy",
+        "word_turkish": "politika"
+    },
+    {
+        "id": 261,
+        "word_english": "power",
+        "word_turkish": "güç"
+    },
+    {
+        "id": 262,
+        "word_english": "pressure",
+        "word_turkish": "baskı"
+    },
+    {
+        "id": 263,
+        "word_english": "product",
+        "word_turkish": "ürün"
+    },
+    {
+        "id": 264,
+        "word_english": "profession",
+        "word_turkish": "meslek"
+    },
+    {
+        "id": 265,
+        "word_english": "project",
+        "word_turkish": "proje"
+    },
+    {
+        "id": 266,
+        "word_english": "property",
+        "word_turkish": "mülk"
+    },
+    {
+        "id": 267,
+        "word_english": "quality",
+        "word_turkish": "kalite"
+    },
+    {
+        "id": 268,
+        "word_english": "question",
+        "word_turkish": "soru"
+    },
+    {
+        "id": 269,
+        "word_english": "reason",
+        "word_turkish": "sebep"
+    },
+    {
+        "id": 270,
+        "word_english": "relationship",
+        "word_turkish": "ilişki"
+    },
+    {
+        "id": 271,
+        "word_english": "report",
+        "word_turkish": "rapor"
+    },
+    {
+        "id": 272,
+        "word_english": "result",
+        "word_turkish": "sonuç"
+    },
+    {
+        "id": 273,
+        "word_english": "risk",
+        "word_turkish": "risk"
+    },
+    {
+        "id": 274,
+        "word_english": "rule",
+        "word_turkish": "kural"
+    },
+    {
+        "id": 275,
+        "word_english": "safety",
+        "word_turkish": "güvenlik"
+    },
+    {
+        "id": 276,
+        "word_english": "satisfaction",
+        "word_turkish": "memnuniyet"
+    },
+    {
+        "id": 277,
+        "word_english": "science",
+        "word_turkish": "bilim"
+    },
+    {
+        "id": 278,
+        "word_english": "service",
+        "word_turkish": "hizmet"
+    },
+    {
+        "id": 279,
+        "word_english": "situation",
+        "word_turkish": "durum"
+    },
+    {
+        "id": 280,
+        "word_english": "skill",
+        "word_turkish": "beceri"
+    },
+    {
+        "id": 281,
+        "word_english": "solution",
+        "word_turkish": "çözüm"
+    },
+    {
+        "id": 282,
+        "word_english": "sport",
+        "word_turkish": "spor"
+    },
+    {
+        "id": 283,
+        "word_english": "statement",
+        "word_turkish": "açıklama"
+    },
+    {
+        "id": 284,
+        "word_english": "study",
+        "word_turkish": "çalışma"
+    },
+    {
+        "id": 285,
+        "word_english": "success",
+        "word_turkish": "başarı"
+    },
+    {
+        "id": 286,
+        "word_english": "support",
+        "word_turkish": "destek"
+    },
+    {
+        "id": 287,
+        "word_english": "system",
+        "word_turkish": "sistem"
+    },
+    {
+        "id": 288,
+        "word_english": "technology",
+        "word_turkish": "teknoloji"
+    },
+    {
+        "id": 289,
+        "word_english": "term",
+        "word_turkish": "terim"
+    },
+    {
+        "id": 290,
+        "word_english": "test",
+        "word_turkish": "test"
+    },
+    {
+        "id": 291,
+        "word_english": "theory",
+        "word_turkish": "teori"
+    },
+    {
+        "id": 292,
+        "word_english": "time",
+        "word_turkish": "zaman"
+    },
+    {
+        "id": 293,
+        "word_english": "tradition",
+        "word_turkish": "geleneği"
+    },
+    {
+        "id": 294,
+        "word_english": "training",
+        "word_turkish": "eğitim"
+    },
+    {
+        "id": 295,
+        "word_english": "transportation",
+        "word_turkish": "taşıma"
+    },
+    {
+        "id": 296,
+        "word_english": "trust",
+        "word_turkish": "güven"
+    },
+    {
+        "id": 297,
+        "word_english": "truth",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 298,
+        "word_english": "type",
+        "word_turkish": "tip"
+    },
+    {
+        "id": 299,
+        "word_english": "understanding",
+        "word_turkish": "anlayış"
+    },
+    {
+        "id": 300,
+        "word_english": "value",
+        "word_turkish": "değer"
+    },
+    {
+        "id": 301,
+        "word_english": "view",
+        "word_turkish": "görüş"
+    },
+    {
+        "id": 302,
+        "word_english": "vision",
+        "word_turkish": "vizyon"
+    },
+    {
+        "id": 303,
+        "word_english": "voice",
+        "word_turkish": "ses"
+    },
+    {
+        "id": 304,
+        "word_english": "volume",
+        "word_turkish": "hacim"
+    },
+    {
+        "id": 305,
+        "word_english": "waste",
+        "word_turkish": "atık"
+    },
+    {
+        "id": 306,
+        "word_english": "way",
+        "word_turkish": "yol"
+    },
+    {
+        "id": 307,
+        "word_english": "wealth",
+        "word_turkish": "zenginlik"
+    },
+    {
+        "id": 308,
+        "word_english": "website",
+        "word_turkish": "web sitesi"
+    },
+    {
+        "id": 309,
+        "word_english": "week",
+        "word_turkish": "hafta"
+    },
+    {
+        "id": 310,
+        "word_english": "winner",
+        "word_turkish": "kazanan"
+    },
+    {
+        "id": 311,
+        "word_english": "work",
+        "word_turkish": "iş"
+    },
+    {
+        "id": 312,
+        "word_english": "world",
+        "word_turkish": "dünya"
+    },
+    {
+        "id": 313,
+        "word_english": "year",
+        "word_turkish": "yıl"
+    },
+    {
+        "id": 314,
+        "word_english": "youth",
+        "word_turkish": "gençlik"
+    },
+    {
+        "id": 315,
+        "word_english": "zone",
+        "word_turkish": "bölge"
+    }
+]

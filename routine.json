@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "word_english": "Routine",
+        "word_turkish": "Rutin"
+    },
+    {
+        "id": 2,
+        "word_english": "Habit",
+        "word_turkish": "Alışkanlık"
+    },
+    {
+        "id": 3,
+        "word_english": "Schedule",
+        "word_turkish": "Program"
+    },
+    {
+        "id": 4,
+        "word_english": "Task",
+        "word_turkish": "Görev"
+    },
+    {
+        "id": 5,
+        "word_english": "Chore",
+        "word_turkish": "Ev İşi"
+    },
+    {
+        "id": 6,
+        "word_english": "Exercise",
+        "word_turkish": "Egzersiz"
+    },
+    {
+        "id": 7,
+        "word_english": "Breakfast",
+        "word_turkish": "Kahvaltı"
+    },
+    {
+        "id": 8,
+        "word_english": "Lunch",
+        "word_turkish": "Öğle Yemeği"
+    },
+    {
+        "id": 9,
+        "word_english": "Dinner",
+        "word_turkish": "Akşam Yemeği"
+    },
+    {
+        "id": 10,
+        "word_english": "Sleep",
+        "word_turkish": "Uyumak"
+    },
+    {
+        "id": 11,
+        "word_english": "Wake up",
+        "word_turkish": "Uyanmak"
+    },
+    {
+        "id": 12,
+        "word_english": "Shower",
+        "word_turkish": "Duş almak"
+    },
+    {
+        "id": 13,
+        "word_english": "Work",
+        "word_turkish": "Çalışmak"
+    },
+    {
+        "id": 14,
+        "word_english": "Study",
+        "word_turkish": "Çalışmak"
+    },
+    {
+        "id": 15,
+        "word_english": "Relax",
+        "word_turkish": "Dinlenmek"
+    },
+    {
+        "id": 16,
+        "word_english": "Clean",
+        "word_turkish": "Temizlemek"
+    },
+    {
+        "id": 17,
+        "word_english": "Cook",
+        "word_turkish": "Yemek Yapmak"
+    },
+    {
+        "id": 18,
+        "word_english": "Walk",
+        "word_turkish": "Yürüyüş Yapmak"
+    },
+    {
+        "id": 19,
+        "word_english": "Read",
+        "word_turkish": "Okumak"
+    },
+    {
+        "id": 20,
+        "word_english": "Meditate",
+        "word_turkish": "Meditasyon Yapmak"
+    },
+    {
+        "id": 21,
+        "word_english": "Journal",
+        "word_turkish": "Günlük Tutmak"
+    },
+    {
+        "id": 22,
+        "word_english": "Plan",
+        "word_turkish": "Planlamak"
+    },
+    {
+        "id": 23,
+        "word_english": "Work out",
+        "word_turkish": "Antrenman Yapmak"
+    },
+    {
+        "id": 24,
+        "word_english": "Stretch",
+        "word_turkish": "Esneme Yapmak"
+    },
+    {
+        "id": 25,
+        "word_english": "Run",
+        "word_turkish": "Koşmak"
+    },
+    {
+        "id": 26,
+        "word_english": "Nap",
+        "word_turkish": "Şekerleme Yapmak"
+    },
+    {
+        "id": 27,
+        "word_english": "Prepare",
+        "word_turkish": "Hazırlamak"
+    },
+    {
+        "id": 28,
+        "word_english": "Sleep well",
+        "word_turkish": "İyi Uyumak"
+    },
+    {
+        "id": 29,
+        "word_english": "Wake up early",
+        "word_turkish": "Erken Uyanmak"
+    },
+    {
+        "id": 30,
+        "word_english": "Make the bed",
+        "word_turkish": "Yatak Toplamak"
+    },
+    {
+        "id": 31,
+        "word_english": "Go to bed",
+        "word_turkish": "Yatmak"
+    },
+    {
+        "id": 32,
+        "word_english": "Take a break",
+        "word_turkish": "Ara Vermek"
+    },
+    {
+        "id": 33,
+        "word_english": "Set an alarm",
+        "word_turkish": "Alarm Kurmak"
+    },
+    {
+        "id": 34,
+        "word_english": "Pack",
+        "word_turkish": "Paketlemek"
+    },
+    {
+        "id": 35,
+        "word_english": "Organize",
+        "word_turkish": "Düzenlemek"
+    },
+    {
+        "id": 36,
+        "word_english": "Do laundry",
+        "word_turkish": "Çamaşır Yıkamak"
+    },
+    {
+        "id": 37,
+        "word_english": "Vacuum",
+        "word_turkish": "Aspiratörle Temizlemek"
+    },
+    {
+        "id": 38,
+        "word_english": "Mop",
+        "word_turkish": "Süpürge İle Temizlemek"
+    },
+    {
+        "id": 39,
+        "word_english": "Feed the pet",
+        "word_turkish": "Evcil Hayvanı Beslemek"
+    },
+    {
+        "id": 40,
+        "word_english": "Go grocery shopping",
+        "word_turkish": "Market Alışverişi Yapmak"
+    },
+    {
+        "id": 41,
+        "word_english": "Do the dishes",
+        "word_turkish": "Bulaşıkları Yıkamak"
+    },
+    {
+        "id": 42,
+        "word_english": "Take out the trash",
+        "word_turkish": "Çöpleri Atmak"
+    },
+    {
+        "id": 43,
+        "word_english": "Prepare lunch",
+        "word_turkish": "Öğle Yemeği Hazırlamak"
+    },
+    {
+        "id": 44,
+        "word_english": "Check emails",
+        "word_turkish": "E-postaları Kontrol Etmek"
+    },
+    {
+        "id": 45,
+        "word_english": "Make coffee",
+        "word_turkish": "Kahve Yapmak"
+    },
+    {
+        "id": 46,
+        "word_english": "Get dressed",
+        "word_turkish": "Giyinmek"
+    },
+    {
+        "id": 47,
+        "word_english": "Watch TV",
+        "word_turkish": "Televizyon İzlemek"
+    },
+    {
+        "id": 48,
+        "word_english": "Make phone calls",
+        "word_turkish": "Telefon Aramaları Yapmak"
+    },
+    {
+        "id": 49,
+        "word_english": "Check social media",
+        "word_turkish": "Sosyal Medyayı Kontrol Etmek"
+    },
+    {
+        "id": 50,
+        "word_english": "Take a shower",
+        "word_turkish": "Duş Almak"
+    },
+    {
+        "id": 51,
+        "word_english": "Do homework",
+        "word_turkish": "Ev Ödevi Yapmak"
+    },
+    {
+        "id": 52,
+        "word_english": "Go to work",
+        "word_turkish": "İşe Gitmek"
+    },
+    {
+        "id": 53,
+        "word_english": "Pick up groceries",
+        "word_turkish": "Market Alışverişi Yapmak"
+    },
+    {
+        "id": 54,
+        "word_english": "Eat out",
+        "word_turkish": "Dışarıda Yemek Yemek"
+    },
+    {
+        "id": 55,
+        "word_english": "Go for a walk",
+        "word_turkish": "Yürüyüşe Çıkmak"
+    },
+    {
+        "id": 56,
+        "word_english": "Go to the gym",
+        "word_turkish": "Spor Salonuna Gitmek"
+    },
+    {
+        "id": 57,
+        "word_english": "Get up",
+        "word_turkish": "Kalkmak"
+    },
+    {
+        "id": 58,
+        "word_english": "Have a snack",
+        "word_turkish": "Atıştırmak"
+    },
+    {
+        "id": 59,
+        "word_english": "Do yoga",
+        "word_turkish": "Yoga Yapmak"
+    },
+    {
+        "id": 60,
+        "word_english": "Rest",
+        "word_turkish": "Dinlenmek"
+    },
+    {
+        "id": 61,
+        "word_english": "Finish work",
+        "word_turkish": "İşi Bitirmek"
+    },
+    {
+        "id": 62,
+        "word_english": "Pick up the kids",
+        "word_turkish": "Çocukları Almak"
+    },
+    {
+        "id": 63,
+        "word_english": "Start work",
+        "word_turkish": "İşe Başlamak"
+    },
+    {
+        "id": 64,
+        "word_english": "Set a goal",
+        "word_turkish": "Hedef Belirlemek"
+    },
+    {
+        "id": 65,
+        "word_english": "Do some cleaning",
+        "word_turkish": "Biraz Temizlik Yapmak"
+    },
+    {
+        "id": 66,
+        "word_english": "Tidy up",
+        "word_turkish": "Toparlamak"
+    },
+    {
+        "id": 67,
+        "word_english": "Check calendar",
+        "word_turkish": "Takvimi Kontrol Etmek"
+    },
+    {
+        "id": 68,
+        "word_english": "Go to a meeting",
+        "word_turkish": "Toplantıya Gitmek"
+    },
+    {
+        "id": 69,
+        "word_english": "Do some paperwork",
+        "word_turkish": "Evrak İşlerini Yapmak"
+    },
+    {
+        "id": 70,
+        "word_english": "Write a to-do list",
+        "word_turkish": "Yapılacaklar Listesi Yazmak"
+    },
+    {
+        "id": 71,
+        "word_english": "Reply to messages",
+        "word_turkish": "Mesajlara Yanıt Vermek"
+    },
+    {
+        "id": 72,
+        "word_english": "Do some gardening",
+        "word_turkish": "Bahçecilik Yapmak"
+    },
+    {
+        "id": 73,
+        "word_english": "Go for a jog",
+        "word_turkish": "Koşuya Çıkmak"
+    },
+    {
+        "id": 74,
+        "word_english": "Make lunch",
+        "word_turkish": "Öğle Yemeği Yapmak"
+    },
+    {
+        "id": 75,
+        "word_english": "Wash the car",
+        "word_turkish": "Arabayı Yıkamak"
+    },
+    {
+        "id": 76,
+        "word_english": "Take a walk in the park",
+        "word_turkish": "Parkta Yürüyüş Yapmak"
+    },
+    {
+        "id": 77,
+        "word_english": "Visit a friend",
+        "word_turkish": "Arkadaşı Ziyaret Etmek"
+    },
+    {
+        "id": 78,
+        "word_english": "Pick up dry cleaning",
+        "word_turkish": "Kuru Temizlemeyi Almak"
+    },
+    {
+        "id": 79,
+        "word_english": "Take a nap",
+        "word_turkish": "Şekerleme Yapmak"
+    },
+    {
+        "id": 80,
+        "word_english": "Make the bed",
+        "word_turkish": "Yatak Yapmak"
+    },
+    {
+        "id": 81,
+        "word_english": "Spend time with family",
+        "word_turkish": "Aileyle Zaman Geçirmek"
+    },
+    {
+        "id": 82,
+        "word_english": "Do some stretches",
+        "word_turkish": "Esneme Yapmak"
+    },
+    {
+        "id": 83,
+        "word_english": "Make dinner",
+        "word_turkish": "Akşam Yemeği Hazırlamak"
+    },
+    {
+        "id": 84,
+        "word_english": "Do some shopping",
+        "word_turkish": "Alışveriş Yapmak"
+    },
+    {
+        "id": 85,
+        "word_english": "Go for a run",
+        "word_turkish": "Koşuya Gitmek"
+    },
+    {
+        "id": 86,
+        "word_english": "Have a shower",
+        "word_turkish": "Duş Almak"
+    },
+    {
+        "id": 87,
+        "word_english": "Watch a movie",
+        "word_turkish": "Film İzlemek"
+    },
+    {
+        "id": 88,
+        "word_english": "Read a book",
+        "word_turkish": "Kitap Okumak"
+    },
+    {
+        "id": 89,
+        "word_english": "Catch up on emails",
+        "word_turkish": "E-postaları Kontrol Etmek"
+    },
+    {
+        "id": 90,
+        "word_english": "Eat healthy",
+        "word_turkish": "Sağlıklı Yemek Yemek"
+    },
+    {
+        "id": 91,
+        "word_english": "Go for a bike ride",
+        "word_turkish": "Bisiklete Binmek"
+    },
+    {
+        "id": 92,
+        "word_english": "Do the dishes",
+        "word_turkish": "Bulaşıkları Yıkamak"
+    },
+    {
+        "id": 93,
+        "word_english": "Play with the kids",
+        "word_turkish": "Çocuklarla Oynamak"
+    },
+    {
+        "id": 94,
+        "word_english": "Help with homework",
+        "word_turkish": "Ev Ödevine Yardım Etmek"
+    },
+    {
+        "id": 95,
+        "word_english": "Meet friends",
+        "word_turkish": "Arkadaşlarla Buluşmak"
+    },
+    {
+        "id": 96,
+        "word_english": "Walk the dog",
+        "word_turkish": "Köpeği Gezdirme"
+    },
+    {
+        "id": 97,
+        "word_english": "Go to the doctor",
+        "word_turkish": "Doktora Gitmek"
+    },
+    {
+        "id": 98,
+        "word_english": "Have a cup of tea",
+        "word_turkish": "Bir Bardak Çay İçmek"
+    },
+    {
+        "id": 99,
+        "word_english": "Go to bed early",
+        "word_turkish": "Erken Yatmak"
+    }
+]

@@ -1,0 +1,2497 @@
+[
+    {
+        "id": 57,
+        "word_english": "One",
+        "word_turkish": "Bir"
+    },
+    {
+        "id": 58,
+        "word_english": "Two",
+        "word_turkish": "İki"
+    },
+    {
+        "id": 59,
+        "word_english": "Three",
+        "word_turkish": "Üç"
+    },
+    {
+        "id": 60,
+        "word_english": "Four",
+        "word_turkish": "Dört"
+    },
+    {
+        "id": 61,
+        "word_english": "Five",
+        "word_turkish": "Beş"
+    },
+    {
+        "id": 62,
+        "word_english": "Six",
+        "word_turkish": "Altı"
+    },
+    {
+        "id": 63,
+        "word_english": "Seven",
+        "word_turkish": "Yedi"
+    },
+    {
+        "id": 64,
+        "word_english": "Eight",
+        "word_turkish": "Sekiz"
+    },
+    {
+        "id": 65,
+        "word_english": "Nine",
+        "word_turkish": "Dokuz"
+    },
+    {
+        "id": 66,
+        "word_english": "Ten",
+        "word_turkish": "On"
+    },
+    {
+        "id": 67,
+        "word_english": "Eleven",
+        "word_turkish": "On bir"
+    },
+    {
+        "id": 68,
+        "word_english": "Twelve",
+        "word_turkish": "On iki"
+    },
+    {
+        "id": 69,
+        "word_english": "Thirteen",
+        "word_turkish": "On üç"
+    },
+    {
+        "id": 70,
+        "word_english": "Fourteen",
+        "word_turkish": "On dört"
+    },
+    {
+        "id": 71,
+        "word_english": "Fifteen",
+        "word_turkish": "On beş"
+    },
+    {
+        "id": 72,
+        "word_english": "Sixteen",
+        "word_turkish": "On altı"
+    },
+    {
+        "id": 73,
+        "word_english": "Seventeen",
+        "word_turkish": "On yedi"
+    },
+    {
+        "id": 74,
+        "word_english": "Eighteen",
+        "word_turkish": "On sekiz"
+    },
+    {
+        "id": 75,
+        "word_english": "Nineteen",
+        "word_turkish": "On dokuz"
+    },
+    {
+        "id": 76,
+        "word_english": "Twenty",
+        "word_turkish": "Yirmi"
+    },
+    {
+        "id": 77,
+        "word_english": "Thirty",
+        "word_turkish": "Otuz"
+    },
+    {
+        "id": 78,
+        "word_english": "Forty",
+        "word_turkish": "Kırk"
+    },
+    {
+        "id": 79,
+        "word_english": "Fifty",
+        "word_turkish": "Elli"
+    },
+    {
+        "id": 80,
+        "word_english": "Sixty",
+        "word_turkish": "Altmış"
+    },
+    {
+        "id": 81,
+        "word_english": "Seventy",
+        "word_turkish": "Yetmiş"
+    },
+    {
+        "id": 82,
+        "word_english": "Eighty",
+        "word_turkish": "Seksen"
+    },
+    {
+        "id": 83,
+        "word_english": "Ninety",
+        "word_turkish": "Doksan"
+    },
+    {
+        "id": 84,
+        "word_english": "Hundred",
+        "word_turkish": "Yüz"
+    },
+    {
+        "id": 85,
+        "word_english": "Thousand",
+        "word_turkish": "Bin"
+    },
+    {
+        "id": 86,
+        "word_english": "Million",
+        "word_turkish": "Milyon"
+    },
+    {
+        "id": 87,
+        "word_english": "Billion",
+        "word_turkish": "Milyar"
+    },
+    {
+        "id": 88,
+        "word_english": "Trillion",
+        "word_turkish": "Trilyon"
+    },
+    {
+        "id": 89,
+        "word_english": "Quadrillion",
+        "word_turkish": "Katrilyon"
+    },
+    {
+        "id": 90,
+        "word_english": "Half",
+        "word_turkish": "Yarısı"
+    },
+    {
+        "id": 91,
+        "word_english": "Quarter",
+        "word_turkish": "Çeyrek"
+    },
+    {
+        "id": 92,
+        "word_english": "Dozen",
+        "word_turkish": "Düzine"
+    },
+    {
+        "id": 93,
+        "word_english": "Score",
+        "word_turkish": "Yirmi"
+    },
+    {
+        "id": 94,
+        "word_english": "Decimal",
+        "word_turkish": "Ondalık"
+    },
+    {
+        "id": 95,
+        "word_english": "Fraction",
+        "word_turkish": "Kesir"
+    },
+    {
+        "id": 96,
+        "word_english": "Percentage",
+        "word_turkish": "Yüzde"
+    },
+    {
+        "id": 97,
+        "word_english": "Sum",
+        "word_turkish": "Toplam"
+    },
+    {
+        "id": 98,
+        "word_english": "Product",
+        "word_turkish": "Çarpan"
+    },
+    {
+        "id": 99,
+        "word_english": "Difference",
+        "word_turkish": "Fark"
+    },
+    {
+        "id": 100,
+        "word_english": "Ratio",
+        "word_turkish": "Oran"
+    },
+    {
+        "id": 101,
+        "word_english": "Proportion",
+        "word_turkish": "Oran"
+    },
+    {
+        "id": 102,
+        "word_english": "Square",
+        "word_turkish": "Kare"
+    },
+    {
+        "id": 103,
+        "word_english": "Cube",
+        "word_turkish": "Küplü"
+    },
+    {
+        "id": 104,
+        "word_english": "Exponent",
+        "word_turkish": "Üs"
+    },
+    {
+        "id": 105,
+        "word_english": "Root",
+        "word_turkish": "Kök"
+    },
+    {
+        "id": 106,
+        "word_english": "Factor",
+        "word_turkish": "Çarpan"
+    },
+    {
+        "id": 107,
+        "word_english": "Multiple",
+        "word_turkish": "Kat"
+    },
+    {
+        "id": 108,
+        "word_english": "Prime Number",
+        "word_turkish": "Asal sayı"
+    },
+    {
+        "id": 109,
+        "word_english": "Even Number",
+        "word_turkish": "Çift sayı"
+    },
+    {
+        "id": 110,
+        "word_english": "Odd Number",
+        "word_turkish": "Tek sayı"
+    },
+    {
+        "id": 111,
+        "word_english": "Integer",
+        "word_turkish": "Tam sayı"
+    },
+    {
+        "id": 112,
+        "word_english": "Rational Number",
+        "word_turkish": "Rasyonel sayı"
+    },
+    {
+        "id": 113,
+        "word_english": "Irrational Number",
+        "word_turkish": "İrrasyonel sayı"
+    },
+    {
+        "id": 114,
+        "word_english": "Real Number",
+        "word_turkish": "Gerçek sayı"
+    },
+    {
+        "id": 115,
+        "word_english": "Imaginary Number",
+        "word_turkish": "Sanal sayı"
+    },
+    {
+        "id": 116,
+        "word_english": "Complex Number",
+        "word_turkish": "Karmaşık sayı"
+    },
+    {
+        "id": 117,
+        "word_english": "Negative Number",
+        "word_turkish": "Negatif sayı"
+    },
+    {
+        "id": 118,
+        "word_english": "Positive Number",
+        "word_turkish": "Pozitif sayı"
+    },
+    {
+        "id": 119,
+        "word_english": "Zero",
+        "word_turkish": "Sıfır"
+    },
+    {
+        "id": 120,
+        "word_english": "Infinity",
+        "word_turkish": "Sonsuz"
+    },
+    {
+        "id": 121,
+        "word_english": "Pi",
+        "word_turkish": "Pi"
+    },
+    {
+        "id": 122,
+        "word_english": "Logarithm",
+        "word_turkish": "Logaritma"
+    },
+    {
+        "id": 123,
+        "word_english": "Factorial",
+        "word_turkish": "Faktöriyel"
+    },
+    {
+        "id": 124,
+        "word_english": "Binomial",
+        "word_turkish": "Binom"
+    },
+    {
+        "id": 125,
+        "word_english": "Permutation",
+        "word_turkish": "Permütasyon"
+    },
+    {
+        "id": 126,
+        "word_english": "Combination",
+        "word_turkish": "Kombinasyon"
+    },
+    {
+        "id": 127,
+        "word_english": "Variance",
+        "word_turkish": "Varyans"
+    },
+    {
+        "id": 128,
+        "word_english": "Standard Deviation",
+        "word_turkish": "Standart Sapma"
+    },
+    {
+        "id": 129,
+        "word_english": "Average",
+        "word_turkish": "Ortalama"
+    },
+    {
+        "id": 130,
+        "word_english": "Median",
+        "word_turkish": "Medyan"
+    },
+    {
+        "id": 131,
+        "word_english": "Mode",
+        "word_turkish": "Mod"
+    },
+    {
+        "id": 132,
+        "word_english": "Range",
+        "word_turkish": "Aralık"
+    },
+    {
+        "id": 133,
+        "word_english": "Slope",
+        "word_turkish": "Eğim"
+    },
+    {
+        "id": 134,
+        "word_english": "Angle",
+        "word_turkish": "Açı"
+    },
+    {
+        "id": 135,
+        "word_english": "Degree",
+        "word_turkish": "Derece"
+    },
+    {
+        "id": 136,
+        "word_english": "Radian",
+        "word_turkish": "Radyan"
+    },
+    {
+        "id": 137,
+        "word_english": "Circle",
+        "word_turkish": "Çember"
+    },
+    {
+        "id": 138,
+        "word_english": "Square Root",
+        "word_turkish": "Karekök"
+    },
+    {
+        "id": 139,
+        "word_english": "Cube Root",
+        "word_turkish": "Küp Kök"
+    },
+    {
+        "id": 140,
+        "word_english": "Infinity",
+        "word_turkish": "Sonsuz"
+    },
+    {
+        "id": 141,
+        "word_english": "Ten Thousand",
+        "word_turkish": "On Bin"
+    },
+    {
+        "id": 142,
+        "word_english": "Hundred Thousand",
+        "word_turkish": "Yüz Bin"
+    },
+    {
+        "id": 143,
+        "word_english": "Millionaire",
+        "word_turkish": "Milyoner"
+    },
+    {
+        "id": 144,
+        "word_english": "Billionaire",
+        "word_turkish": "Milyarder"
+    },
+    {
+        "id": 145,
+        "word_english": "Trillionaire",
+        "word_turkish": "Trilyoner"
+    },
+    {
+        "id": 146,
+        "word_english": "Add",
+        "word_turkish": "Topla"
+    },
+    {
+        "id": 147,
+        "word_english": "Subtract",
+        "word_turkish": "Çıkart"
+    },
+    {
+        "id": 148,
+        "word_english": "Multiply",
+        "word_turkish": "Çarp"
+    },
+    {
+        "id": 149,
+        "word_english": "Divide",
+        "word_turkish": "Böl"
+    },
+    {
+        "id": 150,
+        "word_english": "Equal",
+        "word_turkish": "Eşittir"
+    },
+    {
+        "id": 151,
+        "word_english": "Greater Than",
+        "word_turkish": "Büyüktür"
+    },
+    {
+        "id": 152,
+        "word_english": "Less Than",
+        "word_turkish": "Küçüktür"
+    },
+    {
+        "id": 153,
+        "word_english": "Not Equal",
+        "word_turkish": "Eşit Değildir"
+    },
+    {
+        "id": 154,
+        "word_english": "Approximately",
+        "word_turkish": "Yaklaşık"
+    },
+    {
+        "id": 155,
+        "word_english": "Fractional",
+        "word_turkish": "Kesirli"
+    },
+    {
+        "id": 156,
+        "word_english": "Recurring Decimal",
+        "word_turkish": "Dönel Ondalık"
+    },
+    {
+        "id": 157,
+        "word_english": "Repeating Decimal",
+        "word_turkish": "Tekrar Eden Ondalık"
+    },
+    {
+        "id": 158,
+        "word_english": "Whole Number",
+        "word_turkish": "Tam Sayı"
+    },
+    {
+        "id": 159,
+        "word_english": "Mixed Fraction",
+        "word_turkish": "Karışık Kesir"
+    },
+    {
+        "id": 160,
+        "word_english": "Divisible By",
+        "word_turkish": "Bölünebilir"
+    },
+    {
+        "id": 161,
+        "word_english": "Prime Factorization",
+        "word_turkish": "Asal Çarpanlar"
+    },
+    {
+        "id": 162,
+        "word_english": "Lowest Common Denominator",
+        "word_turkish": "En Küçük Ortak Payda"
+    },
+    {
+        "id": 163,
+        "word_english": "Greatest Common Factor",
+        "word_turkish": "En Büyük Ortak Çarpan"
+    },
+    {
+        "id": 164,
+        "word_english": "Least Common Multiple",
+        "word_turkish": "En Küçük Ortak Kat"
+    },
+    {
+        "id": 165,
+        "word_english": "Sum of Squares",
+        "word_turkish": "Karelerin Toplamı"
+    },
+    {
+        "id": 166,
+        "word_english": "Arithmetic Progression",
+        "word_turkish": "Aritmetik Dizi"
+    },
+    {
+        "id": 167,
+        "word_english": "Geometric Progression",
+        "word_turkish": "Geometrik Dizi"
+    },
+    {
+        "id": 168,
+        "word_english": "Harmonic Mean",
+        "word_turkish": "Harmonik Ortalama"
+    },
+    {
+        "id": 169,
+        "word_english": "Variance",
+        "word_turkish": "Varyans"
+    },
+    {
+        "id": 170,
+        "word_english": "Standard Deviation",
+        "word_turkish": "Standart Sapma"
+    },
+    {
+        "id": 171,
+        "word_english": "Factorial",
+        "word_turkish": "Faktöriyel"
+    },
+    {
+        "id": 172,
+        "word_english": "Exponentiation",
+        "word_turkish": "Üssel İşlem"
+    },
+    {
+        "id": 173,
+        "word_english": "Logarithmic",
+        "word_turkish": "Logaritmik"
+    },
+    {
+        "id": 174,
+        "word_english": "Square of",
+        "word_turkish": "Karesi"
+    },
+    {
+        "id": 175,
+        "word_english": "Cube of",
+        "word_turkish": "Küpü"
+    },
+    {
+        "id": 176,
+        "word_english": "Root of",
+        "word_turkish": "Kökü"
+    },
+    {
+        "id": 177,
+        "word_english": "Even",
+        "word_turkish": "Çift"
+    },
+    {
+        "id": 178,
+        "word_english": "Odd",
+        "word_turkish": "Tek"
+    },
+    {
+        "id": 179,
+        "word_english": "Prime",
+        "word_turkish": "Asal"
+    },
+    {
+        "id": 180,
+        "word_english": "Composite",
+        "word_turkish": "Bileşik"
+    },
+    {
+        "id": 181,
+        "word_english": "Whole Number",
+        "word_turkish": "Tam Sayı"
+    },
+    {
+        "id": 182,
+        "word_english": "Real Number",
+        "word_turkish": "Gerçek Sayı"
+    },
+    {
+        "id": 183,
+        "word_english": "Complex Number",
+        "word_turkish": "Karmaşık Sayı"
+    },
+    {
+        "id": 184,
+        "word_english": "Imaginary",
+        "word_turkish": "Sanal"
+    },
+    {
+        "id": 185,
+        "word_english": "Integer",
+        "word_turkish": "Tam Sayı"
+    },
+    {
+        "id": 186,
+        "word_english": "Scientific Notation",
+        "word_turkish": "Bilimsel Gösterim"
+    },
+    {
+        "id": 187,
+        "word_english": "Pi Approximation",
+        "word_turkish": "Pi Yaklaşımı"
+    },
+    {
+        "id": 188,
+        "word_english": "Golden Ratio",
+        "word_turkish": "Altın Oran"
+    },
+    {
+        "id": 189,
+        "word_english": "Infinity Symbol",
+        "word_turkish": "Sonsuz Sembolü"
+    },
+    {
+        "id": 190,
+        "word_english": "Probability",
+        "word_turkish": "Olasılık"
+    },
+    {
+        "id": 191,
+        "word_english": "Permutations and Combinations",
+        "word_turkish": "Permütasyonlar ve Kombinasyonlar"
+    },
+    {
+        "id": 192,
+        "word_english": "Summation",
+        "word_turkish": "Toplam"
+    },
+    {
+        "id": 193,
+        "word_english": "Differentiation",
+        "word_turkish": "Türev"
+    },
+    {
+        "id": 194,
+        "word_english": "Integration",
+        "word_turkish": "İntegrasyon"
+    },
+    {
+        "id": 195,
+        "word_english": "Matrix",
+        "word_turkish": "Matris"
+    },
+    {
+        "id": 196,
+        "word_english": "Determinant",
+        "word_turkish": "Determinant"
+    },
+    {
+        "id": 197,
+        "word_english": "Eigenvalue",
+        "word_turkish": "Özdeğer"
+    },
+    {
+        "id": 198,
+        "word_english": "Eigenvector",
+        "word_turkish": "Özvektör"
+    },
+    {
+        "id": 199,
+        "word_english": "Trace",
+        "word_turkish": "İz"
+    },
+    {
+        "id": 200,
+        "word_english": "Rank",
+        "word_turkish": "Rütbe"
+    },
+    {
+        "id": 201,
+        "word_english": "Diagonal",
+        "word_turkish": "Çapraz"
+    },
+    {
+        "id": 202,
+        "word_english": "Linear Equation",
+        "word_turkish": "Doğrusal Denklem"
+    },
+    {
+        "id": 203,
+        "word_english": "Quadratic Equation",
+        "word_turkish": "İkinci Dereceden Denklem"
+    },
+    {
+        "id": 204,
+        "word_english": "Cubic Equation",
+        "word_turkish": "Kübik Denklem"
+    },
+    {
+        "id": 205,
+        "word_english": "Polynomial",
+        "word_turkish": "Polinom"
+    },
+    {
+        "id": 206,
+        "word_english": "Roots of an Equation",
+        "word_turkish": "Denklemin Kökleri"
+    },
+    {
+        "id": 207,
+        "word_english": "Slope of a Line",
+        "word_turkish": "Doğrunun Eğim"
+    },
+    {
+        "id": 208,
+        "word_english": "Intercept",
+        "word_turkish": "Kesim"
+    },
+    {
+        "id": 209,
+        "word_english": "Coordinate",
+        "word_turkish": "Koordinat"
+    },
+    {
+        "id": 210,
+        "word_english": "Circle Equation",
+        "word_turkish": "Çember Denklemi"
+    },
+    {
+        "id": 211,
+        "word_english": "Ellipse Equation",
+        "word_turkish": "Elips Denklemi"
+    },
+    {
+        "id": 212,
+        "word_english": "Hyperbola Equation",
+        "word_turkish": "Hiperbol Denklemi"
+    },
+    {
+        "id": 213,
+        "word_english": "Parabola Equation",
+        "word_turkish": "Parabol Denklemi"
+    },
+    {
+        "id": 214,
+        "word_english": "Arithmetic Mean",
+        "word_turkish": "Aritmetik Ortalama"
+    },
+    {
+        "id": 215,
+        "word_english": "Geometric Mean",
+        "word_turkish": "Geometrik Ortalama"
+    },
+    {
+        "id": 216,
+        "word_english": "Harmonic Mean",
+        "word_turkish": "Harmonik Ortalama"
+    },
+    {
+        "id": 217,
+        "word_english": "Range of a Data Set",
+        "word_turkish": "Veri Kümesinin Aralığı"
+    },
+    {
+        "id": 218,
+        "word_english": "Mode of Data",
+        "word_turkish": "Verinin Modu"
+    },
+    {
+        "id": 219,
+        "word_english": "Median of Data",
+        "word_turkish": "Verinin Medyanı"
+    },
+    {
+        "id": 220,
+        "word_english": "Mean of Data",
+        "word_turkish": "Verinin Ortalaması"
+    },
+    {
+        "id": 221,
+        "word_english": "Absolute Value",
+        "word_turkish": "Mutlak Değer"
+    },
+    {
+        "id": 222,
+        "word_english": "Complex Number Operations",
+        "word_turkish": "Karmaşık Sayı İşlemleri"
+    },
+    {
+        "id": 223,
+        "word_english": "Cartesian Plane",
+        "word_turkish": "Kartezyen Düzlem"
+    },
+    {
+        "id": 224,
+        "word_english": "Quadrants",
+        "word_turkish": "Kuantlar"
+    },
+    {
+        "id": 225,
+        "word_english": "Point of Intersection",
+        "word_turkish": "Kesişim Noktası"
+    },
+    {
+        "id": 226,
+        "word_english": "Perpendicular",
+        "word_turkish": "Dik"
+    },
+    {
+        "id": 227,
+        "word_english": "Parallel",
+        "word_turkish": "Paralel"
+    },
+    {
+        "id": 228,
+        "word_english": "Angle of Elevation",
+        "word_turkish": "Yükselme Açısı"
+    },
+    {
+        "id": 229,
+        "word_english": "Angle of Depression",
+        "word_turkish": "Alçalma Açısı"
+    },
+    {
+        "id": 230,
+        "word_english": "Tangent of Angle",
+        "word_turkish": "Açının Tanjantı"
+    },
+    {
+        "id": 231,
+        "word_english": "Secant of Angle",
+        "word_turkish": "Açının Sekantı"
+    },
+    {
+        "id": 232,
+        "word_english": "Cosine of Angle",
+        "word_turkish": "Açının Kosinüsü"
+    },
+    {
+        "id": 233,
+        "word_english": "Sine of Angle",
+        "word_turkish": "Açının Sinüsü"
+    },
+    {
+        "id": 234,
+        "word_english": "Tangent Line",
+        "word_turkish": "Tanjant Doğrusu"
+    },
+    {
+        "id": 235,
+        "word_english": "Circle Radius",
+        "word_turkish": "Çemberin Yarıçapı"
+    },
+    {
+        "id": 236,
+        "word_english": "Circle Diameter",
+        "word_turkish": "Çemberin Çapı"
+    },
+    {
+        "id": 237,
+        "word_english": "Area of Circle",
+        "word_turkish": "Çemberin Alanı"
+    },
+    {
+        "id": 238,
+        "word_english": "Circumference of Circle",
+        "word_turkish": "Çemberin Çevresi"
+    },
+    {
+        "id": 239,
+        "word_english": "Area of Triangle",
+        "word_turkish": "Üçgenin Alanı"
+    },
+    {
+        "id": 240,
+        "word_english": "Area of Rectangle",
+        "word_turkish": "Dikdörtgenin Alanı"
+    },
+    {
+        "id": 241,
+        "word_english": "Volume of Cube",
+        "word_turkish": "Küplü Hacim"
+    },
+    {
+        "id": 242,
+        "word_english": "Volume of Sphere",
+        "word_turkish": "Küresel Hacim"
+    },
+    {
+        "id": 243,
+        "word_english": "Volume of Cylinder",
+        "word_turkish": "Silindirik Hacim"
+    },
+    {
+        "id": 244,
+        "word_english": "Volume of Cone",
+        "word_turkish": "Konik Hacim"
+    },
+    {
+        "id": 245,
+        "word_english": "Surface Area of Sphere",
+        "word_turkish": "Küresel Yüzey Alanı"
+    },
+    {
+        "id": 246,
+        "word_english": "Surface Area of Cylinder",
+        "word_turkish": "Silindirik Yüzey Alanı"
+    },
+    {
+        "id": 247,
+        "word_english": "Surface Area of Cube",
+        "word_turkish": "Küplü Yüzey Alanı"
+    },
+    {
+        "id": 248,
+        "word_english": "Surface Area of Cone",
+        "word_turkish": "Konik Yüzey Alanı"
+    },
+    {
+        "id": 249,
+        "word_english": "Surface Area of Rectangular Prism",
+        "word_turkish": "Dikdörtgenler Prizmasının Yüzey Alanı"
+    },
+    {
+        "id": 250,
+        "word_english": "One",
+        "word_turkish": "Bir"
+    },
+    {
+        "id": 251,
+        "word_english": "Two",
+        "word_turkish": "İki"
+    },
+    {
+        "id": 252,
+        "word_english": "Three",
+        "word_turkish": "Üç"
+    },
+    {
+        "id": 253,
+        "word_english": "Four",
+        "word_turkish": "Dört"
+    },
+    {
+        "id": 254,
+        "word_english": "Five",
+        "word_turkish": "Beş"
+    },
+    {
+        "id": 255,
+        "word_english": "Six",
+        "word_turkish": "Altı"
+    },
+    {
+        "id": 256,
+        "word_english": "Seven",
+        "word_turkish": "Yedi"
+    },
+    {
+        "id": 257,
+        "word_english": "Eight",
+        "word_turkish": "Sekiz"
+    },
+    {
+        "id": 258,
+        "word_english": "Nine",
+        "word_turkish": "Dokuz"
+    },
+    {
+        "id": 259,
+        "word_english": "Ten",
+        "word_turkish": "On"
+    },
+    {
+        "id": 260,
+        "word_english": "Eleven",
+        "word_turkish": "On bir"
+    },
+    {
+        "id": 261,
+        "word_english": "Twelve",
+        "word_turkish": "On iki"
+    },
+    {
+        "id": 262,
+        "word_english": "Thirteen",
+        "word_turkish": "On üç"
+    },
+    {
+        "id": 263,
+        "word_english": "Fourteen",
+        "word_turkish": "On dört"
+    },
+    {
+        "id": 264,
+        "word_english": "Fifteen",
+        "word_turkish": "On beş"
+    },
+    {
+        "id": 265,
+        "word_english": "Sixteen",
+        "word_turkish": "On altı"
+    },
+    {
+        "id": 266,
+        "word_english": "Seventeen",
+        "word_turkish": "On yedi"
+    },
+    {
+        "id": 267,
+        "word_english": "Eighteen",
+        "word_turkish": "On sekiz"
+    },
+    {
+        "id": 268,
+        "word_english": "Nineteen",
+        "word_turkish": "On dokuz"
+    },
+    {
+        "id": 269,
+        "word_english": "Twenty",
+        "word_turkish": "Yirmi"
+    },
+    {
+        "id": 270,
+        "word_english": "Twenty-one",
+        "word_turkish": "Yirmi bir"
+    },
+    {
+        "id": 271,
+        "word_english": "Twenty-two",
+        "word_turkish": "Yirmi iki"
+    },
+    {
+        "id": 272,
+        "word_english": "Twenty-three",
+        "word_turkish": "Yirmi üç"
+    },
+    {
+        "id": 273,
+        "word_english": "Twenty-four",
+        "word_turkish": "Yirmi dört"
+    },
+    {
+        "id": 274,
+        "word_english": "Twenty-five",
+        "word_turkish": "Yirmi beş"
+    },
+    {
+        "id": 275,
+        "word_english": "Twenty-six",
+        "word_turkish": "Yirmi altı"
+    },
+    {
+        "id": 276,
+        "word_english": "Twenty-seven",
+        "word_turkish": "Yirmi yedi"
+    },
+    {
+        "id": 277,
+        "word_english": "Twenty-eight",
+        "word_turkish": "Yirmi sekiz"
+    },
+    {
+        "id": 278,
+        "word_english": "Twenty-nine",
+        "word_turkish": "Yirmi dokuz"
+    },
+    {
+        "id": 279,
+        "word_english": "Thirty",
+        "word_turkish": "Otuz"
+    },
+    {
+        "id": 280,
+        "word_english": "Thirty-one",
+        "word_turkish": "Otuz bir"
+    },
+    {
+        "id": 281,
+        "word_english": "Thirty-two",
+        "word_turkish": "Otuz iki"
+    },
+    {
+        "id": 282,
+        "word_english": "Thirty-three",
+        "word_turkish": "Otuz üç"
+    },
+    {
+        "id": 283,
+        "word_english": "Thirty-four",
+        "word_turkish": "Otuz dört"
+    },
+    {
+        "id": 284,
+        "word_english": "Thirty-five",
+        "word_turkish": "Otuz beş"
+    },
+    {
+        "id": 285,
+        "word_english": "Thirty-six",
+        "word_turkish": "Otuz altı"
+    },
+    {
+        "id": 286,
+        "word_english": "Thirty-seven",
+        "word_turkish": "Otuz yedi"
+    },
+    {
+        "id": 287,
+        "word_english": "Thirty-eight",
+        "word_turkish": "Otuz sekiz"
+    },
+    {
+        "id": 288,
+        "word_english": "Thirty-nine",
+        "word_turkish": "Otuz dokuz"
+    },
+    {
+        "id": 289,
+        "word_english": "Forty",
+        "word_turkish": "Kırk"
+    },
+    {
+        "id": 290,
+        "word_english": "Forty-one",
+        "word_turkish": "Kırk bir"
+    },
+    {
+        "id": 291,
+        "word_english": "Forty-two",
+        "word_turkish": "Kırk iki"
+    },
+    {
+        "id": 292,
+        "word_english": "Forty-three",
+        "word_turkish": "Kırk üç"
+    },
+    {
+        "id": 293,
+        "word_english": "Forty-four",
+        "word_turkish": "Kırk dört"
+    },
+    {
+        "id": 294,
+        "word_english": "Forty-five",
+        "word_turkish": "Kırk beş"
+    },
+    {
+        "id": 295,
+        "word_english": "Forty-six",
+        "word_turkish": "Kırk altı"
+    },
+    {
+        "id": 296,
+        "word_english": "Forty-seven",
+        "word_turkish": "Kırk yedi"
+    },
+    {
+        "id": 297,
+        "word_english": "Forty-eight",
+        "word_turkish": "Kırk sekiz"
+    },
+    {
+        "id": 298,
+        "word_english": "Forty-nine",
+        "word_turkish": "Kırk dokuz"
+    },
+    {
+        "id": 299,
+        "word_english": "Fifty",
+        "word_turkish": "Elli"
+    },
+    {
+        "id": 300,
+        "word_english": "Fifty-one",
+        "word_turkish": "Elli bir"
+    },
+    {
+        "id": 301,
+        "word_english": "Fifty-two",
+        "word_turkish": "Elli iki"
+    },
+    {
+        "id": 302,
+        "word_english": "Fifty-three",
+        "word_turkish": "Elli üç"
+    },
+    {
+        "id": 303,
+        "word_english": "Fifty-four",
+        "word_turkish": "Elli dört"
+    },
+    {
+        "id": 304,
+        "word_english": "Fifty-five",
+        "word_turkish": "Elli beş"
+    },
+    {
+        "id": 305,
+        "word_english": "Fifty-six",
+        "word_turkish": "Elli altı"
+    },
+    {
+        "id": 306,
+        "word_english": "Fifty-seven",
+        "word_turkish": "Elli yedi"
+    },
+    {
+        "id": 307,
+        "word_english": "Fifty-eight",
+        "word_turkish": "Elli sekiz"
+    },
+    {
+        "id": 308,
+        "word_english": "Fifty-nine",
+        "word_turkish": "Elli dokuz"
+    },
+    {
+        "id": 309,
+        "word_english": "Sixty",
+        "word_turkish": "Altmış"
+    },
+    {
+        "id": 310,
+        "word_english": "Sixty-one",
+        "word_turkish": "Altmış bir"
+    },
+    {
+        "id": 311,
+        "word_english": "Sixty-two",
+        "word_turkish": "Altmış iki"
+    },
+    {
+        "id": 312,
+        "word_english": "Sixty-three",
+        "word_turkish": "Altmış üç"
+    },
+    {
+        "id": 313,
+        "word_english": "Sixty-four",
+        "word_turkish": "Altmış dört"
+    },
+    {
+        "id": 314,
+        "word_english": "Sixty-five",
+        "word_turkish": "Altmış beş"
+    },
+    {
+        "id": 315,
+        "word_english": "Sixty-six",
+        "word_turkish": "Altmış altı"
+    },
+    {
+        "id": 316,
+        "word_english": "Sixty-seven",
+        "word_turkish": "Altmış yedi"
+    },
+    {
+        "id": 317,
+        "word_english": "Sixty-eight",
+        "word_turkish": "Altmış sekiz"
+    },
+    {
+        "id": 318,
+        "word_english": "Sixty-nine",
+        "word_turkish": "Altmış dokuz"
+    },
+    {
+        "id": 319,
+        "word_english": "Seventy",
+        "word_turkish": "Yetmiş"
+    },
+    {
+        "id": 320,
+        "word_english": "Seventy-one",
+        "word_turkish": "Yetmiş bir"
+    },
+    {
+        "id": 321,
+        "word_english": "Seventy-two",
+        "word_turkish": "Yetmiş iki"
+    },
+    {
+        "id": 322,
+        "word_english": "Seventy-three",
+        "word_turkish": "Yetmiş üç"
+    },
+    {
+        "id": 323,
+        "word_english": "Seventy-four",
+        "word_turkish": "Yetmiş dört"
+    },
+    {
+        "id": 324,
+        "word_english": "Seventy-five",
+        "word_turkish": "Yetmiş beş"
+    },
+    {
+        "id": 325,
+        "word_english": "Seventy-six",
+        "word_turkish": "Yetmiş altı"
+    },
+    {
+        "id": 326,
+        "word_english": "Seventy-seven",
+        "word_turkish": "Yetmiş yedi"
+    },
+    {
+        "id": 327,
+        "word_english": "Seventy-eight",
+        "word_turkish": "Yetmiş sekiz"
+    },
+    {
+        "id": 328,
+        "word_english": "Seventy-nine",
+        "word_turkish": "Yetmiş dokuz"
+    },
+    {
+        "id": 329,
+        "word_english": "Eighty",
+        "word_turkish": "Seksen"
+    },
+    {
+        "id": 330,
+        "word_english": "Eighty-one",
+        "word_turkish": "Seksen bir"
+    },
+    {
+        "id": 331,
+        "word_english": "Eighty-two",
+        "word_turkish": "Seksen iki"
+    },
+    {
+        "id": 332,
+        "word_english": "Eighty-three",
+        "word_turkish": "Seksen üç"
+    },
+    {
+        "id": 333,
+        "word_english": "Eighty-four",
+        "word_turkish": "Seksen dört"
+    },
+    {
+        "id": 334,
+        "word_english": "Eighty-five",
+        "word_turkish": "Seksen beş"
+    },
+    {
+        "id": 335,
+        "word_english": "Eighty-six",
+        "word_turkish": "Seksen altı"
+    },
+    {
+        "id": 336,
+        "word_english": "Eighty-seven",
+        "word_turkish": "Seksen yedi"
+    },
+    {
+        "id": 337,
+        "word_english": "Eighty-eight",
+        "word_turkish": "Seksen sekiz"
+    },
+    {
+        "id": 338,
+        "word_english": "Eighty-nine",
+        "word_turkish": "Seksen dokuz"
+    },
+    {
+        "id": 339,
+        "word_english": "Ninety",
+        "word_turkish": "Doksan"
+    },
+    {
+        "id": 340,
+        "word_english": "Ninety-one",
+        "word_turkish": "Doksan bir"
+    },
+    {
+        "id": 341,
+        "word_english": "Ninety-two",
+        "word_turkish": "Doksan iki"
+    },
+    {
+        "id": 342,
+        "word_english": "Ninety-three",
+        "word_turkish": "Doksan üç"
+    },
+    {
+        "id": 343,
+        "word_english": "Ninety-four",
+        "word_turkish": "Doksan dört"
+    },
+    {
+        "id": 344,
+        "word_english": "Ninety-five",
+        "word_turkish": "Doksan beş"
+    },
+    {
+        "id": 345,
+        "word_english": "Ninety-six",
+        "word_turkish": "Doksan altı"
+    },
+    {
+        "id": 346,
+        "word_english": "Ninety-seven",
+        "word_turkish": "Doksan yedi"
+    },
+    {
+        "id": 347,
+        "word_english": "Ninety-eight",
+        "word_turkish": "Doksan sekiz"
+    },
+    {
+        "id": 348,
+        "word_english": "Ninety-nine",
+        "word_turkish": "Doksan dokuz"
+    },
+    {
+        "id": 349,
+        "word_english": "One Hundred",
+        "word_turkish": "Yüz"
+    },
+    {
+        "id": 350,
+        "word_english": "One Hundred One",
+        "word_turkish": "Yüz bir"
+    },
+    {
+        "id": 351,
+        "word_english": "One Hundred Two",
+        "word_turkish": "Yüz iki"
+    },
+    {
+        "id": 352,
+        "word_english": "One Hundred Three",
+        "word_turkish": "Yüz üç"
+    },
+    {
+        "id": 353,
+        "word_english": "One Hundred Four",
+        "word_turkish": "Yüz dört"
+    },
+    {
+        "id": 354,
+        "word_english": "One Hundred Five",
+        "word_turkish": "Yüz beş"
+    },
+    {
+        "id": 355,
+        "word_english": "One Hundred Six",
+        "word_turkish": "Yüz altı"
+    },
+    {
+        "id": 356,
+        "word_english": "One Hundred Seven",
+        "word_turkish": "Yüz yedi"
+    },
+    {
+        "id": 357,
+        "word_english": "One Hundred Eight",
+        "word_turkish": "Yüz sekiz"
+    },
+    {
+        "id": 358,
+        "word_english": "One Hundred Nine",
+        "word_turkish": "Yüz dokuz"
+    },
+    {
+        "id": 359,
+        "word_english": "Two Hundred",
+        "word_turkish": "İki yüz"
+    },
+    {
+        "id": 360,
+        "word_english": "Two Hundred One",
+        "word_turkish": "İki yüz bir"
+    },
+    {
+        "id": 361,
+        "word_english": "Two Hundred Two",
+        "word_turkish": "İki yüz iki"
+    },
+    {
+        "id": 362,
+        "word_english": "Two Hundred Three",
+        "word_turkish": "İki yüz üç"
+    },
+    {
+        "id": 363,
+        "word_english": "Two Hundred Four",
+        "word_turkish": "İki yüz dört"
+    },
+    {
+        "id": 364,
+        "word_english": "Two Hundred Five",
+        "word_turkish": "İki yüz beş"
+    },
+    {
+        "id": 365,
+        "word_english": "Two Hundred Six",
+        "word_turkish": "İki yüz altı"
+    },
+    {
+        "id": 366,
+        "word_english": "Two Hundred Seven",
+        "word_turkish": "İki yüz yedi"
+    },
+    {
+        "id": 367,
+        "word_english": "Two Hundred Eight",
+        "word_turkish": "İki yüz sekiz"
+    },
+    {
+        "id": 368,
+        "word_english": "Two Hundred Nine",
+        "word_turkish": "İki yüz dokuz"
+    },
+    {
+        "id": 369,
+        "word_english": "Three Hundred",
+        "word_turkish": "Üç yüz"
+    },
+    {
+        "id": 370,
+        "word_english": "Three Hundred One",
+        "word_turkish": "Üç yüz bir"
+    },
+    {
+        "id": 371,
+        "word_english": "Three Hundred Two",
+        "word_turkish": "Üç yüz iki"
+    },
+    {
+        "id": 372,
+        "word_english": "Three Hundred Three",
+        "word_turkish": "Üç yüz üç"
+    },
+    {
+        "id": 373,
+        "word_english": "Three Hundred Four",
+        "word_turkish": "Üç yüz dört"
+    },
+    {
+        "id": 374,
+        "word_english": "Three Hundred Five",
+        "word_turkish": "Üç yüz beş"
+    },
+    {
+        "id": 375,
+        "word_english": "Three Hundred Six",
+        "word_turkish": "Üç yüz altı"
+    },
+    {
+        "id": 376,
+        "word_english": "Three Hundred Seven",
+        "word_turkish": "Üç yüz yedi"
+    },
+    {
+        "id": 377,
+        "word_english": "Three Hundred Eight",
+        "word_turkish": "Üç yüz sekiz"
+    },
+    {
+        "id": 378,
+        "word_english": "Three Hundred Nine",
+        "word_turkish": "Üç yüz dokuz"
+    },
+    {
+        "id": 379,
+        "word_english": "Four Hundred",
+        "word_turkish": "Dört yüz"
+    },
+    {
+        "id": 380,
+        "word_english": "Four Hundred One",
+        "word_turkish": "Dört yüz bir"
+    },
+    {
+        "id": 381,
+        "word_english": "Four Hundred Two",
+        "word_turkish": "Dört yüz iki"
+    },
+    {
+        "id": 382,
+        "word_english": "Four Hundred Three",
+        "word_turkish": "Dört yüz üç"
+    },
+    {
+        "id": 383,
+        "word_english": "Four Hundred Four",
+        "word_turkish": "Dört yüz dört"
+    },
+    {
+        "id": 384,
+        "word_english": "Four Hundred Five",
+        "word_turkish": "Dört yüz beş"
+    },
+    {
+        "id": 385,
+        "word_english": "Four Hundred Six",
+        "word_turkish": "Dört yüz altı"
+    },
+    {
+        "id": 386,
+        "word_english": "Four Hundred Seven",
+        "word_turkish": "Dört yüz yedi"
+    },
+    {
+        "id": 387,
+        "word_english": "Four Hundred Eight",
+        "word_turkish": "Dört yüz sekiz"
+    },
+    {
+        "id": 388,
+        "word_english": "Four Hundred Nine",
+        "word_turkish": "Dört yüz dokuz"
+    },
+    {
+        "id": 389,
+        "word_english": "Five Hundred",
+        "word_turkish": "Beş yüz"
+    },
+    {
+        "id": 390,
+        "word_english": "Five Hundred One",
+        "word_turkish": "Beş yüz bir"
+    },
+    {
+        "id": 391,
+        "word_english": "Five Hundred Two",
+        "word_turkish": "Beş yüz iki"
+    },
+    {
+        "id": 392,
+        "word_english": "Five Hundred Three",
+        "word_turkish": "Beş yüz üç"
+    },
+    {
+        "id": 393,
+        "word_english": "Five Hundred Four",
+        "word_turkish": "Beş yüz dört"
+    },
+    {
+        "id": 394,
+        "word_english": "Five Hundred Five",
+        "word_turkish": "Beş yüz beş"
+    },
+    {
+        "id": 395,
+        "word_english": "Five Hundred Six",
+        "word_turkish": "Beş yüz altı"
+    },
+    {
+        "id": 396,
+        "word_english": "Five Hundred Seven",
+        "word_turkish": "Beş yüz yedi"
+    },
+    {
+        "id": 397,
+        "word_english": "Five Hundred Eight",
+        "word_turkish": "Beş yüz sekiz"
+    },
+    {
+        "id": 398,
+        "word_english": "Five Hundred Nine",
+        "word_turkish": "Beş yüz dokuz"
+    },
+    {
+        "id": 399,
+        "word_english": "One Thousand",
+        "word_turkish": "Bin"
+    },
+    {
+        "id": 400,
+        "word_english": "One Thousand One",
+        "word_turkish": "Bin bir"
+    },
+    {
+        "id": 401,
+        "word_english": "One Thousand Two",
+        "word_turkish": "Bin iki"
+    },
+    {
+        "id": 402,
+        "word_english": "One Thousand Three",
+        "word_turkish": "Bin üç"
+    },
+    {
+        "id": 403,
+        "word_english": "One Thousand Four",
+        "word_turkish": "Bin dört"
+    },
+    {
+        "id": 404,
+        "word_english": "One Thousand Five",
+        "word_turkish": "Bin beş"
+    },
+    {
+        "id": 405,
+        "word_english": "One Thousand Six",
+        "word_turkish": "Bin altı"
+    },
+    {
+        "id": 406,
+        "word_english": "One Thousand Seven",
+        "word_turkish": "Bin yedi"
+    },
+    {
+        "id": 407,
+        "word_english": "One Thousand Eight",
+        "word_turkish": "Bin sekiz"
+    },
+    {
+        "id": 408,
+        "word_english": "One Thousand Nine",
+        "word_turkish": "Bin dokuz"
+    },
+    {
+        "id": 409,
+        "word_english": "Ten Thousand",
+        "word_turkish": "On bin"
+    },
+    {
+        "id": 410,
+        "word_english": "Twenty Thousand",
+        "word_turkish": "Yirmi bin"
+    },
+    {
+        "id": 411,
+        "word_english": "Thirty Thousand",
+        "word_turkish": "Otuz bin"
+    },
+    {
+        "id": 412,
+        "word_english": "Forty Thousand",
+        "word_turkish": "Kırk bin"
+    },
+    {
+        "id": 413,
+        "word_english": "Fifty Thousand",
+        "word_turkish": "Elli bin"
+    },
+    {
+        "id": 414,
+        "word_english": "Sixty Thousand",
+        "word_turkish": "Altmış bin"
+    },
+    {
+        "id": 415,
+        "word_english": "Seventy Thousand",
+        "word_turkish": "Yetmiş bin"
+    },
+    {
+        "id": 416,
+        "word_english": "Eighty Thousand",
+        "word_turkish": "Seksen bin"
+    },
+    {
+        "id": 417,
+        "word_english": "Ninety Thousand",
+        "word_turkish": "Doksan bin"
+    },
+    {
+        "id": 418,
+        "word_english": "One Hundred Thousand",
+        "word_turkish": "Yüz bin"
+    },
+    {
+        "id": 419,
+        "word_english": "One Million",
+        "word_turkish": "Bir milyon"
+    },
+    {
+        "id": 420,
+        "word_english": "Two Million",
+        "word_turkish": "İki milyon"
+    },
+    {
+        "id": 421,
+        "word_english": "Three Million",
+        "word_turkish": "Üç milyon"
+    },
+    {
+        "id": 422,
+        "word_english": "Five Million",
+        "word_turkish": "Beş milyon"
+    },
+    {
+        "id": 423,
+        "word_english": "Ten Million",
+        "word_turkish": "On milyon"
+    },
+    {
+        "id": 424,
+        "word_english": "Twenty Million",
+        "word_turkish": "Yirmi milyon"
+    },
+    {
+        "id": 425,
+        "word_english": "Thirty Million",
+        "word_turkish": "Otuz milyon"
+    },
+    {
+        "id": 426,
+        "word_english": "One Hundred Million",
+        "word_turkish": "Yüz milyon"
+    },
+    {
+        "id": 427,
+        "word_english": "One Billion",
+        "word_turkish": "Bir milyar"
+    },
+    {
+        "id": 428,
+        "word_english": "One Trillion",
+        "word_turkish": "Bir trilyon"
+    },
+    {
+        "id": 429,
+        "word_english": "One Quadrillion",
+        "word_turkish": "Bir katrilyon"
+    },
+    {
+        "id": 430,
+        "word_english": "One Quintillion",
+        "word_turkish": "Bir kentilyon"
+    },
+    {
+        "id": 431,
+        "word_english": "One Sextillion",
+        "word_turkish": "Bir sekstilyon"
+    },
+    {
+        "id": 432,
+        "word_english": "One Septillion",
+        "word_turkish": "Bir septilyon"
+    },
+    {
+        "id": 433,
+        "word_english": "One Octillion",
+        "word_turkish": "Bir oktilyon"
+    },
+    {
+        "id": 434,
+        "word_english": "One Nonillion",
+        "word_turkish": "Bir nonilyon"
+    },
+    {
+        "id": 435,
+        "word_english": "One Decillion",
+        "word_turkish": "Bir desilyon"
+    },
+    {
+        "id": 436,
+        "word_english": "One Hundred Trillion",
+        "word_turkish": "Yüz trilyon"
+    },
+    {
+        "id": 437,
+        "word_english": "One Million Billion",
+        "word_turkish": "Bir milyon milyar"
+    },
+    {
+        "id": 438,
+        "word_english": "Ten Billion",
+        "word_turkish": "On milyar"
+    },
+    {
+        "id": 439,
+        "word_english": "Twenty Billion",
+        "word_turkish": "Yirmi milyar"
+    },
+    {
+        "id": 440,
+        "word_english": "One Hundred Thousand Thousand",
+        "word_turkish": "Yüz bin bin"
+    },
+    {
+        "id": 441,
+        "word_english": "One Hundred Trillion",
+        "word_turkish": "Yüz trilyon"
+    },
+    {
+        "id": 442,
+        "word_english": "Five Hundred Trillion",
+        "word_turkish": "Beş yüz trilyon"
+    },
+    {
+        "id": 443,
+        "word_english": "Ten Quadrillion",
+        "word_turkish": "On katrilyon"
+    },
+    {
+        "id": 444,
+        "word_english": "One Hundred Quintillion",
+        "word_turkish": "Yüz kentilyon"
+    },
+    {
+        "id": 445,
+        "word_english": "Five Hundred Sextillion",
+        "word_turkish": "Beş yüz sekstilyon"
+    },
+    {
+        "id": 446,
+        "word_english": "One hundred and twenty-three",
+        "word_turkish": "Yüz yirmi üç"
+    },
+    {
+        "id": 447,
+        "word_english": "Three hundred and seventy-four",
+        "word_turkish": "Üç yüz yetmiş dört"
+    },
+    {
+        "id": 448,
+        "word_english": "Five hundred and sixty-eight",
+        "word_turkish": "Beş yüz altmış sekiz"
+    },
+    {
+        "id": 449,
+        "word_english": "One thousand and twenty-one",
+        "word_turkish": "Bin yirmi bir"
+    },
+    {
+        "id": 450,
+        "word_english": "Two thousand and eighty-nine",
+        "word_turkish": "İki bin seksen dokuz"
+    },
+    {
+        "id": 451,
+        "word_english": "Ten thousand and ninety-seven",
+        "word_turkish": "On bin doksan yedi"
+    },
+    {
+        "id": 452,
+        "word_english": "Fifty thousand and twelve",
+        "word_turkish": "Elli bin on iki"
+    },
+    {
+        "id": 453,
+        "word_english": "One hundred thousand and one",
+        "word_turkish": "Yüz bin bir"
+    },
+    {
+        "id": 454,
+        "word_english": "One million and five thousand",
+        "word_turkish": "Bir milyon beş bin"
+    },
+    {
+        "id": 455,
+        "word_english": "Ten million and sixty-seven thousand",
+        "word_turkish": "On milyon altmış yedi bin"
+    },
+    {
+        "id": 456,
+        "word_english": "Two hundred thousand and three",
+        "word_turkish": "İki yüz bin üç"
+    },
+    {
+        "id": 457,
+        "word_english": "Five hundred thousand and twelve",
+        "word_turkish": "Beş yüz bin on iki"
+    },
+    {
+        "id": 458,
+        "word_english": "Ten million and one hundred thousand",
+        "word_turkish": "On milyon yüz bin"
+    },
+    {
+        "id": 459,
+        "word_english": "Fifty million and four hundred thousand",
+        "word_turkish": "Elli milyon dört yüz bin"
+    },
+    {
+        "id": 460,
+        "word_english": "One hundred million and fifty thousand",
+        "word_turkish": "Yüz milyon elli bin"
+    },
+    {
+        "id": 461,
+        "word_english": "One billion and ten million",
+        "word_turkish": "Bir milyar on milyon"
+    },
+    {
+        "id": 462,
+        "word_english": "One trillion and one hundred billion",
+        "word_turkish": "Bir trilyon yüz milyar"
+    },
+    {
+        "id": 463,
+        "word_english": "Three quadrillion and seven hundred billion",
+        "word_turkish": "Üç katrilyon yedi yüz milyar"
+    },
+    {
+        "id": 464,
+        "word_english": "One quintillion and two trillion",
+        "word_turkish": "Bir kentilyon iki trilyon"
+    },
+    {
+        "id": 465,
+        "word_english": "Five sextillion and one quadrillion",
+        "word_turkish": "Beş sekstilyon bir katrilyon"
+    },
+    {
+        "id": 466,
+        "word_english": "Four septillion and eight quintillion",
+        "word_turkish": "Dört septilyon sekiz kentilyon"
+    },
+    {
+        "id": 467,
+        "word_english": "One octillion and six septillion",
+        "word_turkish": "Bir oktilyon altı septilyon"
+    },
+    {
+        "id": 468,
+        "word_english": "Two nonillion and five octillion",
+        "word_turkish": "İki nonilyon beş oktilyon"
+    },
+    {
+        "id": 469,
+        "word_english": "One hundred decillion and one",
+        "word_turkish": "Yüz desilyon bir"
+    },
+    {
+        "id": 470,
+        "word_english": "Five thousand and twenty-three",
+        "word_turkish": "Beş bin yirmi üç"
+    },
+    {
+        "id": 471,
+        "word_english": "Six thousand and nine hundred and fifty-two",
+        "word_turkish": "Altı bin dokuz yüz elli iki"
+    },
+    {
+        "id": 472,
+        "word_english": "Seventy-eight thousand and five",
+        "word_turkish": "Yetmiş sekiz bin beş"
+    },
+    {
+        "id": 473,
+        "word_english": "Fifty-four thousand and six",
+        "word_turkish": "Elli dört bin altı"
+    },
+    {
+        "id": 474,
+        "word_english": "One hundred and fifty-six thousand",
+        "word_turkish": "Yüz elli altı bin"
+    },
+    {
+        "id": 475,
+        "word_english": "Three thousand and two hundred and forty-five",
+        "word_turkish": "Üç bin iki yüz kırk beş"
+    },
+    {
+        "id": 476,
+        "word_english": "Twenty thousand and thirty-four",
+        "word_turkish": "Yirmi bin otuz dört"
+    },
+    {
+        "id": 477,
+        "word_english": "Sixty-three thousand and five hundred",
+        "word_turkish": "Altmış üç bin beş yüz"
+    },
+    {
+        "id": 478,
+        "word_english": "One thousand and fifty-nine",
+        "word_turkish": "Bin elli dokuz"
+    },
+    {
+        "id": 479,
+        "word_english": "Four thousand and three hundred",
+        "word_turkish": "Dört bin üç yüz"
+    },
+    {
+        "id": 480,
+        "word_english": "Eight thousand and one hundred and twenty",
+        "word_turkish": "Sekiz bin yüz yirmi"
+    },
+    {
+        "id": 481,
+        "word_english": "Two thousand and three hundred and forty-seven",
+        "word_turkish": "İki bin üç yüz kırk yedi"
+    },
+    {
+        "id": 482,
+        "word_english": "Six thousand and five hundred and seventy-six",
+        "word_turkish": "Altı bin beş yüz yetmiş altı"
+    },
+    {
+        "id": 483,
+        "word_english": "One hundred thousand and one hundred and one",
+        "word_turkish": "Yüz bin yüz bir"
+    },
+    {
+        "id": 484,
+        "word_english": "One hundred and fifty-eight thousand and sixty-five",
+        "word_turkish": "Yüz elli sekiz bin altmış beş"
+    },
+    {
+        "id": 485,
+        "word_english": "Nine hundred thousand and five hundred",
+        "word_turkish": "Dokuz yüz bin beş yüz"
+    },
+    {
+        "id": 486,
+        "word_english": "Seven hundred thousand and nine hundred and forty-five",
+        "word_turkish": "Yedi yüz bin dokuz yüz kırk beş"
+    },
+    {
+        "id": 487,
+        "word_english": "One thousand and seven hundred and eighty",
+        "word_turkish": "Bin yedi yüz seksen"
+    },
+    {
+        "id": 488,
+        "word_english": "Three thousand and four hundred and sixteen",
+        "word_turkish": "Üç bin dört yüz on altı"
+    },
+    {
+        "id": 489,
+        "word_english": "Four thousand and five hundred and sixty",
+        "word_turkish": "Dört bin beş yüz altmış"
+    },
+    {
+        "id": 490,
+        "word_english": "Ten thousand and one",
+        "word_turkish": "On bin bir"
+    },
+    {
+        "id": 491,
+        "word_english": "Fifteen thousand and five hundred",
+        "word_turkish": "On beş bin beş yüz"
+    },
+    {
+        "id": 492,
+        "word_english": "Three million and one hundred thousand",
+        "word_turkish": "Üç milyon yüz bin"
+    },
+    {
+        "id": 493,
+        "word_english": "Fifty-three million and two hundred thousand",
+        "word_turkish": "Elli üç milyon iki yüz bin"
+    },
+    {
+        "id": 494,
+        "word_english": "Ten million and five hundred thousand",
+        "word_turkish": "On milyon beş yüz bin"
+    },
+    {
+        "id": 495,
+        "word_english": "Thirty million and one thousand",
+        "word_turkish": "Otuz milyon bir bin"
+    },
+    {
+        "id": 496,
+        "word_english": "Four hundred thousand and five hundred",
+        "word_turkish": "Dört yüz bin beş yüz"
+    },
+    {
+        "id": 497,
+        "word_english": "Fifty-two million and seven thousand",
+        "word_turkish": "Elli iki milyon yedi bin"
+    },
+    {
+        "id": 498,
+        "word_english": "Two hundred thousand and one hundred",
+        "word_turkish": "İki yüz bin yüz"
+    },
+    {
+        "id": 499,
+        "word_english": "Five million and two thousand and one",
+        "word_turkish": "Beş milyon iki bin bir"
+    },
+    {
+        "id": 500,
+        "word_english": "Eight hundred thousand and fifty-three",
+        "word_turkish": "Sekiz yüz bin elli üç"
+    },
+    {
+        "id": 501,
+        "word_english": "Two hundred and sixty-seven thousand",
+        "word_turkish": "İki yüz altmış yedi bin"
+    },
+    {
+        "id": 502,
+        "word_english": "One hundred and fifty thousand and two",
+        "word_turkish": "Yüz elli bin iki"
+    },
+    {
+        "id": 503,
+        "word_english": "Nine hundred thousand and ninety",
+        "word_turkish": "Dokuz yüz bin doksan"
+    },
+    {
+        "id": 504,
+        "word_english": "One thousand and two hundred and fifteen",
+        "word_turkish": "Bin iki yüz on beş"
+    },
+    {
+        "id": 505,
+        "word_english": "Four hundred and thirty-two thousand",
+        "word_turkish": "Dört yüz otuz iki bin"
+    },
+    {
+        "id": 506,
+        "word_english": "Seven hundred thousand and twenty-one",
+        "word_turkish": "Yedi yüz bin yirmi bir"
+    },
+    {
+        "id": 507,
+        "word_english": "One thousand and four hundred and sixty-nine",
+        "word_turkish": "Bin dört yüz altmış dokuz"
+    },
+    {
+        "id": 508,
+        "word_english": "Fifty-six million and nine hundred thousand",
+        "word_turkish": "Elli altı milyon dokuz yüz bin"
+    },
+    {
+        "id": 509,
+        "word_english": "Three hundred and sixty-nine thousand",
+        "word_turkish": "Üç yüz altmış dokuz bin"
+    },
+    {
+        "id": 510,
+        "word_english": "Seventy-four thousand and two hundred",
+        "word_turkish": "Yetmiş dört bin iki yüz"
+    },
+    {
+        "id": 511,
+        "word_english": "Eighty-three thousand and seven hundred",
+        "word_turkish": "Seksen üç bin yedi yüz"
+    },
+    {
+        "id": 512,
+        "word_english": "One million and four hundred thousand",
+        "word_turkish": "Bir milyon dört yüz bin"
+    },
+    {
+        "id": 513,
+        "word_english": "Three hundred thousand and nine hundred and twenty-one",
+        "word_turkish": "Üç yüz bin dokuz yüz yirmi bir"
+    },
+    {
+        "id": 514,
+        "word_english": "Ten thousand and five hundred and fifty",
+        "word_turkish": "On bin beş yüz elli"
+    },
+    {
+        "id": 515,
+        "word_english": "One million and two hundred thousand and one hundred",
+        "word_turkish": "Bir milyon iki yüz bin yüz"
+    },
+    {
+        "id": 516,
+        "word_english": "Five thousand and five hundred and thirty-three",
+        "word_turkish": "Beş bin beş yüz otuz üç"
+    },
+    {
+        "id": 517,
+        "word_english": "Seven thousand and one hundred and thirty-four",
+        "word_turkish": "Yedi bin yüz otuz dört"
+    },
+    {
+        "id": 518,
+        "word_english": "Three thousand and four hundred",
+        "word_turkish": "Üç bin dört yüz"
+    },
+    {
+        "id": 519,
+        "word_english": "Five hundred thousand and one thousand",
+        "word_turkish": "Beş yüz bin bir bin"
+    },
+    {
+        "id": 520,
+        "word_english": "Four hundred thousand and five",
+        "word_turkish": "Dört yüz bin beş"
+    },
+    {
+        "id": 521,
+        "word_english": "Nine hundred thousand and ten",
+        "word_turkish": "Dokuz yüz bin on"
+    },
+    {
+        "id": 522,
+        "word_english": "Six hundred thousand and sixty-seven",
+        "word_turkish": "Altı yüz bin altmış yedi"
+    },
+    {
+        "id": 523,
+        "word_english": "One million and two thousand and seventy-eight",
+        "word_turkish": "Bir milyon iki bin yetmiş sekiz"
+    },
+    {
+        "id": 524,
+        "word_english": "Seven hundred and seventy-five thousand",
+        "word_turkish": "Yedi yüz yetmiş beş bin"
+    },
+    {
+        "id": 525,
+        "word_english": "One hundred thousand and thirty-two",
+        "word_turkish": "Yüz bin otuz iki"
+    },
+    {
+        "id": 526,
+        "word_english": "Six hundred and twenty-nine thousand",
+        "word_turkish": "Altı yüz yirmi dokuz bin"
+    },
+    {
+        "id": 527,
+        "word_english": "Four hundred and ten thousand",
+        "word_turkish": "Dört yüz on bin"
+    },
+    {
+        "id": 528,
+        "word_english": "Nine hundred and twenty-four thousand",
+        "word_turkish": "Dokuz yüz yirmi dört bin"
+    },
+    {
+        "id": 529,
+        "word_english": "Fifty thousand and four hundred and thirty",
+        "word_turkish": "Elli bin dört yüz otuz"
+    },
+    {
+        "id": 530,
+        "word_english": "One thousand and one hundred and ten",
+        "word_turkish": "Bin yüz on"
+    },
+    {
+        "id": 531,
+        "word_english": "One hundred and ten thousand and one",
+        "word_turkish": "Yüz on bin bir"
+    },
+    {
+        "id": 532,
+        "word_english": "Five hundred and fifty thousand",
+        "word_turkish": "Beş yüz elli bin"
+    },
+    {
+        "id": 533,
+        "word_english": "Two hundred and twenty-five thousand",
+        "word_turkish": "İki yüz yirmi beş bin"
+    },
+    {
+        "id": 534,
+        "word_english": "Seven thousand and two hundred",
+        "word_turkish": "Yedi bin iki yüz"
+    },
+    {
+        "id": 535,
+        "word_english": "Two thousand and seven hundred",
+        "word_turkish": "İki bin yedi yüz"
+    },
+    {
+        "id": 536,
+        "word_english": "Three thousand and one hundred",
+        "word_turkish": "Üç bin bir yüz"
+    },
+    {
+        "id": 537,
+        "word_english": "Four thousand and one hundred",
+        "word_turkish": "Dört bin bir yüz"
+    },
+    {
+        "id": 538,
+        "word_english": "Six thousand and four hundred",
+        "word_turkish": "Altı bin dört yüz"
+    },
+    {
+        "id": 539,
+        "word_english": "Seven thousand and nine hundred",
+        "word_turkish": "Yedi bin dokuz yüz"
+    },
+    {
+        "id": 540,
+        "word_english": "Five thousand and eight hundred",
+        "word_turkish": "Beş bin sekiz yüz"
+    },
+    {
+        "id": 541,
+        "word_english": "Three thousand and nine hundred",
+        "word_turkish": "Üç bin dokuz yüz"
+    },
+    {
+        "id": 542,
+        "word_english": "One thousand and six hundred",
+        "word_turkish": "Bin altı yüz"
+    },
+    {
+        "id": 543,
+        "word_english": "One hundred and forty thousand",
+        "word_turkish": "Yüz kırk bin"
+    },
+    {
+        "id": 544,
+        "word_english": "Four hundred thousand and two hundred",
+        "word_turkish": "Dört yüz bin iki yüz"
+    },
+    {
+        "id": 545,
+        "word_english": "Fifty-five million",
+        "word_turkish": "Elli beş milyon"
+    },
+    {
+        "id": 546,
+        "word_english": "One thousand and five hundred",
+        "word_turkish": "Bin beş yüz"
+    },
+    {
+        "id": 547,
+        "word_english": "Ten thousand and two hundred",
+        "word_turkish": "On bin iki yüz"
+    },
+    {
+        "id": 548,
+        "word_english": "Three thousand and five",
+        "word_turkish": "Üç bin beş"
+    },
+    {
+        "id": 549,
+        "word_english": "Two thousand and fifty-seven",
+        "word_turkish": "İki bin elli yedi"
+    },
+    {
+        "id": 550,
+        "word_english": "One million and thirty thousand",
+        "word_turkish": "Bir milyon otuz bin"
+    },
+    {
+        "id": 551,
+        "word_english": "Seven hundred thousand and eight hundred",
+        "word_turkish": "Yedi yüz bin sekiz yüz"
+    },
+    {
+        "id": 552,
+        "word_english": "Three hundred thousand and fifty thousand",
+        "word_turkish": "Üç yüz bin elli bin"
+    },
+    {
+        "id": 553,
+        "word_english": "Two hundred thousand and one thousand",
+        "word_turkish": "İki yüz bin bir bin"
+    },
+    {
+        "id": 554,
+        "word_english": "Eight thousand and six hundred and forty-three",
+        "word_turkish": "Sekiz bin altı yüz kırk üç"
+    },
+    {
+        "id": 555,
+        "word_english": "Five million and one thousand",
+        "word_turkish": "Beş milyon bir bin"
+    }
+]

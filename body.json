@@ -1,0 +1,382 @@
+[
+    {
+        "id": 153,
+        "word_english": "Vein",
+        "word_turkish": "Damar"
+    },
+    {
+        "id": 154,
+        "word_english": "Artery",
+        "word_turkish": "Atardamar"
+    },
+    {
+        "id": 155,
+        "word_english": "Nerve",
+        "word_turkish": "Sinir"
+    },
+    {
+        "id": 156,
+        "word_english": "Brain",
+        "word_turkish": "Beyin"
+    },
+    {
+        "id": 157,
+        "word_english": "Spinal cord",
+        "word_turkish": "Omurilik"
+    },
+    {
+        "id": 158,
+        "word_english": "Blood",
+        "word_turkish": "Kan"
+    },
+    {
+        "id": 159,
+        "word_english": "Tissue",
+        "word_turkish": "Doku"
+    },
+    {
+        "id": 160,
+        "word_english": "Cell",
+        "word_turkish": "Hücre"
+    },
+    {
+        "id": 161,
+        "word_english": "Fat",
+        "word_turkish": "Yağ"
+    },
+    {
+        "id": 162,
+        "word_english": "Adipose tissue",
+        "word_turkish": "Yağ dokusu"
+    },
+    {
+        "id": 163,
+        "word_english": "Cortex",
+        "word_turkish": "Kabuk (Beyin)"
+    },
+    {
+        "id": 164,
+        "word_english": "Cerebellum",
+        "word_turkish": "Beyincik"
+    },
+    {
+        "id": 165,
+        "word_english": "Medulla",
+        "word_turkish": "Omurilik soğanı"
+    },
+    {
+        "id": 166,
+        "word_english": "Lymph",
+        "word_turkish": "Lenf"
+    },
+    {
+        "id": 167,
+        "word_english": "Immune system",
+        "word_turkish": "Bağışıklık sistemi"
+    },
+    {
+        "id": 168,
+        "word_english": "Respiratory system",
+        "word_turkish": "Solunum sistemi"
+    },
+    {
+        "id": 169,
+        "word_english": "Digestive system",
+        "word_turkish": "Sindirim sistemi"
+    },
+    {
+        "id": 170,
+        "word_english": "Nervous system",
+        "word_turkish": "Sinir sistemi"
+    },
+    {
+        "id": 171,
+        "word_english": "Endocrine system",
+        "word_turkish": "Endokrin sistem"
+    },
+    {
+        "id": 172,
+        "word_english": "Circulatory system",
+        "word_turkish": "Dolaşım sistemi"
+    },
+    {
+        "id": 173,
+        "word_english": "Excretory system",
+        "word_turkish": "Boşaltım sistemi"
+    },
+    {
+        "id": 174,
+        "word_english": "Reproductive system",
+        "word_turkish": "Üreme sistemi"
+    },
+    {
+        "id": 175,
+        "word_english": "Skeletal system",
+        "word_turkish": "İskelet sistemi"
+    },
+    {
+        "id": 100,
+        "word_english": "Head",
+        "word_turkish": "Baş"
+    },
+    {
+        "id": 101,
+        "word_english": "Face",
+        "word_turkish": "Yüz"
+    },
+    {
+        "id": 102,
+        "word_english": "Eye",
+        "word_turkish": "Göz"
+    },
+    {
+        "id": 103,
+        "word_english": "Ear",
+        "word_turkish": "Kulak"
+    },
+    {
+        "id": 104,
+        "word_english": "Nose",
+        "word_turkish": "Burun"
+    },
+    {
+        "id": 105,
+        "word_english": "Mouth",
+        "word_turkish": "Ağız"
+    },
+    {
+        "id": 106,
+        "word_english": "Teeth",
+        "word_turkish": "Diş"
+    },
+    {
+        "id": 107,
+        "word_english": "Tongue",
+        "word_turkish": "Dil"
+    },
+    {
+        "id": 108,
+        "word_english": "Neck",
+        "word_turkish": "Boyun"
+    },
+    {
+        "id": 109,
+        "word_english": "Shoulder",
+        "word_turkish": "Omuz"
+    },
+    {
+        "id": 110,
+        "word_english": "Arm",
+        "word_turkish": "Kol"
+    },
+    {
+        "id": 111,
+        "word_english": "Elbow",
+        "word_turkish": "Dirsek"
+    },
+    {
+        "id": 112,
+        "word_english": "Wrist",
+        "word_turkish": "Bilek"
+    },
+    {
+        "id": 113,
+        "word_english": "Hand",
+        "word_turkish": "El"
+    },
+    {
+        "id": 114,
+        "word_english": "Finger",
+        "word_turkish": "Parmak"
+    },
+    {
+        "id": 115,
+        "word_english": "Chest",
+        "word_turkish": "Göğüs"
+    },
+    {
+        "id": 116,
+        "word_english": "Breast",
+        "word_turkish": "Göğüs (Kadın)"
+    },
+    {
+        "id": 117,
+        "word_english": "Stomach",
+        "word_turkish": "Mide"
+    },
+    {
+        "id": 118,
+        "word_english": "Abdomen",
+        "word_turkish": "Karın"
+    },
+    {
+        "id": 119,
+        "word_english": "Back",
+        "word_turkish": "Sırt"
+    },
+    {
+        "id": 120,
+        "word_english": "Waist",
+        "word_turkish": "Bel"
+    },
+    {
+        "id": 121,
+        "word_english": "Hips",
+        "word_turkish": "Kalça"
+    },
+    {
+        "id": 122,
+        "word_english": "Leg",
+        "word_turkish": "Bacak"
+    },
+    {
+        "id": 123,
+        "word_english": "Knee",
+        "word_turkish": "Diz"
+    },
+    {
+        "id": 124,
+        "word_english": "Ankle",
+        "word_turkish": "Bilek"
+    },
+    {
+        "id": 125,
+        "word_english": "Foot",
+        "word_turkish": "Ayak"
+    },
+    {
+        "id": 126,
+        "word_english": "Toe",
+        "word_turkish": "Ayak parmağı"
+    },
+    {
+        "id": 127,
+        "word_english": "Heel",
+        "word_turkish": "Topuk"
+    },
+    {
+        "id": 128,
+        "word_english": "Calf",
+        "word_turkish": "Baldır"
+    },
+    {
+        "id": 129,
+        "word_english": "Thigh",
+        "word_turkish": "Uyluk"
+    },
+    {
+        "id": 130,
+        "word_english": "Groin",
+        "word_turkish": "Kasık"
+    },
+    {
+        "id": 131,
+        "word_english": "Pelvis",
+        "word_turkish": "Leğen kemiği"
+    },
+    {
+        "id": 132,
+        "word_english": "Spine",
+        "word_turkish": "Omurga"
+    },
+    {
+        "id": 133,
+        "word_english": "Vertebra",
+        "word_turkish": "Omurga kemiği"
+    },
+    {
+        "id": 134,
+        "word_english": "Rib",
+        "word_turkish": "Kaburga"
+    },
+    {
+        "id": 135,
+        "word_english": "Lung",
+        "word_turkish": "Akciğer"
+    },
+    {
+        "id": 136,
+        "word_english": "Heart",
+        "word_turkish": "Kalp"
+    },
+    {
+        "id": 137,
+        "word_english": "Liver",
+        "word_turkish": "Karaciğer"
+    },
+    {
+        "id": 138,
+        "word_english": "Kidney",
+        "word_turkish": "Böbrek"
+    },
+    {
+        "id": 139,
+        "word_english": "Bladder",
+        "word_turkish": "Mesane"
+    },
+    {
+        "id": 140,
+        "word_english": "Intestine",
+        "word_turkish": "Bağırsak"
+    },
+    {
+        "id": 141,
+        "word_english": "Pancreas",
+        "word_turkish": "Pankreas"
+    },
+    {
+        "id": 142,
+        "word_english": "Spleen",
+        "word_turkish": "Dalak"
+    },
+    {
+        "id": 143,
+        "word_english": "Muscle",
+        "word_turkish": "Kas"
+    },
+    {
+        "id": 144,
+        "word_english": "Bone",
+        "word_turkish": "Kemik"
+    },
+    {
+        "id": 145,
+        "word_english": "Skin",
+        "word_turkish": "Cilt"
+    },
+    {
+        "id": 146,
+        "word_english": "Hair",
+        "word_turkish": "Saç"
+    },
+    {
+        "id": 147,
+        "word_english": "Nail",
+        "word_turkish": "Tırnak"
+    },
+    {
+        "id": 148,
+        "word_english": "Sweat",
+        "word_turkish": "Ter"
+    },
+    {
+        "id": 149,
+        "word_english": "Joint",
+        "word_turkish": "Eklem"
+    },
+    {
+        "id": 150,
+        "word_english": "Tendon",
+        "word_turkish": "Aşil"
+    },
+    {
+        "id": 151,
+        "word_english": "Ligament",
+        "word_turkish": "Bağ"
+    },
+    {
+        "id": 152,
+        "word_english": "Cartilage",
+        "word_turkish": "Kıkırdak"
+    }
+]

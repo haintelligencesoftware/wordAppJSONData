@@ -1,0 +1,1395 @@
+[
+    {
+        "id": 1,
+        "word_v1": "be",
+        "word_v2": "was/were",
+        "word_v3": "been",
+        "word_turkish": "olmak"
+    },
+    {
+        "id": 2,
+        "word_v1": "begin",
+        "word_v2": "began",
+        "word_v3": "begun",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 3,
+        "word_v1": "break",
+        "word_v2": "broke",
+        "word_v3": "broken",
+        "word_turkish": "kırmak"
+    },
+    {
+        "id": 4,
+        "word_v1": "bring",
+        "word_v2": "brought",
+        "word_v3": "brought",
+        "word_turkish": "getirmek"
+    },
+    {
+        "id": 5,
+        "word_v1": "buy",
+        "word_v2": "bought",
+        "word_v3": "bought",
+        "word_turkish": "satın almak"
+    },
+    {
+        "id": 6,
+        "word_v1": "choose",
+        "word_v2": "chose",
+        "word_v3": "chosen",
+        "word_turkish": "seçmek"
+    },
+    {
+        "id": 7,
+        "word_v1": "come",
+        "word_v2": "came",
+        "word_v3": "come",
+        "word_turkish": "gelmek"
+    },
+    {
+        "id": 8,
+        "word_v1": "do",
+        "word_v2": "did",
+        "word_v3": "done",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 9,
+        "word_v1": "eat",
+        "word_v2": "ate",
+        "word_v3": "eaten",
+        "word_turkish": "yemek"
+    },
+    {
+        "id": 10,
+        "word_v1": "fall",
+        "word_v2": "fell",
+        "word_v3": "fallen",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 11,
+        "word_v1": "feel",
+        "word_v2": "felt",
+        "word_v3": "felt",
+        "word_turkish": "hissetmek"
+    },
+    {
+        "id": 12,
+        "word_v1": "find",
+        "word_v2": "found",
+        "word_v3": "found",
+        "word_turkish": "bulmak"
+    },
+    {
+        "id": 13,
+        "word_v1": "fly",
+        "word_v2": "flew",
+        "word_v3": "flown",
+        "word_turkish": "uçmak"
+    },
+    {
+        "id": 14,
+        "word_v1": "get",
+        "word_v2": "got",
+        "word_v3": "got/gotten",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 15,
+        "word_v1": "give",
+        "word_v2": "gave",
+        "word_v3": "given",
+        "word_turkish": "vermek"
+    },
+    {
+        "id": 16,
+        "word_v1": "go",
+        "word_v2": "went",
+        "word_v3": "gone",
+        "word_turkish": "gitmek"
+    },
+    {
+        "id": 17,
+        "word_v1": "have",
+        "word_v2": "had",
+        "word_v3": "had",
+        "word_turkish": "sahip olmak"
+    },
+    {
+        "id": 18,
+        "word_v1": "hear",
+        "word_v2": "heard",
+        "word_v3": "heard",
+        "word_turkish": "duymak"
+    },
+    {
+        "id": 19,
+        "word_v1": "keep",
+        "word_v2": "kept",
+        "word_v3": "kept",
+        "word_turkish": "saklamak"
+    },
+    {
+        "id": 20,
+        "word_v1": "know",
+        "word_v2": "knew",
+        "word_v3": "known",
+        "word_turkish": "bilmek"
+    },
+    {
+        "id": 21,
+        "word_v1": "leave",
+        "word_v2": "left",
+        "word_v3": "left",
+        "word_turkish": "terk etmek"
+    },
+    {
+        "id": 22,
+        "word_v1": "lend",
+        "word_v2": "lent",
+        "word_v3": "lent",
+        "word_turkish": "ödünç vermek"
+    },
+    {
+        "id": 23,
+        "word_v1": "let",
+        "word_v2": "let",
+        "word_v3": "let",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 24,
+        "word_v1": "lose",
+        "word_v2": "lost",
+        "word_v3": "lost",
+        "word_turkish": "kaybetmek"
+    },
+    {
+        "id": 25,
+        "word_v1": "make",
+        "word_v2": "made",
+        "word_v3": "made",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 26,
+        "word_v1": "meet",
+        "word_v2": "met",
+        "word_v3": "met",
+        "word_turkish": "buluşmak"
+    },
+    {
+        "id": 27,
+        "word_v1": "pay",
+        "word_v2": "paid",
+        "word_v3": "paid",
+        "word_turkish": "ödemek"
+    },
+    {
+        "id": 28,
+        "word_v1": "put",
+        "word_v2": "put",
+        "word_v3": "put",
+        "word_turkish": "koymak"
+    },
+    {
+        "id": 29,
+        "word_v1": "read",
+        "word_v2": "read",
+        "word_v3": "read",
+        "word_turkish": "okumak"
+    },
+    {
+        "id": 30,
+        "word_v1": "ride",
+        "word_v2": "rode",
+        "word_v3": "ridden",
+        "word_turkish": "binmek"
+    },
+    {
+        "id": 31,
+        "word_v1": "ring",
+        "word_v2": "rang",
+        "word_v3": "rung",
+        "word_turkish": "çalmış olmak"
+    },
+    {
+        "id": 32,
+        "word_v1": "run",
+        "word_v2": "ran",
+        "word_v3": "run",
+        "word_turkish": "koşmak"
+    },
+    {
+        "id": 33,
+        "word_v1": "say",
+        "word_v2": "said",
+        "word_v3": "said",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 34,
+        "word_v1": "see",
+        "word_v2": "saw",
+        "word_v3": "seen",
+        "word_turkish": "görmek"
+    },
+    {
+        "id": 35,
+        "word_v1": "sell",
+        "word_v2": "sold",
+        "word_v3": "sold",
+        "word_turkish": "satmak"
+    },
+    {
+        "id": 36,
+        "word_v1": "send",
+        "word_v2": "sent",
+        "word_v3": "sent",
+        "word_turkish": "göndermek"
+    },
+    {
+        "id": 37,
+        "word_v1": "set",
+        "word_v2": "set",
+        "word_v3": "set",
+        "word_turkish": "ayarlamak"
+    },
+    {
+        "id": 38,
+        "word_v1": "show",
+        "word_v2": "showed",
+        "word_v3": "shown",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 39,
+        "word_v1": "sing",
+        "word_v2": "sang",
+        "word_v3": "sung",
+        "word_turkish": "şarkı söylemek"
+    },
+    {
+        "id": 40,
+        "word_v1": "sit",
+        "word_v2": "sat",
+        "word_v3": "sat",
+        "word_turkish": "oturmak"
+    },
+    {
+        "id": 41,
+        "word_v1": "sleep",
+        "word_v2": "slept",
+        "word_v3": "slept",
+        "word_turkish": "uyumak"
+    },
+    {
+        "id": 42,
+        "word_v1": "speak",
+        "word_v2": "spoke",
+        "word_v3": "spoken",
+        "word_turkish": "konuşmak"
+    },
+    {
+        "id": 43,
+        "word_v1": "spend",
+        "word_v2": "spent",
+        "word_v3": "spent",
+        "word_turkish": "harcamak"
+    },
+    {
+        "id": 44,
+        "word_v1": "stand",
+        "word_v2": "stood",
+        "word_v3": "stood",
+        "word_turkish": "durmak"
+    },
+    {
+        "id": 45,
+        "word_v1": "take",
+        "word_v2": "took",
+        "word_v3": "taken",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 46,
+        "word_v1": "teach",
+        "word_v2": "taught",
+        "word_v3": "taught",
+        "word_turkish": "öğretmek"
+    },
+    {
+        "id": 47,
+        "word_v1": "tell",
+        "word_v2": "told",
+        "word_v3": "told",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 48,
+        "word_v1": "think",
+        "word_v2": "thought",
+        "word_v3": "thought",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 49,
+        "word_v1": "throw",
+        "word_v2": "threw",
+        "word_v3": "thrown",
+        "word_turkish": "atmak"
+    },
+    {
+        "id": 50,
+        "word_v1": "understand",
+        "word_v2": "understood",
+        "word_v3": "understood",
+        "word_turkish": "anlamak"
+    },
+    {
+        "id": 51,
+        "word_v1": "wake",
+        "word_v2": "woke",
+        "word_v3": "woken",
+        "word_turkish": "uyanmak"
+    },
+    {
+        "id": 52,
+        "word_v1": "wear",
+        "word_v2": "wore",
+        "word_v3": "worn",
+        "word_turkish": "giymek"
+    },
+    {
+        "id": 53,
+        "word_v1": "win",
+        "word_v2": "won",
+        "word_v3": "won",
+        "word_turkish": "kazanmak"
+    },
+    {
+        "id": 54,
+        "word_v1": "write",
+        "word_v2": "wrote",
+        "word_v3": "written",
+        "word_turkish": "yazmak"
+    },
+    {
+        "id": 55,
+        "word_v1": "arise",
+        "word_v2": "arose",
+        "word_v3": "arisen",
+        "word_turkish": "doğmak, meydana gelmek"
+    },
+    {
+        "id": 56,
+        "word_v1": "awake",
+        "word_v2": "awoke",
+        "word_v3": "awoken",
+        "word_turkish": "uyanmak"
+    },
+    {
+        "id": 57,
+        "word_v1": "bear",
+        "word_v2": "bore",
+        "word_v3": "born",
+        "word_turkish": "doğurmak, taşımak"
+    },
+    {
+        "id": 58,
+        "word_v1": "beat",
+        "word_v2": "beat",
+        "word_v3": "beaten",
+        "word_turkish": "vurmak"
+    },
+    {
+        "id": 59,
+        "word_v1": "become",
+        "word_v2": "became",
+        "word_v3": "become",
+        "word_turkish": "olmak"
+    },
+    {
+        "id": 60,
+        "word_v1": "begin",
+        "word_v2": "began",
+        "word_v3": "begun",
+        "word_turkish": "başlamak"
+    },
+    {
+        "id": 61,
+        "word_v1": "bend",
+        "word_v2": "bent",
+        "word_v3": "bent",
+        "word_turkish": "bükmek"
+    },
+    {
+        "id": 62,
+        "word_v1": "bet",
+        "word_v2": "bet",
+        "word_v3": "bet",
+        "word_turkish": "bahse girmek"
+    },
+    {
+        "id": 63,
+        "word_v1": "bind",
+        "word_v2": "bound",
+        "word_v3": "bound",
+        "word_turkish": "bağlamak"
+    },
+    {
+        "id": 64,
+        "word_v1": "bite",
+        "word_v2": "bit",
+        "word_v3": "bitten",
+        "word_turkish": "ısırmak"
+    },
+    {
+        "id": 65,
+        "word_v1": "blow",
+        "word_v2": "blew",
+        "word_v3": "blown",
+        "word_turkish": "üflemek"
+    },
+    {
+        "id": 66,
+        "word_v1": "break",
+        "word_v2": "broke",
+        "word_v3": "broken",
+        "word_turkish": "kırmak"
+    },
+    {
+        "id": 67,
+        "word_v1": "bring",
+        "word_v2": "brought",
+        "word_v3": "brought",
+        "word_turkish": "getirmek"
+    },
+    {
+        "id": 68,
+        "word_v1": "broadcast",
+        "word_v2": "broadcast",
+        "word_v3": "broadcast",
+        "word_turkish": "yayın yapmak"
+    },
+    {
+        "id": 69,
+        "word_v1": "build",
+        "word_v2": "built",
+        "word_v3": "built",
+        "word_turkish": "inşa etmek"
+    },
+    {
+        "id": 70,
+        "word_v1": "burn",
+        "word_v2": "burned/burnt",
+        "word_v3": "burned/burnt",
+        "word_turkish": "yakmak"
+    },
+    {
+        "id": 71,
+        "word_v1": "burst",
+        "word_v2": "burst",
+        "word_v3": "burst",
+        "word_turkish": "patlamak"
+    },
+    {
+        "id": 72,
+        "word_v1": "buy",
+        "word_v2": "bought",
+        "word_v3": "bought",
+        "word_turkish": "satın almak"
+    },
+    {
+        "id": 73,
+        "word_v1": "cast",
+        "word_v2": "cast",
+        "word_v3": "cast",
+        "word_turkish": "atmak, dökmek"
+    },
+    {
+        "id": 74,
+        "word_v1": "catch",
+        "word_v2": "caught",
+        "word_v3": "caught",
+        "word_turkish": "yakalamak"
+    },
+    {
+        "id": 75,
+        "word_v1": "choose",
+        "word_v2": "chose",
+        "word_v3": "chosen",
+        "word_turkish": "seçmek"
+    },
+    {
+        "id": 76,
+        "word_v1": "cling",
+        "word_v2": "clung",
+        "word_v3": "clung",
+        "word_turkish": "yapışmak"
+    },
+    {
+        "id": 77,
+        "word_v1": "come",
+        "word_v2": "came",
+        "word_v3": "come",
+        "word_turkish": "gelmek"
+    },
+    {
+        "id": 78,
+        "word_v1": "cost",
+        "word_v2": "cost",
+        "word_v3": "cost",
+        "word_turkish": "maliyet"
+    },
+    {
+        "id": 79,
+        "word_v1": "creep",
+        "word_v2": "crept",
+        "word_v3": "crept",
+        "word_turkish": "sürünmek"
+    },
+    {
+        "id": 80,
+        "word_v1": "cut",
+        "word_v2": "cut",
+        "word_v3": "cut",
+        "word_turkish": "kesmek"
+    },
+    {
+        "id": 81,
+        "word_v1": "deal",
+        "word_v2": "dealt",
+        "word_v3": "dealt",
+        "word_turkish": "ilgilenmek, ticaret yapmak"
+    },
+    {
+        "id": 82,
+        "word_v1": "dig",
+        "word_v2": "dug",
+        "word_v3": "dug",
+        "word_turkish": "kazmak"
+    },
+    {
+        "id": 83,
+        "word_v1": "do",
+        "word_v2": "did",
+        "word_v3": "done",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 84,
+        "word_v1": "draw",
+        "word_v2": "drew",
+        "word_v3": "drawn",
+        "word_turkish": "çizmek"
+    },
+    {
+        "id": 85,
+        "word_v1": "dream",
+        "word_v2": "dreamed/dreamt",
+        "word_v3": "dreamed/dreamt",
+        "word_turkish": "rüya görmek"
+    },
+    {
+        "id": 86,
+        "word_v1": "drink",
+        "word_v2": "drank",
+        "word_v3": "drunk",
+        "word_turkish": "içmek"
+    },
+    {
+        "id": 87,
+        "word_v1": "drive",
+        "word_v2": "drove",
+        "word_v3": "driven",
+        "word_turkish": "sürmek"
+    },
+    {
+        "id": 88,
+        "word_v1": "eat",
+        "word_v2": "ate",
+        "word_v3": "eaten",
+        "word_turkish": "yemek"
+    },
+    {
+        "id": 89,
+        "word_v1": "fall",
+        "word_v2": "fell",
+        "word_v3": "fallen",
+        "word_turkish": "düşmek"
+    },
+    {
+        "id": 90,
+        "word_v1": "feed",
+        "word_v2": "fed",
+        "word_v3": "fed",
+        "word_turkish": "beslemek"
+    },
+    {
+        "id": 91,
+        "word_v1": "feel",
+        "word_v2": "felt",
+        "word_v3": "felt",
+        "word_turkish": "hissetmek"
+    },
+    {
+        "id": 92,
+        "word_v1": "fight",
+        "word_v2": "fought",
+        "word_v3": "fought",
+        "word_turkish": "savaşmak"
+    },
+    {
+        "id": 93,
+        "word_v1": "find",
+        "word_v2": "found",
+        "word_v3": "found",
+        "word_turkish": "bulmak"
+    },
+    {
+        "id": 94,
+        "word_v1": "flee",
+        "word_v2": "fled",
+        "word_v3": "fled",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 95,
+        "word_v1": "fling",
+        "word_v2": "flung",
+        "word_v3": "flung",
+        "word_turkish": "fırlatmak"
+    },
+    {
+        "id": 96,
+        "word_v1": "fly",
+        "word_v2": "flew",
+        "word_v3": "flown",
+        "word_turkish": "uçmak"
+    },
+    {
+        "id": 97,
+        "word_v1": "forbid",
+        "word_v2": "forbade",
+        "word_v3": "forbidden",
+        "word_turkish": "yasaklamak"
+    },
+    {
+        "id": 98,
+        "word_v1": "forget",
+        "word_v2": "forgot",
+        "word_v3": "forgotten",
+        "word_turkish": "unutmak"
+    },
+    {
+        "id": 99,
+        "word_v1": "forgive",
+        "word_v2": "forgave",
+        "word_v3": "forgiven",
+        "word_turkish": "affetmek"
+    },
+    {
+        "id": 100,
+        "word_v1": "freeze",
+        "word_v2": "froze",
+        "word_v3": "frozen",
+        "word_turkish": "donmak"
+    },
+    {
+        "id": 101,
+        "word_v1": "get",
+        "word_v2": "got",
+        "word_v3": "got/gotten",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 102,
+        "word_v1": "give",
+        "word_v2": "gave",
+        "word_v3": "given",
+        "word_turkish": "vermek"
+    },
+    {
+        "id": 103,
+        "word_v1": "go",
+        "word_v2": "went",
+        "word_v3": "gone",
+        "word_turkish": "gitmek"
+    },
+    {
+        "id": 104,
+        "word_v1": "grow",
+        "word_v2": "grew",
+        "word_v3": "grown",
+        "word_turkish": "büyümek"
+    },
+    {
+        "id": 105,
+        "word_v1": "hang",
+        "word_v2": "hung",
+        "word_v3": "hung",
+        "word_turkish": "asmak"
+    },
+    {
+        "id": 106,
+        "word_v1": "have",
+        "word_v2": "had",
+        "word_v3": "had",
+        "word_turkish": "sahip olmak"
+    },
+    {
+        "id": 107,
+        "word_v1": "hear",
+        "word_v2": "heard",
+        "word_v3": "heard",
+        "word_turkish": "duymak"
+    },
+    {
+        "id": 108,
+        "word_v1": "hide",
+        "word_v2": "hid",
+        "word_v3": "hidden",
+        "word_turkish": "saklanmak"
+    },
+    {
+        "id": 109,
+        "word_v1": "hit",
+        "word_v2": "hit",
+        "word_v3": "hit",
+        "word_turkish": "vurmak"
+    },
+    {
+        "id": 110,
+        "word_v1": "hold",
+        "word_v2": "held",
+        "word_v3": "held",
+        "word_turkish": "tutmak"
+    },
+    {
+        "id": 111,
+        "word_v1": "hurt",
+        "word_v2": "hurt",
+        "word_v3": "hurt",
+        "word_turkish": "incitmek"
+    },
+    {
+        "id": 112,
+        "word_v1": "keep",
+        "word_v2": "kept",
+        "word_v3": "kept",
+        "word_turkish": "saklamak"
+    },
+    {
+        "id": 113,
+        "word_v1": "kneel",
+        "word_v2": "knelt",
+        "word_v3": "knelt",
+        "word_turkish": "diz çökmek"
+    },
+    {
+        "id": 114,
+        "word_v1": "knit",
+        "word_v2": "knitted/knit",
+        "word_v3": "knitted/knit",
+        "word_turkish": "örmek"
+    },
+    {
+        "id": 115,
+        "word_v1": "know",
+        "word_v2": "knew",
+        "word_v3": "known",
+        "word_turkish": "bilmek"
+    },
+    {
+        "id": 116,
+        "word_v1": "lay",
+        "word_v2": "laid",
+        "word_v3": "laid",
+        "word_turkish": "yatmak"
+    },
+    {
+        "id": 117,
+        "word_v1": "lead",
+        "word_v2": "led",
+        "word_v3": "led",
+        "word_turkish": "yönlendirmek"
+    },
+    {
+        "id": 118,
+        "word_v1": "lean",
+        "word_v2": "leaned/leant",
+        "word_v3": "leaned/leant",
+        "word_turkish": "dayanmak"
+    },
+    {
+        "id": 119,
+        "word_v1": "leap",
+        "word_v2": "leapt",
+        "word_v3": "leapt",
+        "word_turkish": "sıçramak"
+    },
+    {
+        "id": 120,
+        "word_v1": "learn",
+        "word_v2": "learned/learnt",
+        "word_v3": "learned/learnt",
+        "word_turkish": "öğrenmek"
+    },
+    {
+        "id": 121,
+        "word_v1": "leave",
+        "word_v2": "left",
+        "word_v3": "left",
+        "word_turkish": "terk etmek"
+    },
+    {
+        "id": 122,
+        "word_v1": "lend",
+        "word_v2": "lent",
+        "word_v3": "lent",
+        "word_turkish": "ödünç vermek"
+    },
+    {
+        "id": 123,
+        "word_v1": "let",
+        "word_v2": "let",
+        "word_v3": "let",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 124,
+        "word_v1": "lie",
+        "word_v2": "lay",
+        "word_v3": "lain",
+        "word_turkish": "yatmak"
+    },
+    {
+        "id": 125,
+        "word_v1": "light",
+        "word_v2": "lit/lighted",
+        "word_v3": "lit/lighted",
+        "word_turkish": "yakmak"
+    },
+    {
+        "id": 126,
+        "word_v1": "lose",
+        "word_v2": "lost",
+        "word_v3": "lost",
+        "word_turkish": "kaybetmek"
+    },
+    {
+        "id": 127,
+        "word_v1": "make",
+        "word_v2": "made",
+        "word_v3": "made",
+        "word_turkish": "yapmak"
+    },
+    {
+        "id": 128,
+        "word_v1": "mean",
+        "word_v2": "meant",
+        "word_v3": "meant",
+        "word_turkish": "anlamına gelmek"
+    },
+    {
+        "id": 129,
+        "word_v1": "meet",
+        "word_v2": "met",
+        "word_v3": "met",
+        "word_turkish": "buluşmak"
+    },
+    {
+        "id": 130,
+        "word_v1": "melt",
+        "word_v2": "melted",
+        "word_v3": "melted/molten",
+        "word_turkish": "erimek"
+    },
+    {
+        "id": 131,
+        "word_v1": "mistake",
+        "word_v2": "mistook",
+        "word_v3": "mistaken",
+        "word_turkish": "yanılmak"
+    },
+    {
+        "id": 132,
+        "word_v1": "miss",
+        "word_v2": "missed",
+        "word_v3": "missed",
+        "word_turkish": "kaçırmak"
+    },
+    {
+        "id": 133,
+        "word_v1": "mow",
+        "word_v2": "mowed",
+        "word_v3": "mown",
+        "word_turkish": "biçmek"
+    },
+    {
+        "id": 134,
+        "word_v1": "overcome",
+        "word_v2": "overcame",
+        "word_v3": "overcome",
+        "word_turkish": "üstesinden gelmek"
+    },
+    {
+        "id": 135,
+        "word_v1": "partake",
+        "word_v2": "partook",
+        "word_v3": "partaken",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 136,
+        "word_v1": "pay",
+        "word_v2": "paid",
+        "word_v3": "paid",
+        "word_turkish": "ödemek"
+    },
+    {
+        "id": 137,
+        "word_v1": "plead",
+        "word_v2": "pleaded/pled",
+        "word_v3": "pleaded/pled",
+        "word_turkish": "yalvarmak"
+    },
+    {
+        "id": 138,
+        "word_v1": "put",
+        "word_v2": "put",
+        "word_v3": "put",
+        "word_turkish": "koymak"
+    },
+    {
+        "id": 139,
+        "word_v1": "quit",
+        "word_v2": "quit",
+        "word_v3": "quit",
+        "word_turkish": "bırakmak"
+    },
+    {
+        "id": 140,
+        "word_v1": "read",
+        "word_v2": "read",
+        "word_v3": "read",
+        "word_turkish": "okumak"
+    },
+    {
+        "id": 141,
+        "word_v1": "ride",
+        "word_v2": "rode",
+        "word_v3": "ridden",
+        "word_turkish": "binmek"
+    },
+    {
+        "id": 142,
+        "word_v1": "ring",
+        "word_v2": "rang",
+        "word_v3": "rung",
+        "word_turkish": "çalmış olmak"
+    },
+    {
+        "id": 143,
+        "word_v1": "rise",
+        "word_v2": "rose",
+        "word_v3": "risen",
+        "word_turkish": "yükselmek"
+    },
+    {
+        "id": 144,
+        "word_v1": "run",
+        "word_v2": "ran",
+        "word_v3": "run",
+        "word_turkish": "koşmak"
+    },
+    {
+        "id": 145,
+        "word_v1": "saw",
+        "word_v2": "sawed",
+        "word_v3": "sawn",
+        "word_turkish": "testereyle kesmek"
+    },
+    {
+        "id": 146,
+        "word_v1": "say",
+        "word_v2": "said",
+        "word_v3": "said",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 147,
+        "word_v1": "see",
+        "word_v2": "saw",
+        "word_v3": "seen",
+        "word_turkish": "görmek"
+    },
+    {
+        "id": 148,
+        "word_v1": "sell",
+        "word_v2": "sold",
+        "word_v3": "sold",
+        "word_turkish": "satmak"
+    },
+    {
+        "id": 149,
+        "word_v1": "send",
+        "word_v2": "sent",
+        "word_v3": "sent",
+        "word_turkish": "göndermek"
+    },
+    {
+        "id": 150,
+        "word_v1": "set",
+        "word_v2": "set",
+        "word_v3": "set",
+        "word_turkish": "ayarlamak"
+    },
+    {
+        "id": 151,
+        "word_v1": "sew",
+        "word_v2": "sewed",
+        "word_v3": "sewn/sewed",
+        "word_turkish": "dikiş yapmak"
+    },
+    {
+        "id": 152,
+        "word_v1": "shake",
+        "word_v2": "shook",
+        "word_v3": "shaken",
+        "word_turkish": "sallamak"
+    },
+    {
+        "id": 153,
+        "word_v1": "shine",
+        "word_v2": "shone",
+        "word_v3": "shone",
+        "word_turkish": "parlamak"
+    },
+    {
+        "id": 154,
+        "word_v1": "shoot",
+        "word_v2": "shot",
+        "word_v3": "shot",
+        "word_turkish": "ateş etmek"
+    },
+    {
+        "id": 155,
+        "word_v1": "show",
+        "word_v2": "showed",
+        "word_v3": "shown",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 156,
+        "word_v1": "shrink",
+        "word_v2": "shrunk",
+        "word_v3": "shrunk",
+        "word_turkish": "çekmek"
+    },
+    {
+        "id": 157,
+        "word_v1": "shut",
+        "word_v2": "shut",
+        "word_v3": "shut",
+        "word_turkish": "kapatmak"
+    },
+    {
+        "id": 158,
+        "word_v1": "sing",
+        "word_v2": "sang",
+        "word_v3": "sung",
+        "word_turkish": "şarkı söylemek"
+    },
+    {
+        "id": 159,
+        "word_v1": "sink",
+        "word_v2": "sank",
+        "word_v3": "sunk",
+        "word_turkish": "batmak"
+    },
+    {
+        "id": 160,
+        "word_v1": "sit",
+        "word_v2": "sat",
+        "word_v3": "sat",
+        "word_turkish": "oturmak"
+    },
+    {
+        "id": 161,
+        "word_v1": "sleep",
+        "word_v2": "slept",
+        "word_v3": "slept",
+        "word_turkish": "uyumak"
+    },
+    {
+        "id": 162,
+        "word_v1": "slink",
+        "word_v2": "slunk",
+        "word_v3": "slunk",
+        "word_turkish": "kaçmak"
+    },
+    {
+        "id": 163,
+        "word_v1": "speak",
+        "word_v2": "spoke",
+        "word_v3": "spoken",
+        "word_turkish": "konuşmak"
+    },
+    {
+        "id": 164,
+        "word_v1": "speed",
+        "word_v2": "sped",
+        "word_v3": "sped",
+        "word_turkish": "hızlandırmak"
+    },
+    {
+        "id": 165,
+        "word_v1": "spend",
+        "word_v2": "spent",
+        "word_v3": "spent",
+        "word_turkish": "harcamak"
+    },
+    {
+        "id": 166,
+        "word_v1": "spill",
+        "word_v2": "spilled/spilt",
+        "word_v3": "spilled/spilt",
+        "word_turkish": "dökmek"
+    },
+    {
+        "id": 167,
+        "word_v1": "spin",
+        "word_v2": "spun",
+        "word_v3": "spun",
+        "word_turkish": "dönmek"
+    },
+    {
+        "id": 168,
+        "word_v1": "spit",
+        "word_v2": "spat",
+        "word_v3": "spat",
+        "word_turkish": "tükürmek"
+    },
+    {
+        "id": 169,
+        "word_v1": "split",
+        "word_v2": "split",
+        "word_v3": "split",
+        "word_turkish": "bölmek"
+    },
+    {
+        "id": 170,
+        "word_v1": "spoil",
+        "word_v2": "spoiled/spoilt",
+        "word_v3": "spoiled/spoilt",
+        "word_turkish": "bozmak"
+    },
+    {
+        "id": 171,
+        "word_v1": "spread",
+        "word_v2": "spread",
+        "word_v3": "spread",
+        "word_turkish": "yaymak"
+    },
+    {
+        "id": 172,
+        "word_v1": "spring",
+        "word_v2": "sprang",
+        "word_v3": "sprung",
+        "word_turkish": "fırlamak"
+    },
+    {
+        "id": 173,
+        "word_v1": "stand",
+        "word_v2": "stood",
+        "word_v3": "stood",
+        "word_turkish": "durmak"
+    },
+    {
+        "id": 174,
+        "word_v1": "steal",
+        "word_v2": "stole",
+        "word_v3": "stolen",
+        "word_turkish": "çalmak"
+    },
+    {
+        "id": 175,
+        "word_v1": "stick",
+        "word_v2": "stuck",
+        "word_v3": "stuck",
+        "word_turkish": "yapıştırmak"
+    },
+    {
+        "id": 176,
+        "word_v1": "sting",
+        "word_v2": "stung",
+        "word_v3": "stung",
+        "word_turkish": "iğnelemek"
+    },
+    {
+        "id": 177,
+        "word_v1": "stink",
+        "word_v2": "stank",
+        "word_v3": "stunk",
+        "word_turkish": "kokuşmak"
+    },
+    {
+        "id": 178,
+        "word_v1": "stride",
+        "word_v2": "strode",
+        "word_v3": "strode",
+        "word_turkish": "adım atmak"
+    },
+    {
+        "id": 179,
+        "word_v1": "strike",
+        "word_v2": "struck",
+        "word_v3": "struck",
+        "word_turkish": "vurmak"
+    },
+    {
+        "id": 180,
+        "word_v1": "string",
+        "word_v2": "strung",
+        "word_v3": "strung",
+        "word_turkish": "ip geçirmek"
+    },
+    {
+        "id": 181,
+        "word_v1": "strive",
+        "word_v2": "strove",
+        "word_v3": "striven",
+        "word_turkish": "çabalamak"
+    },
+    {
+        "id": 182,
+        "word_v1": "swear",
+        "word_v2": "swore",
+        "word_v3": "sworn",
+        "word_turkish": "yemin etmek"
+    },
+    {
+        "id": 183,
+        "word_v1": "sweep",
+        "word_v2": "swept",
+        "word_v3": "swept",
+        "word_turkish": "süpürmek"
+    },
+    {
+        "id": 184,
+        "word_v1": "swell",
+        "word_v2": "swelled",
+        "word_v3": "swelled/swollen",
+        "word_turkish": "şişmek"
+    },
+    {
+        "id": 185,
+        "word_v1": "swim",
+        "word_v2": "swam",
+        "word_v3": "swum",
+        "word_turkish": "yüzmek"
+    },
+    {
+        "id": 186,
+        "word_v1": "swing",
+        "word_v2": "swung",
+        "word_v3": "swung",
+        "word_turkish": "salınmak"
+    },
+    {
+        "id": 187,
+        "word_v1": "take",
+        "word_v2": "took",
+        "word_v3": "taken",
+        "word_turkish": "almak"
+    },
+    {
+        "id": 188,
+        "word_v1": "teach",
+        "word_v2": "taught",
+        "word_v3": "taught",
+        "word_turkish": "öğretmek"
+    },
+    {
+        "id": 189,
+        "word_v1": "tear",
+        "word_v2": "tore",
+        "word_v3": "torn",
+        "word_turkish": "yırtmak"
+    },
+    {
+        "id": 190,
+        "word_v1": "tell",
+        "word_v2": "told",
+        "word_v3": "told",
+        "word_turkish": "söylemek"
+    },
+    {
+        "id": 191,
+        "word_v1": "think",
+        "word_v2": "thought",
+        "word_v3": "thought",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 192,
+        "word_v1": "throw",
+        "word_v2": "threw",
+        "word_v3": "thrown",
+        "word_turkish": "atmak"
+    },
+    {
+        "id": 193,
+        "word_v1": "understand",
+        "word_v2": "understood",
+        "word_v3": "understood",
+        "word_turkish": "anlamak"
+    },
+    {
+        "id": 194,
+        "word_v1": "wake",
+        "word_v2": "woke",
+        "word_v3": "woken",
+        "word_turkish": "uyanmak"
+    },
+    {
+        "id": 195,
+        "word_v1": "wear",
+        "word_v2": "wore",
+        "word_v3": "worn",
+        "word_turkish": "giymek"
+    },
+    {
+        "id": 196,
+        "word_v1": "win",
+        "word_v2": "won",
+        "word_v3": "won",
+        "word_turkish": "kazanmak"
+    },
+    {
+        "id": 197,
+        "word_v1": "wind",
+        "word_v2": "wound",
+        "word_v3": "wound",
+        "word_turkish": "sarılmak"
+    },
+    {
+        "id": 198,
+        "word_v1": "withdraw",
+        "word_v2": "withdrew",
+        "word_v3": "withdrawn",
+        "word_turkish": "geri çekilmek"
+    },
+    {
+        "id": 199,
+        "word_v1": "write",
+        "word_v2": "wrote",
+        "word_v3": "written",
+        "word_turkish": "yazmak"
+    }
+]

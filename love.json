@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "word_english": "Love",
+        "word_turkish": "Aşk"
+    },
+    {
+        "id": 2,
+        "word_english": "Affection",
+        "word_turkish": "Şefkat"
+    },
+    {
+        "id": 3,
+        "word_english": "Admire",
+        "word_turkish": "Hayran olmak"
+    },
+    {
+        "id": 4,
+        "word_english": "Adore",
+        "word_turkish": "Tapmak"
+    },
+    {
+        "id": 5,
+        "word_english": "Affectionate",
+        "word_turkish": "Sevecen"
+    },
+    {
+        "id": 6,
+        "word_english": "Attraction",
+        "word_turkish": "Çekim"
+    },
+    {
+        "id": 7,
+        "word_english": "Beloved",
+        "word_turkish": "Sevgili"
+    },
+    {
+        "id": 8,
+        "word_english": "Boyfriend",
+        "word_turkish": "Erkek arkadaş"
+    },
+    {
+        "id": 9,
+        "word_english": "Girlfriend",
+        "word_turkish": "Kız arkadaş"
+    },
+    {
+        "id": 10,
+        "word_english": "Couple",
+        "word_turkish": "Çift"
+    },
+    {
+        "id": 11,
+        "word_english": "Crush",
+        "word_turkish": "Aşk"
+    },
+    {
+        "id": 12,
+        "word_english": "Date",
+        "word_turkish": "Randevu"
+    },
+    {
+        "id": 13,
+        "word_english": "Devotion",
+        "word_turkish": "Bağlılık"
+    },
+    {
+        "id": 14,
+        "word_english": "Emotion",
+        "word_turkish": "Duygu"
+    },
+    {
+        "id": 15,
+        "word_english": "Engagement",
+        "word_turkish": "Nişan"
+    },
+    {
+        "id": 16,
+        "word_english": "Fiancé",
+        "word_turkish": "Nişanlı (erkek)"
+    },
+    {
+        "id": 17,
+        "word_english": "Fiancée",
+        "word_turkish": "Nişanlı (kadın)"
+    },
+    {
+        "id": 18,
+        "word_english": "First love",
+        "word_turkish": "İlk aşk"
+    },
+    {
+        "id": 19,
+        "word_english": "Flirt",
+        "word_turkish": "Flört"
+    },
+    {
+        "id": 20,
+        "word_english": "Heart",
+        "word_turkish": "Kalp"
+    },
+    {
+        "id": 21,
+        "word_english": "Heartbreak",
+        "word_turkish": "Kalp kırıklığı"
+    },
+    {
+        "id": 22,
+        "word_english": "Honeymoon",
+        "word_turkish": "Balayı"
+    },
+    {
+        "id": 23,
+        "word_english": "Infatuation",
+        "word_turkish": "Tutku"
+    },
+    {
+        "id": 24,
+        "word_english": "Kiss",
+        "word_turkish": "Öpmek"
+    },
+    {
+        "id": 25,
+        "word_english": "Lover",
+        "word_turkish": "Sevgili"
+    },
+    {
+        "id": 26,
+        "word_english": "Marriage",
+        "word_turkish": "Evlilik"
+    },
+    {
+        "id": 27,
+        "word_english": "Marry",
+        "word_turkish": "Evlenmek"
+    },
+    {
+        "id": 28,
+        "word_english": "Passion",
+        "word_turkish": "Tutku"
+    },
+    {
+        "id": 29,
+        "word_english": "Promise",
+        "word_turkish": "Söz"
+    },
+    {
+        "id": 30,
+        "word_english": "Relationship",
+        "word_turkish": "İlişki"
+    },
+    {
+        "id": 31,
+        "word_english": "Romance",
+        "word_turkish": "Romantizm"
+    },
+    {
+        "id": 32,
+        "word_english": "Romantic",
+        "word_turkish": "Romantik"
+    },
+    {
+        "id": 33,
+        "word_english": "Soulmate",
+        "word_turkish": "Ruh eşi"
+    },
+    {
+        "id": 34,
+        "word_english": "Sweetheart",
+        "word_turkish": "Canım"
+    },
+    {
+        "id": 35,
+        "word_english": "Together",
+        "word_turkish": "Birlikte"
+    },
+    {
+        "id": 36,
+        "word_english": "Trust",
+        "word_turkish": "Güven"
+    },
+    {
+        "id": 37,
+        "word_english": "Unconditional love",
+        "word_turkish": "Koşulsuz sevgi"
+    },
+    {
+        "id": 38,
+        "word_english": "Wedding",
+        "word_turkish": "Düğün"
+    },
+    {
+        "id": 39,
+        "word_english": "Affectionate",
+        "word_turkish": "Sevecen"
+    },
+    {
+        "id": 40,
+        "word_english": "Admiration",
+        "word_turkish": "Hayranlık"
+    },
+    {
+        "id": 41,
+        "word_english": "Commitment",
+        "word_turkish": "Bağlılık"
+    },
+    {
+        "id": 42,
+        "word_english": "Connection",
+        "word_turkish": "Bağlantı"
+    },
+    {
+        "id": 43,
+        "word_english": "Desire",
+        "word_turkish": "Arzu"
+    },
+    {
+        "id": 44,
+        "word_english": "Fondness",
+        "word_turkish": "Düşkünlük"
+    },
+    {
+        "id": 45,
+        "word_english": "Hug",
+        "word_turkish": "Sarılmak"
+    },
+    {
+        "id": 46,
+        "word_english": "Intimacy",
+        "word_turkish": "Yakınlık"
+    },
+    {
+        "id": 47,
+        "word_english": "Jealousy",
+        "word_turkish": "Kıskançlık"
+    },
+    {
+        "id": 48,
+        "word_english": "Loyalty",
+        "word_turkish": "Sadakat"
+    },
+    {
+        "id": 49,
+        "word_english": "Partner",
+        "word_turkish": "Partner"
+    },
+    {
+        "id": 50,
+        "word_english": "Proposal",
+        "word_turkish": "Teklif"
+    },
+    {
+        "id": 51,
+        "word_english": "Relationship",
+        "word_turkish": "İlişki"
+    },
+    {
+        "id": 52,
+        "word_english": "Respect",
+        "word_turkish": "Saygı"
+    },
+    {
+        "id": 53,
+        "word_english": "Sincere",
+        "word_turkish": "Samimi"
+    },
+    {
+        "id": 54,
+        "word_english": "Support",
+        "word_turkish": "Destek"
+    },
+    {
+        "id": 55,
+        "word_english": "Tenderness",
+        "word_turkish": "Şefkat"
+    },
+    {
+        "id": 56,
+        "word_english": "Trustworthy",
+        "word_turkish": "Güvenilir"
+    },
+    {
+        "id": 57,
+        "word_english": "Admiration",
+        "word_turkish": "Hayranlık"
+    },
+    {
+        "id": 58,
+        "word_english": "Belonging",
+        "word_turkish": "Aidiyet"
+    },
+    {
+        "id": 59,
+        "word_english": "Bond",
+        "word_turkish": "Bağ"
+    },
+    {
+        "id": 60,
+        "word_english": "Charm",
+        "word_turkish": "Çekicilik"
+    },
+    {
+        "id": 61,
+        "word_english": "Cherish",
+        "word_turkish": "Değer vermek"
+    },
+    {
+        "id": 62,
+        "word_english": "Companionship",
+        "word_turkish": "Arkadaşlık"
+    },
+    {
+        "id": 63,
+        "word_english": "Compassion",
+        "word_turkish": "Merhamet"
+    },
+    {
+        "id": 64,
+        "word_english": "Courtship",
+        "word_turkish": "Kur yapma"
+    },
+    {
+        "id": 65,
+        "word_english": "Devoted",
+        "word_turkish": "Adanmış"
+    },
+    {
+        "id": 66,
+        "word_english": "Faithful",
+        "word_turkish": "Sadık"
+    },
+    {
+        "id": 67,
+        "word_english": "Fond",
+        "word_turkish": "Düşkün"
+    },
+    {
+        "id": 68,
+        "word_english": "Longing",
+        "word_turkish": "Özlem"
+    },
+    {
+        "id": 69,
+        "word_english": "Lovely",
+        "word_turkish": "Sevimli"
+    },
+    {
+        "id": 70,
+        "word_english": "Mutual",
+        "word_turkish": "Karşılıklı"
+    },
+    {
+        "id": 71,
+        "word_english": "Precious",
+        "word_turkish": "Değerli"
+    },
+    {
+        "id": 72,
+        "word_english": "Rekindle",
+        "word_turkish": "Alevlendirmek"
+    },
+    {
+        "id": 73,
+        "word_english": "Respectful",
+        "word_turkish": "Saygılı"
+    },
+    {
+        "id": 74,
+        "word_english": "Spark",
+        "word_turkish": "Kıvılcım"
+    },
+    {
+        "id": 75,
+        "word_english": "Warmth",
+        "word_turkish": "Sıcaklık"
+    }
+]

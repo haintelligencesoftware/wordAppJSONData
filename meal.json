@@ -1,0 +1,797 @@
+[
+    {
+        "id": 1,
+        "word_english": "Breakfast",
+        "word_turkish": "Kahvaltı"
+    },
+    {
+        "id": 2,
+        "word_english": "Lunch",
+        "word_turkish": "Öğle Yemeği"
+    },
+    {
+        "id": 3,
+        "word_english": "Dinner",
+        "word_turkish": "Akşam Yemeği"
+    },
+    {
+        "id": 4,
+        "word_english": "Snack",
+        "word_turkish": "Atıştırmalık"
+    },
+    {
+        "id": 5,
+        "word_english": "Brunch",
+        "word_turkish": "Geç Kahvaltı"
+    },
+    {
+        "id": 6,
+        "word_english": "Appetizer",
+        "word_turkish": "Meze"
+    },
+    {
+        "id": 7,
+        "word_english": "Main course",
+        "word_turkish": "Ana Yemek"
+    },
+    {
+        "id": 8,
+        "word_english": "Dessert",
+        "word_turkish": "Tatlı"
+    },
+    {
+        "id": 9,
+        "word_english": "Salad",
+        "word_turkish": "Salata"
+    },
+    {
+        "id": 10,
+        "word_english": "Soup",
+        "word_turkish": "Çorba"
+    },
+    {
+        "id": 11,
+        "word_english": "Grill",
+        "word_turkish": "Izgara"
+    },
+    {
+        "id": 12,
+        "word_english": "Fried",
+        "word_turkish": "Kızartılmış"
+    },
+    {
+        "id": 13,
+        "word_english": "Roasted",
+        "word_turkish": "Fırınlanmış"
+    },
+    {
+        "id": 14,
+        "word_english": "Boiled",
+        "word_turkish": "Haşlanmış"
+    },
+    {
+        "id": 15,
+        "word_english": "Steamed",
+        "word_turkish": "Buharda Pişirilmiş"
+    },
+    {
+        "id": 16,
+        "word_english": "Gravy",
+        "word_turkish": "Sos"
+    },
+    {
+        "id": 17,
+        "word_english": "Sauce",
+        "word_turkish": "Sos"
+    },
+    {
+        "id": 18,
+        "word_english": "Side dish",
+        "word_turkish": "Yan Yemek"
+    },
+    {
+        "id": 19,
+        "word_english": "Vegetables",
+        "word_turkish": "Sebzeler"
+    },
+    {
+        "id": 20,
+        "word_english": "Fruit",
+        "word_turkish": "Meyve"
+    },
+    {
+        "id": 21,
+        "word_english": "Bread",
+        "word_turkish": "Ekmek"
+    },
+    {
+        "id": 22,
+        "word_english": "Rice",
+        "word_turkish": "Pirinç"
+    },
+    {
+        "id": 23,
+        "word_english": "Pasta",
+        "word_turkish": "Makarna"
+    },
+    {
+        "id": 24,
+        "word_english": "Pizza",
+        "word_turkish": "Pizza"
+    },
+    {
+        "id": 25,
+        "word_english": "Sandwich",
+        "word_turkish": "Sandviç"
+    },
+    {
+        "id": 26,
+        "word_english": "Burger",
+        "word_turkish": "Hamburger"
+    },
+    {
+        "id": 27,
+        "word_english": "Steak",
+        "word_turkish": "Biftek"
+    },
+    {
+        "id": 28,
+        "word_english": "Chicken",
+        "word_turkish": "Tavuk"
+    },
+    {
+        "id": 29,
+        "word_english": "Fish",
+        "word_turkish": "Balık"
+    },
+    {
+        "id": 30,
+        "word_english": "Pork",
+        "word_turkish": "Domuz Eti"
+    },
+    {
+        "id": 31,
+        "word_english": "Beef",
+        "word_turkish": "Sığır Eti"
+    },
+    {
+        "id": 32,
+        "word_english": "Lamb",
+        "word_turkish": "Kuzu Eti"
+    },
+    {
+        "id": 33,
+        "word_english": "Cheese",
+        "word_turkish": "Peynir"
+    },
+    {
+        "id": 34,
+        "word_english": "Yogurt",
+        "word_turkish": "Yoğurt"
+    },
+    {
+        "id": 35,
+        "word_english": "Butter",
+        "word_turkish": "Tereyağı"
+    },
+    {
+        "id": 36,
+        "word_english": "Jam",
+        "word_turkish": "Reçel"
+    },
+    {
+        "id": 37,
+        "word_english": "Honey",
+        "word_turkish": "Bal"
+    },
+    {
+        "id": 38,
+        "word_english": "Juice",
+        "word_turkish": "Meyve Suyu"
+    },
+    {
+        "id": 39,
+        "word_english": "Milk",
+        "word_turkish": "Süt"
+    },
+    {
+        "id": 40,
+        "word_english": "Tea",
+        "word_turkish": "Çay"
+    },
+    {
+        "id": 41,
+        "word_english": "Coffee",
+        "word_turkish": "Kahve"
+    },
+    {
+        "id": 42,
+        "word_english": "Water",
+        "word_turkish": "Su"
+    },
+    {
+        "id": 43,
+        "word_english": "Soft drink",
+        "word_turkish": "Gazlı İçecek"
+    },
+    {
+        "id": 44,
+        "word_english": "Beer",
+        "word_turkish": "Bira"
+    },
+    {
+        "id": 45,
+        "word_english": "Wine",
+        "word_turkish": "Şarap"
+    },
+    {
+        "id": 46,
+        "word_english": "Cocktail",
+        "word_turkish": "Kokteyl"
+    },
+    {
+        "id": 47,
+        "word_english": "Smoothie",
+        "word_turkish": "Smoothie"
+    },
+    {
+        "id": 48,
+        "word_english": "Noodles",
+        "word_turkish": "Erişte"
+    },
+    {
+        "id": 49,
+        "word_english": "Popcorn",
+        "word_turkish": "Patlamış Mısır"
+    },
+    {
+        "id": 50,
+        "word_english": "Ice cream",
+        "word_turkish": "Dondurma"
+    },
+    {
+        "id": 51,
+        "word_english": "Cake",
+        "word_turkish": "Pasta"
+    },
+    {
+        "id": 52,
+        "word_english": "Pie",
+        "word_turkish": "Turta"
+    },
+    {
+        "id": 53,
+        "word_english": "Cookie",
+        "word_turkish": "Kurabiye"
+    },
+    {
+        "id": 54,
+        "word_english": "Pastry",
+        "word_turkish": "Hamur İşi"
+    },
+    {
+        "id": 55,
+        "word_english": "Chocolate",
+        "word_turkish": "Çikolata"
+    },
+    {
+        "id": 56,
+        "word_english": "Sausage",
+        "word_turkish": "Sosis"
+    },
+    {
+        "id": 57,
+        "word_english": "Bacon",
+        "word_turkish": "Domuz Pastırması"
+    },
+    {
+        "id": 58,
+        "word_english": "Ham",
+        "word_turkish": "Jambon"
+    },
+    {
+        "id": 59,
+        "word_english": "Turkey",
+        "word_turkish": "Hindi"
+    },
+    {
+        "id": 60,
+        "word_english": "Chicken breast",
+        "word_turkish": "Tavuk Göğsü"
+    },
+    {
+        "id": 61,
+        "word_english": "Chicken wing",
+        "word_turkish": "Tavuk Kanadı"
+    },
+    {
+        "id": 62,
+        "word_english": "Chicken thigh",
+        "word_turkish": "Tavuk Butu"
+    },
+    {
+        "id": 63,
+        "word_english": "Salmon",
+        "word_turkish": "Somon"
+    },
+    {
+        "id": 64,
+        "word_english": "Tuna",
+        "word_turkish": "Ton Balığı"
+    },
+    {
+        "id": 65,
+        "word_english": "Shrimp",
+        "word_turkish": "Karides"
+    },
+    {
+        "id": 66,
+        "word_english": "Crab",
+        "word_turkish": "Yengeç"
+    },
+    {
+        "id": 67,
+        "word_english": "Lobster",
+        "word_turkish": "Istakoz"
+    },
+    {
+        "id": 68,
+        "word_english": "Mussels",
+        "word_turkish": "Midye"
+    },
+    {
+        "id": 69,
+        "word_english": "Oysters",
+        "word_turkish": "İstiridye"
+    },
+    {
+        "id": 70,
+        "word_english": "Clams",
+        "word_turkish": "Çıtır"
+    },
+    {
+        "id": 71,
+        "word_english": "Vegetarian",
+        "word_turkish": "Vejetaryen"
+    },
+    {
+        "id": 72,
+        "word_english": "Vegan",
+        "word_turkish": "Vegan"
+    },
+    {
+        "id": 73,
+        "word_english": "Gluten-free",
+        "word_turkish": "Glutensiz"
+    },
+    {
+        "id": 74,
+        "word_english": "Dairy-free",
+        "word_turkish": "Süt Ürünsüz"
+    },
+    {
+        "id": 75,
+        "word_english": "Allergy",
+        "word_turkish": "Alerji"
+    },
+    {
+        "id": 76,
+        "word_english": "Vitamins",
+        "word_turkish": "Vitaminler"
+    },
+    {
+        "id": 77,
+        "word_english": "Nutrients",
+        "word_turkish": "Besin Değerleri"
+    },
+    {
+        "id": 78,
+        "word_english": "Organic",
+        "word_turkish": "Organik"
+    },
+    {
+        "id": 79,
+        "word_english": "Farming",
+        "word_turkish": "Tarım"
+    },
+    {
+        "id": 80,
+        "word_english": "Bakery",
+        "word_turkish": "Fırın"
+    },
+    {
+        "id": 81,
+        "word_english": "Butchery",
+        "word_turkish": "Kasap Dükkanı"
+    },
+    {
+        "id": 82,
+        "word_english": "Grocery",
+        "word_turkish": "Bakkal"
+    },
+    {
+        "id": 83,
+        "word_english": "Market",
+        "word_turkish": "Pazar"
+    },
+    {
+        "id": 84,
+        "word_english": "Takeaway",
+        "word_turkish": "Dışarıda Yemek"
+    },
+    {
+        "id": 85,
+        "word_english": "Delivery",
+        "word_turkish": "Teslimat"
+    },
+    {
+        "id": 86,
+        "word_english": "Fast food",
+        "word_turkish": "Hızlı Yiyecek"
+    },
+    {
+        "id": 87,
+        "word_english": "Street food",
+        "word_turkish": "Sokak Yemeği"
+    },
+    {
+        "id": 88,
+        "word_english": "Fine dining",
+        "word_turkish": "Zarif Yemek"
+    },
+    {
+        "id": 89,
+        "word_english": "Buffet",
+        "word_turkish": "Açık Büfe"
+    },
+    {
+        "id": 90,
+        "word_english": "All-you-can-eat",
+        "word_turkish": "Sınırsız Yiyecek"
+    },
+    {
+        "id": 91,
+        "word_english": "Restaurant",
+        "word_turkish": "Restoran"
+    },
+    {
+        "id": 92,
+        "word_english": "Café",
+        "word_turkish": "Kafe"
+    },
+    {
+        "id": 93,
+        "word_english": "Bistro",
+        "word_turkish": "Bistro"
+    },
+    {
+        "id": 94,
+        "word_english": "Diner",
+        "word_turkish": "Lokanta"
+    },
+    {
+        "id": 95,
+        "word_english": "Food court",
+        "word_turkish": "Yemek Alanı"
+    },
+    {
+        "id": 96,
+        "word_english": "Pub",
+        "word_turkish": "İrish Pub"
+    },
+    {
+        "id": 97,
+        "word_english": "Bar",
+        "word_turkish": "Bar"
+    },
+    {
+        "id": 98,
+        "word_english": "Sushi",
+        "word_turkish": "Suşi"
+    },
+    {
+        "id": 99,
+        "word_english": "Sashimi",
+        "word_turkish": "Sashimi"
+    },
+    {
+        "id": 100,
+        "word_english": "Kebab",
+        "word_turkish": "Kebap"
+    },
+    {
+        "id": 101,
+        "word_english": "Taco",
+        "word_turkish": "Tako"
+    },
+    {
+        "id": 102,
+        "word_english": "Burger bun",
+        "word_turkish": "Hamburger Ekmeği"
+    },
+    {
+        "id": 103,
+        "word_english": "Pita",
+        "word_turkish": "Pide"
+    },
+    {
+        "id": 104,
+        "word_english": "Flatbread",
+        "word_turkish": "Düz Ekmek"
+    },
+    {
+        "id": 105,
+        "word_english": "Tortilla",
+        "word_turkish": "Tortilla"
+    },
+    {
+        "id": 106,
+        "word_english": "Wrap",
+        "word_turkish": "Dürüm"
+    },
+    {
+        "id": 107,
+        "word_english": "Focaccia",
+        "word_turkish": "Focaccia"
+    },
+    {
+        "id": 108,
+        "word_english": "Bagel",
+        "word_turkish": "Simit"
+    },
+    {
+        "id": 109,
+        "word_english": "Croissant",
+        "word_turkish": "Kruvasan"
+    },
+    {
+        "id": 110,
+        "word_english": "Cinnamon roll",
+        "word_turkish": "Tarçınlı Rulo"
+    },
+    {
+        "id": 111,
+        "word_english": "Pancake",
+        "word_turkish": "Krep"
+    },
+    {
+        "id": 112,
+        "word_english": "Waffle",
+        "word_turkish": "Waffle"
+    },
+    {
+        "id": 113,
+        "word_english": "French fries",
+        "word_turkish": "Patates Kızartması"
+    },
+    {
+        "id": 114,
+        "word_english": "Mashed potatoes",
+        "word_turkish": "Püre Patates"
+    },
+    {
+        "id": 115,
+        "word_english": "Sweet potato",
+        "word_turkish": "Tatlı Patates"
+    },
+    {
+        "id": 116,
+        "word_english": "Cabbage",
+        "word_turkish": "Lahana"
+    },
+    {
+        "id": 117,
+        "word_english": "Lettuce",
+        "word_turkish": "Marul"
+    },
+    {
+        "id": 118,
+        "word_english": "Spinach",
+        "word_turkish": "Ispanak"
+    },
+    {
+        "id": 119,
+        "word_english": "Tomato",
+        "word_turkish": "Domates"
+    },
+    {
+        "id": 120,
+        "word_english": "Onion",
+        "word_turkish": "Soğan"
+    },
+    {
+        "id": 121,
+        "word_english": "Cucumber",
+        "word_turkish": "Salatalık"
+    },
+    {
+        "id": 122,
+        "word_english": "Pepper",
+        "word_turkish": "Biber"
+    },
+    {
+        "id": 123,
+        "word_english": "Garlic",
+        "word_turkish": "Sarımsak"
+    },
+    {
+        "id": 124,
+        "word_english": "Carrot",
+        "word_turkish": "Havuç"
+    },
+    {
+        "id": 125,
+        "word_english": "Zucchini",
+        "word_turkish": "Kabak"
+    },
+    {
+        "id": 126,
+        "word_english": "Eggplant",
+        "word_turkish": "Patlıcan"
+    },
+    {
+        "id": 127,
+        "word_english": "Potato",
+        "word_turkish": "Patates"
+    },
+    {
+        "id": 128,
+        "word_english": "Peas",
+        "word_turkish": "Bezelye"
+    },
+    {
+        "id": 129,
+        "word_english": "Broccoli",
+        "word_turkish": "Brokoli"
+    },
+    {
+        "id": 130,
+        "word_english": "Cauliflower",
+        "word_turkish": "Karnabahar"
+    },
+    {
+        "id": 131,
+        "word_english": "Brussels sprouts",
+        "word_turkish": "Brüksel Lahanası"
+    },
+    {
+        "id": 132,
+        "word_english": "Asparagus",
+        "word_turkish": "Kuymak"
+    },
+    {
+        "id": 133,
+        "word_english": "Chili",
+        "word_turkish": "Biber"
+    },
+    {
+        "id": 134,
+        "word_english": "Chili pepper",
+        "word_turkish": "Acı Biber"
+    },
+    {
+        "id": 135,
+        "word_english": "Mushroom",
+        "word_turkish": "Mantar"
+    },
+    {
+        "id": 136,
+        "word_english": "Avocado",
+        "word_turkish": "Avokado"
+    },
+    {
+        "id": 137,
+        "word_english": "Lemon",
+        "word_turkish": "Limon"
+    },
+    {
+        "id": 138,
+        "word_english": "Apple",
+        "word_turkish": "Elma"
+    },
+    {
+        "id": 139,
+        "word_english": "Orange",
+        "word_turkish": "Portakal"
+    },
+    {
+        "id": 140,
+        "word_english": "Banana",
+        "word_turkish": "Muz"
+    },
+    {
+        "id": 141,
+        "word_english": "Grape",
+        "word_turkish": "Üzüm"
+    },
+    {
+        "id": 142,
+        "word_english": "Pineapple",
+        "word_turkish": "Ananas"
+    },
+    {
+        "id": 143,
+        "word_english": "Peach",
+        "word_turkish": "Şeftali"
+    },
+    {
+        "id": 144,
+        "word_english": "Strawberry",
+        "word_turkish": "Çilek"
+    },
+    {
+        "id": 145,
+        "word_english": "Blueberry",
+        "word_turkish": "Yaban Mersini"
+    },
+    {
+        "id": 146,
+        "word_english": "Cherry",
+        "word_turkish": "Kiraz"
+    },
+    {
+        "id": 147,
+        "word_english": "Raspberry",
+        "word_turkish": "Ahududu"
+    },
+    {
+        "id": 148,
+        "word_english": "Watermelon",
+        "word_turkish": "Karpuz"
+    },
+    {
+        "id": 149,
+        "word_english": "Melon",
+        "word_turkish": "Kavun"
+    },
+    {
+        "id": 150,
+        "word_english": "Papaya",
+        "word_turkish": "Papaya"
+    },
+    {
+        "id": 151,
+        "word_english": "Plum",
+        "word_turkish": "Erik"
+    },
+    {
+        "id": 152,
+        "word_english": "Fig",
+        "word_turkish": "İncir"
+    },
+    {
+        "id": 153,
+        "word_english": "Pomegranate",
+        "word_turkish": "Nar"
+    },
+    {
+        "id": 154,
+        "word_english": "Date",
+        "word_turkish": "Hurma"
+    },
+    {
+        "id": 155,
+        "word_english": "Coconut",
+        "word_turkish": "Hindistan Cevizi"
+    },
+    {
+        "id": 156,
+        "word_english": "Kiwi",
+        "word_turkish": "Kivi"
+    },
+    {
+        "id": 157,
+        "word_english": "Mango",
+        "word_turkish": "Mango"
+    },
+    {
+        "id": 158,
+        "word_english": "Cantaloupe",
+        "word_turkish": "Kavun"
+    },
+    {
+        "id": 159,
+        "word_english": "Grapefruit",
+        "word_turkish": "Greyfurt"
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "word_english": "Restaurant",
+        "word_turkish": "Restoran"
+    },
+    {
+        "id": 2,
+        "word_english": "Menu",
+        "word_turkish": "Menü"
+    },
+    {
+        "id": 3,
+        "word_english": "Dish",
+        "word_turkish": "Yemek"
+    },
+    {
+        "id": 4,
+        "word_english": "Meal",
+        "word_turkish": "Öğün"
+    },
+    {
+        "id": 5,
+        "word_english": "Appetizer",
+        "word_turkish": "Aperatif"
+    },
+    {
+        "id": 6,
+        "word_english": "Main course",
+        "word_turkish": "Ana yemek"
+    },
+    {
+        "id": 7,
+        "word_english": "Dessert",
+        "word_turkish": "Tatlı"
+    },
+    {
+        "id": 8,
+        "word_english": "Drink",
+        "word_turkish": "İçecek"
+    },
+    {
+        "id": 9,
+        "word_english": "Waiter",
+        "word_turkish": "Garson (erkek)"
+    },
+    {
+        "id": 10,
+        "word_english": "Waitress",
+        "word_turkish": "Garson (kadın)"
+    },
+    {
+        "id": 11,
+        "word_english": "Chef",
+        "word_turkish": "Şef"
+    },
+    {
+        "id": 12,
+        "word_english": "Cook",
+        "word_turkish": "Aşçı"
+    },
+    {
+        "id": 13,
+        "word_english": "Reservation",
+        "word_turkish": "Rezervasyon"
+    },
+    {
+        "id": 14,
+        "word_english": "Table",
+        "word_turkish": "Masa"
+    },
+    {
+        "id": 15,
+        "word_english": "Seat",
+        "word_turkish": "Oturma yeri"
+    },
+    {
+        "id": 16,
+        "word_english": "Bill",
+        "word_turkish": "Hesap"
+    },
+    {
+        "id": 17,
+        "word_english": "Check",
+        "word_turkish": "Hesap"
+    },
+    {
+        "id": 18,
+        "word_english": "Tip",
+        "word_turkish": "Bahşiş"
+    },
+    {
+        "id": 19,
+        "word_english": "Order",
+        "word_turkish": "Sipariş"
+    },
+    {
+        "id": 20,
+        "word_english": "Special",
+        "word_turkish": "Özel menü"
+    },
+    {
+        "id": 21,
+        "word_english": "Buffet",
+        "word_turkish": "Açık büfe"
+    },
+    {
+        "id": 22,
+        "word_english": "Fast food",
+        "word_turkish": "Fast food"
+    },
+    {
+        "id": 23,
+        "word_english": "Takeaway",
+        "word_turkish": "Paket servis"
+    },
+    {
+        "id": 24,
+        "word_english": "Delivery",
+        "word_turkish": "Teslimat"
+    },
+    {
+        "id": 25,
+        "word_english": "Service",
+        "word_turkish": "Servis"
+    },
+    {
+        "id": 26,
+        "word_english": "Fork",
+        "word_turkish": "Çatal"
+    },
+    {
+        "id": 27,
+        "word_english": "Knife",
+        "word_turkish": "Bıçak"
+    },
+    {
+        "id": 28,
+        "word_english": "Spoon",
+        "word_turkish": "Kaşık"
+    },
+    {
+        "id": 29,
+        "word_english": "Napkin",
+        "word_turkish": "Peçete"
+    },
+    {
+        "id": 30,
+        "word_english": "Plate",
+        "word_turkish": "Tabak"
+    },
+    {
+        "id": 31,
+        "word_english": "Glass",
+        "word_turkish": "Bardak"
+    },
+    {
+        "id": 32,
+        "word_english": "Cup",
+        "word_turkish": "Fincan"
+    },
+    {
+        "id": 33,
+        "word_english": "Bottle",
+        "word_turkish": "Şişe"
+    },
+    {
+        "id": 34,
+        "word_english": "Bowl",
+        "word_turkish": "Kase"
+    },
+    {
+        "id": 35,
+        "word_english": "Salt",
+        "word_turkish": "Tuz"
+    },
+    {
+        "id": 36,
+        "word_english": "Pepper",
+        "word_turkish": "Biber"
+    },
+    {
+        "id": 37,
+        "word_english": "Sauce",
+        "word_turkish": "Sos"
+    },
+    {
+        "id": 38,
+        "word_english": "Soup",
+        "word_turkish": "Çorba"
+    },
+    {
+        "id": 39,
+        "word_english": "Salad",
+        "word_turkish": "Salata"
+    },
+    {
+        "id": 40,
+        "word_english": "Steak",
+        "word_turkish": "Biftek"
+    },
+    {
+        "id": 41,
+        "word_english": "Seafood",
+        "word_turkish": "Deniz ürünleri"
+    },
+    {
+        "id": 42,
+        "word_english": "Vegetarian",
+        "word_turkish": "Vejetaryen"
+    },
+    {
+        "id": 43,
+        "word_english": "Vegan",
+        "word_turkish": "Vegan"
+    },
+    {
+        "id": 44,
+        "word_english": "Spicy",
+        "word_turkish": "Baharatlı"
+    },
+    {
+        "id": 45,
+        "word_english": "Sweet",
+        "word_turkish": "Tatlı"
+    },
+    {
+        "id": 46,
+        "word_english": "Bitter",
+        "word_turkish": "Acı"
+    },
+    {
+        "id": 47,
+        "word_english": "Reservation",
+        "word_turkish": "Rezervasyon"
+    },
+    {
+        "id": 48,
+        "word_english": "Menu item",
+        "word_turkish": "Menü öğesi"
+    },
+    {
+        "id": 49,
+        "word_english": "Host",
+        "word_turkish": "Karşılama görevlisi (erkek)"
+    },
+    {
+        "id": 50,
+        "word_english": "Hostess",
+        "word_turkish": "Karşılama görevlisi (kadın)"
+    },
+    {
+        "id": 51,
+        "word_english": "Allergic",
+        "word_turkish": "Alerjik"
+    },
+    {
+        "id": 52,
+        "word_english": "Ingredients",
+        "word_turkish": "Malzemeler"
+    },
+    {
+        "id": 53,
+        "word_english": "Beverage",
+        "word_turkish": "İçecek"
+    },
+    {
+        "id": 54,
+        "word_english": "Bill",
+        "word_turkish": "Fatura"
+    },
+    {
+        "id": 55,
+        "word_english": "Customer",
+        "word_turkish": "Müşteri"
+    },
+    {
+        "id": 56,
+        "word_english": "Table for two",
+        "word_turkish": "İki kişilik masa"
+    },
+    {
+        "id": 57,
+        "word_english": "Dining",
+        "word_turkish": "Yemek"
+    },
+    {
+        "id": 58,
+        "word_english": "Starter",
+        "word_turkish": "Başlangıç"
+    },
+    {
+        "id": 59,
+        "word_english": "Condiment",
+        "word_turkish": "Baharat"
+    },
+    {
+        "id": 60,
+        "word_english": "Utensils",
+        "word_turkish": "Mutfak gereçleri"
+    },
+    {
+        "id": 61,
+        "word_english": "Grill",
+        "word_turkish": "Izgara"
+    },
+    {
+        "id": 62,
+        "word_english": "Fried",
+        "word_turkish": "Kızartılmış"
+    },
+    {
+        "id": 63,
+        "word_english": "Baked",
+        "word_turkish": "Fırında pişmiş"
+    },
+    {
+        "id": 64,
+        "word_english": "Boiled",
+        "word_turkish": "Haşlanmış"
+    },
+    {
+        "id": 65,
+        "word_english": "Roasted",
+        "word_turkish": "Fırınlanmış"
+    },
+    {
+        "id": 66,
+        "word_english": "Tablecloth",
+        "word_turkish": "Masa örtüsü"
+    },
+    {
+        "id": 67,
+        "word_english": "To-go",
+        "word_turkish": "Paket servis"
+    },
+    {
+        "id": 68,
+        "word_english": "Food allergies",
+        "word_turkish": "Gıda alerjileri"
+    },
+    {
+        "id": 69,
+        "word_english": "Refill",
+        "word_turkish": "Doldurma (yeniden)"
+    },
+    {
+        "id": 70,
+        "word_english": "Loyalty card",
+        "word_turkish": "Sadakat kartı"
+    },
+    {
+        "id": 71,
+        "word_english": "Waitlist",
+        "word_turkish": "Bekleme listesi"
+    },
+    {
+        "id": 72,
+        "word_english": "Side dish",
+        "word_turkish": "Yan yemek"
+    },
+    {
+        "id": 73,
+        "word_english": "Table setting",
+        "word_turkish": "Masa düzeni"
+    },
+    {
+        "id": 74,
+        "word_english": "Chef’s special",
+        "word_turkish": "Şefin spesiyali"
+    },
+    {
+        "id": 75,
+        "word_english": "Fine dining",
+        "word_turkish": "Lüks yemek"
+    }
+]

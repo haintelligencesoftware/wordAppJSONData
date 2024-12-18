@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "word_english": "Space",
+        "word_turkish": "Uzay"
+    },
+    {
+        "id": 2,
+        "word_english": "Astronomy",
+        "word_turkish": "Astronomi"
+    },
+    {
+        "id": 3,
+        "word_english": "Galaxy",
+        "word_turkish": "Galaksi"
+    },
+    {
+        "id": 4,
+        "word_english": "Planet",
+        "word_turkish": "Gezegen"
+    },
+    {
+        "id": 5,
+        "word_english": "Star",
+        "word_turkish": "Yıldız"
+    },
+    {
+        "id": 6,
+        "word_english": "Moon",
+        "word_turkish": "Ay"
+    },
+    {
+        "id": 7,
+        "word_english": "Comet",
+        "word_turkish": "Kuyruklu Yıldız"
+    },
+    {
+        "id": 8,
+        "word_english": "Asteroid",
+        "word_turkish": "Asteroit"
+    },
+    {
+        "id": 9,
+        "word_english": "Meteor",
+        "word_turkish": "Meteor"
+    },
+    {
+        "id": 10,
+        "word_english": "Black Hole",
+        "word_turkish": "Kara Delik"
+    },
+    {
+        "id": 11,
+        "word_english": "Orbit",
+        "word_turkish": "Yörünge"
+    },
+    {
+        "id": 12,
+        "word_english": "Rocket",
+        "word_turkish": "Roket"
+    },
+    {
+        "id": 13,
+        "word_english": "Satellite",
+        "word_turkish": "Uydu"
+    },
+    {
+        "id": 14,
+        "word_english": "Telescope",
+        "word_turkish": "Teleskop"
+    },
+    {
+        "id": 15,
+        "word_english": "Spacecraft",
+        "word_turkish": "Uzay Aracı"
+    },
+    {
+        "id": 16,
+        "word_english": "Space Station",
+        "word_turkish": "Uzay İstasyonu"
+    },
+    {
+        "id": 17,
+        "word_english": "Milky Way",
+        "word_turkish": "Samanyolu"
+    },
+    {
+        "id": 18,
+        "word_english": "Solar System",
+        "word_turkish": "Güneş Sistemi"
+    },
+    {
+        "id": 19,
+        "word_english": "Gravity",
+        "word_turkish": "Yerçekimi"
+    },
+    {
+        "id": 20,
+        "word_english": "Nebula",
+        "word_turkish": "Nebula"
+    },
+    {
+        "id": 21,
+        "word_english": "Eclipse",
+        "word_turkish": "Tutulma"
+    },
+    {
+        "id": 22,
+        "word_english": "Solar Eclipse",
+        "word_turkish": "Güneş Tutulması"
+    },
+    {
+        "id": 23,
+        "word_english": "Lunar Eclipse",
+        "word_turkish": "Ay Tutulması"
+    },
+    {
+        "id": 24,
+        "word_english": "Cosmos",
+        "word_turkish": "Evren"
+    },
+    {
+        "id": 25,
+        "word_english": "Spacewalk",
+        "word_turkish": "Uzay Yürüyüşü"
+    },
+    {
+        "id": 26,
+        "word_english": "Light Year",
+        "word_turkish": "Işık Yılı"
+    },
+    {
+        "id": 27,
+        "word_english": "Astronaut",
+        "word_turkish": "Astronot"
+    },
+    {
+        "id": 28,
+        "word_english": "NASA",
+        "word_turkish": "NASA"
+    },
+    {
+        "id": 29,
+        "word_english": "Alien",
+        "word_turkish": "Yabancı"
+    },
+    {
+        "id": 30,
+        "word_english": "UFO",
+        "word_turkish": "UFO"
+    },
+    {
+        "id": 31,
+        "word_english": "Extraterrestrial",
+        "word_turkish": "Yeryüzü Dışı"
+    },
+    {
+        "id": 32,
+        "word_english": "Rocket Launch",
+        "word_turkish": "Roket Fırlatılması"
+    },
+    {
+        "id": 33,
+        "word_english": "Space Exploration",
+        "word_turkish": "Uzay Keşfi"
+    },
+    {
+        "id": 34,
+        "word_english": "Interstellar",
+        "word_turkish": "Yıldızlararası"
+    },
+    {
+        "id": 35,
+        "word_english": "Gravitational Pull",
+        "word_turkish": "Yerçekimi Çekimi"
+    },
+    {
+        "id": 36,
+        "word_english": "Planetary",
+        "word_turkish": "Gezegenimsi"
+    },
+    {
+        "id": 37,
+        "word_english": "Supernova",
+        "word_turkish": "Süpernova"
+    },
+    {
+        "id": 38,
+        "word_english": "Red Giant",
+        "word_turkish": "Kırmızı Dev"
+    },
+    {
+        "id": 39,
+        "word_english": "White Dwarf",
+        "word_turkish": "Beyaz Cüce"
+    },
+    {
+        "id": 40,
+        "word_english": "Event Horizon",
+        "word_turkish": "Olay Ufku"
+    },
+    {
+        "id": 41,
+        "word_english": "Space-Time",
+        "word_turkish": "Uzay-Zaman"
+    },
+    {
+        "id": 42,
+        "word_english": "Solar Flare",
+        "word_turkish": "Güneş Patlaması"
+    },
+    {
+        "id": 43,
+        "word_english": "Space Debris",
+        "word_turkish": "Uzay Çöpü"
+    },
+    {
+        "id": 44,
+        "word_english": "Zero Gravity",
+        "word_turkish": "Sıfır Yerçekimi"
+    },
+    {
+        "id": 45,
+        "word_english": "Gravitational Waves",
+        "word_turkish": "Yerçekimi Dalgaları"
+    },
+    {
+        "id": 46,
+        "word_english": "Big Bang",
+        "word_turkish": "Büyük Patlama"
+    },
+    {
+        "id": 47,
+        "word_english": "Quantum Physics",
+        "word_turkish": "Kuantum Fiziği"
+    },
+    {
+        "id": 48,
+        "word_english": "Dark Matter",
+        "word_turkish": "Karanlık Madde"
+    },
+    {
+        "id": 49,
+        "word_english": "Dark Energy",
+        "word_turkish": "Karanlık Enerji"
+    },
+    {
+        "id": 50,
+        "word_english": "Hubble Telescope",
+        "word_turkish": "Hubble Teleskobu"
+    },
+    {
+        "id": 51,
+        "word_english": "Exoplanet",
+        "word_turkish": "Yıldız Dışı Gezegen"
+    },
+    {
+        "id": 52,
+        "word_english": "Space Race",
+        "word_turkish": "Uzay Yarışı"
+    },
+    {
+        "id": 53,
+        "word_english": "Wormhole",
+        "word_turkish": "Solucan Deliği"
+    },
+    {
+        "id": 54,
+        "word_english": "Singularity",
+        "word_turkish": "Tekillik"
+    },
+    {
+        "id": 55,
+        "word_english": "Artificial Satellite",
+        "word_turkish": "Yapay Uydu"
+    },
+    {
+        "id": 56,
+        "word_english": "Astrobiology",
+        "word_turkish": "Astrobiyoloji"
+    },
+    {
+        "id": 57,
+        "word_english": "Space-Time Continuum",
+        "word_turkish": "Uzay-Zaman Sürekliliği"
+    },
+    {
+        "id": 58,
+        "word_english": "Intergalactic",
+        "word_turkish": "Galaksiler Arası"
+    },
+    {
+        "id": 59,
+        "word_english": "Lunar Module",
+        "word_turkish": "Ay Modülü"
+    },
+    {
+        "id": 60,
+        "word_english": "Space Probe",
+        "word_turkish": "Uzay Probu"
+    },
+    {
+        "id": 61,
+        "word_english": "Extravehicular Activity",
+        "word_turkish": "Uzay Dışı Aktivite"
+    },
+    {
+        "id": 62,
+        "word_english": "Ion Drive",
+        "word_turkish": "İyon İtiş"
+    },
+    {
+        "id": 63,
+        "word_english": "Solar Wind",
+        "word_turkish": "Güneş Rüzgarı"
+    },
+    {
+        "id": 64,
+        "word_english": "Wormhole Theory",
+        "word_turkish": "Solucan Deliği Teorisi"
+    },
+    {
+        "id": 65,
+        "word_english": "Gravity Assist",
+        "word_turkish": "Yerçekimi Yardımı"
+    },
+    {
+        "id": 66,
+        "word_english": "Lunar Surface",
+        "word_turkish": "Ay Yüzeyi"
+    },
+    {
+        "id": 67,
+        "word_english": "Lunar Landing",
+        "word_turkish": "Ay İnişi"
+    },
+    {
+        "id": 68,
+        "word_english": "Hubble Space Telescope",
+        "word_turkish": "Hubble Uzay Teleskobu"
+    },
+    {
+        "id": 69,
+        "word_english": "Cosmic Ray",
+        "word_turkish": "Kozmik Işın"
+    },
+    {
+        "id": 70,
+        "word_english": "Photon",
+        "word_turkish": "Foton"
+    },
+    {
+        "id": 71,
+        "word_english": "Matter",
+        "word_turkish": "Madde"
+    },
+    {
+        "id": 72,
+        "word_english": "Antimatter",
+        "word_turkish": "Antimadde"
+    },
+    {
+        "id": 73,
+        "word_english": "Space Shuttle",
+        "word_turkish": "Uzay Mekiği"
+    },
+    {
+        "id": 74,
+        "word_english": "Deep Space",
+        "word_turkish": "Derin Uzay"
+    },
+    {
+        "id": 75,
+        "word_english": "Tidal Forces",
+        "word_turkish": "Gelgit Kuvvetleri"
+    },
+    {
+        "id": 76,
+        "word_english": "Space-Time Warp",
+        "word_turkish": "Uzay-Zaman Bükülmesi"
+    },
+    {
+        "id": 77,
+        "word_english": "Andromeda Galaxy",
+        "word_turkish": "Andromeda Galaksisi"
+    },
+    {
+        "id": 78,
+        "word_english": "Cosmology",
+        "word_turkish": "Kozmoloji"
+    },
+    {
+        "id": 79,
+        "word_english": "Milky Way Galaxy",
+        "word_turkish": "Samanyolu Galaksisi"
+    },
+    {
+        "id": 80,
+        "word_english": "Space Colony",
+        "word_turkish": "Uzay Kolonisi"
+    },
+    {
+        "id": 81,
+        "word_english": "Cosmic Background Radiation",
+        "word_turkish": "Kozmik Arka Plan Radyasyonu"
+    },
+    {
+        "id": 82,
+        "word_english": "Space Exploration Program",
+        "word_turkish": "Uzay Keşif Programı"
+    },
+    {
+        "id": 83,
+        "word_english": "Gravitational Lens",
+        "word_turkish": "Yerçekimi Merceği"
+    },
+    {
+        "id": 84,
+        "word_english": "Astrobiologist",
+        "word_turkish": "Astrobiyolog"
+    },
+    {
+        "id": 85,
+        "word_english": "Space Tourism",
+        "word_turkish": "Uzay Turizmi"
+    },
+    {
+        "id": 86,
+        "word_english": "Lunar Base",
+        "word_turkish": "Ay Üssü"
+    },
+    {
+        "id": 87,
+        "word_english": "Solar System Exploration",
+        "word_turkish": "Güneş Sistemi Keşfi"
+    },
+    {
+        "id": 88,
+        "word_english": "Astronomical Unit",
+        "word_turkish": "Astronomik Birim"
+    },
+    {
+        "id": 89,
+        "word_english": "Stellar",
+        "word_turkish": "Yıldızsal"
+    },
+    {
+        "id": 90,
+        "word_english": "Space Environment",
+        "word_turkish": "Uzay Çevresi"
+    },
+    {
+        "id": 91,
+        "word_english": "Interplanetary",
+        "word_turkish": "Gezegenler Arası"
+    },
+    {
+        "id": 92,
+        "word_english": "Space Lab",
+        "word_turkish": "Uzay Laboratuvarı"
+    },
+    {
+        "id": 93,
+        "word_english": "Comet Tail",
+        "word_turkish": "Kuyruklu Yıldız Kuyruğu"
+    },
+    {
+        "id": 94,
+        "word_english": "Zero-G",
+        "word_turkish": "Sıfır-G"
+    },
+    {
+        "id": 95,
+        "word_english": "Launch Pad",
+        "word_turkish": "Fırlatma Rampası"
+    },
+    {
+        "id": 96,
+        "word_english": "Astrophysics",
+        "word_turkish": "Astrofizik"
+    },
+    {
+        "id": 97,
+        "word_english": "Intergalactic Medium",
+        "word_turkish": "Galaksiler Arası Ortam"
+    },
+    {
+        "id": 98,
+        "word_english": "Oort Cloud",
+        "word_turkish": "Oort Bulutu"
+    },
+    {
+        "id": 99,
+        "word_english": "Kuiper Belt",
+        "word_turkish": "Kuiper Kuşağı"
+    },
+    {
+        "id": 100,
+        "word_english": "Space Station Module",
+        "word_turkish": "Uzay İstasyonu Modülü"
+    }
+]

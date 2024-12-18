@@ -1,0 +1,1462 @@
+[
+    {
+        "id": 1,
+        "word_english": "ability",
+        "word_turkish": "yetenek"
+    },
+    {
+        "id": 2,
+        "word_english": "abroad",
+        "word_turkish": "yurtdışı"
+    },
+    {
+        "id": 3,
+        "word_english": "absence",
+        "word_turkish": "yokluk"
+    },
+    {
+        "id": 4,
+        "word_english": "accept",
+        "word_turkish": "kabul etmek"
+    },
+    {
+        "id": 5,
+        "word_english": "accident",
+        "word_turkish": "kaza"
+    },
+    {
+        "id": 6,
+        "word_english": "accompany",
+        "word_turkish": "eşlik etmek"
+    },
+    {
+        "id": 7,
+        "word_english": "accurate",
+        "word_turkish": "doğru"
+    },
+    {
+        "id": 8,
+        "word_english": "achieve",
+        "word_turkish": "başarmak"
+    },
+    {
+        "id": 9,
+        "word_english": "acquire",
+        "word_turkish": "edinmek"
+    },
+    {
+        "id": 10,
+        "word_english": "active",
+        "word_turkish": "aktif"
+    },
+    {
+        "id": 11,
+        "word_english": "actor",
+        "word_turkish": "aktör"
+    },
+    {
+        "id": 12,
+        "word_english": "adapt",
+        "word_turkish": "uyum sağlamak"
+    },
+    {
+        "id": 13,
+        "word_english": "addition",
+        "word_turkish": "ekleme"
+    },
+    {
+        "id": 14,
+        "word_english": "address",
+        "word_turkish": "adres"
+    },
+    {
+        "id": 15,
+        "word_english": "advance",
+        "word_turkish": "ilerlemek"
+    },
+    {
+        "id": 16,
+        "word_english": "advice",
+        "word_turkish": "tavsiye"
+    },
+    {
+        "id": 17,
+        "word_english": "affect",
+        "word_turkish": "etkilemek"
+    },
+    {
+        "id": 18,
+        "word_english": "agency",
+        "word_turkish": "ajans"
+    },
+    {
+        "id": 19,
+        "word_english": "airline",
+        "word_turkish": "havayolu"
+    },
+    {
+        "id": 20,
+        "word_english": "allow",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 21,
+        "word_english": "amazing",
+        "word_turkish": "şaşırtıcı"
+    },
+    {
+        "id": 22,
+        "word_english": "ancient",
+        "word_turkish": "antik"
+    },
+    {
+        "id": 23,
+        "word_english": "analyze",
+        "word_turkish": "analiz etmek"
+    },
+    {
+        "id": 24,
+        "word_english": "annual",
+        "word_turkish": "yıllık"
+    },
+    {
+        "id": 25,
+        "word_english": "apology",
+        "word_turkish": "özür"
+    },
+    {
+        "id": 26,
+        "word_english": "appeal",
+        "word_turkish": "çekicilik"
+    },
+    {
+        "id": 27,
+        "word_english": "appoint",
+        "word_turkish": "atamak"
+    },
+    {
+        "id": 28,
+        "word_english": "approve",
+        "word_turkish": "onaylamak"
+    },
+    {
+        "id": 29,
+        "word_english": "argue",
+        "word_turkish": "tartışmak"
+    },
+    {
+        "id": 30,
+        "word_english": "arrange",
+        "word_turkish": "düzenlemek"
+    },
+    {
+        "id": 31,
+        "word_english": "article",
+        "word_turkish": "makale"
+    },
+    {
+        "id": 32,
+        "word_english": "aspect",
+        "word_turkish": "yön"
+    },
+    {
+        "id": 33,
+        "word_english": "assess",
+        "word_turkish": "değerlendirmek"
+    },
+    {
+        "id": 34,
+        "word_english": "assign",
+        "word_turkish": "atamak"
+    },
+    {
+        "id": 35,
+        "word_english": "assist",
+        "word_turkish": "yardım etmek"
+    },
+    {
+        "id": 36,
+        "word_english": "assume",
+        "word_turkish": "varsaymak"
+    },
+    {
+        "id": 37,
+        "word_english": "athlete",
+        "word_turkish": "sporcu"
+    },
+    {
+        "id": 38,
+        "word_english": "atmosphere",
+        "word_turkish": "atmosfer"
+    },
+    {
+        "id": 39,
+        "word_english": "attempt",
+        "word_turkish": "denemek"
+    },
+    {
+        "id": 40,
+        "word_english": "attend",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 41,
+        "word_english": "attract",
+        "word_turkish": "çekmek"
+    },
+    {
+        "id": 42,
+        "word_english": "average",
+        "word_turkish": "ortalama"
+    },
+    {
+        "id": 43,
+        "word_english": "aware",
+        "word_turkish": "farkında"
+    },
+    {
+        "id": 44,
+        "word_english": "balance",
+        "word_turkish": "denge"
+    },
+    {
+        "id": 45,
+        "word_english": "behave",
+        "word_turkish": "davranmak"
+    },
+    {
+        "id": 46,
+        "word_english": "benefit",
+        "word_turkish": "yarar"
+    },
+    {
+        "id": 47,
+        "word_english": "beyond",
+        "word_turkish": "ötesinde"
+    },
+    {
+        "id": 48,
+        "word_english": "bicycle",
+        "word_turkish": "bisiklet"
+    },
+    {
+        "id": 49,
+        "word_english": "biology",
+        "word_turkish": "biyoloji"
+    },
+    {
+        "id": 50,
+        "word_english": "boring",
+        "word_turkish": "sıkıcı"
+    },
+    {
+        "id": 51,
+        "word_english": "bother",
+        "word_turkish": "rahatsız etmek"
+    },
+    {
+        "id": 52,
+        "word_english": "bravery",
+        "word_turkish": "cesaret"
+    },
+    {
+        "id": 53,
+        "word_english": "breathe",
+        "word_turkish": "nefes almak"
+    },
+    {
+        "id": 54,
+        "word_english": "brother",
+        "word_turkish": "erkek kardeş"
+    },
+    {
+        "id": 55,
+        "word_english": "capacity",
+        "word_turkish": "kapasite"
+    },
+    {
+        "id": 56,
+        "word_english": "career",
+        "word_turkish": "kariyer"
+    },
+    {
+        "id": 57,
+        "word_english": "celebrate",
+        "word_turkish": "kutlamak"
+    },
+    {
+        "id": 58,
+        "word_english": "certain",
+        "word_turkish": "kesin"
+    },
+    {
+        "id": 59,
+        "word_english": "chamber",
+        "word_turkish": "oda"
+    },
+    {
+        "id": 60,
+        "word_english": "change",
+        "word_turkish": "değiştirmek"
+    },
+    {
+        "id": 61,
+        "word_english": "charge",
+        "word_turkish": "ücret"
+    },
+    {
+        "id": 62,
+        "word_english": "cheap",
+        "word_turkish": "ucuz"
+    },
+    {
+        "id": 63,
+        "word_english": "chemistry",
+        "word_turkish": "kimya"
+    },
+    {
+        "id": 64,
+        "word_english": "climate",
+        "word_turkish": "iklim"
+    },
+    {
+        "id": 65,
+        "word_english": "combine",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 66,
+        "word_english": "commute",
+        "word_turkish": "seyahat etmek"
+    },
+    {
+        "id": 67,
+        "word_english": "compete",
+        "word_turkish": "yarışmak"
+    },
+    {
+        "id": 68,
+        "word_english": "complete",
+        "word_turkish": "tamamlamak"
+    },
+    {
+        "id": 69,
+        "word_english": "concept",
+        "word_turkish": "konsept"
+    },
+    {
+        "id": 70,
+        "word_english": "conclude",
+        "word_turkish": "sonuçlandırmak"
+    },
+    {
+        "id": 71,
+        "word_english": "connect",
+        "word_turkish": "bağlamak"
+    },
+    {
+        "id": 72,
+        "word_english": "consider",
+        "word_turkish": "düşünmek"
+    },
+    {
+        "id": 73,
+        "word_english": "consume",
+        "word_turkish": "tüketmek"
+    },
+    {
+        "id": 74,
+        "word_english": "contact",
+        "word_turkish": "temas"
+    },
+    {
+        "id": 75,
+        "word_english": "contribute",
+        "word_turkish": "katkıda bulunmak"
+    },
+    {
+        "id": 76,
+        "word_english": "control",
+        "word_turkish": "kontrol etmek"
+    },
+    {
+        "id": 77,
+        "word_english": "convince",
+        "word_turkish": "ikna etmek"
+    },
+    {
+        "id": 78,
+        "word_english": "courage",
+        "word_turkish": "cesaret"
+    },
+    {
+        "id": 79,
+        "word_english": "create",
+        "word_turkish": "yaratmak"
+    },
+    {
+        "id": 80,
+        "word_english": "current",
+        "word_turkish": "mevcut"
+    },
+    {
+        "id": 81,
+        "word_english": "damage",
+        "word_turkish": "zarar"
+    },
+    {
+        "id": 82,
+        "word_english": "decide",
+        "word_turkish": "karar vermek"
+    },
+    {
+        "id": 83,
+        "word_english": "defend",
+        "word_turkish": "savunmak"
+    },
+    {
+        "id": 84,
+        "word_english": "definite",
+        "word_turkish": "kesin"
+    },
+    {
+        "id": 85,
+        "word_english": "demonstrate",
+        "word_turkish": "göstermek"
+    },
+    {
+        "id": 86,
+        "word_english": "depend",
+        "word_turkish": "bağlı olmak"
+    },
+    {
+        "id": 87,
+        "word_english": "describe",
+        "word_turkish": "tanımlamak"
+    },
+    {
+        "id": 88,
+        "word_english": "disease",
+        "word_turkish": "hastalık"
+    },
+    {
+        "id": 89,
+        "word_english": "document",
+        "word_turkish": "belge"
+    },
+    {
+        "id": 90,
+        "word_english": "efficient",
+        "word_turkish": "verimli"
+    },
+    {
+        "id": 91,
+        "word_english": "emerge",
+        "word_turkish": "ortaya çıkmak"
+    },
+    {
+        "id": 92,
+        "word_english": "emotion",
+        "word_turkish": "duygu"
+    },
+    {
+        "id": 93,
+        "word_english": "enable",
+        "word_turkish": "olanak sağlamak"
+    },
+    {
+        "id": 94,
+        "word_english": "encourage",
+        "word_turkish": "teşvik etmek"
+    },
+    {
+        "id": 95,
+        "word_english": "enjoy",
+        "word_turkish": "keyif almak"
+    },
+    {
+        "id": 96,
+        "word_english": "entertain",
+        "word_turkish": "eğlendirmek"
+    },
+    {
+        "id": 97,
+        "word_english": "estimate",
+        "word_turkish": "tahmin etmek"
+    },
+    {
+        "id": 98,
+        "word_english": "event",
+        "word_turkish": "etkinlik"
+    },
+    {
+        "id": 99,
+        "word_english": "exchange",
+        "word_turkish": "değişim"
+    },
+    {
+        "id": 100,
+        "word_english": "exciting",
+        "word_turkish": "heyecan verici"
+    },
+    {
+        "id": 101,
+        "word_english": "expand",
+        "word_turkish": "genişletmek"
+    },
+    {
+        "id": 102,
+        "word_english": "experience",
+        "word_turkish": "deneyim"
+    },
+    {
+        "id": 103,
+        "word_english": "explain",
+        "word_turkish": "açıklamak"
+    },
+    {
+        "id": 104,
+        "word_english": "famous",
+        "word_turkish": "meşhur"
+    },
+    {
+        "id": 105,
+        "word_english": "fiction",
+        "word_turkish": "kurgu"
+    },
+    {
+        "id": 106,
+        "word_english": "finesse",
+        "word_turkish": "zarafet"
+    },
+    {
+        "id": 107,
+        "word_english": "fitness",
+        "word_turkish": "form"
+    },
+    {
+        "id": 108,
+        "word_english": "focus",
+        "word_turkish": "odaklanmak"
+    },
+    {
+        "id": 109,
+        "word_english": "fortunate",
+        "word_turkish": "şanslı"
+    },
+    {
+        "id": 110,
+        "word_english": "freedom",
+        "word_turkish": "özgürlük"
+    },
+    {
+        "id": 111,
+        "word_english": "friendly",
+        "word_turkish": "dostça"
+    },
+    {
+        "id": 112,
+        "word_english": "further",
+        "word_turkish": "daha fazla"
+    },
+    {
+        "id": 113,
+        "word_english": "generate",
+        "word_turkish": "üretmek"
+    },
+    {
+        "id": 114,
+        "word_english": "genuine",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 115,
+        "word_english": "gesture",
+        "word_turkish": "jest"
+    },
+    {
+        "id": 116,
+        "word_english": "govern",
+        "word_turkish": "yönetmek"
+    },
+    {
+        "id": 117,
+        "word_english": "grocery",
+        "word_turkish": "market"
+    },
+    {
+        "id": 118,
+        "word_english": "growth",
+        "word_turkish": "büyüme"
+    },
+    {
+        "id": 119,
+        "word_english": "guarantee",
+        "word_turkish": "garanti"
+    },
+    {
+        "id": 120,
+        "word_english": "habit",
+        "word_turkish": "alışkanlık"
+    },
+    {
+        "id": 121,
+        "word_english": "healthy",
+        "word_turkish": "sağlıklı"
+    },
+    {
+        "id": 122,
+        "word_english": "hesitate",
+        "word_turkish": "tereddüt etmek"
+    },
+    {
+        "id": 123,
+        "word_english": "host",
+        "word_turkish": "ev sahibi"
+    },
+    {
+        "id": 124,
+        "word_english": "imagine",
+        "word_turkish": "hayal etmek"
+    },
+    {
+        "id": 125,
+        "word_english": "impact",
+        "word_turkish": "etki"
+    },
+    {
+        "id": 126,
+        "word_english": "implement",
+        "word_turkish": "uygulamak"
+    },
+    {
+        "id": 127,
+        "word_english": "importance",
+        "word_turkish": "önem"
+    },
+    {
+        "id": 128,
+        "word_english": "improve",
+        "word_turkish": "geliştirmek"
+    },
+    {
+        "id": 129,
+        "word_english": "influence",
+        "word_turkish": "etkilemek"
+    },
+    {
+        "id": 130,
+        "word_english": "inspire",
+        "word_turkish": "ilham vermek"
+    },
+    {
+        "id": 131,
+        "word_english": "instruct",
+        "word_turkish": "öğretmek"
+    },
+    {
+        "id": 132,
+        "word_english": "involve",
+        "word_turkish": "katmak"
+    },
+    {
+        "id": 133,
+        "word_english": "journal",
+        "word_turkish": "dergi"
+    },
+    {
+        "id": 134,
+        "word_english": "journey",
+        "word_turkish": "seyahat"
+    },
+    {
+        "id": 135,
+        "word_english": "justice",
+        "word_turkish": "adalet"
+    },
+    {
+        "id": 136,
+        "word_english": "kindness",
+        "word_turkish": "nezaket"
+    },
+    {
+        "id": 137,
+        "word_english": "leisure",
+        "word_turkish": "boş zaman"
+    },
+    {
+        "id": 138,
+        "word_english": "manage",
+        "word_turkish": "yönetmek"
+    },
+    {
+        "id": 139,
+        "word_english": "maximum",
+        "word_turkish": "maksimum"
+    },
+    {
+        "id": 140,
+        "word_english": "measure",
+        "word_turkish": "ölçmek"
+    },
+    {
+        "id": 141,
+        "word_english": "method",
+        "word_turkish": "yöntem"
+    },
+    {
+        "id": 142,
+        "word_english": "migrate",
+        "word_turkish": "göç etmek"
+    },
+    {
+        "id": 143,
+        "word_english": "minimum",
+        "word_turkish": "minimum"
+    },
+    {
+        "id": 144,
+        "word_english": "modern",
+        "word_turkish": "modern"
+    },
+    {
+        "id": 145,
+        "word_english": "monitor",
+        "word_turkish": "izlemek"
+    },
+    {
+        "id": 146,
+        "word_english": "negative",
+        "word_turkish": "olumsuz"
+    },
+    {
+        "id": 147,
+        "word_english": "occur",
+        "word_turkish": "olmak"
+    },
+    {
+        "id": 148,
+        "word_english": "option",
+        "word_turkish": "seçenek"
+    },
+    {
+        "id": 149,
+        "word_english": "outcome",
+        "word_turkish": "sonuç"
+    },
+    {
+        "id": 150,
+        "word_english": "overcome",
+        "word_turkish": "üstesinden gelmek"
+    },
+    {
+        "id": 151,
+        "word_english": "participate",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 152,
+        "word_english": "patient",
+        "word_turkish": "sabırlı"
+    },
+    {
+        "id": 153,
+        "word_english": "permit",
+        "word_turkish": "izin vermek"
+    },
+    {
+        "id": 154,
+        "word_english": "pollution",
+        "word_turkish": "kirlilik"
+    },
+    {
+        "id": 155,
+        "word_english": "positive",
+        "word_turkish": "olumlu"
+    },
+    {
+        "id": 156,
+        "word_english": "practice",
+        "word_turkish": "pratik yapmak"
+    },
+    {
+        "id": 157,
+        "word_english": "pressure",
+        "word_turkish": "baskı"
+    },
+    {
+        "id": 158,
+        "word_english": "produce",
+        "word_turkish": "üretmek"
+    },
+    {
+        "id": 159,
+        "word_english": "profound",
+        "word_turkish": "derin"
+    },
+    {
+        "id": 160,
+        "word_english": "project",
+        "word_turkish": "proje"
+    },
+    {
+        "id": 161,
+        "word_english": "protect",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 162,
+        "word_english": "prove",
+        "word_turkish": "kanıtlamak"
+    },
+    {
+        "id": 163,
+        "word_english": "purpose",
+        "word_turkish": "amaç"
+    },
+    {
+        "id": 164,
+        "word_english": "quality",
+        "word_turkish": "kalite"
+    },
+    {
+        "id": 165,
+        "word_english": "realistic",
+        "word_turkish": "gerçekçi"
+    },
+    {
+        "id": 166,
+        "word_english": "recommend",
+        "word_turkish": "tavsiye etmek"
+    },
+    {
+        "id": 167,
+        "word_english": "reliable",
+        "word_turkish": "güvenilir"
+    },
+    {
+        "id": 168,
+        "word_english": "remove",
+        "word_turkish": "kaldırmak"
+    },
+    {
+        "id": 169,
+        "word_english": "replace",
+        "word_turkish": "yer değiştirmek"
+    },
+    {
+        "id": 170,
+        "word_english": "respond",
+        "word_turkish": "yanıtlamak"
+    },
+    {
+        "id": 171,
+        "word_english": "reveal",
+        "word_turkish": "açığa çıkarmak"
+    },
+    {
+        "id": 172,
+        "word_english": "reward",
+        "word_turkish": "ödül"
+    },
+    {
+        "id": 173,
+        "word_english": "satisfy",
+        "word_turkish": "tatmin etmek"
+    },
+    {
+        "id": 174,
+        "word_english": "scheme",
+        "word_turkish": "plan"
+    },
+    {
+        "id": 175,
+        "word_english": "secure",
+        "word_turkish": "güvenli"
+    },
+    {
+        "id": 176,
+        "word_english": "select",
+        "word_turkish": "seçmek"
+    },
+    {
+        "id": 177,
+        "word_english": "sequence",
+        "word_turkish": "sıra"
+    },
+    {
+        "id": 178,
+        "word_english": "similar",
+        "word_turkish": "benzer"
+    },
+    {
+        "id": 179,
+        "word_english": "solve",
+        "word_turkish": "çözmek"
+    },
+    {
+        "id": 180,
+        "word_english": "specific",
+        "word_turkish": "spesifik"
+    },
+    {
+        "id": 181,
+        "word_english": "strategic",
+        "word_turkish": "stratejik"
+    },
+    {
+        "id": 182,
+        "word_english": "submit",
+        "word_turkish": "sunmak"
+    },
+    {
+        "id": 183,
+        "word_english": "success",
+        "word_turkish": "başarı"
+    },
+    {
+        "id": 184,
+        "word_english": "sufficient",
+        "word_turkish": "yeterli"
+    },
+    {
+        "id": 185,
+        "word_english": "supply",
+        "word_turkish": "tedarik"
+    },
+    {
+        "id": 186,
+        "word_english": "surgery",
+        "word_turkish": "ameliyat"
+    },
+    {
+        "id": 187,
+        "word_english": "survey",
+        "word_turkish": "anket"
+    },
+    {
+        "id": 188,
+        "word_english": "symbol",
+        "word_turkish": "sembol"
+    },
+    {
+        "id": 189,
+        "word_english": "synthesize",
+        "word_turkish": "sentetik yapmak"
+    },
+    {
+        "id": 190,
+        "word_english": "theory",
+        "word_turkish": "teori"
+    },
+    {
+        "id": 191,
+        "word_english": "threat",
+        "word_turkish": "tehdit"
+    },
+    {
+        "id": 192,
+        "word_english": "traffic",
+        "word_turkish": "trafik"
+    },
+    {
+        "id": 193,
+        "word_english": "transport",
+        "word_turkish": "taşıma"
+    },
+    {
+        "id": 194,
+        "word_english": "unique",
+        "word_turkish": "benzersiz"
+    },
+    {
+        "id": 195,
+        "word_english": "usual",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 196,
+        "word_english": "vacation",
+        "word_turkish": "tatil"
+    },
+    {
+        "id": 197,
+        "word_english": "variety",
+        "word_turkish": "çeşitlilik"
+    },
+    {
+        "id": 198,
+        "word_english": "vehicle",
+        "word_turkish": "araç"
+    },
+    {
+        "id": 199,
+        "word_english": "volunteer",
+        "word_turkish": "gönüllü"
+    },
+    {
+        "id": 200,
+        "word_english": "wealth",
+        "word_turkish": "zenginlik"
+    },
+    {
+        "id": 201,
+        "word_english": "whenever",
+        "word_turkish": "ne zaman"
+    },
+    {
+        "id": 202,
+        "word_english": "within",
+        "word_turkish": "içinde"
+    },
+    {
+        "id": 203,
+        "word_english": "wonder",
+        "word_turkish": "şaşkınlık"
+    },
+    {
+        "id": 204,
+        "word_english": "worry",
+        "word_turkish": "endişelenmek"
+    },
+    {
+        "id": 205,
+        "word_english": "youth",
+        "word_turkish": "gençlik"
+    },
+    {
+        "id": 206,
+        "word_english": "abundant",
+        "word_turkish": "bol"
+    },
+    {
+        "id": 207,
+        "word_english": "accumulate",
+        "word_turkish": "biriktirmek"
+    },
+    {
+        "id": 208,
+        "word_english": "adjust",
+        "word_turkish": "ayarlamak"
+    },
+    {
+        "id": 209,
+        "word_english": "allocate",
+        "word_turkish": "tahsis etmek"
+    },
+    {
+        "id": 210,
+        "word_english": "appeal",
+        "word_turkish": "başvurmak"
+    },
+    {
+        "id": 211,
+        "word_english": "apprentice",
+        "word_turkish": "çırak"
+    },
+    {
+        "id": 212,
+        "word_english": "asset",
+        "word_turkish": "varlık"
+    },
+    {
+        "id": 213,
+        "word_english": "associate",
+        "word_turkish": "bağlantı kurmak"
+    },
+    {
+        "id": 214,
+        "word_english": "assumption",
+        "word_turkish": "varsayım"
+    },
+    {
+        "id": 215,
+        "word_english": "bargain",
+        "word_turkish": "pazarlık"
+    },
+    {
+        "id": 216,
+        "word_english": "basically",
+        "word_turkish": "temelde"
+    },
+    {
+        "id": 217,
+        "word_english": "beneficiary",
+        "word_turkish": "yararlanıcı"
+    },
+    {
+        "id": 218,
+        "word_english": "bureaucracy",
+        "word_turkish": "bürokrasi"
+    },
+    {
+        "id": 219,
+        "word_english": "capacity",
+        "word_turkish": "kapasite"
+    },
+    {
+        "id": 220,
+        "word_english": "career",
+        "word_turkish": "kariyer"
+    },
+    {
+        "id": 221,
+        "word_english": "climate",
+        "word_turkish": "iklim"
+    },
+    {
+        "id": 222,
+        "word_english": "compensation",
+        "word_turkish": "tazminat"
+    },
+    {
+        "id": 223,
+        "word_english": "component",
+        "word_turkish": "bileşen"
+    },
+    {
+        "id": 224,
+        "word_english": "conflict",
+        "word_turkish": "çatışma"
+    },
+    {
+        "id": 225,
+        "word_english": "contribution",
+        "word_turkish": "katkı"
+    },
+    {
+        "id": 226,
+        "word_english": "corporation",
+        "word_turkish": "şirket"
+    },
+    {
+        "id": 227,
+        "word_english": "criterion",
+        "word_turkish": "kriter"
+    },
+    {
+        "id": 228,
+        "word_english": "determine",
+        "word_turkish": "belirlemek"
+    },
+    {
+        "id": 229,
+        "word_english": "dimension",
+        "word_turkish": "boyut"
+    },
+    {
+        "id": 230,
+        "word_english": "distribute",
+        "word_turkish": "dağıtmak"
+    },
+    {
+        "id": 231,
+        "word_english": "diversity",
+        "word_turkish": "çeşitlilik"
+    },
+    {
+        "id": 232,
+        "word_english": "emphasize",
+        "word_turkish": "vurgulamak"
+    },
+    {
+        "id": 233,
+        "word_english": "engage",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 234,
+        "word_english": "entity",
+        "word_turkish": "varlık"
+    },
+    {
+        "id": 235,
+        "word_english": "equity",
+        "word_turkish": "eşitlik"
+    },
+    {
+        "id": 236,
+        "word_english": "evolution",
+        "word_turkish": "evrim"
+    },
+    {
+        "id": 237,
+        "word_english": "explanation",
+        "word_turkish": "açıklama"
+    },
+    {
+        "id": 238,
+        "word_english": "fascinate",
+        "word_turkish": "büyülemek"
+    },
+    {
+        "id": 239,
+        "word_english": "fashion",
+        "word_turkish": "moda"
+    },
+    {
+        "id": 240,
+        "word_english": "feedback",
+        "word_turkish": "geri bildirim"
+    },
+    {
+        "id": 241,
+        "word_english": "frequent",
+        "word_turkish": "sık"
+    },
+    {
+        "id": 242,
+        "word_english": "fundamental",
+        "word_turkish": "temel"
+    },
+    {
+        "id": 243,
+        "word_english": "function",
+        "word_turkish": "işlev"
+    },
+    {
+        "id": 244,
+        "word_english": "hesitate",
+        "word_turkish": "tereddüt etmek"
+    },
+    {
+        "id": 245,
+        "word_english": "illustrate",
+        "word_turkish": "örnekle açıklamak"
+    },
+    {
+        "id": 246,
+        "word_english": "impact",
+        "word_turkish": "etki"
+    },
+    {
+        "id": 247,
+        "word_english": "innovative",
+        "word_turkish": "yenilikçi"
+    },
+    {
+        "id": 248,
+        "word_english": "integrate",
+        "word_turkish": "entegrasyon yapmak"
+    },
+    {
+        "id": 249,
+        "word_english": "isolate",
+        "word_turkish": "yalnızlaştırmak"
+    },
+    {
+        "id": 250,
+        "word_english": "justify",
+        "word_turkish": "haklı çıkarmak"
+    },
+    {
+        "id": 251,
+        "word_english": "maintain",
+        "word_turkish": "korumak"
+    },
+    {
+        "id": 252,
+        "word_english": "manage",
+        "word_turkish": "yönetmek"
+    },
+    {
+        "id": 253,
+        "word_english": "mature",
+        "word_turkish": "olgunlaşmak"
+    },
+    {
+        "id": 254,
+        "word_english": "motive",
+        "word_turkish": "güdü"
+    },
+    {
+        "id": 255,
+        "word_english": "nevertheless",
+        "word_turkish": "yine de"
+    },
+    {
+        "id": 256,
+        "word_english": "observe",
+        "word_turkish": "gözlemlemek"
+    },
+    {
+        "id": 257,
+        "word_english": "participate",
+        "word_turkish": "katılmak"
+    },
+    {
+        "id": 258,
+        "word_english": "perceive",
+        "word_turkish": "algılamak"
+    },
+    {
+        "id": 259,
+        "word_english": "perform",
+        "word_turkish": "performans sergilemek"
+    },
+    {
+        "id": 260,
+        "word_english": "persistent",
+        "word_turkish": "ısrarcı"
+    },
+    {
+        "id": 261,
+        "word_english": "prioritize",
+        "word_turkish": "öncelik vermek"
+    },
+    {
+        "id": 262,
+        "word_english": "process",
+        "word_turkish": "işlem"
+    },
+    {
+        "id": 263,
+        "word_english": "progress",
+        "word_turkish": "ilerleme"
+    },
+    {
+        "id": 264,
+        "word_english": "promote",
+        "word_turkish": "terfi etmek"
+    },
+    {
+        "id": 265,
+        "word_english": "provide",
+        "word_turkish": "sağlamak"
+    },
+    {
+        "id": 266,
+        "word_english": "quality",
+        "word_turkish": "kalite"
+    },
+    {
+        "id": 267,
+        "word_english": "range",
+        "word_turkish": "menzil"
+    },
+    {
+        "id": 268,
+        "word_english": "recruit",
+        "word_turkish": "işe almak"
+    },
+    {
+        "id": 269,
+        "word_english": "reduce",
+        "word_turkish": "azaltmak"
+    },
+    {
+        "id": 270,
+        "word_english": "refine",
+        "word_turkish": "iyileştirmek"
+    },
+    {
+        "id": 271,
+        "word_english": "reform",
+        "word_turkish": "reform yapmak"
+    },
+    {
+        "id": 272,
+        "word_english": "register",
+        "word_turkish": "kayıt olmak"
+    },
+    {
+        "id": 273,
+        "word_english": "relocate",
+        "word_turkish": "taşınmak"
+    },
+    {
+        "id": 274,
+        "word_english": "respect",
+        "word_turkish": "saygı göstermek"
+    },
+    {
+        "id": 275,
+        "word_english": "respond",
+        "word_turkish": "cevap vermek"
+    },
+    {
+        "id": 276,
+        "word_english": "revenue",
+        "word_turkish": "gelir"
+    },
+    {
+        "id": 277,
+        "word_english": "routine",
+        "word_turkish": "günlük iş"
+    },
+    {
+        "id": 278,
+        "word_english": "sacrifice",
+        "word_turkish": "fedakarlık"
+    },
+    {
+        "id": 279,
+        "word_english": "schedule",
+        "word_turkish": "program"
+    },
+    {
+        "id": 280,
+        "word_english": "sector",
+        "word_turkish": "sektör"
+    },
+    {
+        "id": 281,
+        "word_english": "secure",
+        "word_turkish": "güvenli"
+    },
+    {
+        "id": 282,
+        "word_english": "significant",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 283,
+        "word_english": "simplify",
+        "word_turkish": "basitleştirmek"
+    },
+    {
+        "id": 284,
+        "word_english": "sophisticated",
+        "word_turkish": "sofistike"
+    },
+    {
+        "id": 285,
+        "word_english": "source",
+        "word_turkish": "kaynak"
+    },
+    {
+        "id": 286,
+        "word_english": "sustain",
+        "word_turkish": "sürdürmek"
+    },
+    {
+        "id": 287,
+        "word_english": "task",
+        "word_turkish": "görev"
+    },
+    {
+        "id": 288,
+        "word_english": "tolerate",
+        "word_turkish": "katlanmak"
+    },
+    {
+        "id": 289,
+        "word_english": "transform",
+        "word_turkish": "dönüştürmek"
+    },
+    {
+        "id": 290,
+        "word_english": "transport",
+        "word_turkish": "taşıma"
+    },
+    {
+        "id": 291,
+        "word_english": "trigger",
+        "word_turkish": "tetiklemek"
+    },
+    {
+        "id": 292,
+        "word_english": "unique",
+        "word_turkish": "benzersiz"
+    }
+]

@@ -1,0 +1,682 @@
+[
+    {
+        "id": 1,
+        "word_english": "Apartment",
+        "word_turkish": "Daire"
+    },
+    {
+        "id": 2,
+        "word_english": "Bungalow",
+        "word_turkish": "Bungalov"
+    },
+    {
+        "id": 3,
+        "word_english": "Cottage",
+        "word_turkish": "Köy Evi"
+    },
+    {
+        "id": 4,
+        "word_english": "Mansion",
+        "word_turkish": "Malikane"
+    },
+    {
+        "id": 5,
+        "word_english": "Villa",
+        "word_turkish": "Vila"
+    },
+    {
+        "id": 6,
+        "word_english": "Condo",
+        "word_turkish": "Konut"
+    },
+    {
+        "id": 7,
+        "word_english": "Townhouse",
+        "word_turkish": "Şehir Evi"
+    },
+    {
+        "id": 8,
+        "word_english": "Penthouse",
+        "word_turkish": "Çatı Katı"
+    },
+    {
+        "id": 9,
+        "word_english": "Duplex",
+        "word_turkish": "Çift Katlı Ev"
+    },
+    {
+        "id": 10,
+        "word_english": "Studio",
+        "word_turkish": "Stüdyo Daire"
+    },
+    {
+        "id": 11,
+        "word_english": "Farmhouse",
+        "word_turkish": "Çiftlik Evi"
+    },
+    {
+        "id": 12,
+        "word_english": "Chalet",
+        "word_turkish": "Dağ Evi"
+    },
+    {
+        "id": 13,
+        "word_english": "Terraced house",
+        "word_turkish": "Sıra Evi"
+    },
+    {
+        "id": 14,
+        "word_english": "Mobile home",
+        "word_turkish": "Mobil Ev"
+    },
+    {
+        "id": 15,
+        "word_english": "Loft",
+        "word_turkish": "Loft"
+    },
+    {
+        "id": 16,
+        "word_english": "Houseboat",
+        "word_turkish": "Ev Gemisi"
+    },
+    {
+        "id": 17,
+        "word_english": "Cave house",
+        "word_turkish": "Mağara Evi"
+    },
+    {
+        "id": 18,
+        "word_english": "Castle",
+        "word_turkish": "Kale"
+    },
+    {
+        "id": 19,
+        "word_english": "Ranch",
+        "word_turkish": "Çiftlik"
+    },
+    {
+        "id": 20,
+        "word_english": "Apartment",
+        "word_turkish": "Daire"
+    },
+    {
+        "id": 21,
+        "word_english": "Bungalow",
+        "word_turkish": "Bungalov"
+    },
+    {
+        "id": 22,
+        "word_english": "Cottage",
+        "word_turkish": "Köy Evi"
+    },
+    {
+        "id": 23,
+        "word_english": "Mansion",
+        "word_turkish": "Malikane"
+    },
+    {
+        "id": 24,
+        "word_english": "Villa",
+        "word_turkish": "Vila"
+    },
+    {
+        "id": 25,
+        "word_english": "Condo",
+        "word_turkish": "Konut"
+    },
+    {
+        "id": 26,
+        "word_english": "Townhouse",
+        "word_turkish": "Şehir Evi"
+    },
+    {
+        "id": 27,
+        "word_english": "Penthouse",
+        "word_turkish": "Çatı Katı"
+    },
+    {
+        "id": 28,
+        "word_english": "Duplex",
+        "word_turkish": "Çift Katlı Ev"
+    },
+    {
+        "id": 29,
+        "word_english": "Studio",
+        "word_turkish": "Stüdyo Daire"
+    },
+    {
+        "id": 30,
+        "word_english": "Farmhouse",
+        "word_turkish": "Çiftlik Evi"
+    },
+    {
+        "id": 31,
+        "word_english": "Chalet",
+        "word_turkish": "Dağ Evi"
+    },
+    {
+        "id": 32,
+        "word_english": "Terraced house",
+        "word_turkish": "Sıra Evi"
+    },
+    {
+        "id": 33,
+        "word_english": "Mobile home",
+        "word_turkish": "Mobil Ev"
+    },
+    {
+        "id": 34,
+        "word_english": "Loft",
+        "word_turkish": "Loft"
+    },
+    {
+        "id": 35,
+        "word_english": "Houseboat",
+        "word_turkish": "Ev Gemisi"
+    },
+    {
+        "id": 36,
+        "word_english": "Cave house",
+        "word_turkish": "Mağara Evi"
+    },
+    {
+        "id": 37,
+        "word_english": "Castle",
+        "word_turkish": "Kale"
+    },
+    {
+        "id": 38,
+        "word_english": "Ranch",
+        "word_turkish": "Çiftlik"
+    },
+    {
+        "id": 39,
+        "word_english": "Garden",
+        "word_turkish": "Bahçe"
+    },
+    {
+        "id": 40,
+        "word_english": "Backyard",
+        "word_turkish": "Arka Bahçe"
+    },
+    {
+        "id": 41,
+        "word_english": "Yard",
+        "word_turkish": "Avlu"
+    },
+    {
+        "id": 42,
+        "word_english": "Garage",
+        "word_turkish": "Garaj"
+    },
+    {
+        "id": 43,
+        "word_english": "Basement",
+        "word_turkish": "Bodrum"
+    },
+    {
+        "id": 44,
+        "word_english": "Attic",
+        "word_turkish": "Çatı Katı"
+    },
+    {
+        "id": 45,
+        "word_english": "Porch",
+        "word_turkish": "Veranda"
+    },
+    {
+        "id": 46,
+        "word_english": "Fence",
+        "word_turkish": "Çit"
+    },
+    {
+        "id": 47,
+        "word_english": "Patio",
+        "word_turkish": "Avlu"
+    },
+    {
+        "id": 48,
+        "word_english": "Driveway",
+        "word_turkish": "Araba Yolu"
+    },
+    {
+        "id": 49,
+        "word_english": "Swimming pool",
+        "word_turkish": "Yüzme Havuzu"
+    },
+    {
+        "id": 50,
+        "word_english": "Balcony",
+        "word_turkish": "Balkon"
+    },
+    {
+        "id": 51,
+        "word_english": "Terrace",
+        "word_turkish": "Teras"
+    },
+    {
+        "id": 52,
+        "word_english": "Gate",
+        "word_turkish": "Kapı"
+    },
+    {
+        "id": 53,
+        "word_english": "Roof",
+        "word_turkish": "Çatı"
+    },
+    {
+        "id": 54,
+        "word_english": "Wall",
+        "word_turkish": "Duvar"
+    },
+    {
+        "id": 55,
+        "word_english": "Window",
+        "word_turkish": "Pencere"
+    },
+    {
+        "id": 56,
+        "word_english": "Door",
+        "word_turkish": "Kapı"
+    },
+    {
+        "id": 57,
+        "word_english": "Floor",
+        "word_turkish": "Zemin"
+    },
+    {
+        "id": 58,
+        "word_english": "Ceiling",
+        "word_turkish": "Tavan"
+    },
+    {
+        "id": 59,
+        "word_english": "Living room",
+        "word_turkish": "Oturma Odası"
+    },
+    {
+        "id": 60,
+        "word_english": "Bedroom",
+        "word_turkish": "Yatak Odası"
+    },
+    {
+        "id": 61,
+        "word_english": "Kitchen",
+        "word_turkish": "Mutfak"
+    },
+    {
+        "id": 62,
+        "word_english": "Bathroom",
+        "word_turkish": "Banyo"
+    },
+    {
+        "id": 63,
+        "word_english": "Hallway",
+        "word_turkish": "Koridor"
+    },
+    {
+        "id": 64,
+        "word_english": "Study",
+        "word_turkish": "Çalışma Odası"
+    },
+    {
+        "id": 65,
+        "word_english": "Attic",
+        "word_turkish": "Çatı Arası"
+    },
+    {
+        "id": 66,
+        "word_english": "Shelving",
+        "word_turkish": "Raf"
+    },
+    {
+        "id": 67,
+        "word_english": "Closet",
+        "word_turkish": "Dolap"
+    },
+    {
+        "id": 68,
+        "word_english": "Sofa",
+        "word_turkish": "Kanepe"
+    },
+    {
+        "id": 69,
+        "word_english": "Armchair",
+        "word_turkish": "Berjer"
+    },
+    {
+        "id": 70,
+        "word_english": "Coffee table",
+        "word_turkish": "Sehpa"
+    },
+    {
+        "id": 71,
+        "word_english": "Dining table",
+        "word_turkish": "Yemek Masası"
+    },
+    {
+        "id": 72,
+        "word_english": "Bed",
+        "word_turkish": "Yatak"
+    },
+    {
+        "id": 73,
+        "word_english": "Wardrobe",
+        "word_turkish": "Gardırop"
+    },
+    {
+        "id": 74,
+        "word_english": "Bookshelf",
+        "word_turkish": "Kitaplık"
+    },
+    {
+        "id": 75,
+        "word_english": "Lawn",
+        "word_turkish": "Çimen"
+    },
+    {
+        "id": 76,
+        "word_english": "Pathway",
+        "word_turkish": "Yol"
+    },
+    {
+        "id": 77,
+        "word_english": "Flowerbed",
+        "word_turkish": "Çiçek Yatakları"
+    },
+    {
+        "id": 78,
+        "word_english": "Hedge",
+        "word_turkish": "Çit Sarmal"
+    },
+    {
+        "id": 79,
+        "word_english": "Tree",
+        "word_turkish": "Ağaç"
+    },
+    {
+        "id": 80,
+        "word_english": "Bush",
+        "word_turkish": "Çalı"
+    },
+    {
+        "id": 81,
+        "word_english": "Garden shed",
+        "word_turkish": "Bahçe Kulübesi"
+    },
+    {
+        "id": 82,
+        "word_english": "Fountain",
+        "word_turkish": "Fıskiye"
+    },
+    {
+        "id": 83,
+        "word_english": "Gazebo",
+        "word_turkish": "Gölgelik"
+    },
+    {
+        "id": 84,
+        "word_english": "Barbecue",
+        "word_turkish": "Barbekü"
+    },
+    {
+        "id": 85,
+        "word_english": "Patio furniture",
+        "word_turkish": "Bahçe Mobilyası"
+    },
+    {
+        "id": 86,
+        "word_english": "Birdhouse",
+        "word_turkish": "Kuş Evi"
+    },
+    {
+        "id": 87,
+        "word_english": "Garden tools",
+        "word_turkish": "Bahçe Aletleri"
+    },
+    {
+        "id": 88,
+        "word_english": "Sprinkler",
+        "word_turkish": "Sulama Sistemi"
+    },
+    {
+        "id": 89,
+        "word_english": "Grill",
+        "word_turkish": "Izgara"
+    },
+    {
+        "id": 90,
+        "word_english": "Deck",
+        "word_turkish": "Balkon"
+    },
+    {
+        "id": 91,
+        "word_english": "Greenhouse",
+        "word_turkish": "Sera"
+    },
+    {
+        "id": 92,
+        "word_english": "Driveway",
+        "word_turkish": "Araba Yolu"
+    },
+    {
+        "id": 93,
+        "word_english": "Mailbox",
+        "word_turkish": "Posta Kutusu"
+    },
+    {
+        "id": 94,
+        "word_english": "Outdoor light",
+        "word_turkish": "Dış Mekan Aydınlatması"
+    },
+    {
+        "id": 95,
+        "word_english": "Staircase",
+        "word_turkish": "Merdiven"
+    },
+    {
+        "id": 96,
+        "word_english": "Hall",
+        "word_turkish": "Hol"
+    },
+    {
+        "id": 97,
+        "word_english": "Foyer",
+        "word_turkish": "Antre"
+    },
+    {
+        "id": 98,
+        "word_english": "Loft bed",
+        "word_turkish": "Loft Yatak"
+    },
+    {
+        "id": 99,
+        "word_english": "Beanbag",
+        "word_turkish": "Fıstık Yastığı"
+    },
+    {
+        "id": 100,
+        "word_english": "Curtain",
+        "word_turkish": "Perde"
+    },
+    {
+        "id": 101,
+        "word_english": "Rug",
+        "word_turkish": "Halı"
+    },
+    {
+        "id": 102,
+        "word_english": "Carpet",
+        "word_turkish": "Halı"
+    },
+    {
+        "id": 103,
+        "word_english": "Cushion",
+        "word_turkish": "Yastık"
+    },
+    {
+        "id": 104,
+        "word_english": "Blanket",
+        "word_turkish": "Battaniye"
+    },
+    {
+        "id": 105,
+        "word_english": "Towel",
+        "word_turkish": "Havlu"
+    },
+    {
+        "id": 106,
+        "word_english": "Shower",
+        "word_turkish": "Duş"
+    },
+    {
+        "id": 107,
+        "word_english": "Bathtub",
+        "word_turkish": "Banyo Küveti"
+    },
+    {
+        "id": 108,
+        "word_english": "Sink",
+        "word_turkish": "Lavabo"
+    },
+    {
+        "id": 109,
+        "word_english": "Toilet",
+        "word_turkish": "Tuvalet"
+    },
+    {
+        "id": 110,
+        "word_english": "Mirror",
+        "word_turkish": "Ayna"
+    },
+    {
+        "id": 111,
+        "word_english": "Shelf",
+        "word_turkish": "Raf"
+    },
+    {
+        "id": 112,
+        "word_english": "Desk",
+        "word_turkish": "Çalışma Masası"
+    },
+    {
+        "id": 113,
+        "word_english": "Chair",
+        "word_turkish": "Sandalye"
+    },
+    {
+        "id": 114,
+        "word_english": "Table",
+        "word_turkish": "Masa"
+    },
+    {
+        "id": 115,
+        "word_english": "Chandelier",
+        "word_turkish": "Avize"
+    },
+    {
+        "id": 116,
+        "word_english": "Pendant light",
+        "word_turkish": "Asma Lamba"
+    },
+    {
+        "id": 117,
+        "word_english": "Lamp",
+        "word_turkish": "Lamba"
+    },
+    {
+        "id": 118,
+        "word_english": "Fan",
+        "word_turkish": "Fan"
+    },
+    {
+        "id": 119,
+        "word_english": "Air conditioner",
+        "word_turkish": "Klima"
+    },
+    {
+        "id": 120,
+        "word_english": "Heater",
+        "word_turkish": "Isıtıcı"
+    },
+    {
+        "id": 121,
+        "word_english": "Radiator",
+        "word_turkish": "Radyatör"
+    },
+    {
+        "id": 122,
+        "word_english": "Curtain rod",
+        "word_turkish": "Perde Askısı"
+    },
+    {
+        "id": 123,
+        "word_english": "Blinds",
+        "word_turkish": "Jaluzi"
+    },
+    {
+        "id": 124,
+        "word_english": "Curtain tieback",
+        "word_turkish": "Perde Askısı"
+    },
+    {
+        "id": 125,
+        "word_english": "Dishwasher",
+        "word_turkish": "Bulaşık Makinesi"
+    },
+    {
+        "id": 126,
+        "word_english": "Refrigerator",
+        "word_turkish": "Buzdolabı"
+    },
+    {
+        "id": 127,
+        "word_english": "Freezer",
+        "word_turkish": "Dondurucu"
+    },
+    {
+        "id": 128,
+        "word_english": "Washing machine",
+        "word_turkish": "Çamaşır Makinesi"
+    },
+    {
+        "id": 129,
+        "word_english": "Tumble dryer",
+        "word_turkish": "Kurutma Makinesi"
+    },
+    {
+        "id": 130,
+        "word_english": "Iron",
+        "word_turkish": "Ütü"
+    },
+    {
+        "id": 131,
+        "word_english": "Vacuum cleaner",
+        "word_turkish": "Elektrikli Süpürge"
+    },
+    {
+        "id": 132,
+        "word_english": "Broom",
+        "word_turkish": "Süpürge"
+    },
+    {
+        "id": 133,
+        "word_english": "Mop",
+        "word_turkish": "Paspas"
+    },
+    {
+        "id": 134,
+        "word_english": "Cleaning supplies",
+        "word_turkish": "Temizlik Malzemeleri"
+    },
+    {
+        "id": 135,
+        "word_english": "Trash can",
+        "word_turkish": "Çöp Kutusu"
+    },
+    {
+        "id": 136,
+        "word_english": "Recycling bin",
+        "word_turkish": "Geri Dönüşüm Kutusu"
+    }
+]

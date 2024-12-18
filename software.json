@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word_english": "Software",
+        "word_turkish": "Yazılım"
+    },
+    {
+        "id": 2,
+        "word_english": "Hardware",
+        "word_turkish": "Donanım"
+    },
+    {
+        "id": 3,
+        "word_english": "Application",
+        "word_turkish": "Uygulama"
+    },
+    {
+        "id": 4,
+        "word_english": "Operating System",
+        "word_turkish": "İşletim Sistemi"
+    },
+    {
+        "id": 5,
+        "word_english": "Algorithm",
+        "word_turkish": "Algoritma"
+    },
+    {
+        "id": 6,
+        "word_english": "Function",
+        "word_turkish": "Fonksiyon"
+    },
+    {
+        "id": 7,
+        "word_english": "Variable",
+        "word_turkish": "Değişken"
+    },
+    {
+        "id": 8,
+        "word_english": "Code",
+        "word_turkish": "Kod"
+    },
+    {
+        "id": 9,
+        "word_english": "Syntax",
+        "word_turkish": "Sözdizimi"
+    },
+    {
+        "id": 10,
+        "word_english": "Compiler",
+        "word_turkish": "Derleyici"
+    },
+    {
+        "id": 11,
+        "word_english": "Interpreter",
+        "word_turkish": "Yorumlayıcı"
+    },
+    {
+        "id": 12,
+        "word_english": "Bug",
+        "word_turkish": "Hata"
+    },
+    {
+        "id": 13,
+        "word_english": "Debugging",
+        "word_turkish": "Hata Ayıklama"
+    },
+    {
+        "id": 14,
+        "word_english": "Library",
+        "word_turkish": "Kütüphane"
+    },
+    {
+        "id": 15,
+        "word_english": "Framework",
+        "word_turkish": "Çerçeve"
+    },
+    {
+        "id": 16,
+        "word_english": "Database",
+        "word_turkish": "Veritabanı"
+    },
+    {
+        "id": 17,
+        "word_english": "Backend",
+        "word_turkish": "Arka Uç"
+    },
+    {
+        "id": 18,
+        "word_english": "Frontend",
+        "word_turkish": "Ön Uç"
+    },
+    {
+        "id": 19,
+        "word_english": "Full Stack",
+        "word_turkish": "Tam Yığın"
+    },
+    {
+        "id": 20,
+        "word_english": "Repository",
+        "word_turkish": "Depo"
+    },
+    {
+        "id": 21,
+        "word_english": "Version Control",
+        "word_turkish": "Sürüm Kontrolü"
+    },
+    {
+        "id": 22,
+        "word_english": "Source Code",
+        "word_turkish": "Kaynak Kod"
+    },
+    {
+        "id": 23,
+        "word_english": "API",
+        "word_turkish": "API"
+    },
+    {
+        "id": 24,
+        "word_english": "User Interface",
+        "word_turkish": "Kullanıcı Arayüzü"
+    },
+    {
+        "id": 25,
+        "word_english": "UX",
+        "word_turkish": "Kullanıcı Deneyimi"
+    },
+    {
+        "id": 26,
+        "word_english": "Functionality",
+        "word_turkish": "İşlevsellik"
+    },
+    {
+        "id": 27,
+        "word_english": "Module",
+        "word_turkish": "Modül"
+    },
+    {
+        "id": 28,
+        "word_english": "Package",
+        "word_turkish": "Paket"
+    },
+    {
+        "id": 29,
+        "word_english": "Encryption",
+        "word_turkish": "Şifreleme"
+    },
+    {
+        "id": 30,
+        "word_english": "Decryption",
+        "word_turkish": "Şifre Çözme"
+    },
+    {
+        "id": 31,
+        "word_english": "Authentication",
+        "word_turkish": "Kimlik Doğrulama"
+    },
+    {
+        "id": 32,
+        "word_english": "Authorization",
+        "word_turkish": "Yetkilendirme"
+    },
+    {
+        "id": 33,
+        "word_english": "Deployment",
+        "word_turkish": "Dağıtım"
+    },
+    {
+        "id": 34,
+        "word_english": "Server",
+        "word_turkish": "Sunucu"
+    },
+    {
+        "id": 35,
+        "word_english": "Client",
+        "word_turkish": "İstemci"
+    },
+    {
+        "id": 36,
+        "word_english": "Script",
+        "word_turkish": "Betik"
+    },
+    {
+        "id": 37,
+        "word_english": "Integration",
+        "word_turkish": "Entegrasyon"
+    },
+    {
+        "id": 38,
+        "word_english": "Unit Testing",
+        "word_turkish": "Birim Testi"
+    },
+    {
+        "id": 39,
+        "word_english": "Load Testing",
+        "word_turkish": "Yük Testi"
+    },
+    {
+        "id": 40,
+        "word_english": "Patch",
+        "word_turkish": "Yama"
+    },
+    {
+        "id": 41,
+        "word_english": "Release",
+        "word_turkish": "Sürüm"
+    },
+    {
+        "id": 42,
+        "word_english": "Rollback",
+        "word_turkish": "Geri Alma"
+    },
+    {
+        "id": 43,
+        "word_english": "Environment",
+        "word_turkish": "Ortam"
+    },
+    {
+        "id": 44,
+        "word_english": "Cloud Computing",
+        "word_turkish": "Bulut Bilişim"
+    },
+    {
+        "id": 45,
+        "word_english": "Machine Learning",
+        "word_turkish": "Makine Öğrenimi"
+    },
+    {
+        "id": 46,
+        "word_english": "Artificial Intelligence",
+        "word_turkish": "Yapay Zeka"
+    },
+    {
+        "id": 47,
+        "word_english": "Data Structure",
+        "word_turkish": "Veri Yapısı"
+    },
+    {
+        "id": 48,
+        "word_english": "Algorithm Complexity",
+        "word_turkish": "Algoritma Karmaşıklığı"
+    },
+    {
+        "id": 49,
+        "word_english": "Cache",
+        "word_turkish": "Önbellek"
+    },
+    {
+        "id": 50,
+        "word_english": "Performance",
+        "word_turkish": "Performans"
+    },
+    {
+        "id": 51,
+        "word_english": "Latency",
+        "word_turkish": "Gecikme"
+    },
+    {
+        "id": 52,
+        "word_english": "Bandwidth",
+        "word_turkish": "Bant Genişliği"
+    },
+    {
+        "id": 53,
+        "word_english": "User Story",
+        "word_turkish": "Kullanıcı Hikayesi"
+    },
+    {
+        "id": 54,
+        "word_english": "Agile",
+        "word_turkish": "Çevik"
+    },
+    {
+        "id": 55,
+        "word_english": "Scrum",
+        "word_turkish": "Scrum"
+    },
+    {
+        "id": 56,
+        "word_english": "Sprint",
+        "word_turkish": "Sprint"
+    },
+    {
+        "id": 57,
+        "word_english": "DevOps",
+        "word_turkish": "DevOps"
+    },
+    {
+        "id": 58,
+        "word_english": "Container",
+        "word_turkish": "Kapsayıcı"
+    },
+    {
+        "id": 59,
+        "word_english": "Virtual Machine",
+        "word_turkish": "Sanal Makine"
+    },
+    {
+        "id": 60,
+        "word_english": "Protocol",
+        "word_turkish": "Protokol"
+    },
+    {
+        "id": 61,
+        "word_english": "Binary",
+        "word_turkish": "İkili"
+    },
+    {
+        "id": 62,
+        "word_english": "Hexadecimal",
+        "word_turkish": "Onaltılık"
+    },
+    {
+        "id": 63,
+        "word_english": "Compiler Error",
+        "word_turkish": "Derleyici Hatası"
+    },
+    {
+        "id": 64,
+        "word_english": "Runtime Error",
+        "word_turkish": "Çalışma Zamanı Hatası"
+    },
+    {
+        "id": 65,
+        "word_english": "Logic Error",
+        "word_turkish": "Mantık Hatası"
+    },
+    {
+        "id": 66,
+        "word_english": "Dependency",
+        "word_turkish": "Bağımlılık"
+    },
+    {
+        "id": 67,
+        "word_english": "Build",
+        "word_turkish": "Derleme"
+    },
+    {
+        "id": 68,
+        "word_english": "Codebase",
+        "word_turkish": "Kod Tabanı"
+    },
+    {
+        "id": 69,
+        "word_english": "Git",
+        "word_turkish": "Git"
+    },
+    {
+        "id": 70,
+        "word_english": "Commit",
+        "word_turkish": "Gönderi"
+    },
+    {
+        "id": 71,
+        "word_english": "Branch",
+        "word_turkish": "Dal"
+    },
+    {
+        "id": 72,
+        "word_english": "Merge",
+        "word_turkish": "Birleştirme"
+    },
+    {
+        "id": 73,
+        "word_english": "Pull Request",
+        "word_turkish": "Çekme İsteği"
+    },
+    {
+        "id": 74,
+        "word_english": "Algorithm Optimization",
+        "word_turkish": "Algoritma Optimizasyonu"
+    },
+    {
+        "id": 75,
+        "word_english": "Refactoring",
+        "word_turkish": "Kod Düzenleme"
+    },
+    {
+        "id": 76,
+        "word_english": "Singleton",
+        "word_turkish": "Tek Nesne"
+    },
+    {
+        "id": 77,
+        "word_english": "MVC",
+        "word_turkish": "MVC"
+    },
+    {
+        "id": 78,
+        "word_english": "RESTful",
+        "word_turkish": "RESTful"
+    },
+    {
+        "id": 79,
+        "word_english": "Microservices",
+        "word_turkish": "Mikro Hizmetler"
+    },
+    {
+        "id": 80,
+        "word_english": "Containerization",
+        "word_turkish": "Kapsayıcılaştırma"
+    },
+    {
+        "id": 81,
+        "word_english": "Object-Oriented Programming",
+        "word_turkish": "Nesne Yönelimli Programlama"
+    },
+    {
+        "id": 82,
+        "word_english": "Inheritance",
+        "word_turkish": "Kalıtım"
+    },
+    {
+        "id": 83,
+        "word_english": "Polymorphism",
+        "word_turkish": "Çok Biçimlilik"
+    },
+    {
+        "id": 84,
+        "word_english": "Encapsulation",
+        "word_turkish": "Kapsülleme"
+    },
+    {
+        "id": 85,
+        "word_english": "Abstraction",
+        "word_turkish": "Soyutlama"
+    },
+    {
+        "id": 86,
+        "word_english": "Constructor",
+        "word_turkish": "Yapıcı Metot"
+    },
+    {
+        "id": 87,
+        "word_english": "Destructor",
+        "word_turkish": "Yıkıcı Metot"
+    },
+    {
+        "id": 88,
+        "word_english": "Instance",
+        "word_turkish": "Örnek"
+    },
+    {
+        "id": 89,
+        "word_english": "Class",
+        "word_turkish": "Sınıf"
+    },
+    {
+        "id": 90,
+        "word_english": "Method",
+        "word_turkish": "Metot"
+    },
+    {
+        "id": 91,
+        "word_english": "Attribute",
+        "word_turkish": "Özellik"
+    },
+    {
+        "id": 92,
+        "word_english": "Interface",
+        "word_turkish": "Arayüz"
+    },
+    {
+        "id": 93,
+        "word_english": "Abstract Class",
+        "word_turkish": "Soyut Sınıf"
+    },
+    {
+        "id": 94,
+        "word_english": "Exception",
+        "word_turkish": "İstisna"
+    },
+    {
+        "id": 95,
+        "word_english": "Exception Handling",
+        "word_turkish": "İstisna Yönetimi"
+    },
+    {
+        "id": 96,
+        "word_english": "Event",
+        "word_turkish": "Olay"
+    },
+    {
+        "id": 97,
+        "word_english": "Listener",
+        "word_turkish": "Dinleyici"
+    },
+    {
+        "id": 98,
+        "word_english": "Callback",
+        "word_turkish": "Geri Çağırma"
+    },
+    {
+        "id": 99,
+        "word_english": "Asynchronous",
+        "word_turkish": "Eşzamansız"
+    },
+    {
+        "id": 100,
+        "word_english": "Synchronous",
+        "word_turkish": "Eşzamanlı"
+    },
+    {
+        "id": 101,
+        "word_english": "Concurrency",
+        "word_turkish": "Eşzamanlılık"
+    },
+    {
+        "id": 102,
+        "word_english": "Parallelism",
+        "word_turkish": "Paralellik"
+    },
+    {
+        "id": 103,
+        "word_english": "Multithreading",
+        "word_turkish": "Çoklu İş Parçacığı"
+    },
+    {
+        "id": 104,
+        "word_english": "Deadlock",
+        "word_turkish": "Kilitleme"
+    },
+    {
+        "id": 105,
+        "word_english": "Race Condition",
+        "word_turkish": "Yarış Durumu"
+    },
+    {
+        "id": 106,
+        "word_english": "Atomic Operation",
+        "word_turkish": "Atomik İşlem"
+    },
+    {
+        "id": 107,
+        "word_english": "Garbage Collection",
+        "word_turkish": "Çöp Toplama"
+    },
+    {
+        "id": 108,
+        "word_english": "Memory Allocation",
+        "word_turkish": "Bellek Tahsisi"
+    },
+    {
+        "id": 109,
+        "word_english": "Heap",
+        "word_turkish": "Yığın Bellek"
+    },
+    {
+        "id": 110,
+        "word_english": "Stack",
+        "word_turkish": "Yığın"
+    },
+    {
+        "id": 111,
+        "word_english": "Pointer",
+        "word_turkish": "Gösterici"
+    },
+    {
+        "id": 112,
+        "word_english": "Reference",
+        "word_turkish": "Referans"
+    },
+    {
+        "id": 113,
+        "word_english": "Data Type",
+        "word_turkish": "Veri Tipi"
+    },
+    {
+        "id": 114,
+        "word_english": "Primitive Type",
+        "word_turkish": "İlkel Tip"
+    },
+    {
+        "id": 115,
+        "word_english": "Composite Type",
+        "word_turkish": "Bileşik Tip"
+    },
+    {
+        "id": 116,
+        "word_english": "Static",
+        "word_turkish": "Statik"
+    },
+    {
+        "id": 117,
+        "word_english": "Dynamic",
+        "word_turkish": "Dinamik"
+    },
+    {
+        "id": 118,
+        "word_english": "Immutable",
+        "word_turkish": "Değişmez"
+    },
+    {
+        "id": 119,
+        "word_english": "Mutable",
+        "word_turkish": "Değişebilir"
+    },
+    {
+        "id": 120,
+        "word_english": "Lambda",
+        "word_turkish": "Lambda"
+    },
+    {
+        "id": 121,
+        "word_english": "Closure",
+        "word_turkish": "Kapanış"
+    },
+    {
+        "id": 122,
+        "word_english": "Higher-Order Function",
+        "word_turkish": "Yüksek Derece Fonksiyonu"
+    },
+    {
+        "id": 123,
+        "word_english": "Data Binding",
+        "word_turkish": "Veri Bağlama"
+    },
+    {
+        "id": 124,
+        "word_english": "State",
+        "word_turkish": "Durum"
+    },
+    {
+        "id": 125,
+        "word_english": "Stateless",
+        "word_turkish": "Durumsuz"
+    },
+    {
+        "id": 126,
+        "word_english": "Singleton Pattern",
+        "word_turkish": "Tek Nesne Deseni"
+    },
+    {
+        "id": 127,
+        "word_english": "Observer Pattern",
+        "word_turkish": "Gözlemci Deseni"
+    },
+    {
+        "id": 128,
+        "word_english": "Factory Pattern",
+        "word_turkish": "Fabrika Deseni"
+    },
+    {
+        "id": 129,
+        "word_english": "Facade Pattern",
+        "word_turkish": "Cephe Deseni"
+    },
+    {
+        "id": 130,
+        "word_english": "Proxy Pattern",
+        "word_turkish": "Vekil Deseni"
+    },
+    {
+        "id": 131,
+        "word_english": "Decorator Pattern",
+        "word_turkish": "Süsleyici Deseni"
+    },
+    {
+        "id": 132,
+        "word_english": "Adapter Pattern",
+        "word_turkish": "Adaptör Deseni"
+    },
+    {
+        "id": 133,
+        "word_english": "MVC Pattern",
+        "word_turkish": "MVC Deseni"
+    },
+    {
+        "id": 134,
+        "word_english": "MVVM Pattern",
+        "word_turkish": "MVVM Deseni"
+    },
+    {
+        "id": 135,
+        "word_english": "Command Pattern",
+        "word_turkish": "Komut Deseni"
+    },
+    {
+        "id": 136,
+        "word_english": "Template Pattern",
+        "word_turkish": "Şablon Deseni"
+    },
+    {
+        "id": 137,
+        "word_english": "Iterator",
+        "word_turkish": "Yineleyici"
+    },
+    {
+        "id": 138,
+        "word_english": "Decorator",
+        "word_turkish": "Süsleyici"
+    },
+    {
+        "id": 139,
+        "word_english": "Prototype",
+        "word_turkish": "Prototip"
+    },
+    {
+        "id": 140,
+        "word_english": "Aggregate",
+        "word_turkish": "Toplu İşlem"
+    },
+    {
+        "id": 141,
+        "word_english": "Data Pipeline",
+        "word_turkish": "Veri Akışı"
+    },
+    {
+        "id": 142,
+        "word_english": "Big Data",
+        "word_turkish": "Büyük Veri"
+    },
+    {
+        "id": 143,
+        "word_english": "Data Lake",
+        "word_turkish": "Veri Gölü"
+    },
+    {
+        "id": 144,
+        "word_english": "Data Warehouse",
+        "word_turkish": "Veri Ambarı"
+    },
+    {
+        "id": 145,
+        "word_english": "ETL",
+        "word_turkish": "ETL"
+    },
+    {
+        "id": 146,
+        "word_english": "Normalization",
+        "word_turkish": "Normalizasyon"
+    },
+    {
+        "id": 147,
+        "word_english": "Denormalization",
+        "word_turkish": "Denormalizasyon"
+    },
+    {
+        "id": 148,
+        "word_english": "Relational Database",
+        "word_turkish": "İlişkisel Veritabanı"
+    },
+    {
+        "id": 149,
+        "word_english": "Non-Relational Database",
+        "word_turkish": "İlişkisel Olmayan Veritabanı"
+    },
+    {
+        "id": 150,
+        "word_english": "Schema",
+        "word_turkish": "Şema"
+    },
+    {
+        "id": 151,
+        "word_english": "Primary Key",
+        "word_turkish": "Birincil Anahtar"
+    },
+    {
+        "id": 152,
+        "word_english": "Foreign Key",
+        "word_turkish": "Yabancı Anahtar"
+    },
+    {
+        "id": 153,
+        "word_english": "Index",
+        "word_turkish": "Dizin"
+    },
+    {
+        "id": 154,
+        "word_english": "Transaction",
+        "word_turkish": "İşlem"
+    },
+    {
+        "id": 155,
+        "word_english": "ACID",
+        "word_turkish": "ACID"
+    },
+    {
+        "id": 156,
+        "word_english": "Rollback",
+        "word_turkish": "Geri Alma"
+    },
+    {
+        "id": 157,
+        "word_english": "Commit",
+        "word_turkish": "Onaylama"
+    },
+    {
+        "id": 158,
+        "word_english": "Cluster",
+        "word_turkish": "Küme"
+    },
+    {
+        "id": 159,
+        "word_english": "Sharding",
+        "word_turkish": "Parçalama"
+    },
+    {
+        "id": 160,
+        "word_english": "Replication",
+        "word_turkish": "Çoğaltma"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "word_english": "Psychology",
+        "word_turkish": "Psikoloji"
+    },
+    {
+        "id": 2,
+        "word_english": "Mind",
+        "word_turkish": "Zihin"
+    },
+    {
+        "id": 3,
+        "word_english": "Behavior",
+        "word_turkish": "Davranış"
+    },
+    {
+        "id": 4,
+        "word_english": "Emotion",
+        "word_turkish": "Duygu"
+    },
+    {
+        "id": 5,
+        "word_english": "Cognition",
+        "word_turkish": "Biliş"
+    },
+    {
+        "id": 6,
+        "word_english": "Personality",
+        "word_turkish": "Kişilik"
+    },
+    {
+        "id": 7,
+        "word_english": "Perception",
+        "word_turkish": "Algı"
+    },
+    {
+        "id": 8,
+        "word_english": "Memory",
+        "word_turkish": "Hafıza"
+    },
+    {
+        "id": 9,
+        "word_english": "Consciousness",
+        "word_turkish": "Bilinç"
+    },
+    {
+        "id": 10,
+        "word_english": "Subconscious",
+        "word_turkish": "Bilinçaltı"
+    },
+    {
+        "id": 11,
+        "word_english": "Intelligence",
+        "word_turkish": "Zeka"
+    },
+    {
+        "id": 12,
+        "word_english": "Motivation",
+        "word_turkish": "Motivasyon"
+    },
+    {
+        "id": 13,
+        "word_english": "Stress",
+        "word_turkish": "Stres"
+    },
+    {
+        "id": 14,
+        "word_english": "Anxiety",
+        "word_turkish": "Kaygı"
+    },
+    {
+        "id": 15,
+        "word_english": "Depression",
+        "word_turkish": "Depresyon"
+    },
+    {
+        "id": 16,
+        "word_english": "Mood",
+        "word_turkish": "Ruh hali"
+    },
+    {
+        "id": 17,
+        "word_english": "Trauma",
+        "word_turkish": "Travma"
+    },
+    {
+        "id": 18,
+        "word_english": "Therapy",
+        "word_turkish": "Terapi"
+    },
+    {
+        "id": 19,
+        "word_english": "Psychiatry",
+        "word_turkish": "Psikiyatri"
+    },
+    {
+        "id": 20,
+        "word_english": "Counseling",
+        "word_turkish": "Danışmanlık"
+    },
+    {
+        "id": 21,
+        "word_english": "Self-esteem",
+        "word_turkish": "Özsaygı"
+    },
+    {
+        "id": 22,
+        "word_english": "Self-awareness",
+        "word_turkish": "Öz farkındalık"
+    },
+    {
+        "id": 23,
+        "word_english": "Addiction",
+        "word_turkish": "Bağımlılık"
+    },
+    {
+        "id": 24,
+        "word_english": "Phobia",
+        "word_turkish": "Fobi"
+    },
+    {
+        "id": 25,
+        "word_english": "Attachment",
+        "word_turkish": "Bağlanma"
+    },
+    {
+        "id": 26,
+        "word_english": "Substance abuse",
+        "word_turkish": "Madde bağımlılığı"
+    },
+    {
+        "id": 27,
+        "word_english": "Defense mechanism",
+        "word_turkish": "Savunma mekanizması"
+    },
+    {
+        "id": 28,
+        "word_english": "Cognitive dissonance",
+        "word_turkish": "Bilişsel uyumsuzluk"
+    },
+    {
+        "id": 29,
+        "word_english": "Unconscious",
+        "word_turkish": "Bilinçdışı"
+    },
+    {
+        "id": 30,
+        "word_english": "Insight",
+        "word_turkish": "İçgörü"
+    },
+    {
+        "id": 31,
+        "word_english": "Affect",
+        "word_turkish": "Duygu durumu"
+    },
+    {
+        "id": 32,
+        "word_english": "Conditioning",
+        "word_turkish": "Koşullandırma"
+    },
+    {
+        "id": 33,
+        "word_english": "Neurosis",
+        "word_turkish": "Nevroz"
+    },
+    {
+        "id": 34,
+        "word_english": "Psychosis",
+        "word_turkish": "Psikoz"
+    },
+    {
+        "id": 35,
+        "word_english": "Personality disorder",
+        "word_turkish": "Kişilik bozukluğu"
+    },
+    {
+        "id": 36,
+        "word_english": "Mental health",
+        "word_turkish": "Ruh sağlığı"
+    },
+    {
+        "id": 37,
+        "word_english": "Well-being",
+        "word_turkish": "İyi olma hali"
+    },
+    {
+        "id": 38,
+        "word_english": "Stress management",
+        "word_turkish": "Stres yönetimi"
+    },
+    {
+        "id": 39,
+        "word_english": "Intervention",
+        "word_turkish": "Müdahale"
+    },
+    {
+        "id": 40,
+        "word_english": "Mental illness",
+        "word_turkish": "Ruh hastalığı"
+    },
+    {
+        "id": 41,
+        "word_english": "Empathy",
+        "word_turkish": "Empati"
+    },
+    {
+        "id": 42,
+        "word_english": "Sympathy",
+        "word_turkish": "Sempati"
+    },
+    {
+        "id": 43,
+        "word_english": "Resilience",
+        "word_turkish": "Dayanıklılık"
+    },
+    {
+        "id": 44,
+        "word_english": "Behavioral therapy",
+        "word_turkish": "Davranış terapisi"
+    },
+    {
+        "id": 45,
+        "word_english": "Psychoanalysis",
+        "word_turkish": "Psikanaliz"
+    },
+    {
+        "id": 46,
+        "word_english": "Group therapy",
+        "word_turkish": "Grup terapisi"
+    },
+    {
+        "id": 47,
+        "word_english": "Mindfulness",
+        "word_turkish": "Farkındalık"
+    },
+    {
+        "id": 48,
+        "word_english": "Positive psychology",
+        "word_turkish": "Pozitif psikoloji"
+    },
+    {
+        "id": 49,
+        "word_english": "Social psychology",
+        "word_turkish": "Sosyal psikoloji"
+    },
+    {
+        "id": 50,
+        "word_english": "Developmental psychology",
+        "word_turkish": "Gelişim psikolojisi"
+    },
+    {
+        "id": 51,
+        "word_english": "Clinical psychology",
+        "word_turkish": "Klinik psikoloji"
+    },
+    {
+        "id": 52,
+        "word_english": "Neuropsychology",
+        "word_turkish": "Nöropsikoloji"
+    },
+    {
+        "id": 53,
+        "word_english": "Forensic psychology",
+        "word_turkish": "Adli psikoloji"
+    },
+    {
+        "id": 54,
+        "word_english": "Educational psychology",
+        "word_turkish": "Eğitim psikolojisi"
+    },
+    {
+        "id": 55,
+        "word_english": "Humanistic psychology",
+        "word_turkish": "Hümanist psikoloji"
+    },
+    {
+        "id": 56,
+        "word_english": "Behavioral science",
+        "word_turkish": "Davranış bilimi"
+    },
+    {
+        "id": 57,
+        "word_english": "Psychopathology",
+        "word_turkish": "Psikopatoloji"
+    },
+    {
+        "id": 58,
+        "word_english": "Mood disorder",
+        "word_turkish": "Duygu durum bozukluğu"
+    },
+    {
+        "id": 59,
+        "word_english": "Obsessive-compulsive",
+        "word_turkish": "Obsesif-kompulsif"
+    },
+    {
+        "id": 60,
+        "word_english": "Bipolar disorder",
+        "word_turkish": "Bipolar bozukluk"
+    },
+    {
+        "id": 61,
+        "word_english": "Schizophrenia",
+        "word_turkish": "Şizofreni"
+    },
+    {
+        "id": 62,
+        "word_english": "Attention deficit",
+        "word_turkish": "Dikkat eksikliği"
+    },
+    {
+        "id": 63,
+        "word_english": "Hyperactivity",
+        "word_turkish": "Hiperaktivite"
+    },
+    {
+        "id": 64,
+        "word_english": "Autism",
+        "word_turkish": "Otizm"
+    },
+    {
+        "id": 65,
+        "word_english": "Panic disorder",
+        "word_turkish": "Panik bozukluk"
+    },
+    {
+        "id": 66,
+        "word_english": "Coping mechanism",
+        "word_turkish": "Başa çıkma mekanizması"
+    },
+    {
+        "id": 67,
+        "word_english": "Social anxiety",
+        "word_turkish": "Sosyal kaygı"
+    },
+    {
+        "id": 68,
+        "word_english": "Attachment theory",
+        "word_turkish": "Bağlanma teorisi"
+    },
+    {
+        "id": 69,
+        "word_english": "Behavioral change",
+        "word_turkish": "Davranış değişikliği"
+    },
+    {
+        "id": 70,
+        "word_english": "Burnout",
+        "word_turkish": "Tükenmişlik"
+    },
+    {
+        "id": 71,
+        "word_english": "Mental resilience",
+        "word_turkish": "Zihinsel dayanıklılık"
+    },
+    {
+        "id": 72,
+        "word_english": "Self-actualization",
+        "word_turkish": "Kendini gerçekleştirme"
+    },
+    {
+        "id": 73,
+        "word_english": "Habit",
+        "word_turkish": "Alışkanlık"
+    },
+    {
+        "id": 74,
+        "word_english": "Impulse control",
+        "word_turkish": "Dürtü kontrolü"
+    },
+    {
+        "id": 75,
+        "word_english": "Psychosomatic",
+        "word_turkish": "Psikosomatik"
+    },
+    {
+        "id": 76,
+        "word_english": "Sleep disorder",
+        "word_turkish": "Uyku bozukluğu"
+    },
+    {
+        "id": 77,
+        "word_english": "Hallucination",
+        "word_turkish": "Halüsinasyon"
+    },
+    {
+        "id": 78,
+        "word_english": "Delusion",
+        "word_turkish": "Sanrı"
+    },
+    {
+        "id": 79,
+        "word_english": "Social cognition",
+        "word_turkish": "Sosyal biliş"
+    },
+    {
+        "id": 80,
+        "word_english": "Thought process",
+        "word_turkish": "Düşünce süreci"
+    }
+]

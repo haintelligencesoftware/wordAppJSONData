@@ -1,0 +1,2952 @@
+[
+    {
+        "id": 1,
+        "word_english": "able",
+        "word_turkish": "yetenekli"
+    },
+    {
+        "id": 2,
+        "word_english": "active",
+        "word_turkish": "aktif"
+    },
+    {
+        "id": 3,
+        "word_english": "adventurous",
+        "word_turkish": "macera dolu"
+    },
+    {
+        "id": 4,
+        "word_english": "aggressive",
+        "word_turkish": "saldırgan"
+    },
+    {
+        "id": 5,
+        "word_english": "agreeable",
+        "word_turkish": "uygun"
+    },
+    {
+        "id": 6,
+        "word_english": "alert",
+        "word_turkish": "uyanık"
+    },
+    {
+        "id": 7,
+        "word_english": "alive",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 8,
+        "word_english": "angry",
+        "word_turkish": "kızgın"
+    },
+    {
+        "id": 9,
+        "word_english": "anxious",
+        "word_turkish": "endişeli"
+    },
+    {
+        "id": 10,
+        "word_english": "anxious",
+        "word_turkish": "endişeli"
+    },
+    {
+        "id": 11,
+        "word_english": "arrogant",
+        "word_turkish": "kibirli"
+    },
+    {
+        "id": 12,
+        "word_english": "attractive",
+        "word_turkish": "çekici"
+    },
+    {
+        "id": 13,
+        "word_english": "average",
+        "word_turkish": "ortalama"
+    },
+    {
+        "id": 14,
+        "word_english": "awesome",
+        "word_turkish": "harika"
+    },
+    {
+        "id": 15,
+        "word_english": "bad",
+        "word_turkish": "kötü"
+    },
+    {
+        "id": 16,
+        "word_english": "beautiful",
+        "word_turkish": "güzel"
+    },
+    {
+        "id": 17,
+        "word_english": "big",
+        "word_turkish": "büyük"
+    },
+    {
+        "id": 18,
+        "word_english": "bitter",
+        "word_turkish": "acı"
+    },
+    {
+        "id": 19,
+        "word_english": "brave",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 20,
+        "word_english": "bright",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 21,
+        "word_english": "calm",
+        "word_turkish": "sakin"
+    },
+    {
+        "id": 22,
+        "word_english": "careful",
+        "word_turkish": "dikkatli"
+    },
+    {
+        "id": 23,
+        "word_english": "certain",
+        "word_turkish": "kesin"
+    },
+    {
+        "id": 24,
+        "word_english": "cheerful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 25,
+        "word_english": "clean",
+        "word_turkish": "temiz"
+    },
+    {
+        "id": 26,
+        "word_english": "clear",
+        "word_turkish": "açık"
+    },
+    {
+        "id": 27,
+        "word_english": "clever",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 28,
+        "word_english": "cold",
+        "word_turkish": "soğuk"
+    },
+    {
+        "id": 29,
+        "word_english": "common",
+        "word_turkish": "yaygın"
+    },
+    {
+        "id": 30,
+        "word_english": "complicated",
+        "word_turkish": "karmaşık"
+    },
+    {
+        "id": 31,
+        "word_english": "confident",
+        "word_turkish": "kendine güvenen"
+    },
+    {
+        "id": 32,
+        "word_english": "cool",
+        "word_turkish": "harika"
+    },
+    {
+        "id": 33,
+        "word_english": "crazy",
+        "word_turkish": "çılgın"
+    },
+    {
+        "id": 34,
+        "word_english": "curious",
+        "word_turkish": "meraklı"
+    },
+    {
+        "id": 35,
+        "word_english": "dangerous",
+        "word_turkish": "tehlikeli"
+    },
+    {
+        "id": 36,
+        "word_english": "dark",
+        "word_turkish": "karanlık"
+    },
+    {
+        "id": 37,
+        "word_english": "deep",
+        "word_turkish": "derin"
+    },
+    {
+        "id": 38,
+        "word_english": "difficult",
+        "word_turkish": "zor"
+    },
+    {
+        "id": 39,
+        "word_english": "dirty",
+        "word_turkish": "kirli"
+    },
+    {
+        "id": 40,
+        "word_english": "dry",
+        "word_turkish": "kuru"
+    },
+    {
+        "id": 41,
+        "word_english": "dull",
+        "word_turkish": "donuk"
+    },
+    {
+        "id": 42,
+        "word_english": "easy",
+        "word_turkish": "kolay"
+    },
+    {
+        "id": 43,
+        "word_english": "elegant",
+        "word_turkish": "zarif"
+    },
+    {
+        "id": 44,
+        "word_english": "empty",
+        "word_turkish": "boş"
+    },
+    {
+        "id": 45,
+        "word_english": "exciting",
+        "word_turkish": "heyecan verici"
+    },
+    {
+        "id": 46,
+        "word_english": "expensive",
+        "word_turkish": "pahalı"
+    },
+    {
+        "id": 47,
+        "word_english": "fair",
+        "word_turkish": "adil"
+    },
+    {
+        "id": 48,
+        "word_english": "famous",
+        "word_turkish": "ünlü"
+    },
+    {
+        "id": 49,
+        "word_english": "fat",
+        "word_turkish": "şişman"
+    },
+    {
+        "id": 50,
+        "word_english": "feminine",
+        "word_turkish": "dişi"
+    },
+    {
+        "id": 51,
+        "word_english": "friendly",
+        "word_turkish": "dostça"
+    },
+    {
+        "id": 52,
+        "word_english": "funny",
+        "word_turkish": "komik"
+    },
+    {
+        "id": 53,
+        "word_english": "gentle",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 54,
+        "word_english": "good",
+        "word_turkish": "iyi"
+    },
+    {
+        "id": 55,
+        "word_english": "great",
+        "word_turkish": "büyük"
+    },
+    {
+        "id": 56,
+        "word_english": "happy",
+        "word_turkish": "mutlu"
+    },
+    {
+        "id": 57,
+        "word_english": "hard",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 58,
+        "word_english": "healthy",
+        "word_turkish": "sağlıklı"
+    },
+    {
+        "id": 59,
+        "word_english": "heavy",
+        "word_turkish": "ağır"
+    },
+    {
+        "id": 60,
+        "word_english": "high",
+        "word_turkish": "yüksek"
+    },
+    {
+        "id": 61,
+        "word_english": "honest",
+        "word_turkish": "dürüst"
+    },
+    {
+        "id": 62,
+        "word_english": "hot",
+        "word_turkish": "sıcak"
+    },
+    {
+        "id": 63,
+        "word_english": "huge",
+        "word_turkish": "kocaman"
+    },
+    {
+        "id": 64,
+        "word_english": "important",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 65,
+        "word_english": "intelligent",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 66,
+        "word_english": "interesting",
+        "word_turkish": "ilginç"
+    },
+    {
+        "id": 67,
+        "word_english": "kind",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 68,
+        "word_english": "large",
+        "word_turkish": "büyük"
+    },
+    {
+        "id": 69,
+        "word_english": "light",
+        "word_turkish": "hafif"
+    },
+    {
+        "id": 70,
+        "word_english": "little",
+        "word_turkish": "küçük"
+    },
+    {
+        "id": 71,
+        "word_english": "lonely",
+        "word_turkish": "yalnız"
+    },
+    {
+        "id": 72,
+        "word_english": "loud",
+        "word_turkish": "gürültülü"
+    },
+    {
+        "id": 73,
+        "word_english": "lovely",
+        "word_turkish": "sevimli"
+    },
+    {
+        "id": 74,
+        "word_english": "lucky",
+        "word_turkish": "şanslı"
+    },
+    {
+        "id": 75,
+        "word_english": "mean",
+        "word_turkish": "kaba"
+    },
+    {
+        "id": 76,
+        "word_english": "messy",
+        "word_turkish": "dağınık"
+    },
+    {
+        "id": 77,
+        "word_english": "modern",
+        "word_turkish": "modern"
+    },
+    {
+        "id": 78,
+        "word_english": "neat",
+        "word_turkish": "düzenli"
+    },
+    {
+        "id": 79,
+        "word_english": "new",
+        "word_turkish": "yeni"
+    },
+    {
+        "id": 80,
+        "word_english": "old",
+        "word_turkish": "eski"
+    },
+    {
+        "id": 81,
+        "word_english": "ordinary",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 82,
+        "word_english": "peaceful",
+        "word_turkish": "barışçıl"
+    },
+    {
+        "id": 83,
+        "word_english": "polite",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 84,
+        "word_english": "poor",
+        "word_turkish": "yoksul"
+    },
+    {
+        "id": 85,
+        "word_english": "powerful",
+        "word_turkish": "güçlü"
+    },
+    {
+        "id": 86,
+        "word_english": "pretty",
+        "word_turkish": "güzel"
+    },
+    {
+        "id": 87,
+        "word_english": "quiet",
+        "word_turkish": "sessiz"
+    },
+    {
+        "id": 88,
+        "word_english": "rare",
+        "word_turkish": "nadir"
+    },
+    {
+        "id": 89,
+        "word_english": "rich",
+        "word_turkish": "zengin"
+    },
+    {
+        "id": 90,
+        "word_english": "rude",
+        "word_turkish": "kaba"
+    },
+    {
+        "id": 91,
+        "word_english": "safe",
+        "word_turkish": "güvenli"
+    },
+    {
+        "id": 92,
+        "word_english": "sad",
+        "word_turkish": "üzgün"
+    },
+    {
+        "id": 93,
+        "word_english": "safe",
+        "word_turkish": "güvenli"
+    },
+    {
+        "id": 94,
+        "word_english": "silly",
+        "word_turkish": "saçma"
+    },
+    {
+        "id": 95,
+        "word_english": "simple",
+        "word_turkish": "basit"
+    },
+    {
+        "id": 96,
+        "word_english": "slow",
+        "word_turkish": "yavaş"
+    },
+    {
+        "id": 97,
+        "word_english": "smart",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 98,
+        "word_english": "smooth",
+        "word_turkish": "pürüzsüz"
+    },
+    {
+        "id": 99,
+        "word_english": "soft",
+        "word_turkish": "yumuşak"
+    },
+    {
+        "id": 100,
+        "word_english": "sore",
+        "word_turkish": "acıyan"
+    },
+    {
+        "id": 101,
+        "word_english": "spicy",
+        "word_turkish": "baharatlı"
+    },
+    {
+        "id": 102,
+        "word_english": "strong",
+        "word_turkish": "güçlü"
+    },
+    {
+        "id": 103,
+        "word_english": "stupid",
+        "word_turkish": "aptal"
+    },
+    {
+        "id": 104,
+        "word_english": "sweet",
+        "word_turkish": "tatlı"
+    },
+    {
+        "id": 105,
+        "word_english": "tall",
+        "word_turkish": "uzun"
+    },
+    {
+        "id": 106,
+        "word_english": "thin",
+        "word_turkish": "ince"
+    },
+    {
+        "id": 107,
+        "word_english": "tight",
+        "word_turkish": "sıkı"
+    },
+    {
+        "id": 108,
+        "word_english": "tough",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 109,
+        "word_english": "traditional",
+        "word_turkish": "geleneksel"
+    },
+    {
+        "id": 110,
+        "word_english": "ugly",
+        "word_turkish": "çirkin"
+    },
+    {
+        "id": 111,
+        "word_english": "unique",
+        "word_turkish": "eşsiz"
+    },
+    {
+        "id": 112,
+        "word_english": "warm",
+        "word_turkish": "sıcak"
+    },
+    {
+        "id": 113,
+        "word_english": "weak",
+        "word_turkish": "zayıf"
+    },
+    {
+        "id": 114,
+        "word_english": "weird",
+        "word_turkish": "garip"
+    },
+    {
+        "id": 115,
+        "word_english": "wild",
+        "word_turkish": "vahşi"
+    },
+    {
+        "id": 116,
+        "word_english": "wonderful",
+        "word_turkish": "harika"
+    },
+    {
+        "id": 117,
+        "word_english": "young",
+        "word_turkish": "genç"
+    },
+    {
+        "id": 118,
+        "word_english": "abundant",
+        "word_turkish": "bol"
+    },
+    {
+        "id": 119,
+        "word_english": "adequate",
+        "word_turkish": "yeterli"
+    },
+    {
+        "id": 120,
+        "word_english": "advanced",
+        "word_turkish": "gelişmiş"
+    },
+    {
+        "id": 121,
+        "word_english": "ambitious",
+        "word_turkish": "hırslı"
+    },
+    {
+        "id": 122,
+        "word_english": "ancient",
+        "word_turkish": "eski"
+    },
+    {
+        "id": 123,
+        "word_english": "artistic",
+        "word_turkish": "sanatsal"
+    },
+    {
+        "id": 124,
+        "word_english": "assertive",
+        "word_turkish": "kendine güvenen"
+    },
+    {
+        "id": 125,
+        "word_english": "attractive",
+        "word_turkish": "çekici"
+    },
+    {
+        "id": 126,
+        "word_english": "bold",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 127,
+        "word_english": "bouncy",
+        "word_turkish": "zıplayan"
+    },
+    {
+        "id": 128,
+        "word_english": "calculated",
+        "word_turkish": "hesaplı"
+    },
+    {
+        "id": 129,
+        "word_english": "chilly",
+        "word_turkish": "serin"
+    },
+    {
+        "id": 130,
+        "word_english": "colorful",
+        "word_turkish": "renkli"
+    },
+    {
+        "id": 131,
+        "word_english": "complex",
+        "word_turkish": "karmaşık"
+    },
+    {
+        "id": 132,
+        "word_english": "confusing",
+        "word_turkish": "kafa karıştırıcı"
+    },
+    {
+        "id": 133,
+        "word_english": "cozy",
+        "word_turkish": "rahat"
+    },
+    {
+        "id": 134,
+        "word_english": "courageous",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 135,
+        "word_english": "creepy",
+        "word_turkish": "ürkütücü"
+    },
+    {
+        "id": 136,
+        "word_english": "decisive",
+        "word_turkish": "kararlı"
+    },
+    {
+        "id": 137,
+        "word_english": "defensive",
+        "word_turkish": "savunucu"
+    },
+    {
+        "id": 138,
+        "word_english": "delicate",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 139,
+        "word_english": "discreet",
+        "word_turkish": "gizli"
+    },
+    {
+        "id": 140,
+        "word_english": "eerie",
+        "word_turkish": "ürkütücü"
+    },
+    {
+        "id": 141,
+        "word_english": "exhausted",
+        "word_turkish": "yorgun"
+    },
+    {
+        "id": 142,
+        "word_english": "fairy",
+        "word_turkish": "peri"
+    },
+    {
+        "id": 143,
+        "word_english": "fancy",
+        "word_turkish": "şatafatlı"
+    },
+    {
+        "id": 144,
+        "word_english": "fearless",
+        "word_turkish": "korkusuz"
+    },
+    {
+        "id": 145,
+        "word_english": "fiery",
+        "word_turkish": "ateşli"
+    },
+    {
+        "id": 146,
+        "word_english": "fragile",
+        "word_turkish": "kırılgan"
+    },
+    {
+        "id": 147,
+        "word_english": "genuine",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 148,
+        "word_english": "grateful",
+        "word_turkish": "minnettar"
+    },
+    {
+        "id": 149,
+        "word_english": "gritty",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 150,
+        "word_english": "hardworking",
+        "word_turkish": "çalışkan"
+    },
+    {
+        "id": 151,
+        "word_english": "haunting",
+        "word_turkish": "hatırlatan"
+    },
+    {
+        "id": 152,
+        "word_english": "hectic",
+        "word_turkish": "koşuşturmalı"
+    },
+    {
+        "id": 153,
+        "word_english": "heroic",
+        "word_turkish": "kahramanca"
+    },
+    {
+        "id": 154,
+        "word_english": "honorable",
+        "word_turkish": "onurlu"
+    },
+    {
+        "id": 155,
+        "word_english": "imaginative",
+        "word_turkish": "hayal gücü geniş"
+    },
+    {
+        "id": 156,
+        "word_english": "intimate",
+        "word_turkish": "samimi"
+    },
+    {
+        "id": 157,
+        "word_english": "inviting",
+        "word_turkish": "çekici"
+    },
+    {
+        "id": 158,
+        "word_english": "joyful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 159,
+        "word_english": "judgmental",
+        "word_turkish": "yargılayıcı"
+    },
+    {
+        "id": 160,
+        "word_english": "legendary",
+        "word_turkish": "efsanevi"
+    },
+    {
+        "id": 161,
+        "word_english": "lifelike",
+        "word_turkish": "gerçek gibi"
+    },
+    {
+        "id": 162,
+        "word_english": "loyal",
+        "word_turkish": "sadık"
+    },
+    {
+        "id": 163,
+        "word_english": "magical",
+        "word_turkish": "büyülü"
+    },
+    {
+        "id": 164,
+        "word_english": "melancholic",
+        "word_turkish": "melankolik"
+    },
+    {
+        "id": 165,
+        "word_english": "mysterious",
+        "word_turkish": "gizemli"
+    },
+    {
+        "id": 166,
+        "word_english": "optimistic",
+        "word_turkish": "iyimser"
+    },
+    {
+        "id": 167,
+        "word_english": "outrageous",
+        "word_turkish": "aşırı"
+    },
+    {
+        "id": 168,
+        "word_english": "passive",
+        "word_turkish": "pasif"
+    },
+    {
+        "id": 169,
+        "word_english": "persuasive",
+        "word_turkish": "ikna edici"
+    },
+    {
+        "id": 170,
+        "word_english": "philosophical",
+        "word_turkish": "felsefi"
+    },
+    {
+        "id": 171,
+        "word_english": "playful",
+        "word_turkish": "şakacı"
+    },
+    {
+        "id": 172,
+        "word_english": "polished",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 173,
+        "word_english": "populous",
+        "word_turkish": "kalabalık"
+    },
+    {
+        "id": 174,
+        "word_english": "potential",
+        "word_turkish": "potansiyel"
+    },
+    {
+        "id": 175,
+        "word_english": "precarious",
+        "word_turkish": "riskli"
+    },
+    {
+        "id": 176,
+        "word_english": "profound",
+        "word_turkish": "derin"
+    },
+    {
+        "id": 177,
+        "word_english": "punctual",
+        "word_turkish": "dakik"
+    },
+    {
+        "id": 178,
+        "word_english": "quirky",
+        "word_turkish": "alışılmadık"
+    },
+    {
+        "id": 179,
+        "word_english": "radiant",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 180,
+        "word_english": "reliable",
+        "word_turkish": "güvenilir"
+    },
+    {
+        "id": 181,
+        "word_english": "remarkable",
+        "word_turkish": "olağanüstü"
+    },
+    {
+        "id": 182,
+        "word_english": "resilient",
+        "word_turkish": "dayanıklı"
+    },
+    {
+        "id": 183,
+        "word_english": "risky",
+        "word_turkish": "riskli"
+    },
+    {
+        "id": 184,
+        "word_english": "romantic",
+        "word_turkish": "romantik"
+    },
+    {
+        "id": 185,
+        "word_english": "sensible",
+        "word_turkish": "mantıklı"
+    },
+    {
+        "id": 186,
+        "word_english": "sentimental",
+        "word_turkish": "duygusal"
+    },
+    {
+        "id": 187,
+        "word_english": "serene",
+        "word_turkish": "huzurlu"
+    },
+    {
+        "id": 188,
+        "word_english": "sophisticated",
+        "word_turkish": "sofistike"
+    },
+    {
+        "id": 189,
+        "word_english": "spontaneous",
+        "word_turkish": "ani"
+    },
+    {
+        "id": 190,
+        "word_english": "sustainable",
+        "word_turkish": "sürdürülebilir"
+    },
+    {
+        "id": 191,
+        "word_english": "tactical",
+        "word_turkish": "taktiksel"
+    },
+    {
+        "id": 192,
+        "word_english": "terrific",
+        "word_turkish": "harika"
+    },
+    {
+        "id": 193,
+        "word_english": "timeless",
+        "word_turkish": "zamansız"
+    },
+    {
+        "id": 194,
+        "word_english": "tireless",
+        "word_turkish": "yorulmaz"
+    },
+    {
+        "id": 195,
+        "word_english": "tolerant",
+        "word_turkish": "tahammüllü"
+    },
+    {
+        "id": 196,
+        "word_english": "transparent",
+        "word_turkish": "şeffaf"
+    },
+    {
+        "id": 197,
+        "word_english": "turbulent",
+        "word_turkish": "dalgalı"
+    },
+    {
+        "id": 198,
+        "word_english": "ultimate",
+        "word_turkish": "nihai"
+    },
+    {
+        "id": 199,
+        "word_english": "unpredictable",
+        "word_turkish": "öngörülemez"
+    },
+    {
+        "id": 200,
+        "word_english": "unusual",
+        "word_turkish": "olağandışı"
+    },
+    {
+        "id": 201,
+        "word_english": "valuable",
+        "word_turkish": "değerli"
+    },
+    {
+        "id": 202,
+        "word_english": "vibrant",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 203,
+        "word_english": "virtuous",
+        "word_turkish": "erdemli"
+    },
+    {
+        "id": 204,
+        "word_english": "vivid",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 205,
+        "word_english": "vulnerable",
+        "word_turkish": "savunmasız"
+    },
+    {
+        "id": 206,
+        "word_english": "wonderous",
+        "word_turkish": "olağanüstü"
+    },
+    {
+        "id": 207,
+        "word_english": "youthful",
+        "word_turkish": "genç görünüşlü"
+    },
+    {
+        "id": 208,
+        "word_english": "adaptable",
+        "word_turkish": "uyumlu"
+    },
+    {
+        "id": 209,
+        "word_english": "adverse",
+        "word_turkish": "olumsuz"
+    },
+    {
+        "id": 210,
+        "word_english": "apprehensive",
+        "word_turkish": "endişeli"
+    },
+    {
+        "id": 211,
+        "word_english": "artful",
+        "word_turkish": "kurnaz"
+    },
+    {
+        "id": 212,
+        "word_english": "athletic",
+        "word_turkish": "atletik"
+    },
+    {
+        "id": 213,
+        "word_english": "audacious",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 214,
+        "word_english": "autonomous",
+        "word_turkish": "özerk"
+    },
+    {
+        "id": 215,
+        "word_english": "beaming",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 216,
+        "word_english": "belligerent",
+        "word_turkish": "saldırgan"
+    },
+    {
+        "id": 217,
+        "word_english": "benevolent",
+        "word_turkish": "iyiliksever"
+    },
+    {
+        "id": 218,
+        "word_english": "blissful",
+        "word_turkish": "mutlu"
+    },
+    {
+        "id": 219,
+        "word_english": "boisterous",
+        "word_turkish": "gürültülü"
+    },
+    {
+        "id": 220,
+        "word_english": "captivating",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 221,
+        "word_english": "caring",
+        "word_turkish": "şefkatli"
+    },
+    {
+        "id": 222,
+        "word_english": "celebrated",
+        "word_turkish": "kutlanan"
+    },
+    {
+        "id": 223,
+        "word_english": "charismatic",
+        "word_turkish": "karizmatik"
+    },
+    {
+        "id": 224,
+        "word_english": "chronological",
+        "word_turkish": "kronolojik"
+    },
+    {
+        "id": 225,
+        "word_english": "clamorous",
+        "word_turkish": "gürültülü"
+    },
+    {
+        "id": 226,
+        "word_english": "congenial",
+        "word_turkish": "uygun"
+    },
+    {
+        "id": 227,
+        "word_english": "conscientious",
+        "word_turkish": "titiz"
+    },
+    {
+        "id": 228,
+        "word_english": "considerate",
+        "word_turkish": "düşünceli"
+    },
+    {
+        "id": 229,
+        "word_english": "consistent",
+        "word_turkish": "tutarlı"
+    },
+    {
+        "id": 230,
+        "word_english": "conventional",
+        "word_turkish": "geleneksel"
+    },
+    {
+        "id": 231,
+        "word_english": "courageous",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 232,
+        "word_english": "curt",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 233,
+        "word_english": "dainty",
+        "word_turkish": "zarif"
+    },
+    {
+        "id": 234,
+        "word_english": "deceptive",
+        "word_turkish": "aldatıcı"
+    },
+    {
+        "id": 235,
+        "word_english": "defiant",
+        "word_turkish": "karşıt"
+    },
+    {
+        "id": 236,
+        "word_english": "deliberate",
+        "word_turkish": "kasti"
+    },
+    {
+        "id": 237,
+        "word_english": "depressed",
+        "word_turkish": "depresyonda"
+    },
+    {
+        "id": 238,
+        "word_english": "derivative",
+        "word_turkish": "türev"
+    },
+    {
+        "id": 239,
+        "word_english": "desirable",
+        "word_turkish": "istekli"
+    },
+    {
+        "id": 240,
+        "word_english": "diligent",
+        "word_turkish": "çalışkan"
+    },
+    {
+        "id": 241,
+        "word_english": "disillusioned",
+        "word_turkish": "hayal kırıklığına uğramış"
+    },
+    {
+        "id": 242,
+        "word_english": "disrespectful",
+        "word_turkish": "saygısız"
+    },
+    {
+        "id": 243,
+        "word_english": "distorted",
+        "word_turkish": "bozuk"
+    },
+    {
+        "id": 244,
+        "word_english": "doomed",
+        "word_turkish": "lanetli"
+    },
+    {
+        "id": 245,
+        "word_english": "dubious",
+        "word_turkish": "şüpheli"
+    },
+    {
+        "id": 246,
+        "word_english": "egocentric",
+        "word_turkish": "bencil"
+    },
+    {
+        "id": 247,
+        "word_english": "elusive",
+        "word_turkish": "kaçamak"
+    },
+    {
+        "id": 248,
+        "word_english": "emotional",
+        "word_turkish": "duygusal"
+    },
+    {
+        "id": 249,
+        "word_english": "empathetic",
+        "word_turkish": "empatik"
+    },
+    {
+        "id": 250,
+        "word_english": "enigmatic",
+        "word_turkish": "gizemli"
+    },
+    {
+        "id": 251,
+        "word_english": "enthusiastic",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 252,
+        "word_english": "equitable",
+        "word_turkish": "eşit"
+    },
+    {
+        "id": 253,
+        "word_english": "exemplary",
+        "word_turkish": "örnek teşkil eden"
+    },
+    {
+        "id": 254,
+        "word_english": "exotic",
+        "word_turkish": "egzotik"
+    },
+    {
+        "id": 255,
+        "word_english": "faithful",
+        "word_turkish": "sadık"
+    },
+    {
+        "id": 256,
+        "word_english": "fickle",
+        "word_turkish": "kararsız"
+    },
+    {
+        "id": 257,
+        "word_english": "fitting",
+        "word_turkish": "uygun"
+    },
+    {
+        "id": 258,
+        "word_english": "frosty",
+        "word_turkish": "buzlu"
+    },
+    {
+        "id": 259,
+        "word_english": "frugal",
+        "word_turkish": "tutumlu"
+    },
+    {
+        "id": 260,
+        "word_english": "garrulous",
+        "word_turkish": "geveze"
+    },
+    {
+        "id": 261,
+        "word_english": "gleeful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 262,
+        "word_english": "grand",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 263,
+        "word_english": "gritty",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 264,
+        "word_english": "harmful",
+        "word_turkish": "zararlı"
+    },
+    {
+        "id": 265,
+        "word_english": "hesitant",
+        "word_turkish": "tereddütlü"
+    },
+    {
+        "id": 266,
+        "word_english": "hollow",
+        "word_turkish": "boş"
+    },
+    {
+        "id": 267,
+        "word_english": "hostile",
+        "word_turkish": "düşmanca"
+    },
+    {
+        "id": 268,
+        "word_english": "hypothetical",
+        "word_turkish": "varsayımsal"
+    },
+    {
+        "id": 269,
+        "word_english": "impulsive",
+        "word_turkish": "düşüncesiz"
+    },
+    {
+        "id": 270,
+        "word_english": "improbable",
+        "word_turkish": "olasılık dışı"
+    },
+    {
+        "id": 271,
+        "word_english": "incessant",
+        "word_turkish": "kesintisiz"
+    },
+    {
+        "id": 272,
+        "word_english": "inclusive",
+        "word_turkish": "dahil edici"
+    },
+    {
+        "id": 273,
+        "word_english": "indifferent",
+        "word_turkish": "kaygısız"
+    },
+    {
+        "id": 274,
+        "word_english": "inevitable",
+        "word_turkish": "kaçınılmaz"
+    },
+    {
+        "id": 275,
+        "word_english": "insightful",
+        "word_turkish": "açıklayıcı"
+    },
+    {
+        "id": 276,
+        "word_english": "intuitive",
+        "word_turkish": "sezgisel"
+    },
+    {
+        "id": 277,
+        "word_english": "jubilant",
+        "word_turkish": "coşkulu"
+    },
+    {
+        "id": 278,
+        "word_english": "keen",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 279,
+        "word_english": "languid",
+        "word_turkish": "bitkin"
+    },
+    {
+        "id": 280,
+        "word_english": "lavish",
+        "word_turkish": "savurgan"
+    },
+    {
+        "id": 281,
+        "word_english": "lethargic",
+        "word_turkish": "uyuşuk"
+    },
+    {
+        "id": 282,
+        "word_english": "loath",
+        "word_turkish": "isteksiz"
+    },
+    {
+        "id": 283,
+        "word_english": "luxurious",
+        "word_turkish": "lüks"
+    },
+    {
+        "id": 284,
+        "word_english": "maniacal",
+        "word_turkish": "deli"
+    },
+    {
+        "id": 285,
+        "word_english": "mellow",
+        "word_turkish": "yumuşak"
+    },
+    {
+        "id": 286,
+        "word_english": "meticulous",
+        "word_turkish": "titiz"
+    },
+    {
+        "id": 287,
+        "word_english": "mighty",
+        "word_turkish": "güçlü"
+    },
+    {
+        "id": 288,
+        "word_english": "miraculous",
+        "word_turkish": "mucizevi"
+    },
+    {
+        "id": 289,
+        "word_english": "morose",
+        "word_turkish": "kasvetli"
+    },
+    {
+        "id": 290,
+        "word_english": "naive",
+        "word_turkish": "saf"
+    },
+    {
+        "id": 291,
+        "word_english": "nebulous",
+        "word_turkish": "bulanık"
+    },
+    {
+        "id": 292,
+        "word_english": "noble",
+        "word_turkish": "soylu"
+    },
+    {
+        "id": 293,
+        "word_english": "obnoxious",
+        "word_turkish": "rahatsız edici"
+    },
+    {
+        "id": 294,
+        "word_english": "obsolete",
+        "word_turkish": "eski"
+    },
+    {
+        "id": 295,
+        "word_english": "optimistic",
+        "word_turkish": "iyimser"
+    },
+    {
+        "id": 296,
+        "word_english": "outlandish",
+        "word_turkish": "alışılmadık"
+    },
+    {
+        "id": 297,
+        "word_english": "overwhelming",
+        "word_turkish": "baskın"
+    },
+    {
+        "id": 298,
+        "word_english": "painstaking",
+        "word_turkish": "özenli"
+    },
+    {
+        "id": 299,
+        "word_english": "paradoxical",
+        "word_turkish": "çelişkili"
+    },
+    {
+        "id": 300,
+        "word_english": "passionate",
+        "word_turkish": "tutkulu"
+    },
+    {
+        "id": 301,
+        "word_english": "pedestrian",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 302,
+        "word_english": "perplexing",
+        "word_turkish": "karmaşık"
+    },
+    {
+        "id": 303,
+        "word_english": "philosophical",
+        "word_turkish": "felsefi"
+    },
+    {
+        "id": 304,
+        "word_english": "pleasurable",
+        "word_turkish": "hoş"
+    },
+    {
+        "id": 305,
+        "word_english": "plucky",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 306,
+        "word_english": "poignant",
+        "word_turkish": "dokunaklı"
+    },
+    {
+        "id": 307,
+        "word_english": "pragmatic",
+        "word_turkish": "pragmatik"
+    },
+    {
+        "id": 308,
+        "word_english": "premature",
+        "word_turkish": "erken"
+    },
+    {
+        "id": 309,
+        "word_english": "proactive",
+        "word_turkish": "önleyici"
+    },
+    {
+        "id": 310,
+        "word_english": "puzzling",
+        "word_turkish": "zor"
+    },
+    {
+        "id": 311,
+        "word_english": "quaint",
+        "word_turkish": "şirin"
+    },
+    {
+        "id": 312,
+        "word_english": "rational",
+        "word_turkish": "mantıklı"
+    },
+    {
+        "id": 313,
+        "word_english": "reflective",
+        "word_turkish": "düşünceli"
+    },
+    {
+        "id": 314,
+        "word_english": "regal",
+        "word_turkish": "soylu"
+    },
+    {
+        "id": 315,
+        "word_english": "relentless",
+        "word_turkish": "acımasız"
+    },
+    {
+        "id": 316,
+        "word_english": "reminiscent",
+        "word_turkish": "anımsatıcı"
+    },
+    {
+        "id": 317,
+        "word_english": "resilient",
+        "word_turkish": "dayanıklı"
+    },
+    {
+        "id": 318,
+        "word_english": "restorative",
+        "word_turkish": "iyileştirici"
+    },
+    {
+        "id": 319,
+        "word_english": "robust",
+        "word_turkish": "sağlam"
+    },
+    {
+        "id": 320,
+        "word_english": "scandalous",
+        "word_turkish": "skandal yaratıcı"
+    },
+    {
+        "id": 321,
+        "word_english": "sensitive",
+        "word_turkish": "hassas"
+    },
+    {
+        "id": 322,
+        "word_english": "serious",
+        "word_turkish": "ciddi"
+    },
+    {
+        "id": 323,
+        "word_english": "shallow",
+        "word_turkish": "sığ"
+    },
+    {
+        "id": 324,
+        "word_english": "shocking",
+        "word_turkish": "şok edici"
+    },
+    {
+        "id": 325,
+        "word_english": "silly",
+        "word_turkish": "saçma"
+    },
+    {
+        "id": 326,
+        "word_english": "sincere",
+        "word_turkish": "samimi"
+    },
+    {
+        "id": 327,
+        "word_english": "skeptical",
+        "word_turkish": "şüpheci"
+    },
+    {
+        "id": 328,
+        "word_english": "sluggish",
+        "word_turkish": "yavaş"
+    },
+    {
+        "id": 329,
+        "word_english": "sophisticated",
+        "word_turkish": "sofistike"
+    },
+    {
+        "id": 330,
+        "word_english": "staggering",
+        "word_turkish": "şok edici"
+    },
+    {
+        "id": 331,
+        "word_english": "staunch",
+        "word_turkish": "sadık"
+    },
+    {
+        "id": 332,
+        "word_english": "stubborn",
+        "word_turkish": "inatçı"
+    },
+    {
+        "id": 333,
+        "word_english": "stylish",
+        "word_turkish": "şık"
+    },
+    {
+        "id": 334,
+        "word_english": "subtle",
+        "word_turkish": "ince"
+    },
+    {
+        "id": 335,
+        "word_english": "suspicious",
+        "word_turkish": "şüpheli"
+    },
+    {
+        "id": 336,
+        "word_english": "synergistic",
+        "word_turkish": "sinergik"
+    },
+    {
+        "id": 337,
+        "word_english": "tangible",
+        "word_turkish": "somut"
+    },
+    {
+        "id": 338,
+        "word_english": "tenacious",
+        "word_turkish": "inatçı"
+    },
+    {
+        "id": 339,
+        "word_english": "tender",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 340,
+        "word_english": "terrifying",
+        "word_turkish": "dehşet verici"
+    },
+    {
+        "id": 341,
+        "word_english": "torrid",
+        "word_turkish": "tutkulu"
+    },
+    {
+        "id": 342,
+        "word_english": "traditional",
+        "word_turkish": "geleneksel"
+    },
+    {
+        "id": 343,
+        "word_english": "trendy",
+        "word_turkish": "moda"
+    },
+    {
+        "id": 344,
+        "word_english": "trivial",
+        "word_turkish": "önemsiz"
+    },
+    {
+        "id": 345,
+        "word_english": "trustworthy",
+        "word_turkish": "güvenilir"
+    },
+    {
+        "id": 346,
+        "word_english": "ultimate",
+        "word_turkish": "nihai"
+    },
+    {
+        "id": 347,
+        "word_english": "unattainable",
+        "word_turkish": "ulaşılamaz"
+    },
+    {
+        "id": 348,
+        "word_english": "uncommon",
+        "word_turkish": "olağandışı"
+    },
+    {
+        "id": 349,
+        "word_english": "unconventional",
+        "word_turkish": "olağandışı"
+    },
+    {
+        "id": 350,
+        "word_english": "unforgiving",
+        "word_turkish": "merhametsiz"
+    },
+    {
+        "id": 351,
+        "word_english": "unpredictable",
+        "word_turkish": "öngörülemez"
+    },
+    {
+        "id": 352,
+        "word_english": "upbeat",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 353,
+        "word_english": "urgent",
+        "word_turkish": "acil"
+    },
+    {
+        "id": 354,
+        "word_english": "vague",
+        "word_turkish": "belirsiz"
+    },
+    {
+        "id": 355,
+        "word_english": "versatile",
+        "word_turkish": "çok yönlü"
+    },
+    {
+        "id": 356,
+        "word_english": "vivid",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 357,
+        "word_english": "vulnerable",
+        "word_turkish": "savunmasız"
+    },
+    {
+        "id": 358,
+        "word_english": "whimsical",
+        "word_turkish": "kaprisli"
+    },
+    {
+        "id": 359,
+        "word_english": "zealous",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 360,
+        "word_english": "abstract",
+        "word_turkish": "soyut"
+    },
+    {
+        "id": 361,
+        "word_english": "aesthetic",
+        "word_turkish": "estetik"
+    },
+    {
+        "id": 362,
+        "word_english": "affectionate",
+        "word_turkish": "sevecen"
+    },
+    {
+        "id": 363,
+        "word_english": "agile",
+        "word_turkish": "çevik"
+    },
+    {
+        "id": 364,
+        "word_english": "altruistic",
+        "word_turkish": "başkalarını düşünen"
+    },
+    {
+        "id": 365,
+        "word_english": "animated",
+        "word_turkish": "hareketli"
+    },
+    {
+        "id": 366,
+        "word_english": "authentic",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 367,
+        "word_english": "balmy",
+        "word_turkish": "serinletici"
+    },
+    {
+        "id": 368,
+        "word_english": "banal",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 369,
+        "word_english": "benevolent",
+        "word_turkish": "iyi kalpli"
+    },
+    {
+        "id": 370,
+        "word_english": "blissful",
+        "word_turkish": "mutlu"
+    },
+    {
+        "id": 371,
+        "word_english": "bumpy",
+        "word_turkish": "engebeli"
+    },
+    {
+        "id": 372,
+        "word_english": "candid",
+        "word_turkish": "açık sözlü"
+    },
+    {
+        "id": 373,
+        "word_english": "cheerful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 374,
+        "word_english": "chubby",
+        "word_turkish": "şişman"
+    },
+    {
+        "id": 375,
+        "word_english": "clarifying",
+        "word_turkish": "açıklayıcı"
+    },
+    {
+        "id": 376,
+        "word_english": "clever",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 377,
+        "word_english": "comical",
+        "word_turkish": "komik"
+    },
+    {
+        "id": 378,
+        "word_english": "compassionate",
+        "word_turkish": "şefkatli"
+    },
+    {
+        "id": 379,
+        "word_english": "contemplative",
+        "word_turkish": "düşünceli"
+    },
+    {
+        "id": 380,
+        "word_english": "debonair",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 381,
+        "word_english": "delirious",
+        "word_turkish": "sersemlemiş"
+    },
+    {
+        "id": 382,
+        "word_english": "despondent",
+        "word_turkish": "umutsuz"
+    },
+    {
+        "id": 383,
+        "word_english": "devastating",
+        "word_turkish": "yıkıcı"
+    },
+    {
+        "id": 384,
+        "word_english": "divergent",
+        "word_turkish": "farklı"
+    },
+    {
+        "id": 385,
+        "word_english": "docile",
+        "word_turkish": "itaatkar"
+    },
+    {
+        "id": 386,
+        "word_english": "dynamic",
+        "word_turkish": "dinamik"
+    },
+    {
+        "id": 387,
+        "word_english": "eclectic",
+        "word_turkish": "seçkici"
+    },
+    {
+        "id": 388,
+        "word_english": "enigmatic",
+        "word_turkish": "gizemli"
+    },
+    {
+        "id": 389,
+        "word_english": "exhilarating",
+        "word_turkish": "canlandırıcı"
+    },
+    {
+        "id": 390,
+        "word_english": "exquisite",
+        "word_turkish": "mükemmel"
+    },
+    {
+        "id": 391,
+        "word_english": "fascinating",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 392,
+        "word_english": "ferocious",
+        "word_turkish": "korkunç"
+    },
+    {
+        "id": 393,
+        "word_english": "fortuitous",
+        "word_turkish": "şans eseri"
+    },
+    {
+        "id": 394,
+        "word_english": "frantic",
+        "word_turkish": "telaşlı"
+    },
+    {
+        "id": 395,
+        "word_english": "genuine",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 396,
+        "word_english": "graceful",
+        "word_turkish": "zarif"
+    },
+    {
+        "id": 397,
+        "word_english": "harrowing",
+        "word_turkish": "yürek burkan"
+    },
+    {
+        "id": 398,
+        "word_english": "hearty",
+        "word_turkish": "içten"
+    },
+    {
+        "id": 399,
+        "word_english": "humorous",
+        "word_turkish": "mizahi"
+    },
+    {
+        "id": 400,
+        "word_english": "illuminating",
+        "word_turkish": "aydınlatıcı"
+    },
+    {
+        "id": 401,
+        "word_english": "immersive",
+        "word_turkish": "sarmalayıcı"
+    },
+    {
+        "id": 402,
+        "word_english": "impactful",
+        "word_turkish": "etkileyici"
+    },
+    {
+        "id": 403,
+        "word_english": "imperative",
+        "word_turkish": "zorunlu"
+    },
+    {
+        "id": 404,
+        "word_english": "impressive",
+        "word_turkish": "etkileyici"
+    },
+    {
+        "id": 405,
+        "word_english": "inept",
+        "word_turkish": "yetersiz"
+    },
+    {
+        "id": 406,
+        "word_english": "insightful",
+        "word_turkish": "açıklayıcı"
+    },
+    {
+        "id": 407,
+        "word_english": "integral",
+        "word_turkish": "bütünleyici"
+    },
+    {
+        "id": 408,
+        "word_english": "irreplaceable",
+        "word_turkish": "yerine konamaz"
+    },
+    {
+        "id": 409,
+        "word_english": "jubilant",
+        "word_turkish": "coşkulu"
+    },
+    {
+        "id": 410,
+        "word_english": "lively",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 411,
+        "word_english": "luxuriant",
+        "word_turkish": "gür"
+    },
+    {
+        "id": 412,
+        "word_english": "mellow",
+        "word_turkish": "yumuşak"
+    },
+    {
+        "id": 413,
+        "word_english": "metaphorical",
+        "word_turkish": "sembolik"
+    },
+    {
+        "id": 414,
+        "word_english": "mind-bending",
+        "word_turkish": "akıl karıştırıcı"
+    },
+    {
+        "id": 415,
+        "word_english": "momentous",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 416,
+        "word_english": "narrative",
+        "word_turkish": "anlatı"
+    },
+    {
+        "id": 417,
+        "word_english": "nostalgic",
+        "word_turkish": "geçmişe özlem duyan"
+    },
+    {
+        "id": 418,
+        "word_english": "obscure",
+        "word_turkish": "belirsiz"
+    },
+    {
+        "id": 419,
+        "word_english": "opulent",
+        "word_turkish": "gösterişli"
+    },
+    {
+        "id": 420,
+        "word_english": "outrageous",
+        "word_turkish": "şoke edici"
+    },
+    {
+        "id": 421,
+        "word_english": "overwhelming",
+        "word_turkish": "baskın"
+    },
+    {
+        "id": 422,
+        "word_english": "paradoxical",
+        "word_turkish": "çelişkili"
+    },
+    {
+        "id": 423,
+        "word_english": "passionate",
+        "word_turkish": "tutkulu"
+    },
+    {
+        "id": 424,
+        "word_english": "perceptive",
+        "word_turkish": "anlayışlı"
+    },
+    {
+        "id": 425,
+        "word_english": "persuasive",
+        "word_turkish": "ikna edici"
+    },
+    {
+        "id": 426,
+        "word_english": "prolific",
+        "word_turkish": "verimli"
+    },
+    {
+        "id": 427,
+        "word_english": "profound",
+        "word_turkish": "derin"
+    },
+    {
+        "id": 428,
+        "word_english": "quirky",
+        "word_turkish": "tuhaf"
+    },
+    {
+        "id": 429,
+        "word_english": "radiant",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 430,
+        "word_english": "receptive",
+        "word_turkish": "açık fikirli"
+    },
+    {
+        "id": 431,
+        "word_english": "reflective",
+        "word_turkish": "düşünceli"
+    },
+    {
+        "id": 432,
+        "word_english": "regressive",
+        "word_turkish": "gerileyici"
+    },
+    {
+        "id": 433,
+        "word_english": "relaxed",
+        "word_turkish": "rahat"
+    },
+    {
+        "id": 434,
+        "word_english": "remarkable",
+        "word_turkish": "dikkate değer"
+    },
+    {
+        "id": 435,
+        "word_english": "resonant",
+        "word_turkish": "yankılanan"
+    },
+    {
+        "id": 436,
+        "word_english": "sagacious",
+        "word_turkish": "bilgeli"
+    },
+    {
+        "id": 437,
+        "word_english": "sensational",
+        "word_turkish": "sansasyonel"
+    },
+    {
+        "id": 438,
+        "word_english": "serene",
+        "word_turkish": "sakin"
+    },
+    {
+        "id": 439,
+        "word_english": "sophisticated",
+        "word_turkish": "sofistike"
+    },
+    {
+        "id": 440,
+        "word_english": "spontaneous",
+        "word_turkish": "doğal"
+    },
+    {
+        "id": 441,
+        "word_english": "stark",
+        "word_turkish": "belirgin"
+    },
+    {
+        "id": 442,
+        "word_english": "stunning",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 443,
+        "word_english": "substantial",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 444,
+        "word_english": "superficial",
+        "word_turkish": "yüzeysel"
+    },
+    {
+        "id": 445,
+        "word_english": "surreal",
+        "word_turkish": "gerçeküstü"
+    },
+    {
+        "id": 446,
+        "word_english": "sustainable",
+        "word_turkish": "sürdürülebilir"
+    },
+    {
+        "id": 447,
+        "word_english": "synergistic",
+        "word_turkish": "sinergik"
+    },
+    {
+        "id": 448,
+        "word_english": "tangible",
+        "word_turkish": "somut"
+    },
+    {
+        "id": 449,
+        "word_english": "tenacious",
+        "word_turkish": "inatçı"
+    },
+    {
+        "id": 450,
+        "word_english": "timeless",
+        "word_turkish": "zamansız"
+    },
+    {
+        "id": 451,
+        "word_english": "turbulent",
+        "word_turkish": "dalgalı"
+    },
+    {
+        "id": 452,
+        "word_english": "uncompromising",
+        "word_turkish": "uzlaşmaz"
+    },
+    {
+        "id": 453,
+        "word_english": "vigilant",
+        "word_turkish": "uyanık"
+    },
+    {
+        "id": 454,
+        "word_english": "visionary",
+        "word_turkish": "vizyoner"
+    },
+    {
+        "id": 455,
+        "word_english": "vital",
+        "word_turkish": "hayati"
+    },
+    {
+        "id": 456,
+        "word_english": "wholesome",
+        "word_turkish": "sağlıklı"
+    },
+    {
+        "id": 457,
+        "word_english": "wistful",
+        "word_turkish": "özlem dolu"
+    },
+    {
+        "id": 458,
+        "word_english": "abstract",
+        "word_turkish": "soyut"
+    },
+    {
+        "id": 459,
+        "word_english": "accessible",
+        "word_turkish": "erişilebilir"
+    },
+    {
+        "id": 460,
+        "word_english": "adventurous",
+        "word_turkish": "macera dolu"
+    },
+    {
+        "id": 461,
+        "word_english": "affable",
+        "word_turkish": "canayakın"
+    },
+    {
+        "id": 462,
+        "word_english": "aggressive",
+        "word_turkish": "saldırgan"
+    },
+    {
+        "id": 463,
+        "word_english": "alluring",
+        "word_turkish": "cazip"
+    },
+    {
+        "id": 464,
+        "word_english": "ambitious",
+        "word_turkish": "iddialı"
+    },
+    {
+        "id": 465,
+        "word_english": "angry",
+        "word_turkish": "kızgın"
+    },
+    {
+        "id": 466,
+        "word_english": "apprehensive",
+        "word_turkish": "endişeli"
+    },
+    {
+        "id": 467,
+        "word_english": "arrogant",
+        "word_turkish": "kibirli"
+    },
+    {
+        "id": 468,
+        "word_english": "artful",
+        "word_turkish": "ustaca yapılmış"
+    },
+    {
+        "id": 469,
+        "word_english": "artistic",
+        "word_turkish": "sanatsal"
+    },
+    {
+        "id": 470,
+        "word_english": "astute",
+        "word_turkish": "zekice"
+    },
+    {
+        "id": 471,
+        "word_english": "authentic",
+        "word_turkish": "otantik"
+    },
+    {
+        "id": 472,
+        "word_english": "authentic",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 473,
+        "word_english": "balanced",
+        "word_turkish": "dengeleyici"
+    },
+    {
+        "id": 474,
+        "word_english": "barbaric",
+        "word_turkish": "barbarca"
+    },
+    {
+        "id": 475,
+        "word_english": "blissful",
+        "word_turkish": "mutlu"
+    },
+    {
+        "id": 476,
+        "word_english": "bold",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 477,
+        "word_english": "brilliant",
+        "word_turkish": "harika"
+    },
+    {
+        "id": 478,
+        "word_english": "bubbly",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 479,
+        "word_english": "calm",
+        "word_turkish": "sakin"
+    },
+    {
+        "id": 480,
+        "word_english": "charming",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 481,
+        "word_english": "cheerful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 482,
+        "word_english": "charming",
+        "word_turkish": "cazibeli"
+    },
+    {
+        "id": 483,
+        "word_english": "civilized",
+        "word_turkish": "uygar"
+    },
+    {
+        "id": 484,
+        "word_english": "clarifying",
+        "word_turkish": "aydınlatıcı"
+    },
+    {
+        "id": 485,
+        "word_english": "coherent",
+        "word_turkish": "tutarlı"
+    },
+    {
+        "id": 486,
+        "word_english": "colorful",
+        "word_turkish": "renkli"
+    },
+    {
+        "id": 487,
+        "word_english": "compelling",
+        "word_turkish": "ilgi çekici"
+    },
+    {
+        "id": 488,
+        "word_english": "confident",
+        "word_turkish": "özgüvenli"
+    },
+    {
+        "id": 489,
+        "word_english": "consistent",
+        "word_turkish": "tutarlı"
+    },
+    {
+        "id": 490,
+        "word_english": "conventional",
+        "word_turkish": "geleneksel"
+    },
+    {
+        "id": 491,
+        "word_english": "courageous",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 492,
+        "word_english": "curious",
+        "word_turkish": "meraklı"
+    },
+    {
+        "id": 493,
+        "word_english": "dangerous",
+        "word_turkish": "tehlikeli"
+    },
+    {
+        "id": 494,
+        "word_english": "decent",
+        "word_turkish": "makul"
+    },
+    {
+        "id": 495,
+        "word_english": "delightful",
+        "word_turkish": "keyifli"
+    },
+    {
+        "id": 496,
+        "word_english": "demanding",
+        "word_turkish": "talepkar"
+    },
+    {
+        "id": 497,
+        "word_english": "diligent",
+        "word_turkish": "çalışkan"
+    },
+    {
+        "id": 498,
+        "word_english": "disciplined",
+        "word_turkish": "disiplinli"
+    },
+    {
+        "id": 499,
+        "word_english": "dynamic",
+        "word_turkish": "dinamik"
+    },
+    {
+        "id": 500,
+        "word_english": "eclectic",
+        "word_turkish": "seçkici"
+    },
+    {
+        "id": 501,
+        "word_english": "empathetic",
+        "word_turkish": "empatik"
+    },
+    {
+        "id": 502,
+        "word_english": "energetic",
+        "word_turkish": "enerjik"
+    },
+    {
+        "id": 503,
+        "word_english": "enjoyable",
+        "word_turkish": "keyifli"
+    },
+    {
+        "id": 504,
+        "word_english": "enthusiastic",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 505,
+        "word_english": "exemplary",
+        "word_turkish": "örnek"
+    },
+    {
+        "id": 506,
+        "word_english": "extraordinary",
+        "word_turkish": "olağanüstü"
+    },
+    {
+        "id": 507,
+        "word_english": "faithful",
+        "word_turkish": "sadık"
+    },
+    {
+        "id": 508,
+        "word_english": "fearless",
+        "word_turkish": "korkusuz"
+    },
+    {
+        "id": 509,
+        "word_english": "flexible",
+        "word_turkish": "esnek"
+    },
+    {
+        "id": 510,
+        "word_english": "focused",
+        "word_turkish": "odaklanmış"
+    },
+    {
+        "id": 511,
+        "word_english": "forgiving",
+        "word_turkish": "affedici"
+    },
+    {
+        "id": 512,
+        "word_english": "frivolous",
+        "word_turkish": "ciddiyetsiz"
+    },
+    {
+        "id": 513,
+        "word_english": "generous",
+        "word_turkish": "cömert"
+    },
+    {
+        "id": 514,
+        "word_english": "genuine",
+        "word_turkish": "gerçek"
+    },
+    {
+        "id": 515,
+        "word_english": "graceful",
+        "word_turkish": "zarif"
+    },
+    {
+        "id": 516,
+        "word_english": "gritty",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 517,
+        "word_english": "groundbreaking",
+        "word_turkish": "devrim niteliğinde"
+    },
+    {
+        "id": 518,
+        "word_english": "growing",
+        "word_turkish": "büyüyen"
+    },
+    {
+        "id": 519,
+        "word_english": "harsh",
+        "word_turkish": "sert"
+    },
+    {
+        "id": 520,
+        "word_english": "humble",
+        "word_turkish": "alçakgönüllü"
+    },
+    {
+        "id": 521,
+        "word_english": "impactful",
+        "word_turkish": "etkileyici"
+    },
+    {
+        "id": 522,
+        "word_english": "imposing",
+        "word_turkish": "baskın"
+    },
+    {
+        "id": 523,
+        "word_english": "impressive",
+        "word_turkish": "göz alıcı"
+    },
+    {
+        "id": 524,
+        "word_english": "inspiring",
+        "word_turkish": "ilham verici"
+    },
+    {
+        "id": 525,
+        "word_english": "intelligent",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 526,
+        "word_english": "intriguing",
+        "word_turkish": "ilginç"
+    },
+    {
+        "id": 527,
+        "word_english": "invigorating",
+        "word_turkish": "canlandırıcı"
+    },
+    {
+        "id": 528,
+        "word_english": "ironic",
+        "word_turkish": "ironik"
+    },
+    {
+        "id": 529,
+        "word_english": "jaunty",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 530,
+        "word_english": "jovial",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 531,
+        "word_english": "joyful",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 532,
+        "word_english": "just",
+        "word_turkish": "adaletli"
+    },
+    {
+        "id": 533,
+        "word_english": "keen",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 534,
+        "word_english": "knowledgeable",
+        "word_turkish": "bilgili"
+    },
+    {
+        "id": 535,
+        "word_english": "lively",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 536,
+        "word_english": "loyal",
+        "word_turkish": "sadık"
+    },
+    {
+        "id": 537,
+        "word_english": "luminous",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 538,
+        "word_english": "magnificent",
+        "word_turkish": "büyüleyici"
+    },
+    {
+        "id": 539,
+        "word_english": "meticulous",
+        "word_turkish": "titiz"
+    },
+    {
+        "id": 540,
+        "word_english": "mischievous",
+        "word_turkish": "yaramaz"
+    },
+    {
+        "id": 541,
+        "word_english": "motivated",
+        "word_turkish": "güdülenmiş"
+    },
+    {
+        "id": 542,
+        "word_english": "naive",
+        "word_turkish": "saf"
+    },
+    {
+        "id": 543,
+        "word_english": "neat",
+        "word_turkish": "düzenli"
+    },
+    {
+        "id": 544,
+        "word_english": "noble",
+        "word_turkish": "soylu"
+    },
+    {
+        "id": 545,
+        "word_english": "obscure",
+        "word_turkish": "belirsiz"
+    },
+    {
+        "id": 546,
+        "word_english": "optimistic",
+        "word_turkish": "iyimser"
+    },
+    {
+        "id": 547,
+        "word_english": "outgoing",
+        "word_turkish": "dışa dönük"
+    },
+    {
+        "id": 548,
+        "word_english": "passionate",
+        "word_turkish": "tutkulu"
+    },
+    {
+        "id": 549,
+        "word_english": "peaceful",
+        "word_turkish": "barışçıl"
+    },
+    {
+        "id": 550,
+        "word_english": "playful",
+        "word_turkish": "oyuncu"
+    },
+    {
+        "id": 551,
+        "word_english": "polished",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 552,
+        "word_english": "practical",
+        "word_turkish": "pratik"
+    },
+    {
+        "id": 553,
+        "word_english": "precise",
+        "word_turkish": "kesin"
+    },
+    {
+        "id": 554,
+        "word_english": "proactive",
+        "word_turkish": "önleyici"
+    },
+    {
+        "id": 555,
+        "word_english": "prominent",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 556,
+        "word_english": "proud",
+        "word_turkish": "gururlu"
+    },
+    {
+        "id": 557,
+        "word_english": "quaint",
+        "word_turkish": "şirin"
+    },
+    {
+        "id": 558,
+        "word_english": "quick",
+        "word_turkish": "hızlı"
+    },
+    {
+        "id": 559,
+        "word_english": "radiant",
+        "word_turkish": "parlak"
+    },
+    {
+        "id": 560,
+        "word_english": "reliable",
+        "word_turkish": "güvenilir"
+    },
+    {
+        "id": 561,
+        "word_english": "respectful",
+        "word_turkish": "saygılı"
+    },
+    {
+        "id": 562,
+        "word_english": "resilient",
+        "word_turkish": "dayanıklı"
+    },
+    {
+        "id": 563,
+        "word_english": "reverent",
+        "word_turkish": "saygılı"
+    },
+    {
+        "id": 564,
+        "word_english": "robust",
+        "word_turkish": "sağlam"
+    },
+    {
+        "id": 565,
+        "word_english": "sincere",
+        "word_turkish": "samimi"
+    },
+    {
+        "id": 566,
+        "word_english": "smart",
+        "word_turkish": "zeki"
+    },
+    {
+        "id": 567,
+        "word_english": "spirited",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 568,
+        "word_english": "spontaneous",
+        "word_turkish": "doğal"
+    },
+    {
+        "id": 569,
+        "word_english": "steady",
+        "word_turkish": "istikrarlı"
+    },
+    {
+        "id": 570,
+        "word_english": "strategic",
+        "word_turkish": "stratejik"
+    },
+    {
+        "id": 571,
+        "word_english": "strong",
+        "word_turkish": "güçlü"
+    },
+    {
+        "id": 572,
+        "word_english": "stylish",
+        "word_turkish": "şık"
+    },
+    {
+        "id": 573,
+        "word_english": "supportive",
+        "word_turkish": "destekleyici"
+    },
+    {
+        "id": 574,
+        "word_english": "sympathetic",
+        "word_turkish": "sempatik"
+    },
+    {
+        "id": 575,
+        "word_english": "tactful",
+        "word_turkish": "nazik"
+    },
+    {
+        "id": 576,
+        "word_english": "tenacious",
+        "word_turkish": "inatçı"
+    },
+    {
+        "id": 577,
+        "word_english": "thoughtful",
+        "word_turkish": "düşünceli"
+    },
+    {
+        "id": 578,
+        "word_english": "tolerant",
+        "word_turkish": "hoşgörülü"
+    },
+    {
+        "id": 579,
+        "word_english": "trustworthy",
+        "word_turkish": "güvenilir"
+    },
+    {
+        "id": 580,
+        "word_english": "unbiased",
+        "word_turkish": "tarafsız"
+    },
+    {
+        "id": 581,
+        "word_english": "uncommon",
+        "word_turkish": "olağandışı"
+    },
+    {
+        "id": 582,
+        "word_english": "unique",
+        "word_turkish": "eşsiz"
+    },
+    {
+        "id": 583,
+        "word_english": "upbeat",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 584,
+        "word_english": "vibrant",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 585,
+        "word_english": "vigilant",
+        "word_turkish": "uyanık"
+    },
+    {
+        "id": 586,
+        "word_english": "vital",
+        "word_turkish": "hayati"
+    },
+    {
+        "id": 587,
+        "word_english": "vivid",
+        "word_turkish": "canlı"
+    },
+    {
+        "id": 588,
+        "word_english": "whimsical",
+        "word_turkish": "kaprisli"
+    },
+    {
+        "id": 589,
+        "word_english": "wise",
+        "word_turkish": "bilgeli"
+    },
+    {
+        "id": 590,
+        "word_english": "zealous",
+        "word_turkish": "hevesli"
+    }
+]

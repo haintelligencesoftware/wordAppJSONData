@@ -1,0 +1,3047 @@
+[
+    {
+        "id": 468,
+        "word_english": "abnormally",
+        "word_turkish": "anormal bir şekilde"
+    },
+    {
+        "id": 469,
+        "word_english": "absent-mindedly",
+        "word_turkish": "dalgın bir şekilde"
+    },
+    {
+        "id": 470,
+        "word_english": "abstractly",
+        "word_turkish": "soyut olarak"
+    },
+    {
+        "id": 471,
+        "word_english": "adventurously",
+        "word_turkish": "macera dolu bir şekilde"
+    },
+    {
+        "id": 472,
+        "word_english": "ambitiously",
+        "word_turkish": "hırsla"
+    },
+    {
+        "id": 473,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 474,
+        "word_english": "ardently",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 475,
+        "word_english": "artfully",
+        "word_turkish": "sanatkarca"
+    },
+    {
+        "id": 476,
+        "word_english": "attentively",
+        "word_turkish": "dikkatlice"
+    },
+    {
+        "id": 477,
+        "word_english": "authentically",
+        "word_turkish": "özgün bir şekilde"
+    },
+    {
+        "id": 478,
+        "word_english": "awkwardly",
+        "word_turkish": "rahatsız edici bir şekilde"
+    },
+    {
+        "id": 479,
+        "word_english": "bitterly",
+        "word_turkish": "acı bir şekilde"
+    },
+    {
+        "id": 480,
+        "word_english": "calmly",
+        "word_turkish": "sakin bir şekilde"
+    },
+    {
+        "id": 481,
+        "word_english": "carefully",
+        "word_turkish": "dikkatlice"
+    },
+    {
+        "id": 482,
+        "word_english": "casually",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 483,
+        "word_english": "chaotically",
+        "word_turkish": "kaotik bir şekilde"
+    },
+    {
+        "id": 484,
+        "word_english": "cheerfully",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 485,
+        "word_english": "clearly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 486,
+        "word_english": "clumsily",
+        "word_turkish": "sakar bir şekilde"
+    },
+    {
+        "id": 487,
+        "word_english": "confidently",
+        "word_turkish": "kendinden emin bir şekilde"
+    },
+    {
+        "id": 488,
+        "word_english": "consistently",
+        "word_turkish": "tutarlı bir şekilde"
+    },
+    {
+        "id": 489,
+        "word_english": "conveniently",
+        "word_turkish": "uygun bir şekilde"
+    },
+    {
+        "id": 490,
+        "word_english": "courageously",
+        "word_turkish": "cesaretle"
+    },
+    {
+        "id": 491,
+        "word_english": "curiously",
+        "word_turkish": "merakla"
+    },
+    {
+        "id": 492,
+        "word_english": "deeply",
+        "word_turkish": "derin bir şekilde"
+    },
+    {
+        "id": 493,
+        "word_english": "desperately",
+        "word_turkish": "çaresizce"
+    },
+    {
+        "id": 494,
+        "word_english": "discreetly",
+        "word_turkish": "gizli bir şekilde"
+    },
+    {
+        "id": 495,
+        "word_english": "dramatically",
+        "word_turkish": "dramatik bir şekilde"
+    },
+    {
+        "id": 496,
+        "word_english": "eagerly",
+        "word_turkish": "istekli bir şekilde"
+    },
+    {
+        "id": 497,
+        "word_english": "efficiently",
+        "word_turkish": "verimli bir şekilde"
+    },
+    {
+        "id": 498,
+        "word_english": "emotionally",
+        "word_turkish": "duygusal olarak"
+    },
+    {
+        "id": 499,
+        "word_english": "enthusiastically",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 500,
+        "word_english": "exceedingly",
+        "word_turkish": "aşırı derecede"
+    },
+    {
+        "id": 501,
+        "word_english": "exhaustively",
+        "word_turkish": "kapsamlı bir şekilde"
+    },
+    {
+        "id": 502,
+        "word_english": "exquisitely",
+        "word_turkish": "ince bir şekilde"
+    },
+    {
+        "id": 503,
+        "word_english": "faithfully",
+        "word_turkish": "sadık bir şekilde"
+    },
+    {
+        "id": 504,
+        "word_english": "fiercely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 505,
+        "word_english": "frequently",
+        "word_turkish": "sıklıkla"
+    },
+    {
+        "id": 506,
+        "word_english": "genuinely",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 507,
+        "word_english": "gracefully",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 508,
+        "word_english": "hastily",
+        "word_turkish": "aceleyle"
+    },
+    {
+        "id": 509,
+        "word_english": "honestly",
+        "word_turkish": "dürüstçe"
+    },
+    {
+        "id": 510,
+        "word_english": "individually",
+        "word_turkish": "bireysel olarak"
+    },
+    {
+        "id": 511,
+        "word_english": "intentionally",
+        "word_turkish": "kasten"
+    },
+    {
+        "id": 512,
+        "word_english": "joyfully",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 513,
+        "word_english": "kindly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 514,
+        "word_english": "knowingly",
+        "word_turkish": "bilerek"
+    },
+    {
+        "id": 515,
+        "word_english": "lazily",
+        "word_turkish": "tembelce"
+    },
+    {
+        "id": 516,
+        "word_english": "loyally",
+        "word_turkish": "sadık bir şekilde"
+    },
+    {
+        "id": 517,
+        "word_english": "loudly",
+        "word_turkish": "yüksek sesle"
+    },
+    {
+        "id": 518,
+        "word_english": "meticulously",
+        "word_turkish": "titizlikle"
+    },
+    {
+        "id": 519,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 520,
+        "word_english": "obediently",
+        "word_turkish": "itaatkar bir şekilde"
+    },
+    {
+        "id": 521,
+        "word_english": "obviously",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 522,
+        "word_english": "ordinarily",
+        "word_turkish": "sıradan bir şekilde"
+    },
+    {
+        "id": 523,
+        "word_english": "particularly",
+        "word_turkish": "özellikle"
+    },
+    {
+        "id": 524,
+        "word_english": "patiently",
+        "word_turkish": "sabırlı bir şekilde"
+    },
+    {
+        "id": 525,
+        "word_english": "persistently",
+        "word_turkish": "ısrarla"
+    },
+    {
+        "id": 526,
+        "word_english": "politely",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 527,
+        "word_english": "positively",
+        "word_turkish": "olumlu bir şekilde"
+    },
+    {
+        "id": 528,
+        "word_english": "precisely",
+        "word_turkish": "tam olarak"
+    },
+    {
+        "id": 529,
+        "word_english": "randomly",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 530,
+        "word_english": "rapidly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 531,
+        "word_english": "readily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 532,
+        "word_english": "remarkably",
+        "word_turkish": "olağanüstü bir şekilde"
+    },
+    {
+        "id": 533,
+        "word_english": "repeatedly",
+        "word_turkish": "defalarca"
+    },
+    {
+        "id": 534,
+        "word_english": "routinely",
+        "word_turkish": "sık sık"
+    },
+    {
+        "id": 535,
+        "word_english": "safely",
+        "word_turkish": "güvenli bir şekilde"
+    },
+    {
+        "id": 536,
+        "word_english": "secretly",
+        "word_turkish": "gizlice"
+    },
+    {
+        "id": 537,
+        "word_english": "seriously",
+        "word_turkish": "ciddi bir şekilde"
+    },
+    {
+        "id": 538,
+        "word_english": "sharply",
+        "word_turkish": "keskin bir şekilde"
+    },
+    {
+        "id": 539,
+        "word_english": "simply",
+        "word_turkish": "basitçe"
+    },
+    {
+        "id": 540,
+        "word_english": "smoothly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 541,
+        "word_english": "softly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 542,
+        "word_english": "steadily",
+        "word_turkish": "istikrarlı bir şekilde"
+    },
+    {
+        "id": 543,
+        "word_english": "strategically",
+        "word_turkish": "stratejik olarak"
+    },
+    {
+        "id": 544,
+        "word_english": "surprisingly",
+        "word_turkish": "şaşırtıcı bir şekilde"
+    },
+    {
+        "id": 545,
+        "word_english": "tactfully",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 546,
+        "word_english": "technically",
+        "word_turkish": "teknik olarak"
+    },
+    {
+        "id": 547,
+        "word_english": "thankfully",
+        "word_turkish": "şükrederek"
+    },
+    {
+        "id": 548,
+        "word_english": "theoretically",
+        "word_turkish": "teorik olarak"
+    },
+    {
+        "id": 549,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 550,
+        "word_english": "timidly",
+        "word_turkish": "ürkekçe"
+    },
+    {
+        "id": 551,
+        "word_english": "together",
+        "word_turkish": "birlikte"
+    },
+    {
+        "id": 552,
+        "word_english": "tragically",
+        "word_turkish": "trajik bir şekilde"
+    },
+    {
+        "id": 553,
+        "word_english": "truly",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 554,
+        "word_english": "ultimately",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 555,
+        "word_english": "unexpectedly",
+        "word_turkish": "beklenmedik bir şekilde"
+    },
+    {
+        "id": 556,
+        "word_english": "unfortunately",
+        "word_turkish": "ne yazık ki"
+    },
+    {
+        "id": 557,
+        "word_english": "unintentionally",
+        "word_turkish": "kasdî olmayan bir şekilde"
+    },
+    {
+        "id": 558,
+        "word_english": "unusually",
+        "word_turkish": "olağandışı bir şekilde"
+    },
+    {
+        "id": 559,
+        "word_english": "urgently",
+        "word_turkish": "acil bir şekilde"
+    },
+    {
+        "id": 560,
+        "word_english": "vainly",
+        "word_turkish": "boşa"
+    },
+    {
+        "id": 561,
+        "word_english": "violently",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 562,
+        "word_english": "warmly",
+        "word_turkish": "sıcak bir şekilde"
+    },
+    {
+        "id": 563,
+        "word_english": "weakly",
+        "word_turkish": "zayıf bir şekilde"
+    },
+    {
+        "id": 564,
+        "word_english": "wearily",
+        "word_turkish": "yorgun bir şekilde"
+    },
+    {
+        "id": 565,
+        "word_english": "wisely",
+        "word_turkish": "bilgece"
+    },
+    {
+        "id": 566,
+        "word_english": "wondrously",
+        "word_turkish": "harika bir şekilde"
+    },
+    {
+        "id": 567,
+        "word_english": "wrongly",
+        "word_turkish": "yanlış bir şekilde"
+    },
+    {
+        "id": 608,
+        "word_english": "hastily",
+        "word_turkish": "aceleyle"
+    },
+    {
+        "id": 609,
+        "word_english": "honestly",
+        "word_turkish": "dürüstçe"
+    },
+    {
+        "id": 610,
+        "word_english": "individually",
+        "word_turkish": "bireysel olarak"
+    },
+    {
+        "id": 611,
+        "word_english": "intentionally",
+        "word_turkish": "kasten"
+    },
+    {
+        "id": 612,
+        "word_english": "joyfully",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 613,
+        "word_english": "kindly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 614,
+        "word_english": "knowingly",
+        "word_turkish": "bilerek"
+    },
+    {
+        "id": 615,
+        "word_english": "lazily",
+        "word_turkish": "tembelce"
+    },
+    {
+        "id": 616,
+        "word_english": "loyally",
+        "word_turkish": "sadık bir şekilde"
+    },
+    {
+        "id": 617,
+        "word_english": "loudly",
+        "word_turkish": "yüksek sesle"
+    },
+    {
+        "id": 618,
+        "word_english": "meticulously",
+        "word_turkish": "titizlikle"
+    },
+    {
+        "id": 619,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 620,
+        "word_english": "obediently",
+        "word_turkish": "itaatkar bir şekilde"
+    },
+    {
+        "id": 621,
+        "word_english": "obviously",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 622,
+        "word_english": "ordinarily",
+        "word_turkish": "sıradan bir şekilde"
+    },
+    {
+        "id": 623,
+        "word_english": "particularly",
+        "word_turkish": "özellikle"
+    },
+    {
+        "id": 624,
+        "word_english": "patiently",
+        "word_turkish": "sabırlı bir şekilde"
+    },
+    {
+        "id": 625,
+        "word_english": "persistently",
+        "word_turkish": "ısrarla"
+    },
+    {
+        "id": 626,
+        "word_english": "politely",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 627,
+        "word_english": "positively",
+        "word_turkish": "olumlu bir şekilde"
+    },
+    {
+        "id": 628,
+        "word_english": "precisely",
+        "word_turkish": "tam olarak"
+    },
+    {
+        "id": 629,
+        "word_english": "randomly",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 630,
+        "word_english": "rapidly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 631,
+        "word_english": "readily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 632,
+        "word_english": "remarkably",
+        "word_turkish": "olağanüstü bir şekilde"
+    },
+    {
+        "id": 633,
+        "word_english": "repeatedly",
+        "word_turkish": "defalarca"
+    },
+    {
+        "id": 568,
+        "word_english": "abnormally",
+        "word_turkish": "anormal bir şekilde"
+    },
+    {
+        "id": 569,
+        "word_english": "absent-mindedly",
+        "word_turkish": "dalgın bir şekilde"
+    },
+    {
+        "id": 570,
+        "word_english": "abstractly",
+        "word_turkish": "soyut olarak"
+    },
+    {
+        "id": 571,
+        "word_english": "adventurously",
+        "word_turkish": "macera dolu bir şekilde"
+    },
+    {
+        "id": 129,
+        "word_english": "absolutely",
+        "word_turkish": "kesinlikle"
+    },
+    {
+        "id": 130,
+        "word_english": "actually",
+        "word_turkish": "aslında"
+    },
+    {
+        "id": 131,
+        "word_english": "almost",
+        "word_turkish": "neredeyse"
+    },
+    {
+        "id": 132,
+        "word_english": "always",
+        "word_turkish": "her zaman"
+    },
+    {
+        "id": 133,
+        "word_english": "angrily",
+        "word_turkish": "öfkeyle"
+    },
+    {
+        "id": 134,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 135,
+        "word_english": "badly",
+        "word_turkish": "kötü bir şekilde"
+    },
+    {
+        "id": 136,
+        "word_english": "beautifully",
+        "word_turkish": "güzel bir şekilde"
+    },
+    {
+        "id": 137,
+        "word_english": "carefully",
+        "word_turkish": "dikkatlice"
+    },
+    {
+        "id": 138,
+        "word_english": "clearly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 139,
+        "word_english": "closely",
+        "word_turkish": "yakından"
+    },
+    {
+        "id": 140,
+        "word_english": "correctly",
+        "word_turkish": "doğru bir şekilde"
+    },
+    {
+        "id": 141,
+        "word_english": "currently",
+        "word_turkish": "şu anda"
+    },
+    {
+        "id": 142,
+        "word_english": "daily",
+        "word_turkish": "günlük olarak"
+    },
+    {
+        "id": 143,
+        "word_english": "deeply",
+        "word_turkish": "derinlemesine"
+    },
+    {
+        "id": 144,
+        "word_english": "easily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 145,
+        "word_english": "elegantly",
+        "word_turkish": "şık bir şekilde"
+    },
+    {
+        "id": 146,
+        "word_english": "especially",
+        "word_turkish": "özellikle"
+    },
+    {
+        "id": 147,
+        "word_english": "exactly",
+        "word_turkish": "tam olarak"
+    },
+    {
+        "id": 148,
+        "word_english": "extremely",
+        "word_turkish": "son derece"
+    },
+    {
+        "id": 149,
+        "word_english": "finally",
+        "word_turkish": "nihayet"
+    },
+    {
+        "id": 150,
+        "word_english": "frequently",
+        "word_turkish": "sıklıkla"
+    },
+    {
+        "id": 151,
+        "word_english": "generally",
+        "word_turkish": "genel olarak"
+    },
+    {
+        "id": 152,
+        "word_english": "gladly",
+        "word_turkish": "memnuniyetle"
+    },
+    {
+        "id": 153,
+        "word_english": "gracefully",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 154,
+        "word_english": "happily",
+        "word_turkish": "mutlu bir şekilde"
+    },
+    {
+        "id": 155,
+        "word_english": "hard",
+        "word_turkish": "sert bir şekilde"
+    },
+    {
+        "id": 156,
+        "word_english": "hardly",
+        "word_turkish": "neredeyse hiç"
+    },
+    {
+        "id": 157,
+        "word_english": "honestly",
+        "word_turkish": "dürüstçe"
+    },
+    {
+        "id": 158,
+        "word_english": "immediately",
+        "word_turkish": "hemen"
+    },
+    {
+        "id": 159,
+        "word_english": "incredibly",
+        "word_turkish": "inanılmaz derecede"
+    },
+    {
+        "id": 160,
+        "word_english": "initially",
+        "word_turkish": "ilk olarak"
+    },
+    {
+        "id": 161,
+        "word_english": "instantly",
+        "word_turkish": "anında"
+    },
+    {
+        "id": 162,
+        "word_english": "intentionally",
+        "word_turkish": "kasten"
+    },
+    {
+        "id": 163,
+        "word_english": "ironically",
+        "word_turkish": "ironik bir şekilde"
+    },
+    {
+        "id": 164,
+        "word_english": "just",
+        "word_turkish": "just"
+    },
+    {
+        "id": 165,
+        "word_english": "kindly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 166,
+        "word_english": "lately",
+        "word_turkish": "son zamanlarda"
+    },
+    {
+        "id": 167,
+        "word_english": "likely",
+        "word_turkish": "muhtemelen"
+    },
+    {
+        "id": 168,
+        "word_english": "literally",
+        "word_turkish": "harfi harfine"
+    },
+    {
+        "id": 169,
+        "word_english": "long",
+        "word_turkish": "uzun süre"
+    },
+    {
+        "id": 170,
+        "word_english": "loudly",
+        "word_turkish": "yüksek sesle"
+    },
+    {
+        "id": 171,
+        "word_english": "mainly",
+        "word_turkish": "esas olarak"
+    },
+    {
+        "id": 172,
+        "word_english": "merely",
+        "word_turkish": "sadece"
+    },
+    {
+        "id": 173,
+        "word_english": "mostly",
+        "word_turkish": "çoğunlukla"
+    },
+    {
+        "id": 174,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 175,
+        "word_english": "nearly",
+        "word_turkish": "neredeyse"
+    },
+    {
+        "id": 176,
+        "word_english": "never",
+        "word_turkish": "asla"
+    },
+    {
+        "id": 177,
+        "word_english": "occasionally",
+        "word_turkish": "ara sıra"
+    },
+    {
+        "id": 178,
+        "word_english": "openly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 179,
+        "word_english": "patiently",
+        "word_turkish": "sabırlı bir şekilde"
+    },
+    {
+        "id": 180,
+        "word_english": "perfectly",
+        "word_turkish": "mükemmel bir şekilde"
+    },
+    {
+        "id": 181,
+        "word_english": "quickly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 182,
+        "word_english": "quietly",
+        "word_turkish": "sessizce"
+    },
+    {
+        "id": 183,
+        "word_english": "rarely",
+        "word_turkish": "nadiren"
+    },
+    {
+        "id": 184,
+        "word_english": "really",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 185,
+        "word_english": "recently",
+        "word_turkish": "son zamanlarda"
+    },
+    {
+        "id": 186,
+        "word_english": "regularly",
+        "word_turkish": "düzenli olarak"
+    },
+    {
+        "id": 187,
+        "word_english": "relatively",
+        "word_turkish": "nispeten"
+    },
+    {
+        "id": 188,
+        "word_english": "safely",
+        "word_turkish": "güvenli bir şekilde"
+    },
+    {
+        "id": 189,
+        "word_english": "sadly",
+        "word_turkish": "üzgün bir şekilde"
+    },
+    {
+        "id": 190,
+        "word_english": "seriously",
+        "word_turkish": "ciddiyetle"
+    },
+    {
+        "id": 191,
+        "word_english": "simply",
+        "word_turkish": "basitçe"
+    },
+    {
+        "id": 192,
+        "word_english": "slowly",
+        "word_turkish": "yavaşça"
+    },
+    {
+        "id": 193,
+        "word_english": "smoothly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 194,
+        "word_english": "softly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 195,
+        "word_english": "somewhat",
+        "word_turkish": "biraz"
+    },
+    {
+        "id": 196,
+        "word_english": "suddenly",
+        "word_turkish": "ani bir şekilde"
+    },
+    {
+        "id": 197,
+        "word_english": "surprisingly",
+        "word_turkish": "şaşırtıcı bir şekilde"
+    },
+    {
+        "id": 198,
+        "word_english": "thankfully",
+        "word_turkish": "şükür ki"
+    },
+    {
+        "id": 199,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 200,
+        "word_english": "together",
+        "word_turkish": "birlikte"
+    },
+    {
+        "id": 201,
+        "word_english": "totally",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 202,
+        "word_english": "traditionally",
+        "word_turkish": "geleneksel olarak"
+    },
+    {
+        "id": 203,
+        "word_english": "typically",
+        "word_turkish": "tipik olarak"
+    },
+    {
+        "id": 204,
+        "word_english": "ultimately",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 205,
+        "word_english": "unexpectedly",
+        "word_turkish": "beklenmedik bir şekilde"
+    },
+    {
+        "id": 206,
+        "word_english": "usually",
+        "word_turkish": "genellikle"
+    },
+    {
+        "id": 207,
+        "word_english": "very",
+        "word_turkish": "çok"
+    },
+    {
+        "id": 208,
+        "word_english": "willingly",
+        "word_turkish": "isteyerek"
+    },
+    {
+        "id": 209,
+        "word_english": "wisely",
+        "word_turkish": "bilgece"
+    },
+    {
+        "id": 210,
+        "word_english": "wrongly",
+        "word_turkish": "yanlış bir şekilde"
+    },
+    {
+        "id": 211,
+        "word_english": "abruptly",
+        "word_turkish": "aniden"
+    },
+    {
+        "id": 212,
+        "word_english": "abstractly",
+        "word_turkish": "soyut olarak"
+    },
+    {
+        "id": 213,
+        "word_english": "actually",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 214,
+        "word_english": "alternatively",
+        "word_turkish": "alternatif olarak"
+    },
+    {
+        "id": 215,
+        "word_english": "angrily",
+        "word_turkish": "öfkeyle"
+    },
+    {
+        "id": 216,
+        "word_english": "anonymously",
+        "word_turkish": "anonim olarak"
+    },
+    {
+        "id": 217,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 218,
+        "word_english": "aptly",
+        "word_turkish": "yerinde"
+    },
+    {
+        "id": 219,
+        "word_english": "arbitrarily",
+        "word_turkish": "keyfi olarak"
+    },
+    {
+        "id": 220,
+        "word_english": "awkwardly",
+        "word_turkish": "rahatsız edici bir şekilde"
+    },
+    {
+        "id": 221,
+        "word_english": "backward",
+        "word_turkish": "geriye doğru"
+    },
+    {
+        "id": 222,
+        "word_english": "barely",
+        "word_turkish": "güçlükle"
+    },
+    {
+        "id": 223,
+        "word_english": "blissfully",
+        "word_turkish": "mutluluk içinde"
+    },
+    {
+        "id": 224,
+        "word_english": "bluntly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 225,
+        "word_english": "boldly",
+        "word_turkish": "cesurca"
+    },
+    {
+        "id": 226,
+        "word_english": "briefly",
+        "word_turkish": "kısaca"
+    },
+    {
+        "id": 227,
+        "word_english": "carelessly",
+        "word_turkish": "dikkatsizce"
+    },
+    {
+        "id": 228,
+        "word_english": "casually",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 229,
+        "word_english": "clearly",
+        "word_turkish": "açık bir şekilde"
+    },
+    {
+        "id": 230,
+        "word_english": "clumsily",
+        "word_turkish": "sakar bir şekilde"
+    },
+    {
+        "id": 231,
+        "word_english": "comparatively",
+        "word_turkish": "nispeten"
+    },
+    {
+        "id": 232,
+        "word_english": "consistently",
+        "word_turkish": "tutarlı bir şekilde"
+    },
+    {
+        "id": 233,
+        "word_english": "conveniently",
+        "word_turkish": "uygun bir şekilde"
+    },
+    {
+        "id": 234,
+        "word_english": "courageously",
+        "word_turkish": "cesaretle"
+    },
+    {
+        "id": 235,
+        "word_english": "curiously",
+        "word_turkish": "merakla"
+    },
+    {
+        "id": 236,
+        "word_english": "deeply",
+        "word_turkish": "derin bir şekilde"
+    },
+    {
+        "id": 237,
+        "word_english": "deliberately",
+        "word_turkish": "kasten"
+    },
+    {
+        "id": 238,
+        "word_english": "demonstrably",
+        "word_turkish": "gösterilebilir bir şekilde"
+    },
+    {
+        "id": 239,
+        "word_english": "diligently",
+        "word_turkish": "çalışkan bir şekilde"
+    },
+    {
+        "id": 240,
+        "word_english": "doubtfully",
+        "word_turkish": "şüpheyle"
+    },
+    {
+        "id": 241,
+        "word_english": "dramatically",
+        "word_turkish": "dramatik bir şekilde"
+    },
+    {
+        "id": 242,
+        "word_english": "eagerly",
+        "word_turkish": "istekli bir şekilde"
+    },
+    {
+        "id": 243,
+        "word_english": "elegantly",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 244,
+        "word_english": "endlessly",
+        "word_turkish": "sonsuzca"
+    },
+    {
+        "id": 245,
+        "word_english": "enthusiastically",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 246,
+        "word_english": "eventually",
+        "word_turkish": "sonunda"
+    },
+    {
+        "id": 247,
+        "word_english": "exceedingly",
+        "word_turkish": "aşırı derecede"
+    },
+    {
+        "id": 248,
+        "word_english": "exhaustively",
+        "word_turkish": "kapsamlı bir şekilde"
+    },
+    {
+        "id": 249,
+        "word_english": "exquisitely",
+        "word_turkish": "incelikle"
+    },
+    {
+        "id": 250,
+        "word_english": "faintly",
+        "word_turkish": "belirsizce"
+    },
+    {
+        "id": 251,
+        "word_english": "fairly",
+        "word_turkish": "nispeten"
+    },
+    {
+        "id": 252,
+        "word_english": "fiercely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 253,
+        "word_english": "fortuitously",
+        "word_turkish": "şans eseri"
+    },
+    {
+        "id": 254,
+        "word_english": "frequently",
+        "word_turkish": "sıklıkla"
+    },
+    {
+        "id": 255,
+        "word_english": "futilely",
+        "word_turkish": "boşa"
+    },
+    {
+        "id": 256,
+        "word_english": "genuinely",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 257,
+        "word_english": "gratefully",
+        "word_turkish": "şükranla"
+    },
+    {
+        "id": 258,
+        "word_english": "hastily",
+        "word_turkish": "aceleyle"
+    },
+    {
+        "id": 259,
+        "word_english": "helplessly",
+        "word_turkish": "çaresizce"
+    },
+    {
+        "id": 260,
+        "word_english": "hopelessly",
+        "word_turkish": "ümitsizce"
+    },
+    {
+        "id": 261,
+        "word_english": "illogically",
+        "word_turkish": "mantıksız bir şekilde"
+    },
+    {
+        "id": 262,
+        "word_english": "impeccably",
+        "word_turkish": "kusursuzca"
+    },
+    {
+        "id": 263,
+        "word_english": "impressively",
+        "word_turkish": "etkileyici bir şekilde"
+    },
+    {
+        "id": 264,
+        "word_english": "incredibly",
+        "word_turkish": "inanılmaz bir şekilde"
+    },
+    {
+        "id": 265,
+        "word_english": "inherently",
+        "word_turkish": "doğasında"
+    },
+    {
+        "id": 266,
+        "word_english": "innocently",
+        "word_turkish": "masumca"
+    },
+    {
+        "id": 267,
+        "word_english": "intensely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 268,
+        "word_english": "ironically",
+        "word_turkish": "ironik bir şekilde"
+    },
+    {
+        "id": 269,
+        "word_english": "irregularly",
+        "word_turkish": "düzensiz bir şekilde"
+    },
+    {
+        "id": 270,
+        "word_english": "kiddingly",
+        "word_turkish": "şaka yollu"
+    },
+    {
+        "id": 271,
+        "word_english": "knowingly",
+        "word_turkish": "bilerek"
+    },
+    {
+        "id": 272,
+        "word_english": "lazily",
+        "word_turkish": "tembelce"
+    },
+    {
+        "id": 273,
+        "word_english": "leniently",
+        "word_turkish": "hoşgörülü bir şekilde"
+    },
+    {
+        "id": 274,
+        "word_english": "merrily",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 275,
+        "word_english": "methodically",
+        "word_turkish": "metodik olarak"
+    },
+    {
+        "id": 276,
+        "word_english": "miserably",
+        "word_turkish": "perişan bir şekilde"
+    },
+    {
+        "id": 277,
+        "word_english": "monotonously",
+        "word_turkish": "monoton bir şekilde"
+    },
+    {
+        "id": 278,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 279,
+        "word_english": "needlessly",
+        "word_turkish": "gereksiz yere"
+    },
+    {
+        "id": 280,
+        "word_english": "obediently",
+        "word_turkish": "itaatkar bir şekilde"
+    },
+    {
+        "id": 281,
+        "word_english": "obviously",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 282,
+        "word_english": "opportunely",
+        "word_turkish": "uygun bir zamanda"
+    },
+    {
+        "id": 283,
+        "word_english": "ordinarily",
+        "word_turkish": "sıradan bir şekilde"
+    },
+    {
+        "id": 284,
+        "word_english": "particularly",
+        "word_turkish": "özellikle"
+    },
+    {
+        "id": 285,
+        "word_english": "persistently",
+        "word_turkish": "ısrarla"
+    },
+    {
+        "id": 286,
+        "word_english": "playfully",
+        "word_turkish": "şakacı bir şekilde"
+    },
+    {
+        "id": 287,
+        "word_english": "politely",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 288,
+        "word_english": "positively",
+        "word_turkish": "olumlu bir şekilde"
+    },
+    {
+        "id": 289,
+        "word_english": "powerfully",
+        "word_turkish": "güçlü bir şekilde"
+    },
+    {
+        "id": 290,
+        "word_english": "precisely",
+        "word_turkish": "tam olarak"
+    },
+    {
+        "id": 291,
+        "word_english": "quickly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 292,
+        "word_english": "quietly",
+        "word_turkish": "sessizce"
+    },
+    {
+        "id": 293,
+        "word_english": "randomly",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 294,
+        "word_english": "readily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 295,
+        "word_english": "remarkably",
+        "word_turkish": "olağanüstü bir şekilde"
+    },
+    {
+        "id": 296,
+        "word_english": "repeatedly",
+        "word_turkish": "defalarca"
+    },
+    {
+        "id": 297,
+        "word_english": "ridiculously",
+        "word_turkish": "saçma bir şekilde"
+    },
+    {
+        "id": 298,
+        "word_english": "routinely",
+        "word_turkish": "geleneksel bir şekilde"
+    },
+    {
+        "id": 299,
+        "word_english": "safely",
+        "word_turkish": "güvenli bir şekilde"
+    },
+    {
+        "id": 300,
+        "word_english": "seamlessly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 301,
+        "word_english": "seriously",
+        "word_turkish": "ciddi bir şekilde"
+    },
+    {
+        "id": 302,
+        "word_english": "sharply",
+        "word_turkish": "keskin bir şekilde"
+    },
+    {
+        "id": 303,
+        "word_english": "shrewdly",
+        "word_turkish": "zekice"
+    },
+    {
+        "id": 304,
+        "word_english": "simply",
+        "word_turkish": "basitçe"
+    },
+    {
+        "id": 305,
+        "word_english": "smoothly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 306,
+        "word_english": "softly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 307,
+        "word_english": "spontaneously",
+        "word_turkish": "kendiliğinden"
+    },
+    {
+        "id": 308,
+        "word_english": "steadily",
+        "word_turkish": "istikrarlı bir şekilde"
+    },
+    {
+        "id": 309,
+        "word_english": "strategically",
+        "word_turkish": "stratejik olarak"
+    },
+    {
+        "id": 310,
+        "word_english": "stupidly",
+        "word_turkish": "aptalca"
+    },
+    {
+        "id": 311,
+        "word_english": "surprisingly",
+        "word_turkish": "şaşırtıcı bir şekilde"
+    },
+    {
+        "id": 312,
+        "word_english": "sweetly",
+        "word_turkish": "tatlı bir şekilde"
+    },
+    {
+        "id": 313,
+        "word_english": "tactfully",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 314,
+        "word_english": "technically",
+        "word_turkish": "teknik olarak"
+    },
+    {
+        "id": 315,
+        "word_english": "temporarily",
+        "word_turkish": "geçici olarak"
+    },
+    {
+        "id": 316,
+        "word_english": "tenderly",
+        "word_turkish": "nazik bir şekilde"
+    },
+    {
+        "id": 317,
+        "word_english": "theoretically",
+        "word_turkish": "teorik olarak"
+    },
+    {
+        "id": 318,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 319,
+        "word_english": "tirelessly",
+        "word_turkish": "yorulmadan"
+    },
+    {
+        "id": 320,
+        "word_english": "together",
+        "word_turkish": "birlikte"
+    },
+    {
+        "id": 321,
+        "word_english": "tragically",
+        "word_turkish": "trajik bir şekilde"
+    },
+    {
+        "id": 322,
+        "word_english": "transparently",
+        "word_turkish": "şeffaf bir şekilde"
+    },
+    {
+        "id": 323,
+        "word_english": "ultimately",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 324,
+        "word_english": "unbelievably",
+        "word_turkish": "inanılmaz bir şekilde"
+    },
+    {
+        "id": 325,
+        "word_english": "unexpectedly",
+        "word_turkish": "beklenmedik bir şekilde"
+    },
+    {
+        "id": 326,
+        "word_english": "unintentionally",
+        "word_turkish": "kasdî olmayan bir şekilde"
+    },
+    {
+        "id": 327,
+        "word_english": "unpleasantly",
+        "word_turkish": "hoş olmayan bir şekilde"
+    },
+    {
+        "id": 328,
+        "word_english": "urgently",
+        "word_turkish": "acil bir şekilde"
+    },
+    {
+        "id": 329,
+        "word_english": "uselessly",
+        "word_turkish": "faydasız bir şekilde"
+    },
+    {
+        "id": 330,
+        "word_english": "vanishly",
+        "word_turkish": "kaybolmuş bir şekilde"
+    },
+    {
+        "id": 331,
+        "word_english": "vastly",
+        "word_turkish": "büyük ölçüde"
+    },
+    {
+        "id": 332,
+        "word_english": "virtually",
+        "word_turkish": "pratikte"
+    },
+    {
+        "id": 333,
+        "word_english": "warmly",
+        "word_turkish": "sıcak bir şekilde"
+    },
+    {
+        "id": 334,
+        "word_english": "weakly",
+        "word_turkish": "zayıf bir şekilde"
+    },
+    {
+        "id": 335,
+        "word_english": "wearily",
+        "word_turkish": "yorgun bir şekilde"
+    },
+    {
+        "id": 336,
+        "word_english": "wisely",
+        "word_turkish": "bilgece"
+    },
+    {
+        "id": 337,
+        "word_english": "wonderfully",
+        "word_turkish": "harika bir şekilde"
+    },
+    {
+        "id": 338,
+        "word_english": "wrongly",
+        "word_turkish": "yanlış bir şekilde"
+    },
+    {
+        "id": 339,
+        "word_english": "absolutely",
+        "word_turkish": "kesinlikle"
+    },
+    {
+        "id": 340,
+        "word_english": "adventurously",
+        "word_turkish": "macera dolu bir şekilde"
+    },
+    {
+        "id": 341,
+        "word_english": "agonizingly",
+        "word_turkish": "acı verici bir şekilde"
+    },
+    {
+        "id": 342,
+        "word_english": "allegedly",
+        "word_turkish": "iddia edildiği gibi"
+    },
+    {
+        "id": 343,
+        "word_english": "alternatively",
+        "word_turkish": "alternatif olarak"
+    },
+    {
+        "id": 344,
+        "word_english": "angrily",
+        "word_turkish": "öfkeyle"
+    },
+    {
+        "id": 345,
+        "word_english": "anecdotally",
+        "word_turkish": "anektodlarla"
+    },
+    {
+        "id": 346,
+        "word_english": "anonymously",
+        "word_turkish": "anonim olarak"
+    },
+    {
+        "id": 347,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 348,
+        "word_english": "aptly",
+        "word_turkish": "yerinde"
+    },
+    {
+        "id": 349,
+        "word_english": "awkwardly",
+        "word_turkish": "rahatsız edici bir şekilde"
+    },
+    {
+        "id": 350,
+        "word_english": "backward",
+        "word_turkish": "geriye doğru"
+    },
+    {
+        "id": 351,
+        "word_english": "barely",
+        "word_turkish": "güçlükle"
+    },
+    {
+        "id": 352,
+        "word_english": "blissfully",
+        "word_turkish": "mutluluk içinde"
+    },
+    {
+        "id": 353,
+        "word_english": "bluntly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 354,
+        "word_english": "boldly",
+        "word_turkish": "cesurca"
+    },
+    {
+        "id": 355,
+        "word_english": "briefly",
+        "word_turkish": "kısaca"
+    },
+    {
+        "id": 356,
+        "word_english": "calmly",
+        "word_turkish": "sakin bir şekilde"
+    },
+    {
+        "id": 357,
+        "word_english": "casually",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 358,
+        "word_english": "chaotically",
+        "word_turkish": "kaotik bir şekilde"
+    },
+    {
+        "id": 359,
+        "word_english": "cheerfully",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 360,
+        "word_english": "cautiously",
+        "word_turkish": "dikkatli bir şekilde"
+    },
+    {
+        "id": 361,
+        "word_english": "clearly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 362,
+        "word_english": "clumsily",
+        "word_turkish": "sakar bir şekilde"
+    },
+    {
+        "id": 363,
+        "word_english": "coherently",
+        "word_turkish": "tutarlı bir şekilde"
+    },
+    {
+        "id": 364,
+        "word_english": "comfortably",
+        "word_turkish": "rahat bir şekilde"
+    },
+    {
+        "id": 365,
+        "word_english": "competitively",
+        "word_turkish": "rekabetçi bir şekilde"
+    },
+    {
+        "id": 366,
+        "word_english": "consistently",
+        "word_turkish": "tutarlı bir şekilde"
+    },
+    {
+        "id": 367,
+        "word_english": "conveniently",
+        "word_turkish": "uygun bir şekilde"
+    },
+    {
+        "id": 368,
+        "word_english": "courageously",
+        "word_turkish": "cesaretle"
+    },
+    {
+        "id": 369,
+        "word_english": "curiously",
+        "word_turkish": "merakla"
+    },
+    {
+        "id": 370,
+        "word_english": "deliberately",
+        "word_turkish": "kasten"
+    },
+    {
+        "id": 371,
+        "word_english": "demonstratively",
+        "word_turkish": "gösterişli bir şekilde"
+    },
+    {
+        "id": 372,
+        "word_english": "desperately",
+        "word_turkish": "çaresizce"
+    },
+    {
+        "id": 373,
+        "word_english": "diligently",
+        "word_turkish": "çalışkan bir şekilde"
+    },
+    {
+        "id": 374,
+        "word_english": "discreetly",
+        "word_turkish": "gizli bir şekilde"
+    },
+    {
+        "id": 375,
+        "word_english": "dramatically",
+        "word_turkish": "dramatik bir şekilde"
+    },
+    {
+        "id": 376,
+        "word_english": "eagerly",
+        "word_turkish": "istekli bir şekilde"
+    },
+    {
+        "id": 377,
+        "word_english": "elegantly",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 378,
+        "word_english": "emotionally",
+        "word_turkish": "duygusal olarak"
+    },
+    {
+        "id": 379,
+        "word_english": "energetically",
+        "word_turkish": "enerjik bir şekilde"
+    },
+    {
+        "id": 380,
+        "word_english": "enthusiastically",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 381,
+        "word_english": "eventually",
+        "word_turkish": "sonunda"
+    },
+    {
+        "id": 382,
+        "word_english": "exceedingly",
+        "word_turkish": "aşırı derecede"
+    },
+    {
+        "id": 383,
+        "word_english": "exhaustively",
+        "word_turkish": "kapsamlı bir şekilde"
+    },
+    {
+        "id": 384,
+        "word_english": "exquisitely",
+        "word_turkish": "ince bir şekilde"
+    },
+    {
+        "id": 385,
+        "word_english": "faintly",
+        "word_turkish": "belirsizce"
+    },
+    {
+        "id": 386,
+        "word_english": "fairly",
+        "word_turkish": "nispeten"
+    },
+    {
+        "id": 387,
+        "word_english": "fiercely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 388,
+        "word_english": "fortuitously",
+        "word_turkish": "şans eseri"
+    },
+    {
+        "id": 389,
+        "word_english": "frequently",
+        "word_turkish": "sıklıkla"
+    },
+    {
+        "id": 390,
+        "word_english": "futilely",
+        "word_turkish": "boşa"
+    },
+    {
+        "id": 391,
+        "word_english": "genuinely",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 392,
+        "word_english": "gladly",
+        "word_turkish": "memnuniyetle"
+    },
+    {
+        "id": 393,
+        "word_english": "gracefully",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 394,
+        "word_english": "hastily",
+        "word_turkish": "aceleyle"
+    },
+    {
+        "id": 395,
+        "word_english": "helplessly",
+        "word_turkish": "çaresizce"
+    },
+    {
+        "id": 396,
+        "word_english": "honestly",
+        "word_turkish": "dürüstçe"
+    },
+    {
+        "id": 397,
+        "word_english": "hopelessly",
+        "word_turkish": "ümitsizce"
+    },
+    {
+        "id": 398,
+        "word_english": "however",
+        "word_turkish": "ancak"
+    },
+    {
+        "id": 399,
+        "word_english": "immediately",
+        "word_turkish": "hemen"
+    },
+    {
+        "id": 400,
+        "word_english": "impeccably",
+        "word_turkish": "kusursuzca"
+    },
+    {
+        "id": 401,
+        "word_english": "incredibly",
+        "word_turkish": "inanılmaz bir şekilde"
+    },
+    {
+        "id": 402,
+        "word_english": "innocently",
+        "word_turkish": "masumca"
+    },
+    {
+        "id": 403,
+        "word_english": "intensely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 404,
+        "word_english": "ironically",
+        "word_turkish": "ironik bir şekilde"
+    },
+    {
+        "id": 405,
+        "word_english": "knowingly",
+        "word_turkish": "bilerek"
+    },
+    {
+        "id": 406,
+        "word_english": "lazily",
+        "word_turkish": "tembelce"
+    },
+    {
+        "id": 407,
+        "word_english": "merely",
+        "word_turkish": "sadece"
+    },
+    {
+        "id": 408,
+        "word_english": "meticulously",
+        "word_turkish": "titizlikle"
+    },
+    {
+        "id": 409,
+        "word_english": "methodically",
+        "word_turkish": "metodik olarak"
+    },
+    {
+        "id": 410,
+        "word_english": "miserably",
+        "word_turkish": "perişan bir şekilde"
+    },
+    {
+        "id": 411,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 412,
+        "word_english": "needlessly",
+        "word_turkish": "gereksiz yere"
+    },
+    {
+        "id": 413,
+        "word_english": "obediently",
+        "word_turkish": "itaatkar bir şekilde"
+    },
+    {
+        "id": 414,
+        "word_english": "obviously",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 415,
+        "word_english": "occasionally",
+        "word_turkish": "ara sıra"
+    },
+    {
+        "id": 416,
+        "word_english": "ordinarily",
+        "word_turkish": "sıradan bir şekilde"
+    },
+    {
+        "id": 417,
+        "word_english": "particularly",
+        "word_turkish": "özellikle"
+    },
+    {
+        "id": 418,
+        "word_english": "patiently",
+        "word_turkish": "sabırlı bir şekilde"
+    },
+    {
+        "id": 419,
+        "word_english": "playfully",
+        "word_turkish": "şakacı bir şekilde"
+    },
+    {
+        "id": 420,
+        "word_english": "politely",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 421,
+        "word_english": "positively",
+        "word_turkish": "olumlu bir şekilde"
+    },
+    {
+        "id": 422,
+        "word_english": "powerfully",
+        "word_turkish": "güçlü bir şekilde"
+    },
+    {
+        "id": 423,
+        "word_english": "precisely",
+        "word_turkish": "tam olarak"
+    },
+    {
+        "id": 424,
+        "word_english": "quickly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 425,
+        "word_english": "quietly",
+        "word_turkish": "sessizce"
+    },
+    {
+        "id": 426,
+        "word_english": "randomly",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 427,
+        "word_english": "readily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 428,
+        "word_english": "remarkably",
+        "word_turkish": "olağanüstü bir şekilde"
+    },
+    {
+        "id": 429,
+        "word_english": "repeatedly",
+        "word_turkish": "defalarca"
+    },
+    {
+        "id": 430,
+        "word_english": "ridiculously",
+        "word_turkish": "saçma bir şekilde"
+    },
+    {
+        "id": 431,
+        "word_english": "safely",
+        "word_turkish": "güvenli bir şekilde"
+    },
+    {
+        "id": 432,
+        "word_english": "seamlessly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 433,
+        "word_english": "seriously",
+        "word_turkish": "ciddi bir şekilde"
+    },
+    {
+        "id": 434,
+        "word_english": "sharply",
+        "word_turkish": "keskin bir şekilde"
+    },
+    {
+        "id": 435,
+        "word_english": "shrewdly",
+        "word_turkish": "zekice"
+    },
+    {
+        "id": 436,
+        "word_english": "simply",
+        "word_turkish": "basitçe"
+    },
+    {
+        "id": 437,
+        "word_english": "smoothly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 438,
+        "word_english": "softly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 439,
+        "word_english": "spontaneously",
+        "word_turkish": "kendiliğinden"
+    },
+    {
+        "id": 440,
+        "word_english": "steadily",
+        "word_turkish": "istikrarlı bir şekilde"
+    },
+    {
+        "id": 441,
+        "word_english": "strategically",
+        "word_turkish": "stratejik olarak"
+    },
+    {
+        "id": 442,
+        "word_english": "stupidly",
+        "word_turkish": "aptalca"
+    },
+    {
+        "id": 443,
+        "word_english": "surprisingly",
+        "word_turkish": "şaşırtıcı bir şekilde"
+    },
+    {
+        "id": 444,
+        "word_english": "sweetly",
+        "word_turkish": "tatlı bir şekilde"
+    },
+    {
+        "id": 445,
+        "word_english": "tactfully",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 446,
+        "word_english": "technically",
+        "word_turkish": "teknik olarak"
+    },
+    {
+        "id": 447,
+        "word_english": "temporarily",
+        "word_turkish": "geçici olarak"
+    },
+    {
+        "id": 448,
+        "word_english": "tenderly",
+        "word_turkish": "nazik bir şekilde"
+    },
+    {
+        "id": 449,
+        "word_english": "theoretically",
+        "word_turkish": "teorik olarak"
+    },
+    {
+        "id": 450,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 451,
+        "word_english": "tirelessly",
+        "word_turkish": "yorulmadan"
+    },
+    {
+        "id": 452,
+        "word_english": "together",
+        "word_turkish": "birlikte"
+    },
+    {
+        "id": 453,
+        "word_english": "tragically",
+        "word_turkish": "trajik bir şekilde"
+    },
+    {
+        "id": 454,
+        "word_english": "transparently",
+        "word_turkish": "şeffaf bir şekilde"
+    },
+    {
+        "id": 455,
+        "word_english": "ultimately",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 456,
+        "word_english": "unbelievably",
+        "word_turkish": "inanılmaz bir şekilde"
+    },
+    {
+        "id": 457,
+        "word_english": "unexpectedly",
+        "word_turkish": "beklenmedik bir şekilde"
+    },
+    {
+        "id": 458,
+        "word_english": "unintentionally",
+        "word_turkish": "kasdî olmayan bir şekilde"
+    },
+    {
+        "id": 459,
+        "word_english": "uselessly",
+        "word_turkish": "faydasız bir şekilde"
+    },
+    {
+        "id": 460,
+        "word_english": "vastly",
+        "word_turkish": "büyük ölçüde"
+    },
+    {
+        "id": 461,
+        "word_english": "virtually",
+        "word_turkish": "pratikte"
+    },
+    {
+        "id": 462,
+        "word_english": "warmly",
+        "word_turkish": "sıcak bir şekilde"
+    },
+    {
+        "id": 463,
+        "word_english": "weakly",
+        "word_turkish": "zayıf bir şekilde"
+    },
+    {
+        "id": 464,
+        "word_english": "wearily",
+        "word_turkish": "yorgun bir şekilde"
+    },
+    {
+        "id": 465,
+        "word_english": "wisely",
+        "word_turkish": "bilgece"
+    },
+    {
+        "id": 466,
+        "word_english": "wonderfully",
+        "word_turkish": "harika bir şekilde"
+    },
+    {
+        "id": 467,
+        "word_english": "wrongly",
+        "word_turkish": "yanlış bir şekilde"
+    },
+    {
+        "id": 572,
+        "word_english": "ambitiously",
+        "word_turkish": "hırsla"
+    },
+    {
+        "id": 573,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 574,
+        "word_english": "ardently",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 575,
+        "word_english": "artfully",
+        "word_turkish": "sanatkarca"
+    },
+    {
+        "id": 576,
+        "word_english": "attentively",
+        "word_turkish": "dikkatlice"
+    },
+    {
+        "id": 577,
+        "word_english": "authentically",
+        "word_turkish": "özgün bir şekilde"
+    },
+    {
+        "id": 578,
+        "word_english": "awkwardly",
+        "word_turkish": "rahatsız edici bir şekilde"
+    },
+    {
+        "id": 579,
+        "word_english": "bitterly",
+        "word_turkish": "acı bir şekilde"
+    },
+    {
+        "id": 580,
+        "word_english": "calmly",
+        "word_turkish": "sakin bir şekilde"
+    },
+    {
+        "id": 581,
+        "word_english": "carefully",
+        "word_turkish": "dikkatlice"
+    },
+    {
+        "id": 582,
+        "word_english": "casually",
+        "word_turkish": "rastgele"
+    },
+    {
+        "id": 583,
+        "word_english": "chaotically",
+        "word_turkish": "kaotik bir şekilde"
+    },
+    {
+        "id": 584,
+        "word_english": "cheerfully",
+        "word_turkish": "neşeyle"
+    },
+    {
+        "id": 585,
+        "word_english": "clearly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 586,
+        "word_english": "clumsily",
+        "word_turkish": "sakar bir şekilde"
+    },
+    {
+        "id": 587,
+        "word_english": "confidently",
+        "word_turkish": "kendinden emin bir şekilde"
+    },
+    {
+        "id": 588,
+        "word_english": "consistently",
+        "word_turkish": "tutarlı bir şekilde"
+    },
+    {
+        "id": 589,
+        "word_english": "conveniently",
+        "word_turkish": "uygun bir şekilde"
+    },
+    {
+        "id": 590,
+        "word_english": "courageously",
+        "word_turkish": "cesaretle"
+    },
+    {
+        "id": 591,
+        "word_english": "curiously",
+        "word_turkish": "merakla"
+    },
+    {
+        "id": 592,
+        "word_english": "deeply",
+        "word_turkish": "derin bir şekilde"
+    },
+    {
+        "id": 593,
+        "word_english": "desperately",
+        "word_turkish": "çaresizce"
+    },
+    {
+        "id": 594,
+        "word_english": "discreetly",
+        "word_turkish": "gizli bir şekilde"
+    },
+    {
+        "id": 595,
+        "word_english": "dramatically",
+        "word_turkish": "dramatik bir şekilde"
+    },
+    {
+        "id": 596,
+        "word_english": "eagerly",
+        "word_turkish": "istekli bir şekilde"
+    },
+    {
+        "id": 597,
+        "word_english": "efficiently",
+        "word_turkish": "verimli bir şekilde"
+    },
+    {
+        "id": 598,
+        "word_english": "emotionally",
+        "word_turkish": "duygusal olarak"
+    },
+    {
+        "id": 599,
+        "word_english": "enthusiastically",
+        "word_turkish": "hevesle"
+    },
+    {
+        "id": 600,
+        "word_english": "exceedingly",
+        "word_turkish": "aşırı derecede"
+    },
+    {
+        "id": 601,
+        "word_english": "exhaustively",
+        "word_turkish": "kapsamlı bir şekilde"
+    },
+    {
+        "id": 602,
+        "word_english": "exquisitely",
+        "word_turkish": "ince bir şekilde"
+    },
+    {
+        "id": 603,
+        "word_english": "faithfully",
+        "word_turkish": "sadık bir şekilde"
+    },
+    {
+        "id": 604,
+        "word_english": "fiercely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 605,
+        "word_english": "frequently",
+        "word_turkish": "sıklıkla"
+    },
+    {
+        "id": 606,
+        "word_english": "genuinely",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 607,
+        "word_english": "gracefully",
+        "word_turkish": "zarif bir şekilde"
+    },
+    {
+        "id": 634,
+        "word_english": "routinely",
+        "word_turkish": "sık sık"
+    },
+    {
+        "id": 635,
+        "word_english": "safely",
+        "word_turkish": "güvenli bir şekilde"
+    },
+    {
+        "id": 636,
+        "word_english": "secretly",
+        "word_turkish": "gizlice"
+    },
+    {
+        "id": 637,
+        "word_english": "seriously",
+        "word_turkish": "ciddi bir şekilde"
+    },
+    {
+        "id": 638,
+        "word_english": "sharply",
+        "word_turkish": "keskin bir şekilde"
+    },
+    {
+        "id": 639,
+        "word_english": "simply",
+        "word_turkish": "basitçe"
+    },
+    {
+        "id": 640,
+        "word_english": "smoothly",
+        "word_turkish": "pürüzsüz bir şekilde"
+    },
+    {
+        "id": 641,
+        "word_english": "softly",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 642,
+        "word_english": "steadily",
+        "word_turkish": "istikrarlı bir şekilde"
+    },
+    {
+        "id": 643,
+        "word_english": "strategically",
+        "word_turkish": "stratejik olarak"
+    },
+    {
+        "id": 644,
+        "word_english": "surprisingly",
+        "word_turkish": "şaşırtıcı bir şekilde"
+    },
+    {
+        "id": 645,
+        "word_english": "tactfully",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 646,
+        "word_english": "technically",
+        "word_turkish": "teknik olarak"
+    },
+    {
+        "id": 647,
+        "word_english": "thankfully",
+        "word_turkish": "şükrederek"
+    },
+    {
+        "id": 648,
+        "word_english": "theoretically",
+        "word_turkish": "teorik olarak"
+    },
+    {
+        "id": 649,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 650,
+        "word_english": "timidly",
+        "word_turkish": "ürkekçe"
+    },
+    {
+        "id": 651,
+        "word_english": "together",
+        "word_turkish": "birlikte"
+    },
+    {
+        "id": 652,
+        "word_english": "tragically",
+        "word_turkish": "trajik bir şekilde"
+    },
+    {
+        "id": 653,
+        "word_english": "truly",
+        "word_turkish": "gerçekten"
+    },
+    {
+        "id": 654,
+        "word_english": "ultimately",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 655,
+        "word_english": "unexpectedly",
+        "word_turkish": "beklenmedik bir şekilde"
+    },
+    {
+        "id": 656,
+        "word_english": "unfortunately",
+        "word_turkish": "ne yazık ki"
+    },
+    {
+        "id": 657,
+        "word_english": "unintentionally",
+        "word_turkish": "kasdî olmayan bir şekilde"
+    },
+    {
+        "id": 658,
+        "word_english": "unusually",
+        "word_turkish": "olağandışı bir şekilde"
+    },
+    {
+        "id": 659,
+        "word_english": "urgently",
+        "word_turkish": "acil bir şekilde"
+    },
+    {
+        "id": 660,
+        "word_english": "vainly",
+        "word_turkish": "boşa"
+    },
+    {
+        "id": 661,
+        "word_english": "violently",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 662,
+        "word_english": "warmly",
+        "word_turkish": "sıcak bir şekilde"
+    },
+    {
+        "id": 663,
+        "word_english": "weakly",
+        "word_turkish": "zayıf bir şekilde"
+    },
+    {
+        "id": 664,
+        "word_english": "wearily",
+        "word_turkish": "yorgun bir şekilde"
+    },
+    {
+        "id": 665,
+        "word_english": "wisely",
+        "word_turkish": "bilgece"
+    },
+    {
+        "id": 666,
+        "word_english": "wondrously",
+        "word_turkish": "harika bir şekilde"
+    },
+    {
+        "id": 667,
+        "word_english": "wrongly",
+        "word_turkish": "yanlış bir şekilde"
+    },
+    {
+        "id": 668,
+        "word_english": "abruptly",
+        "word_turkish": "ani bir şekilde"
+    },
+    {
+        "id": 669,
+        "word_english": "abundantly",
+        "word_turkish": "bolca"
+    },
+    {
+        "id": 670,
+        "word_english": "anxiously",
+        "word_turkish": "endişeyle"
+    },
+    {
+        "id": 671,
+        "word_english": "arbitrarily",
+        "word_turkish": "keyfi bir şekilde"
+    },
+    {
+        "id": 672,
+        "word_english": "barely",
+        "word_turkish": "güçlükle"
+    },
+    {
+        "id": 673,
+        "word_english": "blindly",
+        "word_turkish": "körce"
+    },
+    {
+        "id": 674,
+        "word_english": "boldly",
+        "word_turkish": "cesurca"
+    },
+    {
+        "id": 675,
+        "word_english": "briefly",
+        "word_turkish": "kısaca"
+    },
+    {
+        "id": 676,
+        "word_english": "carelessly",
+        "word_turkish": "dikkatsizce"
+    },
+    {
+        "id": 677,
+        "word_english": "clearly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 678,
+        "word_english": "clumsily",
+        "word_turkish": "sakar bir şekilde"
+    },
+    {
+        "id": 679,
+        "word_english": "coldly",
+        "word_turkish": "soğuk bir şekilde"
+    },
+    {
+        "id": 680,
+        "word_english": "curiously",
+        "word_turkish": "merakla"
+    },
+    {
+        "id": 681,
+        "word_english": "decidedly",
+        "word_turkish": "kesin bir şekilde"
+    },
+    {
+        "id": 682,
+        "word_english": "deftly",
+        "word_turkish": "ustaca"
+    },
+    {
+        "id": 683,
+        "word_english": "delightfully",
+        "word_turkish": "sevinçle"
+    },
+    {
+        "id": 684,
+        "word_english": "distinctly",
+        "word_turkish": "belirgin bir şekilde"
+    },
+    {
+        "id": 685,
+        "word_english": "eagerly",
+        "word_turkish": "istekli bir şekilde"
+    },
+    {
+        "id": 686,
+        "word_english": "eventually",
+        "word_turkish": "sonunda"
+    },
+    {
+        "id": 687,
+        "word_english": "exceedingly",
+        "word_turkish": "aşırı derecede"
+    },
+    {
+        "id": 688,
+        "word_english": "freely",
+        "word_turkish": "özgürce"
+    },
+    {
+        "id": 689,
+        "word_english": "generously",
+        "word_turkish": "cömertçe"
+    },
+    {
+        "id": 690,
+        "word_english": "grudgingly",
+        "word_turkish": "istemeden"
+    },
+    {
+        "id": 691,
+        "word_english": "guiltily",
+        "word_turkish": "suçlu bir şekilde"
+    },
+    {
+        "id": 692,
+        "word_english": "haphazardly",
+        "word_turkish": "dağınık bir şekilde"
+    },
+    {
+        "id": 693,
+        "word_english": "humbly",
+        "word_turkish": "alçakgönüllü bir şekilde"
+    },
+    {
+        "id": 694,
+        "word_english": "importantly",
+        "word_turkish": "önemli bir şekilde"
+    },
+    {
+        "id": 695,
+        "word_english": "incessantly",
+        "word_turkish": "durmaksızın"
+    },
+    {
+        "id": 696,
+        "word_english": "indirectly",
+        "word_turkish": "dolaylı olarak"
+    },
+    {
+        "id": 697,
+        "word_english": "inevitably",
+        "word_turkish": "kaçınılmaz olarak"
+    },
+    {
+        "id": 698,
+        "word_english": "inexplicably",
+        "word_turkish": "açıklanamaz bir şekilde"
+    },
+    {
+        "id": 699,
+        "word_english": "insistently",
+        "word_turkish": "ısrarla"
+    },
+    {
+        "id": 700,
+        "word_english": "intensely",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 701,
+        "word_english": "intimately",
+        "word_turkish": "yakından"
+    },
+    {
+        "id": 702,
+        "word_english": "knowingly",
+        "word_turkish": "bilerek"
+    },
+    {
+        "id": 703,
+        "word_english": "lightly",
+        "word_turkish": "hafifçe"
+    },
+    {
+        "id": 704,
+        "word_english": "naturally",
+        "word_turkish": "doğal olarak"
+    },
+    {
+        "id": 705,
+        "word_english": "obviously",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 706,
+        "word_english": "openly",
+        "word_turkish": "açıkça"
+    },
+    {
+        "id": 707,
+        "word_english": "ostentatiously",
+        "word_turkish": "gösterişli bir şekilde"
+    },
+    {
+        "id": 708,
+        "word_english": "partially",
+        "word_turkish": "kısmen"
+    },
+    {
+        "id": 709,
+        "word_english": "patiently",
+        "word_turkish": "sabırlı bir şekilde"
+    },
+    {
+        "id": 710,
+        "word_english": "permanently",
+        "word_turkish": "kalıcı olarak"
+    },
+    {
+        "id": 711,
+        "word_english": "playfully",
+        "word_turkish": "şakacı bir şekilde"
+    },
+    {
+        "id": 712,
+        "word_english": "politely",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 713,
+        "word_english": "rapidly",
+        "word_turkish": "hızla"
+    },
+    {
+        "id": 714,
+        "word_english": "readily",
+        "word_turkish": "kolayca"
+    },
+    {
+        "id": 715,
+        "word_english": "reluctantly",
+        "word_turkish": "isteksizce"
+    },
+    {
+        "id": 716,
+        "word_english": "remarkably",
+        "word_turkish": "olağanüstü bir şekilde"
+    },
+    {
+        "id": 717,
+        "word_english": "rigidly",
+        "word_turkish": "katı bir şekilde"
+    },
+    {
+        "id": 718,
+        "word_english": "routinely",
+        "word_turkish": "sık sık"
+    },
+    {
+        "id": 719,
+        "word_english": "suddenly",
+        "word_turkish": "ani bir şekilde"
+    },
+    {
+        "id": 720,
+        "word_english": "sweetly",
+        "word_turkish": "tatlı bir şekilde"
+    },
+    {
+        "id": 721,
+        "word_english": "tactfully",
+        "word_turkish": "nazikçe"
+    },
+    {
+        "id": 722,
+        "word_english": "temporarily",
+        "word_turkish": "geçici olarak"
+    },
+    {
+        "id": 723,
+        "word_english": "tenderly",
+        "word_turkish": "nazik bir şekilde"
+    },
+    {
+        "id": 724,
+        "word_english": "thoroughly",
+        "word_turkish": "tamamen"
+    },
+    {
+        "id": 725,
+        "word_english": "tirelessly",
+        "word_turkish": "yorulmadan"
+    },
+    {
+        "id": 726,
+        "word_english": "tranquilly",
+        "word_turkish": "sakin bir şekilde"
+    },
+    {
+        "id": 727,
+        "word_english": "unceremoniously",
+        "word_turkish": "resmi olmayan bir şekilde"
+    },
+    {
+        "id": 728,
+        "word_english": "uneasily",
+        "word_turkish": "rahatsız bir şekilde"
+    },
+    {
+        "id": 729,
+        "word_english": "urgently",
+        "word_turkish": "acil bir şekilde"
+    },
+    {
+        "id": 730,
+        "word_english": "vaguely",
+        "word_turkish": "belirsiz bir şekilde"
+    },
+    {
+        "id": 731,
+        "word_english": "violently",
+        "word_turkish": "şiddetle"
+    },
+    {
+        "id": 732,
+        "word_english": "voluntarily",
+        "word_turkish": "gönüllü olarak"
+    },
+    {
+        "id": 733,
+        "word_english": "warmly",
+        "word_turkish": "sıcak bir şekilde"
+    },
+    {
+        "id": 734,
+        "word_english": "wearily",
+        "word_turkish": "yorgun bir şekilde"
+    },
+    {
+        "id": 735,
+        "word_english": "wildly",
+        "word_turkish": "çılgınca"
+    },
+    {
+        "id": 736,
+        "word_english": "wonderfully",
+        "word_turkish": "harika bir şekilde"
+    },
+    {
+        "id": 737,
+        "word_english": "wrongfully",
+        "word_turkish": "yanlış bir şekilde"
+    }
+]

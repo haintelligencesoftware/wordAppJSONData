@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "word_english": "Weather",
+        "word_turkish": "Hava durumu"
+    },
+    {
+        "id": 2,
+        "word_english": "Temperature",
+        "word_turkish": "Sıcaklık"
+    },
+    {
+        "id": 3,
+        "word_english": "Cold",
+        "word_turkish": "Soğuk"
+    },
+    {
+        "id": 4,
+        "word_english": "Hot",
+        "word_turkish": "Sıcak"
+    },
+    {
+        "id": 5,
+        "word_english": "Warm",
+        "word_turkish": "Ilık"
+    },
+    {
+        "id": 6,
+        "word_english": "Cool",
+        "word_turkish": "Serin"
+    },
+    {
+        "id": 7,
+        "word_english": "Rain",
+        "word_turkish": "Yağmur"
+    },
+    {
+        "id": 8,
+        "word_english": "Snow",
+        "word_turkish": "Kar"
+    },
+    {
+        "id": 9,
+        "word_english": "Thunder",
+        "word_turkish": "Gök gürültüsü"
+    },
+    {
+        "id": 10,
+        "word_english": "Lightning",
+        "word_turkish": "Yıldırım"
+    },
+    {
+        "id": 11,
+        "word_english": "Wind",
+        "word_turkish": "Rüzgar"
+    },
+    {
+        "id": 12,
+        "word_english": "Cloud",
+        "word_turkish": "Bulut"
+    },
+    {
+        "id": 13,
+        "word_english": "Fog",
+        "word_turkish": "Sis"
+    },
+    {
+        "id": 14,
+        "word_english": "Hail",
+        "word_turkish": "Dolu"
+    },
+    {
+        "id": 15,
+        "word_english": "Storm",
+        "word_turkish": "Fırtına"
+    },
+    {
+        "id": 16,
+        "word_english": "Tornado",
+        "word_turkish": "Kasırga"
+    },
+    {
+        "id": 17,
+        "word_english": "Hurricane",
+        "word_turkish": "Kasırga"
+    },
+    {
+        "id": 18,
+        "word_english": "Flood",
+        "word_turkish": "Sel"
+    },
+    {
+        "id": 19,
+        "word_english": "Drought",
+        "word_turkish": "Kuraklık"
+    },
+    {
+        "id": 20,
+        "word_english": "Humidity",
+        "word_turkish": "Nem"
+    },
+    {
+        "id": 21,
+        "word_english": "Pressure",
+        "word_turkish": "Basınç"
+    },
+    {
+        "id": 22,
+        "word_english": "Forecast",
+        "word_turkish": "Tahmin"
+    },
+    {
+        "id": 23,
+        "word_english": "Climate",
+        "word_turkish": "İklim"
+    },
+    {
+        "id": 24,
+        "word_english": "Season",
+        "word_turkish": "Mevsim"
+    },
+    {
+        "id": 25,
+        "word_english": "Spring",
+        "word_turkish": "İlkbahar"
+    },
+    {
+        "id": 26,
+        "word_english": "Summer",
+        "word_turkish": "Yaz"
+    },
+    {
+        "id": 27,
+        "word_english": "Autumn",
+        "word_turkish": "Sonbahar"
+    },
+    {
+        "id": 28,
+        "word_english": "Winter",
+        "word_turkish": "Kış"
+    },
+    {
+        "id": 29,
+        "word_english": "Clear",
+        "word_turkish": "Açık"
+    },
+    {
+        "id": 30,
+        "word_english": "Cloudy",
+        "word_turkish": "Bulutlu"
+    },
+    {
+        "id": 31,
+        "word_english": "Overcast",
+        "word_turkish": "Kapalı"
+    },
+    {
+        "id": 32,
+        "word_english": "Drizzle",
+        "word_turkish": "Çiseleme"
+    },
+    {
+        "id": 33,
+        "word_english": "Shower",
+        "word_turkish": "Yağmur sağanağı"
+    },
+    {
+        "id": 34,
+        "word_english": "Downpour",
+        "word_turkish": "Sağanak yağış"
+    },
+    {
+        "id": 35,
+        "word_english": "Mild",
+        "word_turkish": "Ilıman"
+    },
+    {
+        "id": 36,
+        "word_english": "Breeze",
+        "word_turkish": "Esinti"
+    },
+    {
+        "id": 37,
+        "word_english": "Gale",
+        "word_turkish": "Fırtına rüzgarı"
+    },
+    {
+        "id": 38,
+        "word_english": "Cyclone",
+        "word_turkish": "Siklon"
+    },
+    {
+        "id": 39,
+        "word_english": "Typhoon",
+        "word_turkish": "Tayfun"
+    },
+    {
+        "id": 40,
+        "word_english": "Cold front",
+        "word_turkish": "Soğuk cephe"
+    },
+    {
+        "id": 41,
+        "word_english": "Warm front",
+        "word_turkish": "Sıcak cephe"
+    },
+    {
+        "id": 42,
+        "word_english": "Lightning strike",
+        "word_turkish": "Yıldırım düşmesi"
+    },
+    {
+        "id": 43,
+        "word_english": "Heatwave",
+        "word_turkish": "Sıcak hava dalgası"
+    },
+    {
+        "id": 44,
+        "word_english": "Cold snap",
+        "word_turkish": "Soğuk hava dalgası"
+    },
+    {
+        "id": 45,
+        "word_english": "Chilly",
+        "word_turkish": "Soğuk"
+    },
+    {
+        "id": 46,
+        "word_english": "Frost",
+        "word_turkish": "Don"
+    },
+    {
+        "id": 47,
+        "word_english": "Freezing",
+        "word_turkish": "Donma"
+    },
+    {
+        "id": 48,
+        "word_english": "Blizzard",
+        "word_turkish": "Kar fırtınası"
+    },
+    {
+        "id": 49,
+        "word_english": "Wind chill",
+        "word_turkish": "Rüzgar soğukluğu"
+    },
+    {
+        "id": 50,
+        "word_english": "Tornado warning",
+        "word_turkish": "Kasırga uyarısı"
+    },
+    {
+        "id": 51,
+        "word_english": "Flash flood",
+        "word_turkish": "Ani sel"
+    },
+    {
+        "id": 52,
+        "word_english": "Mudslide",
+        "word_turkish": "Toprak kayması"
+    },
+    {
+        "id": 53,
+        "word_english": "Avalanche",
+        "word_turkish": "Çığ"
+    },
+    {
+        "id": 54,
+        "word_english": "Ice storm",
+        "word_turkish": "Buz fırtınası"
+    },
+    {
+        "id": 55,
+        "word_english": "Thunderstorm",
+        "word_turkish": "Fırtına (Gök gürültüsü)"
+    },
+    {
+        "id": 56,
+        "word_english": "Weather balloon",
+        "word_turkish": "Hava balonu"
+    },
+    {
+        "id": 57,
+        "word_english": "Meteorology",
+        "word_turkish": "Meteoroloji"
+    },
+    {
+        "id": 58,
+        "word_english": "Atmosphere",
+        "word_turkish": "Atmosfer"
+    },
+    {
+        "id": 59,
+        "word_english": "Barometer",
+        "word_turkish": "Barometre"
+    },
+    {
+        "id": 60,
+        "word_english": "Anemometer",
+        "word_turkish": "Anemometre"
+    },
+    {
+        "id": 61,
+        "word_english": "Hygrometer",
+        "word_turkish": "Higrometre"
+    },
+    {
+        "id": 62,
+        "word_english": "Thermometer",
+        "word_turkish": "Termometre"
+    },
+    {
+        "id": 63,
+        "word_english": "Rainfall",
+        "word_turkish": "Yağış miktarı"
+    },
+    {
+        "id": 64,
+        "word_english": "Snowfall",
+        "word_turkish": "Kar yağışı"
+    },
+    {
+        "id": 65,
+        "word_english": "Precipitation",
+        "word_turkish": "Yağış"
+    },
+    {
+        "id": 66,
+        "word_english": "Ice",
+        "word_turkish": "Buz"
+    },
+    {
+        "id": 67,
+        "word_english": "Sleet",
+        "word_turkish": "Karla karışık yağmur"
+    },
+    {
+        "id": 68,
+        "word_english": "Sunshine",
+        "word_turkish": "Güneş ışığı"
+    },
+    {
+        "id": 69,
+        "word_english": "UV index",
+        "word_turkish": "UV endeksi"
+    },
+    {
+        "id": 70,
+        "word_english": "Heat index",
+        "word_turkish": "Sıcaklık endeksi"
+    },
+    {
+        "id": 71,
+        "word_english": "Wind speed",
+        "word_turkish": "Rüzgar hızı"
+    },
+    {
+        "id": 72,
+        "word_english": "Wind direction",
+        "word_turkish": "Rüzgar yönü"
+    },
+    {
+        "id": 73,
+        "word_english": "Visibility",
+        "word_turkish": "Görüş mesafesi"
+    },
+    {
+        "id": 74,
+        "word_english": "Thunderclap",
+        "word_turkish": "Gök gürültüsü patlaması"
+    },
+    {
+        "id": 75,
+        "word_english": "Foggy",
+        "word_turkish": "Sisli"
+    },
+    {
+        "id": 76,
+        "word_english": "Dust storm",
+        "word_turkish": "Toz fırtınası"
+    },
+    {
+        "id": 77,
+        "word_english": "Tropical storm",
+        "word_turkish": "Tropikal fırtına"
+    },
+    {
+        "id": 78,
+        "word_english": "Severe weather",
+        "word_turkish": "Ağır hava durumu"
+    },
+    {
+        "id": 79,
+        "word_english": "Blustery",
+        "word_turkish": "Rüzgarlı"
+    },
+    {
+        "id": 80,
+        "word_english": "Dew",
+        "word_turkish": "Çiy"
+    },
+    {
+        "id": 81,
+        "word_english": "Tropical depression",
+        "word_turkish": "Tropikal alçak basınç"
+    }
+]

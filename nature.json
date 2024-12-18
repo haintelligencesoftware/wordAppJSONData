@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "word_english": "Nature",
+        "word_turkish": "Doğa"
+    },
+    {
+        "id": 2,
+        "word_english": "Forest",
+        "word_turkish": "Orman"
+    },
+    {
+        "id": 3,
+        "word_english": "Tree",
+        "word_turkish": "Ağaç"
+    },
+    {
+        "id": 4,
+        "word_english": "Mountain",
+        "word_turkish": "Dağ"
+    },
+    {
+        "id": 5,
+        "word_english": "River",
+        "word_turkish": "Nehir"
+    },
+    {
+        "id": 6,
+        "word_english": "Lake",
+        "word_turkish": "Göl"
+    },
+    {
+        "id": 7,
+        "word_english": "Ocean",
+        "word_turkish": "Okyanus"
+    },
+    {
+        "id": 8,
+        "word_english": "Sea",
+        "word_turkish": "Deniz"
+    },
+    {
+        "id": 9,
+        "word_english": "Stream",
+        "word_turkish": "Dere"
+    },
+    {
+        "id": 10,
+        "word_english": "Waterfall",
+        "word_turkish": "Şelale"
+    },
+    {
+        "id": 11,
+        "word_english": "Desert",
+        "word_turkish": "Çöl"
+    },
+    {
+        "id": 12,
+        "word_english": "Beach",
+        "word_turkish": "Plaj"
+    },
+    {
+        "id": 13,
+        "word_english": "Island",
+        "word_turkish": "Ada"
+    },
+    {
+        "id": 14,
+        "word_english": "Coast",
+        "word_turkish": "Kıyı"
+    },
+    {
+        "id": 15,
+        "word_english": "Cave",
+        "word_turkish": "Mağara"
+    },
+    {
+        "id": 16,
+        "word_english": "Valley",
+        "word_turkish": "Vadi"
+    },
+    {
+        "id": 17,
+        "word_english": "Hill",
+        "word_turkish": "Tepe"
+    },
+    {
+        "id": 18,
+        "word_english": "Rock",
+        "word_turkish": "Kayalık"
+    },
+    {
+        "id": 19,
+        "word_english": "Soil",
+        "word_turkish": "Toprak"
+    },
+    {
+        "id": 20,
+        "word_english": "Land",
+        "word_turkish": "Arsa"
+    },
+    {
+        "id": 21,
+        "word_english": "Earth",
+        "word_turkish": "Dünya"
+    },
+    {
+        "id": 22,
+        "word_english": "Sky",
+        "word_turkish": "Gökyüzü"
+    },
+    {
+        "id": 23,
+        "word_english": "Cloud",
+        "word_turkish": "Bulut"
+    },
+    {
+        "id": 24,
+        "word_english": "Sun",
+        "word_turkish": "Güneş"
+    },
+    {
+        "id": 25,
+        "word_english": "Moon",
+        "word_turkish": "Ay"
+    },
+    {
+        "id": 26,
+        "word_english": "Star",
+        "word_turkish": "Yıldız"
+    },
+    {
+        "id": 27,
+        "word_english": "Galaxy",
+        "word_turkish": "Galaksi"
+    },
+    {
+        "id": 28,
+        "word_english": "Comet",
+        "word_turkish": "Kuyruklu yıldız"
+    },
+    {
+        "id": 29,
+        "word_english": "Forest fire",
+        "word_turkish": "Orman yangını"
+    },
+    {
+        "id": 30,
+        "word_english": "Wildlife",
+        "word_turkish": "Vahşi yaşam"
+    },
+    {
+        "id": 31,
+        "word_english": "Plant",
+        "word_turkish": "Bitki"
+    },
+    {
+        "id": 32,
+        "word_english": "Flower",
+        "word_turkish": "Çiçek"
+    },
+    {
+        "id": 33,
+        "word_english": "Grass",
+        "word_turkish": "Çimen"
+    },
+    {
+        "id": 34,
+        "word_english": "Leaf",
+        "word_turkish": "Yaprak"
+    },
+    {
+        "id": 35,
+        "word_english": "Root",
+        "word_turkish": "Kök"
+    },
+    {
+        "id": 36,
+        "word_english": "Seed",
+        "word_turkish": "Tohum"
+    },
+    {
+        "id": 37,
+        "word_english": "Fruit",
+        "word_turkish": "Meyve"
+    },
+    {
+        "id": 38,
+        "word_english": "Vegetable",
+        "word_turkish": "Sebze"
+    },
+    {
+        "id": 39,
+        "word_english": "Herb",
+        "word_turkish": "Ot"
+    },
+    {
+        "id": 40,
+        "word_english": "Bush",
+        "word_turkish": "Çalı"
+    },
+    {
+        "id": 41,
+        "word_english": "Vine",
+        "word_turkish": "Sarmaşık"
+    },
+    {
+        "id": 42,
+        "word_english": "Cactus",
+        "word_turkish": "Kaktüs"
+    },
+    {
+        "id": 43,
+        "word_english": "Palm tree",
+        "word_turkish": "Palmiye ağacı"
+    },
+    {
+        "id": 44,
+        "word_english": "Pine tree",
+        "word_turkish": "Çam ağacı"
+    },
+    {
+        "id": 45,
+        "word_english": "Oak",
+        "word_turkish": "Meşe"
+    },
+    {
+        "id": 46,
+        "word_english": "Birch",
+        "word_turkish": "Huş"
+    },
+    {
+        "id": 47,
+        "word_english": "Maple",
+        "word_turkish": "Akçaağaç"
+    },
+    {
+        "id": 48,
+        "word_english": "Cedar",
+        "word_turkish": "Sedir"
+    },
+    {
+        "id": 49,
+        "word_english": "Willow",
+        "word_turkish": "Söğüt"
+    },
+    {
+        "id": 50,
+        "word_english": "Hedge",
+        "word_turkish": "Çit"
+    },
+    {
+        "id": 51,
+        "word_english": "Twig",
+        "word_turkish": "Dal"
+    },
+    {
+        "id": 52,
+        "word_english": "Branch",
+        "word_turkish": "Dal"
+    },
+    {
+        "id": 53,
+        "word_english": "Trunk",
+        "word_turkish": "Gövde"
+    },
+    {
+        "id": 54,
+        "word_english": "Rain",
+        "word_turkish": "Yağmur"
+    },
+    {
+        "id": 55,
+        "word_english": "Snow",
+        "word_turkish": "Kar"
+    },
+    {
+        "id": 56,
+        "word_english": "Fog",
+        "word_turkish": "Sis"
+    },
+    {
+        "id": 57,
+        "word_english": "Thunderstorm",
+        "word_turkish": "Fırtına (Gök gürültüsü)"
+    },
+    {
+        "id": 58,
+        "word_english": "Earthquake",
+        "word_turkish": "Deprem"
+    },
+    {
+        "id": 59,
+        "word_english": "Tsunami",
+        "word_turkish": "Tsunami"
+    },
+    {
+        "id": 60,
+        "word_english": "Tornado",
+        "word_turkish": "Kasırga"
+    },
+    {
+        "id": 61,
+        "word_english": "Flood",
+        "word_turkish": "Sel"
+    },
+    {
+        "id": 62,
+        "word_english": "Wind",
+        "word_turkish": "Rüzgar"
+    },
+    {
+        "id": 63,
+        "word_english": "Hail",
+        "word_turkish": "Dolu"
+    },
+    {
+        "id": 64,
+        "word_english": "Lightning",
+        "word_turkish": "Yıldırım"
+    },
+    {
+        "id": 65,
+        "word_english": "Sunshine",
+        "word_turkish": "Güneş ışığı"
+    },
+    {
+        "id": 66,
+        "word_english": "Climate",
+        "word_turkish": "İklim"
+    },
+    {
+        "id": 67,
+        "word_english": "Temperature",
+        "word_turkish": "Sıcaklık"
+    },
+    {
+        "id": 68,
+        "word_english": "Humidity",
+        "word_turkish": "Nem"
+    },
+    {
+        "id": 69,
+        "word_english": "Season",
+        "word_turkish": "Mevsim"
+    },
+    {
+        "id": 70,
+        "word_english": "Spring",
+        "word_turkish": "İlkbahar"
+    },
+    {
+        "id": 71,
+        "word_english": "Summer",
+        "word_turkish": "Yaz"
+    },
+    {
+        "id": 72,
+        "word_english": "Autumn",
+        "word_turkish": "Sonbahar"
+    },
+    {
+        "id": 73,
+        "word_english": "Winter",
+        "word_turkish": "Kış"
+    },
+    {
+        "id": 74,
+        "word_english": "Wild animal",
+        "word_turkish": "Vahşi hayvan"
+    },
+    {
+        "id": 75,
+        "word_english": "Domestic animal",
+        "word_turkish": "Evcil hayvan"
+    },
+    {
+        "id": 76,
+        "word_english": "Insect",
+        "word_turkish": "Böcek"
+    },
+    {
+        "id": 77,
+        "word_english": "Bird",
+        "word_turkish": "Kuş"
+    },
+    {
+        "id": 78,
+        "word_english": "Fish",
+        "word_turkish": "Balık"
+    },
+    {
+        "id": 79,
+        "word_english": "Reptile",
+        "word_turkish": "Sürüngen"
+    },
+    {
+        "id": 80,
+        "word_english": "Amphibian",
+        "word_turkish": "Amfibi"
+    },
+    {
+        "id": 81,
+        "word_english": "Mammal",
+        "word_turkish": "Memeli"
+    },
+    {
+        "id": 82,
+        "word_english": "Fungi",
+        "word_turkish": "Maya"
+    },
+    {
+        "id": 83,
+        "word_english": "Algae",
+        "word_turkish": "Algler"
+    },
+    {
+        "id": 84,
+        "word_english": "Coral",
+        "word_turkish": "Mercan"
+    },
+    {
+        "id": 85,
+        "word_english": "Plankton",
+        "word_turkish": "Plankton"
+    },
+    {
+        "id": 86,
+        "word_english": "Ecosystem",
+        "word_turkish": "Ekosistem"
+    },
+    {
+        "id": 87,
+        "word_english": "Biodiversity",
+        "word_turkish": "Biyolojik çeşitlilik"
+    },
+    {
+        "id": 88,
+        "word_english": "Endangered species",
+        "word_turkish": "Tehdit altındaki türler"
+    },
+    {
+        "id": 89,
+        "word_english": "Conservation",
+        "word_turkish": "Koruma"
+    },
+    {
+        "id": 90,
+        "word_english": "Pollution",
+        "word_turkish": "Kirlilik"
+    },
+    {
+        "id": 91,
+        "word_english": "Global warming",
+        "word_turkish": "Küresel ısınma"
+    },
+    {
+        "id": 92,
+        "word_english": "Deforestation",
+        "word_turkish": "Ormansızlaşma"
+    },
+    {
+        "id": 93,
+        "word_english": "Recycling",
+        "word_turkish": "Geri dönüşüm"
+    },
+    {
+        "id": 94,
+        "word_english": "Sustainability",
+        "word_turkish": "Sürdürülebilirlik"
+    },
+    {
+        "id": 95,
+        "word_english": "Greenhouse effect",
+        "word_turkish": "Sera etkisi"
+    },
+    {
+        "id": 96,
+        "word_english": "Ozone layer",
+        "word_turkish": "Ozon tabakası"
+    },
+    {
+        "id": 97,
+        "word_english": "Climate change",
+        "word_turkish": "İklim değişikliği"
+    },
+    {
+        "id": 98,
+        "word_english": "Natural resources",
+        "word_turkish": "Doğal kaynaklar"
+    },
+    {
+        "id": 99,
+        "word_english": "Energy",
+        "word_turkish": "Enerji"
+    },
+    {
+        "id": 100,
+        "word_english": "Solar power",
+        "word_turkish": "Güneş enerjisi"
+    },
+    {
+        "id": 101,
+        "word_english": "Wind power",
+        "word_turkish": "Rüzgar enerjisi"
+    },
+    {
+        "id": 102,
+        "word_english": "Hydroelectric power",
+        "word_turkish": "Hidroelektrik enerji"
+    }
+]

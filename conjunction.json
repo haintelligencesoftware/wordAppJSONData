@@ -1,0 +1,897 @@
+[
+    {
+        "id": 1,
+        "word_english": "and",
+        "word_turkish": "ve"
+    },
+    {
+        "id": 2,
+        "word_english": "but",
+        "word_turkish": "ama"
+    },
+    {
+        "id": 3,
+        "word_english": "or",
+        "word_turkish": "veya"
+    },
+    {
+        "id": 4,
+        "word_english": "nor",
+        "word_turkish": "ne de"
+    },
+    {
+        "id": 5,
+        "word_english": "for",
+        "word_turkish": "çünkü"
+    },
+    {
+        "id": 6,
+        "word_english": "yet",
+        "word_turkish": "fakat"
+    },
+    {
+        "id": 7,
+        "word_english": "so",
+        "word_turkish": "bu yüzden"
+    },
+    {
+        "id": 8,
+        "word_english": "although",
+        "word_turkish": "her ne kadar"
+    },
+    {
+        "id": 9,
+        "word_english": "because",
+        "word_turkish": "çünkü"
+    },
+    {
+        "id": 10,
+        "word_english": "since",
+        "word_turkish": "çünkü, -den beri"
+    },
+    {
+        "id": 11,
+        "word_english": "while",
+        "word_turkish": "iken"
+    },
+    {
+        "id": 12,
+        "word_english": "whereas",
+        "word_turkish": "oysa"
+    },
+    {
+        "id": 13,
+        "word_english": "if",
+        "word_turkish": "eğer"
+    },
+    {
+        "id": 14,
+        "word_english": "unless",
+        "word_turkish": "-medikçe"
+    },
+    {
+        "id": 15,
+        "word_english": "until",
+        "word_turkish": "-e kadar"
+    },
+    {
+        "id": 16,
+        "word_english": "after",
+        "word_turkish": "-den sonra"
+    },
+    {
+        "id": 17,
+        "word_english": "before",
+        "word_turkish": "-den önce"
+    },
+    {
+        "id": 18,
+        "word_english": "once",
+        "word_turkish": "bir kez, bir zamanlar"
+    },
+    {
+        "id": 19,
+        "word_english": "as",
+        "word_turkish": "gibi, çünkü"
+    },
+    {
+        "id": 20,
+        "word_english": "as soon as",
+        "word_turkish": "-er -mez"
+    },
+    {
+        "id": 21,
+        "word_english": "even if",
+        "word_turkish": "olsa bile"
+    },
+    {
+        "id": 22,
+        "word_english": "even though",
+        "word_turkish": "her ne kadar"
+    },
+    {
+        "id": 23,
+        "word_english": "in case",
+        "word_turkish": "durumunda"
+    },
+    {
+        "id": 24,
+        "word_english": "in order that",
+        "word_turkish": "amacıyla"
+    },
+    {
+        "id": 25,
+        "word_english": "provided that",
+        "word_turkish": "şartıyla"
+    },
+    {
+        "id": 26,
+        "word_english": "rather than",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 27,
+        "word_english": "whether",
+        "word_turkish": "olup olmadığını"
+    },
+    {
+        "id": 28,
+        "word_english": "where",
+        "word_turkish": "nerede"
+    },
+    {
+        "id": 29,
+        "word_english": "wherever",
+        "word_turkish": "nerede olursa"
+    },
+    {
+        "id": 30,
+        "word_english": "unless",
+        "word_turkish": "-medikçe"
+    },
+    {
+        "id": 31,
+        "word_english": "neither",
+        "word_turkish": "ne"
+    },
+    {
+        "id": 32,
+        "word_english": "both",
+        "word_turkish": "hem"
+    },
+    {
+        "id": 33,
+        "word_english": "either",
+        "word_turkish": "ya da"
+    },
+    {
+        "id": 34,
+        "word_english": "not only",
+        "word_turkish": "sadece değil"
+    },
+    {
+        "id": 35,
+        "word_english": "but also",
+        "word_turkish": "aynı zamanda"
+    },
+    {
+        "id": 36,
+        "word_english": "as well as",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 37,
+        "word_english": "so that",
+        "word_turkish": "böylece"
+    },
+    {
+        "id": 38,
+        "word_english": "just as",
+        "word_turkish": "tıpkı"
+    },
+    {
+        "id": 39,
+        "word_english": "as long as",
+        "word_turkish": "-dığı sürece"
+    },
+    {
+        "id": 40,
+        "word_english": "in case of",
+        "word_turkish": "durumunda"
+    },
+    {
+        "id": 41,
+        "word_english": "in the event that",
+        "word_turkish": "olursa"
+    },
+    {
+        "id": 42,
+        "word_english": "such as",
+        "word_turkish": "gibi"
+    },
+    {
+        "id": 43,
+        "word_english": "whether or not",
+        "word_turkish": "olsa da olmasa da"
+    },
+    {
+        "id": 44,
+        "word_english": "than",
+        "word_turkish": "den"
+    },
+    {
+        "id": 45,
+        "word_english": "no sooner than",
+        "word_turkish": "-er -mez"
+    },
+    {
+        "id": 46,
+        "word_english": "lest",
+        "word_turkish": "olmasın diye"
+    },
+    {
+        "id": 47,
+        "word_english": "even as",
+        "word_turkish": "tam o sırada"
+    },
+    {
+        "id": 48,
+        "word_english": "as much as",
+        "word_turkish": "kadar"
+    },
+    {
+        "id": 49,
+        "word_english": "because of",
+        "word_turkish": "yüzünden"
+    },
+    {
+        "id": 50,
+        "word_english": "despite",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 51,
+        "word_english": "in spite of",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 52,
+        "word_english": "regardless of",
+        "word_turkish": "bakılmaksızın"
+    },
+    {
+        "id": 53,
+        "word_english": "notwithstanding",
+        "word_turkish": "rağmen"
+    },
+    {
+        "id": 54,
+        "word_english": "due to",
+        "word_turkish": "nedeniyle"
+    },
+    {
+        "id": 55,
+        "word_english": "owing to",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 56,
+        "word_english": "thanks to",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 57,
+        "word_english": "on account of",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 58,
+        "word_english": "as a result of",
+        "word_turkish": "sonucunda"
+    },
+    {
+        "id": 59,
+        "word_english": "by virtue of",
+        "word_turkish": "sayesinde"
+    },
+    {
+        "id": 60,
+        "word_english": "by means of",
+        "word_turkish": "yoluyla"
+    },
+    {
+        "id": 61,
+        "word_english": "in view of",
+        "word_turkish": "göz önüne alarak"
+    },
+    {
+        "id": 62,
+        "word_english": "on behalf of",
+        "word_turkish": "adına"
+    },
+    {
+        "id": 63,
+        "word_english": "on the grounds that",
+        "word_turkish": "sebebiyle"
+    },
+    {
+        "id": 64,
+        "word_english": "in the same way",
+        "word_turkish": "aynı şekilde"
+    },
+    {
+        "id": 65,
+        "word_english": "in addition to",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 66,
+        "word_english": "apart from",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 67,
+        "word_english": "besides",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 68,
+        "word_english": "with respect to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 69,
+        "word_english": "concerning",
+        "word_turkish": "hakkında"
+    },
+    {
+        "id": 70,
+        "word_english": "regarding",
+        "word_turkish": "hakkında"
+    },
+    {
+        "id": 71,
+        "word_english": "pertaining to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 72,
+        "word_english": "with regard to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 73,
+        "word_english": "as regards",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 74,
+        "word_english": "according to",
+        "word_turkish": "göre"
+    },
+    {
+        "id": 75,
+        "word_english": "depending on",
+        "word_turkish": "bağlı olarak"
+    },
+    {
+        "id": 76,
+        "word_english": "with reference to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 77,
+        "word_english": "by comparison",
+        "word_turkish": "karşılaştırıldığında"
+    },
+    {
+        "id": 78,
+        "word_english": "in contrast to",
+        "word_turkish": "aksine"
+    },
+    {
+        "id": 79,
+        "word_english": "compared with",
+        "word_turkish": "ile karşılaştırıldığında"
+    },
+    {
+        "id": 80,
+        "word_english": "relative to",
+        "word_turkish": "ile ilgili olarak"
+    },
+    {
+        "id": 81,
+        "word_english": "except for",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 82,
+        "word_english": "other than",
+        "word_turkish": "haricinde"
+    },
+    {
+        "id": 83,
+        "word_english": "apart from",
+        "word_turkish": "dışında"
+    },
+    {
+        "id": 84,
+        "word_english": "instead of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 85,
+        "word_english": "as opposed to",
+        "word_turkish": "aksine"
+    },
+    {
+        "id": 86,
+        "word_english": "rather than",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 87,
+        "word_english": "in preference to",
+        "word_turkish": "tercih ederek"
+    },
+    {
+        "id": 88,
+        "word_english": "in lieu of",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 89,
+        "word_english": "by way of",
+        "word_turkish": "yoluyla"
+    },
+    {
+        "id": 90,
+        "word_english": "in exchange for",
+        "word_turkish": "karşılığında"
+    },
+    {
+        "id": 91,
+        "word_english": "in return for",
+        "word_turkish": "karşılığında"
+    },
+    {
+        "id": 92,
+        "word_english": "on top of",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 93,
+        "word_english": "in line with",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 94,
+        "word_english": "in harmony with",
+        "word_turkish": "uyum içinde"
+    },
+    {
+        "id": 95,
+        "word_english": "alongside",
+        "word_turkish": "yanında"
+    },
+    {
+        "id": 96,
+        "word_english": "adjacent to",
+        "word_turkish": "bitişik"
+    },
+    {
+        "id": 97,
+        "word_english": "along with",
+        "word_turkish": "ile birlikte"
+    },
+    {
+        "id": 98,
+        "word_english": "together with",
+        "word_turkish": "ile birlikte"
+    },
+    {
+        "id": 99,
+        "word_english": "above all",
+        "word_turkish": "her şeyden önce"
+    },
+    {
+        "id": 100,
+        "word_english": "in conclusion",
+        "word_turkish": "sonuç olarak"
+    },
+    {
+        "id": 101,
+        "word_english": "in summary",
+        "word_turkish": "özet olarak"
+    },
+    {
+        "id": 102,
+        "word_english": "all in all",
+        "word_turkish": "her şeyi hesaba katarak"
+    },
+    {
+        "id": 103,
+        "word_english": "on the whole",
+        "word_turkish": "genel olarak"
+    },
+    {
+        "id": 104,
+        "word_english": "by and large",
+        "word_turkish": "genel olarak"
+    },
+    {
+        "id": 105,
+        "word_english": "in essence",
+        "word_turkish": "özünde"
+    },
+    {
+        "id": 106,
+        "word_english": "in brief",
+        "word_turkish": "kısaca"
+    },
+    {
+        "id": 107,
+        "word_english": "in short",
+        "word_turkish": "kısaca"
+    },
+    {
+        "id": 108,
+        "word_english": "to sum up",
+        "word_turkish": "özetlemek gerekirse"
+    },
+    {
+        "id": 109,
+        "word_english": "therefore",
+        "word_turkish": "bu nedenle"
+    },
+    {
+        "id": 110,
+        "word_english": "thus",
+        "word_turkish": "bu yüzden"
+    },
+    {
+        "id": 111,
+        "word_english": "hence",
+        "word_turkish": "bu sebeple"
+    },
+    {
+        "id": 112,
+        "word_english": "consequently",
+        "word_turkish": "sonuç olarak"
+    },
+    {
+        "id": 113,
+        "word_english": "as a consequence",
+        "word_turkish": "sonuç olarak"
+    },
+    {
+        "id": 114,
+        "word_english": "as a result",
+        "word_turkish": "sonuç olarak"
+    },
+    {
+        "id": 115,
+        "word_english": "in conclusion",
+        "word_turkish": "sonuç olarak"
+    },
+    {
+        "id": 116,
+        "word_english": "accordingly",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 117,
+        "word_english": "subsequently",
+        "word_turkish": "ardından"
+    },
+    {
+        "id": 118,
+        "word_english": "eventually",
+        "word_turkish": "nihayetinde"
+    },
+    {
+        "id": 119,
+        "word_english": "finally",
+        "word_turkish": "sonunda"
+    },
+    {
+        "id": 120,
+        "word_english": "lastly",
+        "word_turkish": "son olarak"
+    },
+    {
+        "id": 121,
+        "word_english": "moreover",
+        "word_turkish": "ayrıca"
+    },
+    {
+        "id": 122,
+        "word_english": "furthermore",
+        "word_turkish": "dahası"
+    },
+    {
+        "id": 123,
+        "word_english": "in addition",
+        "word_turkish": "ek olarak"
+    },
+    {
+        "id": 124,
+        "word_english": "additionally",
+        "word_turkish": "ek olarak"
+    },
+    {
+        "id": 125,
+        "word_english": "besides",
+        "word_turkish": "yanı sıra"
+    },
+    {
+        "id": 126,
+        "word_english": "similarly",
+        "word_turkish": "benzer şekilde"
+    },
+    {
+        "id": 127,
+        "word_english": "likewise",
+        "word_turkish": "aynı şekilde"
+    },
+    {
+        "id": 128,
+        "word_english": "in the same vein",
+        "word_turkish": "aynı doğrultuda"
+    },
+    {
+        "id": 129,
+        "word_english": "correspondingly",
+        "word_turkish": "uygun olarak"
+    },
+    {
+        "id": 130,
+        "word_english": "equally",
+        "word_turkish": "eşit olarak"
+    },
+    {
+        "id": 131,
+        "word_english": "in comparison",
+        "word_turkish": "karşılaştırıldığında"
+    },
+    {
+        "id": 132,
+        "word_english": "on the other hand",
+        "word_turkish": "öte yandan"
+    },
+    {
+        "id": 133,
+        "word_english": "in contrast",
+        "word_turkish": "aksine"
+    },
+    {
+        "id": 134,
+        "word_english": "however",
+        "word_turkish": "ancak"
+    },
+    {
+        "id": 135,
+        "word_english": "nevertheless",
+        "word_turkish": "yine de"
+    },
+    {
+        "id": 136,
+        "word_english": "nonetheless",
+        "word_turkish": "yine de"
+    },
+    {
+        "id": 137,
+        "word_english": "instead",
+        "word_turkish": "bunun yerine"
+    },
+    {
+        "id": 138,
+        "word_english": "otherwise",
+        "word_turkish": "aksi takdirde"
+    },
+    {
+        "id": 139,
+        "word_english": "alternatively",
+        "word_turkish": "alternatif olarak"
+    },
+    {
+        "id": 140,
+        "word_english": "in any case",
+        "word_turkish": "her durumda"
+    },
+    {
+        "id": 141,
+        "word_english": "regardless",
+        "word_turkish": "bakılmaksızın"
+    },
+    {
+        "id": 142,
+        "word_english": "even so",
+        "word_turkish": "böyle olsa bile"
+    },
+    {
+        "id": 143,
+        "word_english": "despite this",
+        "word_turkish": "buna rağmen"
+    },
+    {
+        "id": 144,
+        "word_english": "in spite of this",
+        "word_turkish": "buna rağmen"
+    },
+    {
+        "id": 145,
+        "word_english": "still",
+        "word_turkish": "yine de"
+    },
+    {
+        "id": 146,
+        "word_english": "yet",
+        "word_turkish": "fakat"
+    },
+    {
+        "id": 147,
+        "word_english": "after all",
+        "word_turkish": "sonuçta"
+    },
+    {
+        "id": 148,
+        "word_english": "on the contrary",
+        "word_turkish": "aksine"
+    },
+    {
+        "id": 149,
+        "word_english": "by contrast",
+        "word_turkish": "karşıt olarak"
+    },
+    {
+        "id": 150,
+        "word_english": "if only",
+        "word_turkish": "keşke"
+    },
+    {
+        "id": 151,
+        "word_english": "assuming that",
+        "word_turkish": "varsayarak"
+    },
+    {
+        "id": 152,
+        "word_english": "provided that",
+        "word_turkish": "şartıyla"
+    },
+    {
+        "id": 153,
+        "word_english": "in the event that",
+        "word_turkish": "olursa"
+    },
+    {
+        "id": 154,
+        "word_english": "given that",
+        "word_turkish": "göz önüne alındığında"
+    },
+    {
+        "id": 155,
+        "word_english": "granting that",
+        "word_turkish": "kabul ederek"
+    },
+    {
+        "id": 156,
+        "word_english": "on condition that",
+        "word_turkish": "şartıyla"
+    },
+    {
+        "id": 157,
+        "word_english": "even if",
+        "word_turkish": "olsa bile"
+    },
+    {
+        "id": 158,
+        "word_english": "insofar as",
+        "word_turkish": "kadar"
+    },
+    {
+        "id": 159,
+        "word_english": "inasmuch as",
+        "word_turkish": "çünkü"
+    },
+    {
+        "id": 160,
+        "word_english": "so long as",
+        "word_turkish": "olduğu sürece"
+    },
+    {
+        "id": 161,
+        "word_english": "to the extent that",
+        "word_turkish": "ölçüsünde"
+    },
+    {
+        "id": 162,
+        "word_english": "supposing that",
+        "word_turkish": "varsayalım ki"
+    },
+    {
+        "id": 163,
+        "word_english": "only if",
+        "word_turkish": "sadece"
+    },
+    {
+        "id": 164,
+        "word_english": "unless",
+        "word_turkish": "-medikçe"
+    },
+    {
+        "id": 165,
+        "word_english": "though",
+        "word_turkish": "-e rağmen"
+    },
+    {
+        "id": 166,
+        "word_english": "while",
+        "word_turkish": "-iken"
+    },
+    {
+        "id": 167,
+        "word_english": "whilst",
+        "word_turkish": "-iken"
+    },
+    {
+        "id": 168,
+        "word_english": "albeit",
+        "word_turkish": "her ne kadar"
+    },
+    {
+        "id": 169,
+        "word_english": "whereas",
+        "word_turkish": "oysa"
+    },
+    {
+        "id": 170,
+        "word_english": "besides that",
+        "word_turkish": "bunun yanı sıra"
+    },
+    {
+        "id": 171,
+        "word_english": "as much as",
+        "word_turkish": "kadar"
+    },
+    {
+        "id": 172,
+        "word_english": "as though",
+        "word_turkish": "sanki"
+    },
+    {
+        "id": 173,
+        "word_english": "rather than",
+        "word_turkish": "yerine"
+    },
+    {
+        "id": 174,
+        "word_english": "more than",
+        "word_turkish": "daha fazla"
+    },
+    {
+        "id": 175,
+        "word_english": "less than",
+        "word_turkish": "daha az"
+    },
+    {
+        "id": 176,
+        "word_english": "prior to",
+        "word_turkish": "öncesinde"
+    },
+    {
+        "id": 177,
+        "word_english": "with the exception of",
+        "word_turkish": "istisna olarak"
+    },
+    {
+        "id": 178,
+        "word_english": "as if",
+        "word_turkish": "sanki"
+    },
+    {
+        "id": 179,
+        "word_english": "despite the fact that",
+        "word_turkish": "gerçeğine rağmen"
+    }
+]

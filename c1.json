@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 1,
+        "word_english": "abandon",
+        "word_turkish": "terk etmek"
+    },
+    {
+        "id": 2,
+        "word_english": "aberration",
+        "word_turkish": "sapma"
+    },
+    {
+        "id": 3,
+        "word_english": "abhor",
+        "word_turkish": "nefret etmek"
+    },
+    {
+        "id": 4,
+        "word_english": "absolve",
+        "word_turkish": "aklamak"
+    },
+    {
+        "id": 5,
+        "word_english": "acquiesce",
+        "word_turkish": "boyun eğmek"
+    },
+    {
+        "id": 6,
+        "word_english": "admonish",
+        "word_turkish": "uyarmak"
+    },
+    {
+        "id": 7,
+        "word_english": "altruistic",
+        "word_turkish": "fedakar"
+    },
+    {
+        "id": 8,
+        "word_english": "amalgamate",
+        "word_turkish": "birleştirmek"
+    },
+    {
+        "id": 9,
+        "word_english": "anomaly",
+        "word_turkish": "anormallik"
+    },
+    {
+        "id": 10,
+        "word_english": "antagonistic",
+        "word_turkish": "karşıt"
+    },
+    {
+        "id": 11,
+        "word_english": "apathetic",
+        "word_turkish": "umursamaz"
+    },
+    {
+        "id": 12,
+        "word_english": "appease",
+        "word_turkish": "yatıştırmak"
+    },
+    {
+        "id": 13,
+        "word_english": "apprehensive",
+        "word_turkish": "endişeli"
+    },
+    {
+        "id": 14,
+        "word_english": "assiduous",
+        "word_turkish": "gayretli"
+    },
+    {
+        "id": 15,
+        "word_english": "atrocious",
+        "word_turkish": "korkunç"
+    },
+    {
+        "id": 16,
+        "word_english": "banal",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 17,
+        "word_english": "bellicose",
+        "word_turkish": "savaşçı"
+    },
+    {
+        "id": 18,
+        "word_english": "benevolent",
+        "word_turkish": "hayırsever"
+    },
+    {
+        "id": 19,
+        "word_english": "bolster",
+        "word_turkish": "desteklemek"
+    },
+    {
+        "id": 20,
+        "word_english": "brevity",
+        "word_turkish": "kısalık"
+    },
+    {
+        "id": 21,
+        "word_english": "cajole",
+        "word_turkish": "tatlılıkla ikna etmek"
+    },
+    {
+        "id": 22,
+        "word_english": "candid",
+        "word_turkish": "dürüst"
+    },
+    {
+        "id": 23,
+        "word_english": "cathartic",
+        "word_turkish": "rahatsız edici"
+    },
+    {
+        "id": 24,
+        "word_english": "chaotic",
+        "word_turkish": "kaotik"
+    },
+    {
+        "id": 25,
+        "word_english": "coerce",
+        "word_turkish": "zorlamak"
+    },
+    {
+        "id": 26,
+        "word_english": "complacent",
+        "word_turkish": "kendini beğenmiş"
+    },
+    {
+        "id": 27,
+        "word_english": "concur",
+        "word_turkish": "hemfikir olmak"
+    },
+    {
+        "id": 28,
+        "word_english": "condone",
+        "word_turkish": "hoş görmek"
+    },
+    {
+        "id": 29,
+        "word_english": "conspicuous",
+        "word_turkish": "göze çarpan"
+    },
+    {
+        "id": 30,
+        "word_english": "contend",
+        "word_turkish": "mücadele etmek"
+    },
+    {
+        "id": 31,
+        "word_english": "contentious",
+        "word_turkish": "tartışmalı"
+    },
+    {
+        "id": 32,
+        "word_english": "contrive",
+        "word_turkish": "bulmak"
+    },
+    {
+        "id": 33,
+        "word_english": "counterfeit",
+        "word_turkish": "sahte"
+    },
+    {
+        "id": 34,
+        "word_english": "debilitate",
+        "word_turkish": "zayıflatmak"
+    },
+    {
+        "id": 35,
+        "word_english": "deference",
+        "word_turkish": "saygı"
+    },
+    {
+        "id": 36,
+        "word_english": "delineate",
+        "word_turkish": "açıklamak"
+    },
+    {
+        "id": 37,
+        "word_english": "demise",
+        "word_turkish": "ölüm"
+    },
+    {
+        "id": 38,
+        "word_english": "deride",
+        "word_turkish": "alay etmek"
+    },
+    {
+        "id": 39,
+        "word_english": "diligent",
+        "word_turkish": "çalışkan"
+    },
+    {
+        "id": 40,
+        "word_english": "diminutive",
+        "word_turkish": "küçük"
+    },
+    {
+        "id": 41,
+        "word_english": "discreet",
+        "word_turkish": "tedbirli"
+    },
+    {
+        "id": 42,
+        "word_english": "distraught",
+        "word_turkish": "sıkıntılı"
+    },
+    {
+        "id": 43,
+        "word_english": "egregious",
+        "word_turkish": "bariz kötü"
+    },
+    {
+        "id": 44,
+        "word_english": "elucidate",
+        "word_turkish": "açıklamak"
+    },
+    {
+        "id": 45,
+        "word_english": "enervate",
+        "word_turkish": "zayıflatmak"
+    },
+    {
+        "id": 46,
+        "word_english": "equanimity",
+        "word_turkish": "soğukkanlılık"
+    },
+    {
+        "id": 47,
+        "word_english": "erratic",
+        "word_turkish": "düzensiz"
+    },
+    {
+        "id": 48,
+        "word_english": "exacerbate",
+        "word_turkish": "kötüleştirmek"
+    },
+    {
+        "id": 49,
+        "word_english": "exorbitant",
+        "word_turkish": "aşırı"
+    },
+    {
+        "id": 50,
+        "word_english": "exude",
+        "word_turkish": "sızmak"
+    },
+    {
+        "id": 51,
+        "word_english": "facetious",
+        "word_turkish": "şaka yollu"
+    },
+    {
+        "id": 52,
+        "word_english": "fallacy",
+        "word_turkish": "yanılgı"
+    },
+    {
+        "id": 53,
+        "word_english": "flamboyant",
+        "word_turkish": "gösterişli"
+    },
+    {
+        "id": 54,
+        "word_english": "flounder",
+        "word_turkish": "çaresiz kalmak"
+    },
+    {
+        "id": 55,
+        "word_english": "fortuitous",
+        "word_turkish": "tesadüfi"
+    },
+    {
+        "id": 56,
+        "word_english": "fractious",
+        "word_turkish": "huysuz"
+    },
+    {
+        "id": 57,
+        "word_english": "frivolous",
+        "word_turkish": "önemsiz"
+    },
+    {
+        "id": 58,
+        "word_english": "furtive",
+        "word_turkish": "gizli"
+    },
+    {
+        "id": 59,
+        "word_english": "garrulous",
+        "word_turkish": "geveze"
+    },
+    {
+        "id": 60,
+        "word_english": "grandiose",
+        "word_turkish": "görkemli"
+    },
+    {
+        "id": 61,
+        "word_english": "gullible",
+        "word_turkish": "kolay kandırılabilir"
+    },
+    {
+        "id": 62,
+        "word_english": "harangue",
+        "word_turkish": "konuşma yapmak"
+    },
+    {
+        "id": 63,
+        "word_english": "haughty",
+        "word_turkish": "kibirli"
+    },
+    {
+        "id": 64,
+        "word_english": "heed",
+        "word_turkish": "dikkate almak"
+    },
+    {
+        "id": 65,
+        "word_english": "hierarchy",
+        "word_turkish": "hiyerarşi"
+    },
+    {
+        "id": 66,
+        "word_english": "hone",
+        "word_turkish": "keskinleştirmek"
+    },
+    {
+        "id": 67,
+        "word_english": "hyperbole",
+        "word_turkish": "abartı"
+    },
+    {
+        "id": 68,
+        "word_english": "ignominious",
+        "word_turkish": "rezil"
+    },
+    {
+        "id": 69,
+        "word_english": "inane",
+        "word_turkish": "saçma"
+    },
+    {
+        "id": 70,
+        "word_english": "incessant",
+        "word_turkish": "sürekli"
+    },
+    {
+        "id": 71,
+        "word_english": "indigent",
+        "word_turkish": "yoksul"
+    },
+    {
+        "id": 72,
+        "word_english": "indomitable",
+        "word_turkish": "yılmaz"
+    },
+    {
+        "id": 73,
+        "word_english": "insinuate",
+        "word_turkish": "ima etmek"
+    },
+    {
+        "id": 74,
+        "word_english": "integral",
+        "word_turkish": "bütünleyici"
+    },
+    {
+        "id": 75,
+        "word_english": "intermittent",
+        "word_turkish": "kesikli"
+    },
+    {
+        "id": 76,
+        "word_english": "intricate",
+        "word_turkish": "karmaşık"
+    },
+    {
+        "id": 77,
+        "word_english": "irrefutable",
+        "word_turkish": "inkar edilemez"
+    },
+    {
+        "id": 78,
+        "word_english": "jovial",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 79,
+        "word_english": "juvenile",
+        "word_turkish": "genç"
+    },
+    {
+        "id": 80,
+        "word_english": "juxtapose",
+        "word_turkish": "yan yana koymak"
+    },
+    {
+        "id": 81,
+        "word_english": "keen",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 82,
+        "word_english": "laconic",
+        "word_turkish": "kısa ve öz"
+    },
+    {
+        "id": 83,
+        "word_english": "lament",
+        "word_turkish": "ağlamak"
+    },
+    {
+        "id": 84,
+        "word_english": "latent",
+        "word_turkish": "gizli"
+    },
+    {
+        "id": 85,
+        "word_english": "lethargic",
+        "word_turkish": "bitkin"
+    },
+    {
+        "id": 86,
+        "word_english": "mendacious",
+        "word_turkish": "yalan söyleyen"
+    },
+    {
+        "id": 87,
+        "word_english": "meticulous",
+        "word_turkish": "titiz"
+    },
+    {
+        "id": 88,
+        "word_english": "nefarious",
+        "word_turkish": "kötü niyetli"
+    },
+    {
+        "id": 89,
+        "word_english": "nonchalant",
+        "word_turkish": "umursamaz"
+    },
+    {
+        "id": 90,
+        "word_english": "noxious",
+        "word_turkish": "zararlı"
+    },
+    {
+        "id": 91,
+        "word_english": "obfuscate",
+        "word_turkish": "bulanıklaştırmak"
+    },
+    {
+        "id": 92,
+        "word_english": "oblivious",
+        "word_turkish": "habersiz"
+    },
+    {
+        "id": 93,
+        "word_english": "obtuse",
+        "word_turkish": "kör"
+    },
+    {
+        "id": 94,
+        "word_english": "opulent",
+        "word_turkish": "zengin"
+    },
+    {
+        "id": 95,
+        "word_english": "ostensible",
+        "word_turkish": "görünürde"
+    },
+    {
+        "id": 96,
+        "word_english": "palpable",
+        "word_turkish": "hissedilebilir"
+    },
+    {
+        "id": 97,
+        "word_english": "paragon",
+        "word_turkish": "örnek"
+    },
+    {
+        "id": 98,
+        "word_english": "pedantic",
+        "word_turkish": "kuralcı"
+    },
+    {
+        "id": 99,
+        "word_english": "perfunctory",
+        "word_turkish": "yüzeysel"
+    },
+    {
+        "id": 100,
+        "word_english": "perspicuous",
+        "word_turkish": "açık ve anlaşılır"
+    },
+    {
+        "id": 101,
+        "word_english": "plausible",
+        "word_turkish": "makul"
+    },
+    {
+        "id": 102,
+        "word_english": "precipitous",
+        "word_turkish": "düşüş"
+    },
+    {
+        "id": 103,
+        "word_english": "proclivity",
+        "word_turkish": "eğilim"
+    },
+    {
+        "id": 104,
+        "word_english": "prodigy",
+        "word_turkish": "dahi"
+    },
+    {
+        "id": 105,
+        "word_english": "prolific",
+        "word_turkish": "verimli"
+    },
+    {
+        "id": 106,
+        "word_english": "prosaic",
+        "word_turkish": "sıradan"
+    },
+    {
+        "id": 107,
+        "word_english": "quixotic",
+        "word_turkish": "hayalci"
+    },
+    {
+        "id": 108,
+        "word_english": "rancor",
+        "word_turkish": "kin"
+    },
+    {
+        "id": 109,
+        "word_english": "rebuke",
+        "word_turkish": "azarlamak"
+    },
+    {
+        "id": 110,
+        "word_english": "recalcitrant",
+        "word_turkish": "isyan eden"
+    },
+    {
+        "id": 111,
+        "word_english": "rejuvenate",
+        "word_turkish": "gençleştirmek"
+    },
+    {
+        "id": 112,
+        "word_english": "remorse",
+        "word_turkish": "pişmanlık"
+    },
+    {
+        "id": 113,
+        "word_english": "resilient",
+        "word_turkish": "dayanıklı"
+    },
+    {
+        "id": 114,
+        "word_english": "revile",
+        "word_turkish": "ağır sözler söylemek"
+    },
+    {
+        "id": 115,
+        "word_english": "rhetoric",
+        "word_turkish": "hitabet"
+    },
+    {
+        "id": 116,
+        "word_english": "salient",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 117,
+        "word_english": "scrupulous",
+        "word_turkish": "dikkatli"
+    },
+    {
+        "id": 118,
+        "word_english": "sentient",
+        "word_turkish": "duyarlı"
+    },
+    {
+        "id": 119,
+        "word_english": "serendipity",
+        "word_turkish": "tesadüf"
+    },
+    {
+        "id": 120,
+        "word_english": "spurious",
+        "word_turkish": "sahtelik"
+    },
+    {
+        "id": 121,
+        "word_english": "stoic",
+        "word_turkish": "sade"
+    },
+    {
+        "id": 122,
+        "word_english": "subjugate",
+        "word_turkish": "egemen olmak"
+    },
+    {
+        "id": 123,
+        "word_english": "supercilious",
+        "word_turkish": "büyüklenici"
+    },
+    {
+        "id": 124,
+        "word_english": "sycophant",
+        "word_turkish": "yağcı"
+    },
+    {
+        "id": 125,
+        "word_english": "taciturn",
+        "word_turkish": "az konuşan"
+    },
+    {
+        "id": 126,
+        "word_english": "tantamount",
+        "word_turkish": "eşdeğer"
+    },
+    {
+        "id": 127,
+        "word_english": "terse",
+        "word_turkish": "kısa ve öz"
+    },
+    {
+        "id": 128,
+        "word_english": "trivial",
+        "word_turkish": "önemsiz"
+    },
+    {
+        "id": 129,
+        "word_english": "ubiquitous",
+        "word_turkish": "her yerde bulunan"
+    },
+    {
+        "id": 130,
+        "word_english": "utilitarian",
+        "word_turkish": "faydalı"
+    },
+    {
+        "id": 131,
+        "word_english": "venerable",
+        "word_turkish": "saygıdeğer"
+    },
+    {
+        "id": 132,
+        "word_english": "verbose",
+        "word_turkish": "ağır ve uzun"
+    },
+    {
+        "id": 133,
+        "word_english": "vindicate",
+        "word_turkish": "temize çıkarmak"
+    },
+    {
+        "id": 134,
+        "word_english": "virulent",
+        "word_turkish": "zehirli"
+    },
+    {
+        "id": 135,
+        "word_english": "warranted",
+        "word_turkish": "garantili"
+    },
+    {
+        "id": 136,
+        "word_english": "wistful",
+        "word_turkish": "özlem dolu"
+    },
+    {
+        "id": 137,
+        "word_english": "zealot",
+        "word_turkish": "aşırı taraftar"
+    },
+    {
+        "id": 138,
+        "word_english": "acquiesce",
+        "word_turkish": "boyun eğmek"
+    },
+    {
+        "id": 139,
+        "word_english": "alleviate",
+        "word_turkish": "hafifletmek"
+    },
+    {
+        "id": 140,
+        "word_english": "arcane",
+        "word_turkish": "gizli"
+    },
+    {
+        "id": 141,
+        "word_english": "audacious",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 142,
+        "word_english": "bastion",
+        "word_turkish": "kale"
+    },
+    {
+        "id": 143,
+        "word_english": "benefactor",
+        "word_turkish": "yardımcı"
+    },
+    {
+        "id": 144,
+        "word_english": "cogent",
+        "word_turkish": "ikna edici"
+    },
+    {
+        "id": 145,
+        "word_english": "conclave",
+        "word_turkish": "gizli toplantı"
+    },
+    {
+        "id": 146,
+        "word_english": "deft",
+        "word_turkish": "becerikli"
+    },
+    {
+        "id": 147,
+        "word_english": "diminutive",
+        "word_turkish": "küçük"
+    },
+    {
+        "id": 148,
+        "word_english": "dissonance",
+        "word_turkish": "uyumsuzluk"
+    },
+    {
+        "id": 149,
+        "word_english": "emulate",
+        "word_turkish": "örnek almak"
+    },
+    {
+        "id": 150,
+        "word_english": "enervate",
+        "word_turkish": "zayıflatmak"
+    },
+    {
+        "id": 151,
+        "word_english": "engender",
+        "word_turkish": "doğurmak"
+    },
+    {
+        "id": 152,
+        "word_english": "ephemeral",
+        "word_turkish": "geçici"
+    },
+    {
+        "id": 153,
+        "word_english": "esoteric",
+        "word_turkish": "anlaşılması zor"
+    },
+    {
+        "id": 154,
+        "word_english": "exacerbate",
+        "word_turkish": "kötüleştirmek"
+    },
+    {
+        "id": 155,
+        "word_english": "flourish",
+        "word_turkish": "gelişmek"
+    },
+    {
+        "id": 156,
+        "word_english": "gratuitous",
+        "word_turkish": "gereksiz"
+    },
+    {
+        "id": 157,
+        "word_english": "gregarious",
+        "word_turkish": "sosyalleşen"
+    },
+    {
+        "id": 158,
+        "word_english": "harangue",
+        "word_turkish": "konuşma yapmak"
+    },
+    {
+        "id": 159,
+        "word_english": "histrionic",
+        "word_turkish": "abartılı"
+    },
+    {
+        "id": 160,
+        "word_english": "hypocrisy",
+        "word_turkish": "iki yüzlülük"
+    },
+    {
+        "id": 161,
+        "word_english": "immutable",
+        "word_turkish": "değişmez"
+    },
+    {
+        "id": 162,
+        "word_english": "inane",
+        "word_turkish": "saçma"
+    },
+    {
+        "id": 163,
+        "word_english": "insipid",
+        "word_turkish": "sıkıcı"
+    },
+    {
+        "id": 164,
+        "word_english": "insurgent",
+        "word_turkish": "isyan eden"
+    },
+    {
+        "id": 165,
+        "word_english": "interpolate",
+        "word_turkish": "arasına katmak"
+    },
+    {
+        "id": 166,
+        "word_english": "intransigent",
+        "word_turkish": "uzlaşmaz"
+    },
+    {
+        "id": 167,
+        "word_english": "ironic",
+        "word_turkish": "ironi"
+    },
+    {
+        "id": 168,
+        "word_english": "languish",
+        "word_turkish": "zayıflamak"
+    },
+    {
+        "id": 169,
+        "word_english": "lucid",
+        "word_turkish": "açık"
+    },
+    {
+        "id": 170,
+        "word_english": "magnanimous",
+        "word_turkish": "büyük yürekli"
+    },
+    {
+        "id": 171,
+        "word_english": "nefarious",
+        "word_turkish": "kötü niyetli"
+    },
+    {
+        "id": 172,
+        "word_english": "obfuscate",
+        "word_turkish": "bulanıklaştırmak"
+    },
+    {
+        "id": 173,
+        "word_english": "pertinent",
+        "word_turkish": "ilgili"
+    },
+    {
+        "id": 174,
+        "word_english": "petulant",
+        "word_turkish": "huysuz"
+    },
+    {
+        "id": 175,
+        "word_english": "plethora",
+        "word_turkish": "fazlalık"
+    },
+    {
+        "id": 176,
+        "word_english": "precarious",
+        "word_turkish": "riskli"
+    },
+    {
+        "id": 177,
+        "word_english": "prodigal",
+        "word_turkish": "savurgan"
+    },
+    {
+        "id": 178,
+        "word_english": "resilient",
+        "word_turkish": "dayanıklı"
+    },
+    {
+        "id": 179,
+        "word_english": "sagacious",
+        "word_turkish": "bilgili"
+    },
+    {
+        "id": 180,
+        "word_english": "salient",
+        "word_turkish": "önemli"
+    },
+    {
+        "id": 181,
+        "word_english": "surreptitious",
+        "word_turkish": "gizlice"
+    },
+    {
+        "id": 182,
+        "word_english": "tacit",
+        "word_turkish": "sessiz"
+    },
+    {
+        "id": 183,
+        "word_english": "tangible",
+        "word_turkish": "somut"
+    },
+    {
+        "id": 184,
+        "word_english": "verbose",
+        "word_turkish": "ağır ve uzun"
+    },
+    {
+        "id": 185,
+        "word_english": "vicissitude",
+        "word_turkish": "değişim"
+    },
+    {
+        "id": 186,
+        "word_english": "voracious",
+        "word_turkish": "açgözlü"
+    },
+    {
+        "id": 187,
+        "word_english": "warrant",
+        "word_turkish": "gerekçe"
+    },
+    {
+        "id": 188,
+        "word_english": "wily",
+        "word_turkish": "hilekar"
+    },
+    {
+        "id": 189,
+        "word_english": "zealous",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 190,
+        "word_english": "abstain",
+        "word_turkish": "kaçınmak"
+    },
+    {
+        "id": 191,
+        "word_english": "affluent",
+        "word_turkish": "zengin"
+    },
+    {
+        "id": 192,
+        "word_english": "amorphous",
+        "word_turkish": "şekilsiz"
+    },
+    {
+        "id": 193,
+        "word_english": "arduous",
+        "word_turkish": "zor"
+    },
+    {
+        "id": 194,
+        "word_english": "assiduous",
+        "word_turkish": "gayretli"
+    },
+    {
+        "id": 195,
+        "word_english": "bellicose",
+        "word_turkish": "savaşçı"
+    },
+    {
+        "id": 196,
+        "word_english": "capricious",
+        "word_turkish": "değişken"
+    },
+    {
+        "id": 197,
+        "word_english": "circumspect",
+        "word_turkish": "dikkatli"
+    },
+    {
+        "id": 198,
+        "word_english": "coerce",
+        "word_turkish": "zorlamak"
+    },
+    {
+        "id": 199,
+        "word_english": "complacent",
+        "word_turkish": "kendini beğenmiş"
+    },
+    {
+        "id": 200,
+        "word_english": "concur",
+        "word_turkish": "hemfikir olmak"
+    },
+    {
+        "id": 201,
+        "word_english": "condone",
+        "word_turkish": "hoş görmek"
+    },
+    {
+        "id": 202,
+        "word_english": "congenial",
+        "word_turkish": "uyumlu"
+    },
+    {
+        "id": 203,
+        "word_english": "cynical",
+        "word_turkish": "alaycı"
+    },
+    {
+        "id": 204,
+        "word_english": "debilitate",
+        "word_turkish": "zayıflatmak"
+    },
+    {
+        "id": 205,
+        "word_english": "diminutive",
+        "word_turkish": "küçük"
+    },
+    {
+        "id": 206,
+        "word_english": "eclectic",
+        "word_turkish": "seçici"
+    },
+    {
+        "id": 207,
+        "word_english": "equivocate",
+        "word_turkish": "söz değiştirmek"
+    },
+    {
+        "id": 208,
+        "word_english": "exasperate",
+        "word_turkish": "kızdırmak"
+    },
+    {
+        "id": 209,
+        "word_english": "feasible",
+        "word_turkish": "uygulanabilir"
+    },
+    {
+        "id": 210,
+        "word_english": "fortuitous",
+        "word_turkish": "tesadüfi"
+    },
+    {
+        "id": 211,
+        "word_english": "garrulous",
+        "word_turkish": "geveze"
+    },
+    {
+        "id": 212,
+        "word_english": "incredulous",
+        "word_turkish": "inanmaz"
+    },
+    {
+        "id": 213,
+        "word_english": "indifferent",
+        "word_turkish": "umursamaz"
+    },
+    {
+        "id": 214,
+        "word_english": "indolent",
+        "word_turkish": "tembel"
+    },
+    {
+        "id": 215,
+        "word_english": "intrepid",
+        "word_turkish": "cesur"
+    },
+    {
+        "id": 216,
+        "word_english": "inveterate",
+        "word_turkish": "kökleşmiş"
+    },
+    {
+        "id": 217,
+        "word_english": "jovial",
+        "word_turkish": "neşeli"
+    },
+    {
+        "id": 218,
+        "word_english": "judicious",
+        "word_turkish": "dikkatli"
+    },
+    {
+        "id": 219,
+        "word_english": "keen",
+        "word_turkish": "hevesli"
+    },
+    {
+        "id": 220,
+        "word_english": "laudable",
+        "word_turkish": "övgüye değer"
+    },
+    {
+        "id": 221,
+        "word_english": "litigious",
+        "word_turkish": "dava açmaya yatkın"
+    },
+    {
+        "id": 222,
+        "word_english": "lucid",
+        "word_turkish": "açık"
+    },
+    {
+        "id": 223,
+        "word_english": "meticulous",
+        "word_turkish": "titiz"
+    },
+    {
+        "id": 224,
+        "word_english": "nefarious",
+        "word_turkish": "kötü niyetli"
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "word_english": "Addition",
+        "word_turkish": "Toplama"
+    },
+    {
+        "id": 2,
+        "word_english": "Subtraction",
+        "word_turkish": "Çıkarma"
+    },
+    {
+        "id": 3,
+        "word_english": "Multiplication",
+        "word_turkish": "Çarpma"
+    },
+    {
+        "id": 4,
+        "word_english": "Division",
+        "word_turkish": "Bölme"
+    },
+    {
+        "id": 5,
+        "word_english": "Fraction",
+        "word_turkish": "Kesir"
+    },
+    {
+        "id": 6,
+        "word_english": "Decimal",
+        "word_turkish": "Ondalık"
+    },
+    {
+        "id": 7,
+        "word_english": "Percentage",
+        "word_turkish": "Yüzde"
+    },
+    {
+        "id": 8,
+        "word_english": "Ratio",
+        "word_turkish": "Oran"
+    },
+    {
+        "id": 9,
+        "word_english": "Proportion",
+        "word_turkish": "Proporksiyon"
+    },
+    {
+        "id": 10,
+        "word_english": "Exponentiation",
+        "word_turkish": "Üs Alma"
+    },
+    {
+        "id": 11,
+        "word_english": "Square",
+        "word_turkish": "Kare"
+    },
+    {
+        "id": 12,
+        "word_english": "Square Root",
+        "word_turkish": "Karekök"
+    },
+    {
+        "id": 13,
+        "word_english": "Cube",
+        "word_turkish": "Küp"
+    },
+    {
+        "id": 14,
+        "word_english": "Cube Root",
+        "word_turkish": "Küp Kök"
+    },
+    {
+        "id": 15,
+        "word_english": "Logarithm",
+        "word_turkish": "Logaritma"
+    },
+    {
+        "id": 16,
+        "word_english": "Probability",
+        "word_turkish": "Olasılık"
+    },
+    {
+        "id": 17,
+        "word_english": "Statistics",
+        "word_turkish": "İstatistik"
+    },
+    {
+        "id": 18,
+        "word_english": "Mean",
+        "word_turkish": "Aritmetik Ortalama"
+    },
+    {
+        "id": 19,
+        "word_english": "Median",
+        "word_turkish": "Medyan"
+    },
+    {
+        "id": 20,
+        "word_english": "Mode",
+        "word_turkish": "Mod"
+    },
+    {
+        "id": 21,
+        "word_english": "Range",
+        "word_turkish": "Aralık"
+    },
+    {
+        "id": 22,
+        "word_english": "Variance",
+        "word_turkish": "Varyans"
+    },
+    {
+        "id": 23,
+        "word_english": "Standard Deviation",
+        "word_turkish": "Standart Sapma"
+    },
+    {
+        "id": 24,
+        "word_english": "Correlation",
+        "word_turkish": "Korelasyon"
+    },
+    {
+        "id": 25,
+        "word_english": "Regression",
+        "word_turkish": "Regresyon"
+    },
+    {
+        "id": 26,
+        "word_english": "Set",
+        "word_turkish": "Küme"
+    },
+    {
+        "id": 27,
+        "word_english": "Union",
+        "word_turkish": "Birleşim"
+    },
+    {
+        "id": 28,
+        "word_english": "Intersection",
+        "word_turkish": "Kesişim"
+    },
+    {
+        "id": 29,
+        "word_english": "Complement",
+        "word_turkish": "Tamamlayıcı"
+    },
+    {
+        "id": 30,
+        "word_english": "Element",
+        "word_turkish": "Öğe"
+    },
+    {
+        "id": 31,
+        "word_english": "Vector",
+        "word_turkish": "Vektör"
+    },
+    {
+        "id": 32,
+        "word_english": "Matrix",
+        "word_turkish": "Matris"
+    },
+    {
+        "id": 33,
+        "word_english": "Determinant",
+        "word_turkish": "Determinant"
+    },
+    {
+        "id": 34,
+        "word_english": "Transpose",
+        "word_turkish": "Transpoz"
+    },
+    {
+        "id": 35,
+        "word_english": "Eigenvalue",
+        "word_turkish": "Özdeğer"
+    },
+    {
+        "id": 36,
+        "word_english": "Eigenvector",
+        "word_turkish": "Özvektör"
+    },
+    {
+        "id": 37,
+        "word_english": "Scalar",
+        "word_turkish": "Skaler"
+    },
+    {
+        "id": 38,
+        "word_english": "Coordinate",
+        "word_turkish": "Koordinat"
+    },
+    {
+        "id": 39,
+        "word_english": "Axis",
+        "word_turkish": "Eksen"
+    },
+    {
+        "id": 40,
+        "word_english": "Plane",
+        "word_turkish": "Düzlem"
+    },
+    {
+        "id": 41,
+        "word_english": "Line",
+        "word_turkish": "Doğru"
+    },
+    {
+        "id": 42,
+        "word_english": "Point",
+        "word_turkish": "Nokta"
+    },
+    {
+        "id": 43,
+        "word_english": "Angle",
+        "word_turkish": "Açı"
+    },
+    {
+        "id": 44,
+        "word_english": "Acute Angle",
+        "word_turkish": "Geniş Açı"
+    },
+    {
+        "id": 45,
+        "word_english": "Obtuse Angle",
+        "word_turkish": "Geniş Açı"
+    },
+    {
+        "id": 46,
+        "word_english": "Right Angle",
+        "word_turkish": "Dik Açı"
+    },
+    {
+        "id": 47,
+        "word_english": "Straight Angle",
+        "word_turkish": "Doğru Açı"
+    },
+    {
+        "id": 48,
+        "word_english": "Reflex Angle",
+        "word_turkish": "Yansıma Açı"
+    },
+    {
+        "id": 49,
+        "word_english": "Complementary Angles",
+        "word_turkish": "Tamlayıcı Açı"
+    },
+    {
+        "id": 50,
+        "word_english": "Supplementary Angles",
+        "word_turkish": "Tamlayıcı Açı"
+    },
+    {
+        "id": 51,
+        "word_english": "Parallel Lines",
+        "word_turkish": "Paralel Doğrular"
+    },
+    {
+        "id": 52,
+        "word_english": "Perpendicular Lines",
+        "word_turkish": "Dik Doğrular"
+    },
+    {
+        "id": 53,
+        "word_english": "Triangle",
+        "word_turkish": "Üçgen"
+    },
+    {
+        "id": 54,
+        "word_english": "Rectangle",
+        "word_turkish": "Dikdörtgen"
+    },
+    {
+        "id": 55,
+        "word_english": "Square",
+        "word_turkish": "Kare"
+    },
+    {
+        "id": 56,
+        "word_english": "Circle",
+        "word_turkish": "Çember"
+    },
+    {
+        "id": 57,
+        "word_english": "Circumference",
+        "word_turkish": "Çevre"
+    },
+    {
+        "id": 58,
+        "word_english": "Radius",
+        "word_turkish": "Yarıçap"
+    },
+    {
+        "id": 59,
+        "word_english": "Diameter",
+        "word_turkish": "Çap"
+    },
+    {
+        "id": 60,
+        "word_english": "Area",
+        "word_turkish": "Alan"
+    },
+    {
+        "id": 61,
+        "word_english": "Perimeter",
+        "word_turkish": "Çevre"
+    },
+    {
+        "id": 62,
+        "word_english": "Volume",
+        "word_turkish": "Hacim"
+    },
+    {
+        "id": 63,
+        "word_english": "Surface Area",
+        "word_turkish": "Yüzey Alanı"
+    },
+    {
+        "id": 64,
+        "word_english": "Pythagorean Theorem",
+        "word_turkish": "Pisagor Teoremi"
+    },
+    {
+        "id": 65,
+        "word_english": "Trigonometry",
+        "word_turkish": "Trigonometri"
+    },
+    {
+        "id": 66,
+        "word_english": "Sine",
+        "word_turkish": "Sinüs"
+    },
+    {
+        "id": 67,
+        "word_english": "Cosine",
+        "word_turkish": "Kosünüs"
+    },
+    {
+        "id": 68,
+        "word_english": "Tangent",
+        "word_turkish": "Tanjant"
+    },
+    {
+        "id": 69,
+        "word_english": "Secant",
+        "word_turkish": "Sekant"
+    },
+    {
+        "id": 70,
+        "word_english": "Cosecant",
+        "word_turkish": "Kosekant"
+    },
+    {
+        "id": 71,
+        "word_english": "Cotangent",
+        "word_turkish": "Kotanjant"
+    },
+    {
+        "id": 72,
+        "word_english": "Hypotenuse",
+        "word_turkish": "Hipotenüs"
+    },
+    {
+        "id": 73,
+        "word_english": "Opposite",
+        "word_turkish": "Karşı"
+    },
+    {
+        "id": 74,
+        "word_english": "Adjacent",
+        "word_turkish": "Komşu"
+    },
+    {
+        "id": 75,
+        "word_english": "Angle of Elevation",
+        "word_turkish": "Yükselme Açısı"
+    },
+    {
+        "id": 76,
+        "word_english": "Angle of Depression",
+        "word_turkish": "Alçalma Açısı"
+    },
+    {
+        "id": 77,
+        "word_english": "Radians",
+        "word_turkish": "Radyan"
+    },
+    {
+        "id": 78,
+        "word_english": "Degrees",
+        "word_turkish": "Derece"
+    },
+    {
+        "id": 79,
+        "word_english": "Law of Sines",
+        "word_turkish": "Sinüs Kanunu"
+    },
+    {
+        "id": 80,
+        "word_english": "Law of Cosines",
+        "word_turkish": "Kosünüs Kanunu"
+    },
+    {
+        "id": 81,
+        "word_english": "Law of Tangents",
+        "word_turkish": "Tanjant Kanunu"
+    },
+    {
+        "id": 82,
+        "word_english": "Trigonometric Identities",
+        "word_turkish": "Trigonometrik Kimlikler"
+    },
+    {
+        "id": 83,
+        "word_english": "Identity",
+        "word_turkish": "Kimlik"
+    },
+    {
+        "id": 84,
+        "word_english": "Matrix Multiplication",
+        "word_turkish": "Matris Çarpımı"
+    },
+    {
+        "id": 85,
+        "word_english": "Inverse Matrix",
+        "word_turkish": "Ters Matris"
+    },
+    {
+        "id": 86,
+        "word_english": "Determinant of a Matrix",
+        "word_turkish": "Matrisin Determinantı"
+    },
+    {
+        "id": 87,
+        "word_english": "Linear Equation",
+        "word_turkish": "Doğrusal Denklem"
+    },
+    {
+        "id": 88,
+        "word_english": "Quadratic Equation",
+        "word_turkish": "Karekök Denklem"
+    },
+    {
+        "id": 89,
+        "word_english": "Cubic Equation",
+        "word_turkish": "Kübik Denklem"
+    },
+    {
+        "id": 90,
+        "word_english": "Polynomial",
+        "word_turkish": "Polinom"
+    },
+    {
+        "id": 91,
+        "word_english": "Root",
+        "word_turkish": "Kök"
+    },
+    {
+        "id": 92,
+        "word_english": "Factorization",
+        "word_turkish": "Faktörleme"
+    },
+    {
+        "id": 93,
+        "word_english": "Rational Numbers",
+        "word_turkish": "Rasyonel Sayılar"
+    },
+    {
+        "id": 94,
+        "word_english": "Irrational Numbers",
+        "word_turkish": "İrrasyonel Sayılar"
+    },
+    {
+        "id": 95,
+        "word_english": "Real Numbers",
+        "word_turkish": "Gerçek Sayılar"
+    },
+    {
+        "id": 96,
+        "word_english": "Imaginary Numbers",
+        "word_turkish": "Hayali Sayılar"
+    },
+    {
+        "id": 97,
+        "word_english": "Complex Numbers",
+        "word_turkish": "Kompleks Sayılar"
+    },
+    {
+        "id": 98,
+        "word_english": "Absolute Value",
+        "word_turkish": "Mutlak Değer"
+    },
+    {
+        "id": 99,
+        "word_english": "Number Line",
+        "word_turkish": "Sayısal Doğru"
+    }
+]
