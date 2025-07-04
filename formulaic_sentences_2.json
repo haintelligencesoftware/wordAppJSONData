@@ -1,0 +1,1987 @@
+[
+  {
+    "id": "1",
+    "word_english": "How are you?",
+    "word_turkish": "Nasılsın?"
+  },
+  {
+    "id": "2",
+    "word_english": "Nice to meet you.",
+    "word_turkish": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "id": "3",
+    "word_english": "What’s your name?",
+    "word_turkish": "Adın ne?"
+  },
+  {
+    "id": "4",
+    "word_english": "Where are you from?",
+    "word_turkish": "Nerelisin?"
+  },
+  {
+    "id": "5",
+    "word_english": "I’m from Turkey.",
+    "word_turkish": "Türkiye'denim."
+  },
+  {
+    "id": "6",
+    "word_english": "How old are you?",
+    "word_turkish": "Kaç yaşındasın?"
+  },
+  {
+    "id": "7",
+    "word_english": "I’m 25 years old.",
+    "word_turkish": "25 yaşındayım."
+  },
+  {
+    "id": "8",
+    "word_english": "What do you do?",
+    "word_turkish": "Ne iş yapıyorsun?"
+  },
+  {
+    "id": "9",
+    "word_english": "I’m a student.",
+    "word_turkish": "Öğrenciyim."
+  },
+  {
+    "id": "10",
+    "word_english": "I’m working now.",
+    "word_turkish": "Şu anda çalışıyorum."
+  },
+  {
+    "id": "11",
+    "word_english": "Can you help me?",
+    "word_turkish": "Bana yardım eder misin?"
+  },
+  {
+    "id": "12",
+    "word_english": "I don’t understand.",
+    "word_turkish": "Anlamıyorum."
+  },
+  {
+    "id": "13",
+    "word_english": "Could you repeat that?",
+    "word_turkish": "Tekrar eder misiniz?"
+  },
+  {
+    "id": "14",
+    "word_english": "What time is it?",
+    "word_turkish": "Saat kaç?"
+  },
+  {
+    "id": "15",
+    "word_english": "It's five o'clock.",
+    "word_turkish": "Saat beş."
+  },
+  {
+    "id": "16",
+    "word_english": "See you later.",
+    "word_turkish": "Sonra görüşürüz."
+  },
+  {
+    "id": "17",
+    "word_english": "Take care.",
+    "word_turkish": "Kendine iyi bak."
+  },
+  {
+    "id": "18",
+    "word_english": "Have a good day.",
+    "word_turkish": "İyi günler."
+  },
+  {
+    "id": "19",
+    "word_english": "Good morning.",
+    "word_turkish": "Günaydın."
+  },
+  {
+    "id": "20",
+    "word_english": "Good night.",
+    "word_turkish": "İyi geceler."
+  },
+  {
+    "id": "21",
+    "word_english": "What’s going on?",
+    "word_turkish": "Neler oluyor?"
+  },
+  {
+    "id": "22",
+    "word_english": "I’m sorry.",
+    "word_turkish": "Üzgünüm."
+  },
+  {
+    "id": "23",
+    "word_english": "Excuse me.",
+    "word_turkish": "Afedersiniz."
+  },
+  {
+    "id": "24",
+    "word_english": "Bless you.",
+    "word_turkish": "Çok yaşa."
+  },
+  {
+    "id": "25",
+    "word_english": "I agree.",
+    "word_turkish": "Katılıyorum."
+  },
+  {
+    "id": "26",
+    "word_english": "I disagree.",
+    "word_turkish": "Katılmıyorum."
+  },
+  {
+    "id": "27",
+    "word_english": "No problem.",
+    "word_turkish": "Sorun değil."
+  },
+  {
+    "id": "28",
+    "word_english": "Of course.",
+    "word_turkish": "Elbette."
+  },
+  {
+    "id": "29",
+    "word_english": "Not at all.",
+    "word_turkish": "Hiç de bile."
+  },
+  {
+    "id": "30",
+    "word_english": "It doesn’t matter.",
+    "word_turkish": "Fark etmez."
+  },
+  {
+    "id": "31",
+    "word_english": "I’m hungry.",
+    "word_turkish": "Açım."
+  },
+  {
+    "id": "32",
+    "word_english": "I’m thirsty.",
+    "word_turkish": "Susadım."
+  },
+  {
+    "id": "33",
+    "word_english": "I’m tired.",
+    "word_turkish": "Yorgunum."
+  },
+  {
+    "id": "34",
+    "word_english": "I’m bored.",
+    "word_turkish": "Sıkıldım."
+  },
+  {
+    "id": "35",
+    "word_english": "That’s interesting.",
+    "word_turkish": "Bu ilginç."
+  },
+  {
+    "id": "36",
+    "word_english": "I like it.",
+    "word_turkish": "Beğendim."
+  },
+  {
+    "id": "37",
+    "word_english": "I love it.",
+    "word_turkish": "Bayıldım."
+  },
+  {
+    "id": "38",
+    "word_english": "I hate it.",
+    "word_turkish": "Nefret ediyorum."
+  },
+  {
+    "id": "39",
+    "word_english": "I don’t like it.",
+    "word_turkish": "Beğenmedim."
+  },
+  {
+    "id": "40",
+    "word_english": "It’s okay.",
+    "word_turkish": "Fena değil."
+  },
+  {
+    "id": "41",
+    "word_english": "It’s up to you.",
+    "word_turkish": "Sana kalmış."
+  },
+  {
+    "id": "42",
+    "word_english": "It depends.",
+    "word_turkish": "Duruma bağlı."
+  },
+  {
+    "id": "43",
+    "word_english": "That’s enough.",
+    "word_turkish": "Bu kadar yeter."
+  },
+  {
+    "id": "44",
+    "word_english": "Let’s go!",
+    "word_turkish": "Hadi gidelim!"
+  },
+  {
+    "id": "45",
+    "word_english": "Calm down.",
+    "word_turkish": "Sakin ol."
+  },
+  {
+    "id": "46",
+    "word_english": "Don’t worry.",
+    "word_turkish": "Endişelenme."
+  },
+  {
+    "id": "47",
+    "word_english": "Be careful.",
+    "word_turkish": "Dikkatli ol."
+  },
+  {
+    "id": "48",
+    "word_english": "I’m here for you.",
+    "word_turkish": "Yanındayım."
+  },
+  {
+    "id": "49",
+    "word_english": "Trust me.",
+    "word_turkish": "Bana güven."
+  },
+  {
+    "id": "50",
+    "word_english": "Believe me.",
+    "word_turkish": "İnan bana."
+  },
+  {
+    "id": "51",
+    "word_english": "That’s great!",
+    "word_turkish": "Harika!"
+  },
+  {
+    "id": "52",
+    "word_english": "That's terrible!",
+    "word_turkish": "Bu korkunç!"
+  },
+  {
+    "id": "53",
+    "word_english": "That’s amazing!",
+    "word_turkish": "Bu harika!"
+  },
+  {
+    "id": "54",
+    "word_english": "You’re welcome.",
+    "word_turkish": "Rica ederim."
+  },
+  {
+    "id": "55",
+    "word_english": "What do you think?",
+    "word_turkish": "Ne düşünüyorsun?"
+  },
+  {
+    "id": "56",
+    "word_english": "I think so.",
+    "word_turkish": "Bence de."
+  },
+  {
+    "id": "57",
+    "word_english": "I hope so.",
+    "word_turkish": "Umarım öyledir."
+  },
+  {
+    "id": "58",
+    "word_english": "I hope not.",
+    "word_turkish": "Umarım değildir."
+  },
+  {
+    "id": "59",
+    "word_english": "I guess so.",
+    "word_turkish": "Sanırım öyle."
+  },
+  {
+    "id": "60",
+    "word_english": "I guess not.",
+    "word_turkish": "Sanırım değil."
+  },
+  {
+    "id": "61",
+    "word_english": "I’m not sure.",
+    "word_turkish": "Emin değilim."
+  },
+  {
+    "id": "62",
+    "word_english": "Absolutely not!",
+    "word_turkish": "Kesinlikle hayır!"
+  },
+  {
+    "id": "63",
+    "word_english": "Absolutely yes!",
+    "word_turkish": "Kesinlikle evet!"
+  },
+  {
+    "id": "64",
+    "word_english": "That’s right.",
+    "word_turkish": "Doğru."
+  },
+  {
+    "id": "65",
+    "word_english": "That’s wrong.",
+    "word_turkish": "Yanlış."
+  },
+  {
+    "id": "66",
+    "word_english": "You’re right.",
+    "word_turkish": "Haklısın."
+  },
+  {
+    "id": "67",
+    "word_english": "You’re wrong.",
+    "word_turkish": "Haksızsın."
+  },
+  {
+    "id": "68",
+    "word_english": "Do you agree?",
+    "word_turkish": "Katılıyor musun?"
+  },
+  {
+    "id": "69",
+    "word_english": "Not really.",
+    "word_turkish": "Pek değil."
+  },
+  {
+    "id": "70",
+    "word_english": "Exactly!",
+    "word_turkish": "Aynen!"
+  },
+  {
+    "id": "71",
+    "word_english": "No way!",
+    "word_turkish": "Hadi ya!"
+  },
+  {
+    "id": "72",
+    "word_english": "Are you serious?",
+    "word_turkish": "Ciddi misin?"
+  },
+  {
+    "id": "73",
+    "word_english": "Just kidding!",
+    "word_turkish": "Şaka yapıyorum!"
+  },
+  {
+    "id": "74",
+    "word_english": "I'm just looking.",
+    "word_turkish": "Sadece bakıyorum."
+  },
+  {
+    "id": "75",
+    "word_english": "What’s the matter?",
+    "word_turkish": "Sorun ne?"
+  },
+  {
+    "id": "76",
+    "word_english": "What happened?",
+    "word_turkish": "Ne oldu?"
+  },
+  {
+    "id": "77",
+    "word_english": "What’s wrong?",
+    "word_turkish": "Bir şey mi oldu?"
+  },
+  {
+    "id": "78",
+    "word_english": "Long time no see!",
+    "word_turkish": "Görüşmeyeli uzun zaman oldu!"
+  },
+  {
+    "id": "79",
+    "word_english": "What’s up?",
+    "word_turkish": "Naber?"
+  },
+  {
+    "id": "80",
+    "word_english": "Not much.",
+    "word_turkish": "Pek bir şey yok."
+  },
+  {
+    "id": "81",
+    "word_english": "Same as always.",
+    "word_turkish": "Her zamanki gibi."
+  },
+  {
+    "id": "82",
+    "word_english": "That makes sense.",
+    "word_turkish": "Mantıklı."
+  },
+  {
+    "id": "83",
+    "word_english": "Don’t mention it.",
+    "word_turkish": "Lafı bile olmaz."
+  },
+  {
+    "id": "84",
+    "word_english": "Forget it.",
+    "word_turkish": "Boşver."
+  },
+  {
+    "id": "85",
+    "word_english": "Never mind.",
+    "word_turkish": "Boşver."
+  },
+  {
+    "id": "86",
+    "word_english": "I’m coming.",
+    "word_turkish": "Geliyorum."
+  },
+  {
+    "id": "87",
+    "word_english": "Wait a minute.",
+    "word_turkish": "Bir dakika bekle."
+  },
+  {
+    "id": "88",
+    "word_english": "Hold on.",
+    "word_turkish": "Bekle."
+  },
+  {
+    "id": "89",
+    "word_english": "Hurry up!",
+    "word_turkish": "Acele et!"
+  },
+  {
+    "id": "90",
+    "word_english": "I’m ready.",
+    "word_turkish": "Hazırım."
+  },
+  {
+    "id": "91",
+    "word_english": "Let’s do it!",
+    "word_turkish": "Hadi yapalım!"
+  },
+  {
+    "id": "92",
+    "word_english": "It’s too late.",
+    "word_turkish": "Çok geç."
+  },
+  {
+    "id": "93",
+    "word_english": "It’s too early.",
+    "word_turkish": "Çok erken."
+  },
+  {
+    "id": "94",
+    "word_english": "Time is money.",
+    "word_turkish": "Vakit nakittir."
+  },
+  {
+    "id": "95",
+    "word_english": "Better late than never.",
+    "word_turkish": "Geç olsun güç olmasın."
+  },
+  {
+    "id": "96",
+    "word_english": "No pain, no gain.",
+    "word_turkish": "Emek olmadan yemek olmaz."
+  },
+  {
+    "id": "97",
+    "word_english": "Practice makes perfect.",
+    "word_turkish": "Pratik mükemmelleştirir."
+  },
+  {
+    "id": "98",
+    "word_english": "That’s life.",
+    "word_turkish": "Hayat işte."
+  },
+  {
+    "id": "99",
+    "word_english": "It’s not fair.",
+    "word_turkish": "Bu adil değil."
+  },
+  {
+    "id": "100",
+    "word_english": "It’s your turn.",
+    "word_turkish": "Sıra sende."
+  },
+  {
+    "id": "101",
+    "word_english": "It’s my turn.",
+    "word_turkish": "Sıra bende."
+  },
+  {
+    "id": "102",
+    "word_english": "It’s your choice.",
+    "word_turkish": "Bu senin tercihin."
+  },
+  {
+    "id": "103",
+    "word_english": "It’s not my fault.",
+    "word_turkish": "Benim hatam değil."
+  },
+  {
+    "id": "104",
+    "word_english": "Don’t blame me.",
+    "word_turkish": "Beni suçlama."
+  },
+  {
+    "id": "105",
+    "word_english": "Leave me alone.",
+    "word_turkish": "Beni yalnız bırak."
+  },
+  {
+    "id": "106",
+    "word_english": "Let me think.",
+    "word_turkish": "Bir düşüneyim."
+  },
+  {
+    "id": "107",
+    "word_english": "Let me see.",
+    "word_turkish": "Bir bakayım."
+  },
+  {
+    "id": "108",
+    "word_english": "Sounds good.",
+    "word_turkish": "Kulağa hoş geliyor."
+  },
+  {
+    "id": "109",
+    "word_english": "Sounds bad.",
+    "word_turkish": "Kulağa kötü geliyor."
+  },
+  {
+    "id": "110",
+    "word_english": "It’s not important.",
+    "word_turkish": "Önemli değil."
+  },
+  {
+    "id": "111",
+    "word_english": "It’s very important.",
+    "word_turkish": "Bu çok önemli."
+  },
+  {
+    "id": "112",
+    "word_english": "You scared me!",
+    "word_turkish": "Beni korkuttun!"
+  },
+  {
+    "id": "113",
+    "word_english": "You surprised me!",
+    "word_turkish": "Beni şaşırttın!"
+  },
+  {
+    "id": "114",
+    "word_english": "That’s unbelievable!",
+    "word_turkish": "Bu inanılmaz!"
+  },
+  {
+    "id": "115",
+    "word_english": "You got it!",
+    "word_turkish": "Aynen öyle!"
+  },
+  {
+    "id": "116",
+    "word_english": "You nailed it!",
+    "word_turkish": "Tam isabet!"
+  },
+  {
+    "id": "117",
+    "word_english": "You made it!",
+    "word_turkish": "Başardın!"
+  },
+  {
+    "id": "118",
+    "word_english": "I made a mistake.",
+    "word_turkish": "Bir hata yaptım."
+  },
+  {
+    "id": "119",
+    "word_english": "I’ll do my best.",
+    "word_turkish": "Elimden geleni yapacağım."
+  },
+  {
+    "id": "120",
+    "word_english": "It’s worth it.",
+    "word_turkish": "Buna değer."
+  },
+  {
+    "id": "121",
+    "word_english": "It’s not worth it.",
+    "word_turkish": "Buna değmez."
+  },
+  {
+    "id": "122",
+    "word_english": "It happens.",
+    "word_turkish": "Olur böyle şeyler."
+  },
+  {
+    "id": "123",
+    "word_english": "That’s how it is.",
+    "word_turkish": "Durum bu."
+  },
+  {
+    "id": "124",
+    "word_english": "I got it.",
+    "word_turkish": "Anladım."
+  },
+  {
+    "id": "125",
+    "word_english": "I don’t get it.",
+    "word_turkish": "Anlamıyorum."
+  },
+  {
+    "id": "126",
+    "word_english": "Let’s move on.",
+    "word_turkish": "Devam edelim."
+  },
+  {
+    "id": "127",
+    "word_english": "Let’s start.",
+    "word_turkish": "Hadi başlayalım."
+  },
+  {
+    "id": "128",
+    "word_english": "Let’s stop here.",
+    "word_turkish": "Burada duralım."
+  },
+  {
+    "id": "129",
+    "word_english": "I’m lost.",
+    "word_turkish": "Kayboldum."
+  },
+  {
+    "id": "130",
+    "word_english": "I’m looking for this place.",
+    "word_turkish": "Bu yeri arıyorum."
+  },
+  {
+    "id": "131",
+    "word_english": "Where is the bathroom?",
+    "word_turkish": "Tuvalet nerede?"
+  },
+  {
+    "id": "132",
+    "word_english": "Is this seat taken?",
+    "word_turkish": "Bu koltuk boş mu?"
+  },
+  {
+    "id": "133",
+    "word_english": "How much is it?",
+    "word_turkish": "Bu ne kadar?"
+  },
+  {
+    "id": "134",
+    "word_english": "Do you accept cards?",
+    "word_turkish": "Kart kabul ediyor musunuz?"
+  },
+  {
+    "id": "135",
+    "word_english": "Can I try it on?",
+    "word_turkish": "Üzerimde deneyebilir miyim?"
+  },
+  {
+    "id": "136",
+    "word_english": "I’ll take it.",
+    "word_turkish": "Bunu alıyorum."
+  },
+  {
+    "id": "137",
+    "word_english": "Can I help you?",
+    "word_turkish": "Size yardımcı olabilir miyim?"
+  },
+  {
+    "id": "138",
+    "word_english": "Just Browse, thanks.",
+    "word_turkish": "Sadece bakıyorum, teşekkürler."
+  },
+  {
+    "id": "139",
+    "word_english": "What would you like?",
+    "word_turkish": "Ne istersiniz?"
+  },
+  {
+    "id": "140",
+    "word_english": "I’d like a coffee.",
+    "word_turkish": "Bir kahve alayım."
+  },
+  {
+    "id": "141",
+    "word_english": "To go, please.",
+    "word_turkish": "Paket olsun lütfen."
+  },
+  {
+    "id": "142",
+    "word_english": "Here or to go?",
+    "word_turkish": "Burada mı, paket mi?"
+  },
+  {
+    "id": "143",
+    "word_english": "Enjoy your meal.",
+    "word_turkish": "Afiyet olsun."
+  },
+  {
+    "id": "144",
+    "word_english": "Bon appétit!",
+    "word_turkish": "Afiyet olsun!"
+  },
+  {
+    "id": "145",
+    "word_english": "Cheers!",
+    "word_turkish": "Şerefe!"
+  },
+  {
+    "id": "146",
+    "word_english": "I’m full.",
+    "word_turkish": "Doydum."
+  },
+  {
+    "id": "147",
+    "word_english": "I’m starving.",
+    "word_turkish": "Açlıktan ölüyorum."
+  },
+  {
+    "id": "148",
+    "word_english": "I’m on a diet.",
+    "word_turkish": "Diyetteyim."
+  },
+  {
+    "id": "149",
+    "word_english": "This is delicious.",
+    "word_turkish": "Bu çok lezzetli."
+  },
+  {
+    "id": "150",
+    "word_english": "It tastes bad.",
+    "word_turkish": "Tadı kötü."
+  },
+  {
+    "id": "151",
+    "word_english": "Can I have the bill?",
+    "word_turkish": "Hesabı alabilir miyim?"
+  },
+  {
+    "id": "152",
+    "word_english": "Do you speak word_english?",
+    "word_turkish": "İngilizce konuşuyor musun?"
+  },
+  {
+    "id": "153",
+    "word_english": "A little bit.",
+    "word_turkish": "Biraz."
+  },
+  {
+    "id": "154",
+    "word_english": "I don’t speak word_english.",
+    "word_turkish": "İngilizce konuşamıyorum."
+  },
+  {
+    "id": "155",
+    "word_english": "Could you speak slower?",
+    "word_turkish": "Daha yavaş konuşabilir misin?"
+  },
+  {
+    "id": "156",
+    "word_english": "What does this mean?",
+    "word_turkish": "Bu ne anlama geliyor?"
+  },
+  {
+    "id": "157",
+    "word_english": "How do you say this in word_english?",
+    "word_turkish": "Bu İngilizce nasıl söylenir?"
+  },
+  {
+    "id": "158",
+    "word_english": "How do you spell it?",
+    "word_turkish": "Nasıl hecelenir?"
+  },
+  {
+    "id": "159",
+    "word_english": "Can you write it down?",
+    "word_turkish": "Yazabilir misin?"
+  },
+  {
+    "id": "160",
+    "word_english": "I need a doctor.",
+    "word_turkish": "Bir doktora ihtiyacım var."
+  },
+  {
+    "id": "161",
+    "word_english": "Call the police!",
+    "word_turkish": "Polisi çağırın!"
+  },
+  {
+    "id": "162",
+    "word_english": "I feel sick.",
+    "word_turkish": "Kötü hissediyorum."
+  },
+  {
+    "id": "163",
+    "word_english": "I’m allergic to peanuts.",
+    "word_turkish": "Yer fıstığına alerjim var."
+  },
+  {
+    "id": "164",
+    "word_english": "Where is the nearest hospital?",
+    "word_turkish": "En yakın hastane nerede?"
+  },
+  {
+    "id": "165",
+    "word_english": "Is everything okay?",
+    "word_turkish": "Her şey yolunda mı?"
+  },
+  {
+    "id": "166",
+    "word_english": "Everything is fine.",
+    "word_turkish": "Her şey yolunda."
+  },
+  {
+    "id": "167",
+    "word_english": "Can I ask you something?",
+    "word_turkish": "Sana bir şey sorabilir miyim?"
+  },
+  {
+    "id": "168",
+    "word_english": "I have no idea.",
+    "word_turkish": "Hiçbir fikrim yok."
+  },
+  {
+    "id": "169",
+    "word_english": "What do you mean?",
+    "word_turkish": "Ne demek istiyorsun?"
+  },
+  {
+    "id": "170",
+    "word_english": "What’s your opinion?",
+    "word_turkish": "Senin fikrin ne?"
+  },
+  {
+    "id": "171",
+    "word_english": "Let me know.",
+    "word_turkish": "Bana haber ver."
+  },
+  {
+    "id": "172",
+    "word_english": "I’ll think about it.",
+    "word_turkish": "Bunu düşüneceğim."
+  },
+  {
+    "id": "173",
+    "word_english": "I changed my mind.",
+    "word_turkish": "Fikrimi değiştirdim."
+  },
+  {
+    "id": "174",
+    "word_english": "It’s up to you.",
+    "word_turkish": "Sana bağlı."
+  },
+  {
+    "id": "175",
+    "word_english": "Keep in touch.",
+    "word_turkish": "İletişimde kalalım."
+  },
+  {
+    "id": "176",
+    "word_english": "Let’s keep in touch.",
+    "word_turkish": "İletişimi sürdürelim."
+  },
+  {
+    "id": "177",
+    "word_english": "Do you have a phone number?",
+    "word_turkish": "Telefon numaran var mı?"
+  },
+  {
+    "id": "178",
+    "word_english": "What’s your email?",
+    "word_turkish": "E-posta adresin ne?"
+  },
+  {
+    "id": "179",
+    "word_english": "Can I add you on social media?",
+    "word_turkish": "Seni sosyal medyadan ekleyebilir miyim?"
+  },
+  {
+    "id": "180",
+    "word_english": "I’ll text you.",
+    "word_turkish": "Sana mesaj atarım."
+  },
+  {
+    "id": "181",
+    "word_english": "Call me later.",
+    "word_turkish": "Beni sonra ara."
+  },
+  {
+    "id": "182",
+    "word_english": "I’ll call you back.",
+    "word_turkish": "Seni geri arayacağım."
+  },
+  {
+    "id": "183",
+    "word_english": "See you soon.",
+    "word_turkish": "Yakında görüşürüz."
+  },
+  {
+    "id": "184",
+    "word_english": "Talk to you later.",
+    "word_turkish": "Sonra konuşuruz."
+  },
+  {
+    "id": "185",
+    "word_english": "Take it easy.",
+    "word_turkish": "Rahat ol."
+  },
+  {
+    "id": "186",
+    "word_english": "Good luck!",
+    "word_turkish": "Bol şans!"
+  },
+  {
+    "id": "187",
+    "word_english": "Congratulations!",
+    "word_turkish": "Tebrikler!"
+  },
+  {
+    "id": "188",
+    "word_english": "Happy birthday!",
+    "word_turkish": "Doğum günün kutlu olsun!"
+  },
+  {
+    "id": "189",
+    "word_english": "Merry Christmas!",
+    "word_turkish": "Mutlu Noeller!"
+  },
+  {
+    "id": "190",
+    "word_english": "Happy New Year!",
+    "word_turkish": "Mutlu yıllar!"
+  },
+  {
+    "id": "191",
+    "word_english": "Enjoy your trip!",
+    "word_turkish": "İyi yolculuklar!"
+  },
+  {
+    "id": "192",
+    "word_english": "Have fun!",
+    "word_turkish": "İyi eğlenceler!"
+  },
+  {
+    "id": "193",
+    "word_english": "Get well soon!",
+    "word_turkish": "Geçmiş olsun!"
+  },
+  {
+    "id": "194",
+    "word_english": "Rest in peace.",
+    "word_turkish": "Huzur içinde yatsın."
+  },
+  {
+    "id": "195",
+    "word_english": "It’s my pleasure.",
+    "word_turkish": "Benim için bir zevkti."
+  },
+  {
+    "id": "196",
+    "word_english": "Make yourself at home.",
+    "word_turkish": "Kendini evinde hisset."
+  },
+  {
+    "id": "197",
+    "word_english": "Help yourself.",
+    "word_turkish": "Buyur, çekinme."
+  },
+  {
+    "id": "198",
+    "word_english": "After you.",
+    "word_turkish": "Önce sen."
+  },
+  {
+    "id": "199",
+    "word_english": "Ladies first.",
+    "word_turkish": "Önce bayanlar."
+  },
+  {
+    "id": "200",
+    "word_english": "Age is just a number.",
+    "word_turkish": "Yaş sadece bir sayıdır."
+  },
+  {
+    "id": "201",
+    "word_english": "I can’t wait!",
+    "word_turkish": "Sabırsızlanıyorum!"
+  },
+  {
+    "id": "202",
+    "word_english": "I’m in a hurry.",
+    "word_turkish": "Acele ediyorum."
+  },
+  {
+    "id": "203",
+    "word_english": "What’s going on here?",
+    "word_turkish": "Burada neler oluyor?"
+  },
+  {
+    "id": "204",
+    "word_english": "That’s not true.",
+    "word_turkish": "Bu doğru değil."
+  },
+  {
+    "id": "205",
+    "word_english": "I’m listening.",
+    "word_turkish": "Dinliyorum."
+  },
+  {
+    "id": "206",
+    "word_english": "I’m thinking.",
+    "word_turkish": "Düşünüyorum."
+  },
+  {
+    "id": "207",
+    "word_english": "Just a moment.",
+    "word_turkish": "Bir saniye."
+  },
+  {
+    "id": "208",
+    "word_english": "Give me a break!",
+    "word_turkish": "Hadi ama!"
+  },
+  {
+    "id": "209",
+    "word_english": "Don’t be silly.",
+    "word_turkish": "Saçmalama."
+  },
+  {
+    "id": "210",
+    "word_english": "Don’t be rude.",
+    "word_turkish": "Kaba olma."
+  },
+  {
+    "id": "211",
+    "word_english": "Calm down, please.",
+    "word_turkish": "Lütfen sakin ol."
+  },
+  {
+    "id": "212",
+    "word_english": "Don’t shout!",
+    "word_turkish": "Bağırma!"
+  },
+  {
+    "id": "213",
+    "word_english": "That’s ridiculous.",
+    "word_turkish": "Bu saçmalık."
+  },
+  {
+    "id": "214",
+    "word_english": "Don’t be shy.",
+    "word_turkish": "Çekingen olma."
+  },
+  {
+    "id": "215",
+    "word_english": "It’s nothing.",
+    "word_turkish": "Önemli değil."
+  },
+  {
+    "id": "216",
+    "word_english": "It’s complicated.",
+    "word_turkish": "Bu karmaşık."
+  },
+  {
+    "id": "217",
+    "word_english": "That’s funny.",
+    "word_turkish": "Bu komik."
+  },
+  {
+    "id": "218",
+    "word_english": "That’s not funny.",
+    "word_turkish": "Bu komik değil."
+  },
+  {
+    "id": "219",
+    "word_english": "You’ll be fine.",
+    "word_turkish": "İyi olacaksın."
+  },
+  {
+    "id": "220",
+    "word_english": "Let’s celebrate!",
+    "word_turkish": "Haydi kutlayalım!"
+  },
+  {
+    "id": "221",
+    "word_english": "That was close!",
+    "word_turkish": "Az daha oluyordu!"
+  },
+  {
+    "id": "222",
+    "word_english": "Watch out!",
+    "word_turkish": "Dikkat et!"
+  },
+  {
+    "id": "223",
+    "word_english": "Look out!",
+    "word_turkish": "Kendine dikkat et!"
+  },
+  {
+    "id": "224",
+    "word_english": "Take a deep breath.",
+    "word_turkish": "Derin bir nefes al."
+  },
+  {
+    "id": "225",
+    "word_english": "Don’t give up!",
+    "word_turkish": "Vazgeçme!"
+  },
+  {
+    "id": "226",
+    "word_english": "You can do it!",
+    "word_turkish": "Yapabilirsin!"
+  },
+  {
+    "id": "227",
+    "word_english": "I believe in you.",
+    "word_turkish": "Sana inanıyorum."
+  },
+  {
+    "id": "228",
+    "word_english": "I’ve got your back.",
+    "word_turkish": "Arkandayım."
+  },
+  {
+    "id": "229",
+    "word_english": "It’s my fault.",
+    "word_turkish": "Benim hatam."
+  },
+  {
+    "id": "230",
+    "word_english": "I’ll handle it.",
+    "word_turkish": "Ben hallederim."
+  },
+  {
+    "id": "231",
+    "word_english": "Let’s take a break.",
+    "word_turkish": "Bir ara verelim."
+  },
+  {
+    "id": "232",
+    "word_english": "That was awesome!",
+    "word_turkish": "Bu harikaydı!"
+  },
+  {
+    "id": "233",
+    "word_english": "No big deal.",
+    "word_turkish": "Önemli değil."
+  },
+  {
+    "id": "234",
+    "word_english": "Don’t be afraid.",
+    "word_turkish": "Korkma."
+  },
+  {
+    "id": "235",
+    "word_english": "It’s hard to say.",
+    "word_turkish": "Söylemesi zor."
+  },
+  {
+    "id": "236",
+    "word_english": "As far as I know...",
+    "word_turkish": "Bildiğim kadarıyla..."
+  },
+  {
+    "id": "237",
+    "word_english": "To be honest...",
+    "word_turkish": "Dürüst olmak gerekirse..."
+  },
+  {
+    "id": "238",
+    "word_english": "Let’s keep going.",
+    "word_turkish": "Devam edelim."
+  },
+  {
+    "id": "239",
+    "word_english": "Let’s try again.",
+    "word_turkish": "Bir daha deneyelim."
+  },
+  {
+    "id": "240",
+    "word_english": "It looks great.",
+    "word_turkish": "Harika görünüyor."
+  },
+  {
+    "id": "241",
+    "word_english": "I’m exhausted.",
+    "word_turkish": "Tükenmiş hissediyorum."
+  },
+  {
+    "id": "242",
+    "word_english": "I’m freezing!",
+    "word_turkish": "Donuyorum!"
+  },
+  {
+    "id": "243",
+    "word_english": "It’s boiling hot.",
+    "word_turkish": "Çok sıcak."
+  },
+  {
+    "id": "244",
+    "word_english": "That’s insane!",
+    "word_turkish": "Bu delilik!"
+  },
+  {
+    "id": "245",
+    "word_english": "I’m speechless.",
+    "word_turkish": "Nutkum tutuldu."
+  },
+  {
+    "id": "246",
+    "word_english": "What a surprise!",
+    "word_turkish": "Ne sürpriz ama!"
+  },
+  {
+    "id": "247",
+    "word_english": "That explains it.",
+    "word_turkish": "Bu her şeyi açıklıyor."
+  },
+  {
+    "id": "248",
+    "word_english": "That’s a deal.",
+    "word_turkish": "Anlaştık."
+  },
+  {
+    "id": "249",
+    "word_english": "That’s impressive!",
+    "word_turkish": "Etkileyici!"
+  },
+  {
+    "id": "250",
+    "word_english": "I’m not in the mood.",
+    "word_turkish": "Havamda değilim."
+  },
+  {
+    "id": "251",
+    "word_english": "That’s not fair.",
+    "word_turkish": "Bu adil değil."
+  },
+  {
+    "id": "252",
+    "word_english": "You’re amazing!",
+    "word_turkish": "Harikasın!"
+  },
+  {
+    "id": "253",
+    "word_english": "It’s not my thing.",
+    "word_turkish": "Benlik değil."
+  },
+  {
+    "id": "254",
+    "word_english": "I’m not sure about that.",
+    "word_turkish": "O konuda emin değilim."
+  },
+  {
+    "id": "255",
+    "word_english": "Can I ask you a favor?",
+    "word_turkish": "Senden bir şey rica edebilir miyim?"
+  },
+  {
+    "id": "256",
+    "word_english": "I can’t believe it!",
+    "word_turkish": "İnanamıyorum!"
+  },
+  {
+    "id": "257",
+    "word_english": "I’m proud of you.",
+    "word_turkish": "Seninle gurur duyuyorum."
+  },
+  {
+    "id": "258",
+    "word_english": "It’s all good.",
+    "word_turkish": "Her şey yolunda."
+  },
+  {
+    "id": "259",
+    "word_english": "I don’t care.",
+    "word_turkish": "Umurumda değil."
+  },
+  {
+    "id": "260",
+    "word_english": "What’s the plan?",
+    "word_turkish": "Plan ne?"
+  },
+  {
+    "id": "261",
+    "word_english": "We’ll see.",
+    "word_turkish": "Bakarız."
+  },
+  {
+    "id": "262",
+    "word_english": "It’s possible.",
+    "word_turkish": "Mümkün."
+  },
+  {
+    "id": "263",
+    "word_english": "It’s impossible.",
+    "word_turkish": "İmkânsız."
+  },
+  {
+    "id": "264",
+    "word_english": "No worries.",
+    "word_turkish": "Sorun değil."
+  },
+  {
+    "id": "265",
+    "word_english": "Why not?",
+    "word_turkish": "Neden olmasın?"
+  },
+  {
+    "id": "266",
+    "word_english": "I’ve been there.",
+    "word_turkish": "Orada bulundum."
+  },
+  {
+    "id": "267",
+    "word_english": "It’s too expensive.",
+    "word_turkish": "Çok pahalı."
+  },
+  {
+    "id": "268",
+    "word_english": "That’s cheap.",
+    "word_turkish": "Bu ucuz."
+  },
+  {
+    "id": "269",
+    "word_english": "Can I try?",
+    "word_turkish": "Deneyebilir miyim?"
+  },
+  {
+    "id": "270",
+    "word_english": "You should try it.",
+    "word_turkish": "Bunu denemelisin."
+  },
+  {
+    "id": "271",
+    "word_english": "I’m just tired.",
+    "word_turkish": "Sadece yorgunum."
+  },
+  {
+    "id": "272",
+    "word_english": "It’s not easy.",
+    "word_turkish": "Kolay değil."
+  },
+  {
+    "id": "273",
+    "word_english": "It’s worth trying.",
+    "word_turkish": "Denemeye değer."
+  },
+  {
+    "id": "274",
+    "word_english": "Let’s figure it out.",
+    "word_turkish": "Bir çaresine bakalım."
+  },
+  {
+    "id": "275",
+    "word_english": "That’s it!",
+    "word_turkish": "İşte bu kadar!"
+  },
+  {
+    "id": "276",
+    "word_english": "What’s next?",
+    "word_turkish": "Sırada ne var?"
+  },
+  {
+    "id": "277",
+    "word_english": "It’s none of your business.",
+    "word_turkish": "Seni ilgilendirmez."
+  },
+  {
+    "id": "278",
+    "word_english": "Don’t take it personally.",
+    "word_turkish": "Üzerine alma."
+  },
+  {
+    "id": "279",
+    "word_english": "That’s so kind of you.",
+    "word_turkish": "Ne kadar naziksin."
+  },
+  {
+    "id": "280",
+    "word_english": "It’s not allowed.",
+    "word_turkish": "Bu yasak."
+  },
+  {
+    "id": "281",
+    "word_english": "It’s allowed.",
+    "word_turkish": "Bu serbest."
+  },
+  {
+    "id": "282",
+    "word_english": "How’s it going?",
+    "word_turkish": "Nasıl gidiyor?"
+  },
+  {
+    "id": "283",
+    "word_english": "It went well.",
+    "word_turkish": "İyi geçti."
+  },
+  {
+    "id": "284",
+    "word_english": "It didn’t go well.",
+    "word_turkish": "İyi geçmedi."
+  },
+  {
+    "id": "285",
+    "word_english": "That’s a good deal.",
+    "word_turkish": "Bu iyi bir anlaşma."
+  },
+  {
+    "id": "286",
+    "word_english": "What’s your problem?",
+    "word_turkish": "Senin derdin ne?"
+  },
+  {
+    "id": "287",
+    "word_english": "Don’t make me angry.",
+    "word_turkish": "Beni sinirlendirme."
+  },
+  {
+    "id": "288",
+    "word_english": "I’m very sorry.",
+    "word_turkish": "Gerçekten üzgünüm."
+  },
+  {
+    "id": "289",
+    "word_english": "Let’s make a plan.",
+    "word_turkish": "Bir plan yapalım."
+  },
+  {
+    "id": "290",
+    "word_english": "I’m working on it.",
+    "word_turkish": "Üzerinde çalışıyorum."
+  },
+  {
+    "id": "291",
+    "word_english": "It’s under control.",
+    "word_turkish": "Kontrol altında."
+  },
+  {
+    "id": "292",
+    "word_english": "That’s your opinion.",
+    "word_turkish": "O senin fikrin."
+  },
+  {
+    "id": "293",
+    "word_english": "Time will tell.",
+    "word_turkish": "Zaman gösterecek."
+  },
+  {
+    "id": "294",
+    "word_english": "I’m sorry to hear that.",
+    "word_turkish": "Bunu duyduğuma üzüldüm."
+  },
+  {
+    "id": "295",
+    "word_english": "I’m fine with that.",
+    "word_turkish": "Benim için sorun değil."
+  },
+  {
+    "id": "296",
+    "word_english": "You messed up.",
+    "word_turkish": "Berbat ettin."
+  },
+  {
+    "id": "297",
+    "word_english": "Don’t be dramatic.",
+    "word_turkish": "Abartma."
+  },
+  {
+    "id": "298",
+    "word_english": "It’s up to them.",
+    "word_turkish": "Onlara kalmış."
+  },
+  {
+    "id": "299",
+    "word_english": "Just in case.",
+    "word_turkish": "Ne olur ne olmaz."
+  },
+  {
+    "id": "300",
+    "word_english": "That’s not what I meant.",
+    "word_turkish": "Ben öyle demek istemedim."
+  },
+  {
+    "id": "301",
+    "word_english": "That’s what I’m talking about!",
+    "word_turkish": "İşte bahsettiğim bu!"
+  },
+  {
+    "id": "302",
+    "word_english": "I’ll take care of it.",
+    "word_turkish": "Onu ben hallederim."
+  },
+  {
+    "id": "303",
+    "word_english": "You’ll get used to it.",
+    "word_turkish": "Alışırsın."
+  },
+  {
+    "id": "304",
+    "word_english": "It’s not the end of the world.",
+    "word_turkish": "Dünyanın sonu değil."
+  },
+  {
+    "id": "305",
+    "word_english": "We’re on the same page.",
+    "word_turkish": "Aynı fikirdeyiz."
+  },
+  {
+    "id": "306",
+    "word_english": "That’s not necessary.",
+    "word_turkish": "Bu gerekli değil."
+  },
+  {
+    "id": "307",
+    "word_english": "That’s totally unnecessary.",
+    "word_turkish": "Tamamen gereksiz."
+  },
+  {
+    "id": "308",
+    "word_english": "We’ll get through this.",
+    "word_turkish": "Bunu atlatacağız."
+  },
+  {
+    "id": "309",
+    "word_english": "I’m with you.",
+    "word_turkish": "Seninleyim."
+  },
+  {
+    "id": "310",
+    "word_english": "It slipped my mind.",
+    "word_turkish": "Aklımdan çıktı."
+  },
+  {
+    "id": "311",
+    "word_english": "That’s embarrassing.",
+    "word_turkish": "Bu utanç verici."
+  },
+  {
+    "id": "312",
+    "word_english": "You’re embarrassing me.",
+    "word_turkish": "Beni utandırıyorsun."
+  },
+  {
+    "id": "313",
+    "word_english": "That’s annoying.",
+    "word_turkish": "Bu sinir bozucu."
+  },
+  {
+    "id": "314",
+    "word_english": "You’re annoying.",
+    "word_turkish": "Sen sinir bozucusun."
+  },
+  {
+    "id": "315",
+    "word_english": "Let me be clear.",
+    "word_turkish": "Açık olayım."
+  },
+  {
+    "id": "316",
+    "word_english": "Let me explain.",
+    "word_turkish": "Açıklamama izin ver."
+  },
+  {
+    "id": "317",
+    "word_english": "I’ll get back to you.",
+    "word_turkish": "Sana geri döneceğim."
+  },
+  {
+    "id": "318",
+    "word_english": "I’m good, thanks.",
+    "word_turkish": "İyiyim, teşekkürler."
+  },
+  {
+    "id": "319",
+    "word_english": "Don’t push me.",
+    "word_turkish": "Beni zorlamayın."
+  },
+  {
+    "id": "320",
+    "word_english": "I need a break.",
+    "word_turkish": "Bir ara vermem gerek."
+  },
+  {
+    "id": "321",
+    "word_english": "That makes no sense.",
+    "word_turkish": "Bu hiç mantıklı değil."
+  },
+  {
+    "id": "322",
+    "word_english": "You can count on me.",
+    "word_turkish": "Bana güvenebilirsin."
+  },
+  {
+    "id": "323",
+    "word_english": "I owe you one.",
+    "word_turkish": "Sana bir borcum var."
+  },
+  {
+    "id": "324",
+    "word_english": "Fair enough.",
+    "word_turkish": "Yeterince adil."
+  },
+  {
+    "id": "325",
+    "word_english": "I’m not buying it.",
+    "word_turkish": "Buna inanmıyorum."
+  },
+  {
+    "id": "326",
+    "word_english": "It’s your call.",
+    "word_turkish": "Karar senin."
+  },
+  {
+    "id": "327",
+    "word_english": "Let me sleep on it.",
+    "word_turkish": "Bir gece düşüneyim."
+  },
+  {
+    "id": "328",
+    "word_english": "I’m all ears.",
+    "word_turkish": "Kulak kesildim."
+  },
+  {
+    "id": "329",
+    "word_english": "Let’s not jump to conclusions.",
+    "word_turkish": "Hemen sonuca varmayalım."
+  },
+  {
+    "id": "330",
+    "word_english": "I didn’t catch that.",
+    "word_turkish": "Onu anlayamadım."
+  },
+  {
+    "id": "331",
+    "word_english": "Keep it down!",
+    "word_turkish": "Sesi kıs!"
+  },
+  {
+    "id": "332",
+    "word_english": "I’m not mad.",
+    "word_turkish": "Kızgın değilim."
+  },
+  {
+    "id": "333",
+    "word_english": "You look upset.",
+    "word_turkish": "Kızgın görünüyorsun."
+  },
+  {
+    "id": "334",
+    "word_english": "Don’t take it the wrong way.",
+    "word_turkish": "Yanlış anlama."
+  },
+  {
+    "id": "335",
+    "word_english": "I have mixed feelings.",
+    "word_turkish": "Kararsızım."
+  },
+  {
+    "id": "336",
+    "word_english": "You’re getting on my nerves.",
+    "word_turkish": "Sinirimi bozuyorsun."
+  },
+  {
+    "id": "337",
+    "word_english": "I’m over it.",
+    "word_turkish": "Aştım artık."
+  },
+  {
+    "id": "338",
+    "word_english": "That’s what friends are for.",
+    "word_turkish": "Arkadaşlık bunun için var."
+  },
+  {
+    "id": "339",
+    "word_english": "Stop making excuses.",
+    "word_turkish": "Bahane üretmeyi bırak."
+  },
+  {
+    "id": "340",
+    "word_english": "We’re running out of time.",
+    "word_turkish": "Zamanımız azalıyor."
+  },
+  {
+    "id": "341",
+    "word_english": "I’m not in the mood to talk.",
+    "word_turkish": "Konuşacak havada değilim."
+  },
+  {
+    "id": "342",
+    "word_english": "That’s your problem.",
+    "word_turkish": "Bu senin problemin."
+  },
+  {
+    "id": "343",
+    "word_english": "Can’t complain.",
+    "word_turkish": "Şikayetim yok."
+  },
+  {
+    "id": "344",
+    "word_english": "This is pointless.",
+    "word_turkish": "Bu anlamsız."
+  },
+  {
+    "id": "345",
+    "word_english": "You're crossing the line.",
+    "word_turkish": "Çizgiyi aşıyorsun."
+  },
+  {
+    "id": "346",
+    "word_english": "It's not a big deal.",
+    "word_turkish": "Büyük mesele değil."
+  },
+  {
+    "id": "347",
+    "word_english": "Let’s not make a scene.",
+    "word_turkish": "Olay çıkarmayalım."
+  },
+  {
+    "id": "348",
+    "word_english": "It's getting late.",
+    "word_turkish": "Geç oluyor."
+  },
+  {
+    "id": "349",
+    "word_english": "Let’s not overthink it.",
+    "word_turkish": "Fazla düşünmeyelim."
+  },
+  {
+    "id": "350",
+    "word_english": "It is what it is.",
+    "word_turkish": "Olan oldu."
+  },
+  {
+    "id": "351",
+    "word_english": "No hard feelings.",
+    "word_turkish": "Darılmaca yok."
+  },
+  {
+    "id": "352",
+    "word_english": "It’s now or never.",
+    "word_turkish": "Ya şimdi ya asla."
+  },
+  {
+    "id": "353",
+    "word_english": "Don’t get me wrong.",
+    "word_turkish": "Beni yanlış anlama."
+  },
+  {
+    "id": "354",
+    "word_english": "I’m doing my best.",
+    "word_turkish": "Elimden geleni yapıyorum."
+  },
+  {
+    "id": "355",
+    "word_english": "Let’s wrap it up.",
+    "word_turkish": "Toparlayalım artık."
+  },
+  {
+    "id": "356",
+    "word_english": "Let’s call it a day.",
+    "word_turkish": "Bugünlük bu kadar."
+  },
+  {
+    "id": "357",
+    "word_english": "That’s the spirit!",
+    "word_turkish": "İşte bu ruh!"
+  },
+  {
+    "id": "358",
+    "word_english": "I’m impressed.",
+    "word_turkish": "Etkilendim."
+  },
+  {
+    "id": "359",
+    "word_english": "I didn’t expect that.",
+    "word_turkish": "Bunu beklemiyordum."
+  },
+  {
+    "id": "360",
+    "word_english": "Don’t get distracted.",
+    "word_turkish": "Dikkatini dağıtma."
+  },
+  {
+    "id": "361",
+    "word_english": "Stay focused.",
+    "word_turkish": "Odaklan."
+  },
+  {
+    "id": "362",
+    "word_english": "You’re doing great.",
+    "word_turkish": "Harika gidiyorsun."
+  },
+  {
+    "id": "363",
+    "word_english": "Keep it up!",
+    "word_turkish": "Aynen devam!"
+  },
+  {
+    "id": "364",
+    "word_english": "That’s more like it.",
+    "word_turkish": "İşte bu daha iyi."
+  },
+  {
+    "id": "365",
+    "word_english": "Don't give me that look.",
+    "word_turkish": "Bana o bakışı atma."
+  },
+  {
+    "id": "366",
+    "word_english": "I’ve got this.",
+    "word_turkish": "Bu iş bende."
+  },
+  {
+    "id": "367",
+    "word_english": "No offense.",
+    "word_turkish": "Alınma ama..."
+  },
+  {
+    "id": 368,
+    "word_english": "None taken.",
+    "word_turkish": "Alınmadım."
+  },
+  {
+    "id": 369,
+    "word_english": "That’s not cool.",
+    "word_turkish": "Bu hoş değil."
+  },
+  {
+    "id": 370,
+    "word_english": "You crossed the line.",
+    "word_turkish": "Çizgiyi aştın."
+  },
+  {
+    "id": 371,
+    "word_english": "That was unexpected.",
+    "word_turkish": "Bu beklenmedikti."
+  },
+  {
+    "id": 372,
+    "word_english": "Take responsibility.",
+    "word_turkish": "Sorumluluğu al."
+  },
+  {
+    "id": 373,
+    "word_english": "Don't make it worse.",
+    "word_turkish": "Daha da kötüleştirme."
+  },
+  {
+    "id": 374,
+    "word_english": "Let’s take it easy.",
+    "word_turkish": "Sakin olalım."
+  },
+  {
+    "id": 375,
+    "word_english": "You're missing the point.",
+    "word_turkish": "Konuya odaklanmıyorsun."
+  },
+  {
+    "id": 376,
+    "word_english": "We’re getting there.",
+    "word_turkish": "Az kaldı."
+  },
+  {
+    "id": 377,
+    "word_english": "Let’s not rush.",
+    "word_turkish": "Acele etmeyelim."
+  },
+  {
+    "id": 378,
+    "word_english": "We’ll talk later.",
+    "word_turkish": "Sonra konuşuruz."
+  },
+  {
+    "id": 379,
+    "word_english": "Think about it.",
+    "word_turkish": "Bir düşün."
+  },
+  {
+    "id": 380,
+    "word_english": "What’s the catch?",
+    "word_turkish": "İşin içinde ne var?"
+  },
+  {
+    "id": 381,
+    "word_english": "That's not the point.",
+    "word_turkish": "Konu o değil."
+  },
+  {
+    "id": 382,
+    "word_english": "Don’t be a stranger.",
+    "word_turkish": "Kayıplara karışma."
+  },
+  {
+    "id": 383,
+    "word_english": "Get out of here!",
+    "word_turkish": "Hadi ordan!"
+  },
+  {
+    "id": 384,
+    "word_english": "Stop lying.",
+    "word_turkish": "Yalan söylemeyi bırak."
+  },
+  {
+    "id": 385,
+    "word_english": "Speak your mind.",
+    "word_turkish": "Açık konuş."
+  },
+  {
+    "id": 386,
+    "word_english": "Don’t get emotional.",
+    "word_turkish": "Duygusal olma."
+  },
+  {
+    "id": 387,
+    "word_english": "Try to stay calm.",
+    "word_turkish": "Sakin kalmaya çalış."
+  },
+  {
+    "id": 388,
+    "word_english": "We’ve all been there.",
+    "word_turkish": "Hepimiz yaşadık."
+  },
+  {
+    "id": 389,
+    "word_english": "Time flies.",
+    "word_turkish": "Zaman uçup gidiyor."
+  },
+  {
+    "id": 390,
+    "word_english": "You nailed it!",
+    "word_turkish": "Harika iş çıkardın!"
+  },
+  {
+    "id": 391,
+    "word_english": "Don’t even think about it.",
+    "word_turkish": "Aklından bile geçirme."
+  },
+  {
+    "id": 392,
+    "word_english": "It was just a joke.",
+    "word_turkish": "Sadece şakaydı."
+  },
+  {
+    "id": 393,
+    "word_english": "Let’s get real.",
+    "word_turkish": "Gerçekçi olalım."
+  },
+  {
+    "id": 394,
+    "word_english": "I’m flattered.",
+    "word_turkish": "Gurur duydum."
+  },
+  {
+    "id": 395,
+    "word_english": "I didn’t mean to.",
+    "word_turkish": "Öyle olsun istemedim."
+  },
+  {
+    "id": 396,
+    "word_english": "Don’t tempt me.",
+    "word_turkish": "Beni kandırma!"
+  },
+  {
+    "id": 397,
+    "word_english": "That’s one way to look at it.",
+    "word_turkish": "O da bir bakış açısı."
+  }
+]
