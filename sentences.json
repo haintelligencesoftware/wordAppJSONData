@@ -1,0 +1,2956 @@
+[
+    {
+    "id": 1,
+    "sentences_en": "I am a student.",
+    "sentences_tr": "Ben bir öğrenciyim.",
+    "level": "A1",
+    "items": [
+      { "part": "am", "explanation": "The 'to be' verb for 'I' — used to describe identity or state." },
+      { "part": "a student", "explanation": "Noun phrase meaning a person who studies." }
+    ]
+  },
+  {
+    "id": 2,
+    "sentences_en": "She is my friend.",
+    "sentences_tr": "O benim arkadaşım.",
+    "level": "A1",
+    "items": [
+      { "part": "is", "explanation": "The 'to be' verb for 'he/she/it' — shows relationship or state." },
+      { "part": "my friend", "explanation": "Possessive adjective 'my' shows ownership." }
+    ]
+  },
+  {
+    "id": 3,
+    "sentences_en": "They are at home.",
+    "sentences_tr": "Onlar evdeler.",
+    "level": "A1",
+    "items": [
+      { "part": "are", "explanation": "Plural form of 'to be' used with 'they'." },
+      { "part": "at home", "explanation": "Prepositional phrase showing location." }
+    ]
+  },
+  {
+    "id": 4,
+    "sentences_en": "I have a cat.",
+    "sentences_tr": "Benim bir kedim var.",
+    "level": "A1",
+    "items": [
+      { "part": "have", "explanation": "Verb showing possession or ownership." },
+      { "part": "a cat", "explanation": "Indefinite article 'a' is used before singular countable nouns." }
+    ]
+  },
+  {
+    "id": 5,
+    "sentences_en": "We live in Turkey.",
+    "sentences_tr": "Biz Türkiye’de yaşıyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "live", "explanation": "Main verb meaning to reside somewhere." },
+      { "part": "in Turkey", "explanation": "Prepositional phrase showing place." }
+    ]
+  },
+  {
+    "id": 6,
+    "sentences_en": "He likes coffee.",
+    "sentences_tr": "O kahveyi sever.",
+    "level": "A1",
+    "items": [
+      { "part": "likes", "explanation": "Verb 'like' in third person singular form (adds 's')." },
+      { "part": "coffee", "explanation": "Object of the verb — what he likes." }
+    ]
+  },
+  {
+    "id": 7,
+    "sentences_en": "It is sunny today.",
+    "sentences_tr": "Bugün hava güneşli.",
+    "level": "A1",
+    "items": [
+      { "part": "is", "explanation": "Used with 'it' to describe weather conditions." },
+      { "part": "sunny", "explanation": "Adjective describing the weather." }
+    ]
+  },
+  {
+    "id": 8,
+    "sentences_en": "I can swim.",
+    "sentences_tr": "Yüzebilirim.",
+    "level": "A1",
+    "items": [
+      { "part": "can", "explanation": "Modal verb expressing ability." },
+      { "part": "swim", "explanation": "Base form of the verb following a modal." }
+    ]
+  },
+  {
+    "id": 9,
+    "sentences_en": "We are tired.",
+    "sentences_tr": "Biz yorgunuz.",
+    "level": "A1",
+    "items": [
+      { "part": "are", "explanation": "'To be' verb for plural subjects (we, you, they)." },
+      { "part": "tired", "explanation": "Adjective describing feeling." }
+    ]
+  },
+  {
+    "id": 10,
+    "sentences_en": "There is a book on the table.",
+    "sentences_tr": "Masada bir kitap var.",
+    "level": "A1",
+    "items": [
+      { "part": "There is", "explanation": "Used to show existence of something (singular)." },
+      { "part": "on the table", "explanation": "Prepositional phrase indicating position." }
+    ]
+  },
+  {
+    "id": 11,
+    "sentences_en": "I get up at seven o’clock.",
+    "sentences_tr": "Saat yedide kalkarım.",
+    "level": "A1",
+    "items": [
+      { "part": "get up", "explanation": "Phrasal verb meaning 'to rise from bed'." },
+      { "part": "at seven o’clock", "explanation": "Prepositional phrase indicating time." }
+    ]
+  },
+  {
+    "id": 12,
+    "sentences_en": "We go to school every day.",
+    "sentences_tr": "Her gün okula gideriz.",
+    "level": "A1",
+    "items": [
+      { "part": "go to school", "explanation": "Common phrase meaning to attend school." },
+      { "part": "every day", "explanation": "Adverbial phrase showing frequency." }
+    ]
+  },
+  {
+    "id": 13,
+    "sentences_en": "She has two brothers.",
+    "sentences_tr": "Onun iki erkek kardeşi var.",
+    "level": "A1",
+    "items": [
+      { "part": "has", "explanation": "Third person singular form of 'have'." },
+      { "part": "two brothers", "explanation": "Plural noun phrase showing quantity." }
+    ]
+  },
+  {
+    "id": 14,
+    "sentences_en": "I am not hungry.",
+    "sentences_tr": "Aç değilim.",
+    "level": "A1",
+    "items": [
+      { "part": "am not", "explanation": "Negative form of 'to be' for 'I'." },
+      { "part": "hungry", "explanation": "Adjective describing state or feeling." }
+    ]
+  },
+  {
+    "id": 15,
+    "sentences_en": "He is watching TV.",
+    "sentences_tr": "O televizyon izliyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is watching", "explanation": "Present continuous tense (is + verb-ing) shows an action happening now." },
+      { "part": "TV", "explanation": "Object — what he is watching." }
+    ]
+  },
+  {
+    "id": 16,
+    "sentences_en": "We are playing football.",
+    "sentences_tr": "Biz futbol oynuyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "are playing", "explanation": "Present continuous tense for plural subjects." },
+      { "part": "football", "explanation": "Object of the action — the sport being played." }
+    ]
+  },
+  {
+    "id": 17,
+    "sentences_en": "My bag is on the chair.",
+    "sentences_tr": "Çantam sandalyenin üstünde.",
+    "level": "A1",
+    "items": [
+      { "part": "my bag", "explanation": "Possessive adjective 'my' shows ownership." },
+      { "part": "on the chair", "explanation": "Preposition 'on' shows surface position." }
+    ]
+  },
+  {
+    "id": 18,
+    "sentences_en": "I like listening to music.",
+    "sentences_tr": "Müzik dinlemeyi severim.",
+    "level": "A1",
+    "items": [
+      { "part": "like listening", "explanation": "Verb 'like' followed by gerund (-ing form)." },
+      { "part": "to music", "explanation": "Prepositional phrase showing what is liked." }
+    ]
+  },
+  {
+    "id": 19,
+    "sentences_en": "She goes to work by bus.",
+    "sentences_tr": "O işe otobüsle gider.",
+    "level": "A1",
+    "items": [
+      { "part": "goes", "explanation": "Third person singular form of 'go'." },
+      { "part": "by bus", "explanation": "Phrase showing means of transport." }
+    ]
+  },
+  {
+    "id": 20,
+    "sentences_en": "It is cold today.",
+    "sentences_tr": "Bugün hava soğuk.",
+    "level": "A1",
+    "items": [
+      { "part": "is", "explanation": "Used with 'it' for weather expressions." },
+      { "part": "cold", "explanation": "Adjective describing temperature." }
+    ]
+  },
+    {
+    "id": 21,
+    "sentences_en": "We have a big house.",
+    "sentences_tr": "Bizim büyük bir evimiz var.",
+    "level": "A1",
+    "items": [
+      { "part": "have", "explanation": "Verb showing possession or ownership." },
+      { "part": "a big house", "explanation": "Noun phrase with adjective 'big' describing the noun 'house'." }
+    ]
+  },
+  {
+    "id": 22,
+    "sentences_en": "I read a book every night.",
+    "sentences_tr": "Her gece kitap okurum.",
+    "level": "A1",
+    "items": [
+      { "part": "read", "explanation": "Base form of the verb in simple present tense." },
+      { "part": "every night", "explanation": "Adverbial phrase showing frequency." }
+    ]
+  },
+  {
+    "id": 23,
+    "sentences_en": "She is cooking dinner.",
+    "sentences_tr": "O akşam yemeği pişiriyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is cooking", "explanation": "Present continuous tense: action happening now." },
+      { "part": "dinner", "explanation": "Noun meaning the evening meal." }
+    ]
+  },
+  {
+    "id": 24,
+    "sentences_en": "I don’t like milk.",
+    "sentences_tr": "Süt sevmem.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t", "explanation": "Negative form of 'do' used with 'I/you/we/they'." },
+      { "part": "like milk", "explanation": "Verb phrase expressing dislike." }
+    ]
+  },
+  {
+    "id": 25,
+    "sentences_en": "He doesn’t play tennis.",
+    "sentences_tr": "O tenis oynamaz.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t", "explanation": "Negative form of 'do' for third person singular." },
+      { "part": "play tennis", "explanation": "Verb phrase showing action not done." }
+    ]
+  },
+  {
+    "id": 26,
+    "sentences_en": "We are from Turkey.",
+    "sentences_tr": "Biz Türkiye’deniz.",
+    "level": "A1",
+    "items": [
+      { "part": "are from", "explanation": "Used to indicate origin or nationality." },
+      { "part": "Turkey", "explanation": "Proper noun, always capitalized." }
+    ]
+  },
+  {
+    "id": 27,
+    "sentences_en": "He works in a hospital.",
+    "sentences_tr": "O bir hastanede çalışıyor.",
+    "level": "A1",
+    "items": [
+      { "part": "works", "explanation": "Simple present tense of 'work' for he/she/it." },
+      { "part": "in a hospital", "explanation": "Prepositional phrase showing place of work." }
+    ]
+  },
+  {
+    "id": 28,
+    "sentences_en": "I am from Ankara.",
+    "sentences_tr": "Ben Ankaralıyım.",
+    "level": "A1",
+    "items": [
+      { "part": "am from", "explanation": "Used with 'I' to express origin." },
+      { "part": "Ankara", "explanation": "Proper noun — name of a city." }
+    ]
+  },
+  {
+    "id": 29,
+    "sentences_en": "She studies English every day.",
+    "sentences_tr": "O her gün İngilizce çalışır.",
+    "level": "A1",
+    "items": [
+      { "part": "studies", "explanation": "Third person singular form of 'study' (changes 'y' to 'ies')." },
+      { "part": "every day", "explanation": "Adverbial phrase indicating frequency." }
+    ]
+  },
+  {
+    "id": 30,
+    "sentences_en": "There are five apples on the table.",
+    "sentences_tr": "Masada beş elma var.",
+    "level": "A1",
+    "items": [
+      { "part": "There are", "explanation": "Used for plural nouns to show existence." },
+      { "part": "on the table", "explanation": "Prepositional phrase showing position." }
+    ]
+  },
+  {
+    "id": 31,
+    "sentences_en": "I brush my teeth every morning.",
+    "sentences_tr": "Her sabah dişlerimi fırçalarım.",
+    "level": "A1",
+    "items": [
+      { "part": "brush", "explanation": "Verb meaning to clean with a brush." },
+      { "part": "every morning", "explanation": "Adverbial phrase of frequency." }
+    ]
+  },
+  {
+    "id": 32,
+    "sentences_en": "He gets up early.",
+    "sentences_tr": "O erken kalkar.",
+    "level": "A1",
+    "items": [
+      { "part": "gets up", "explanation": "Phrasal verb meaning 'to rise from bed'." },
+      { "part": "early", "explanation": "Adverb showing time of action." }
+    ]
+  },
+  {
+    "id": 33,
+    "sentences_en": "We eat lunch at noon.",
+    "sentences_tr": "Öğle yemeğini öğlen yeriz.",
+    "level": "A1",
+    "items": [
+      { "part": "eat lunch", "explanation": "Verb phrase meaning to have a midday meal." },
+      { "part": "at noon", "explanation": "Prepositional phrase showing time." }
+    ]
+  },
+  {
+    "id": 34,
+    "sentences_en": "She drinks tea in the morning.",
+    "sentences_tr": "O sabahları çay içer.",
+    "level": "A1",
+    "items": [
+      { "part": "drinks", "explanation": "Third person singular of 'drink'." },
+      { "part": "in the morning", "explanation": "Prepositional phrase showing time of day." }
+    ]
+  },
+  {
+    "id": 35,
+    "sentences_en": "We like apples.",
+    "sentences_tr": "Elma severiz.",
+    "level": "A1",
+    "items": [
+      { "part": "like", "explanation": "Verb expressing preference." },
+      { "part": "apples", "explanation": "Plural noun — what we like." }
+    ]
+  },
+  {
+    "id": 36,
+    "sentences_en": "I go to bed at ten o’clock.",
+    "sentences_tr": "Saat onda yatarım.",
+    "level": "A1",
+    "items": [
+      { "part": "go to bed", "explanation": "Phrasal verb meaning 'to go to sleep'." },
+      { "part": "at ten o’clock", "explanation": "Prepositional phrase showing time." }
+    ]
+  },
+  {
+    "id": 37,
+    "sentences_en": "The cat is under the table.",
+    "sentences_tr": "Kedi masanın altında.",
+    "level": "A1",
+    "items": [
+      { "part": "is", "explanation": "Verb 'to be' for singular subject." },
+      { "part": "under the table", "explanation": "Prepositional phrase showing position." }
+    ]
+  },
+  {
+    "id": 38,
+    "sentences_en": "We are happy today.",
+    "sentences_tr": "Bugün mutluyuz.",
+    "level": "A1",
+    "items": [
+      { "part": "are", "explanation": "Form of 'to be' for 'we'." },
+      { "part": "happy today", "explanation": "Adjective + adverb showing emotion and time." }
+    ]
+  },
+  {
+    "id": 39,
+    "sentences_en": "He can drive a car.",
+    "sentences_tr": "O araba sürebilir.",
+    "level": "A1",
+    "items": [
+      { "part": "can", "explanation": "Modal verb expressing ability." },
+      { "part": "drive a car", "explanation": "Verb phrase showing the skill." }
+    ]
+  },
+  {
+    "id": 40,
+    "sentences_en": "I watch movies on weekends.",
+    "sentences_tr": "Hafta sonları film izlerim.",
+    "level": "A1",
+    "items": [
+      { "part": "watch movies", "explanation": "Verb phrase meaning to view films." },
+      { "part": "on weekends", "explanation": "Prepositional phrase showing time frequency." }
+    ]
+  },
+    {
+    "id": 41,
+    "sentences_en": "She is cooking dinner right now.",
+    "sentences_tr": "O şu anda akşam yemeği pişiriyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is cooking", "explanation": "Present continuous tense showing action happening now." },
+      { "part": "right now", "explanation": "Adverbial phrase emphasizing current time." }
+    ]
+  },
+  {
+    "id": 42,
+    "sentences_en": "I take a shower every morning.",
+    "sentences_tr": "Her sabah duş alırım.",
+    "level": "A1",
+    "items": [
+      { "part": "take a shower", "explanation": "Common collocation meaning 'to bathe'." },
+      { "part": "every morning", "explanation": "Time expression for daily routine." }
+    ]
+  },
+  {
+    "id": 43,
+    "sentences_en": "He doesn’t like cold weather.",
+    "sentences_tr": "O soğuk havayı sevmez.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t like", "explanation": "Negative form of 'like' in simple present tense." },
+      { "part": "cold weather", "explanation": "Adjective + noun combination." }
+    ]
+  },
+  {
+    "id": 44,
+    "sentences_en": "We can play the guitar.",
+    "sentences_tr": "Gitar çalabiliriz.",
+    "level": "A1",
+    "items": [
+      { "part": "can", "explanation": "Modal verb expressing ability." },
+      { "part": "play the guitar", "explanation": "Verb + noun phrase for musical activity." }
+    ]
+  },
+  {
+    "id": 45,
+    "sentences_en": "There are three apples on the table.",
+    "sentences_tr": "Masada üç elma var.",
+    "level": "A1",
+    "items": [
+      { "part": "There are", "explanation": "Used for plural existence statements." },
+      { "part": "on the table", "explanation": "Prepositional phrase of place." }
+    ]
+  },
+  {
+    "id": 46,
+    "sentences_en": "He gets up at 7 o’clock.",
+    "sentences_tr": "O saat yedide kalkar.",
+    "level": "A1",
+    "items": [
+      { "part": "gets up", "explanation": "Phrasal verb meaning 'to rise from bed'." },
+      { "part": "at 7 o’clock", "explanation": "Time expression using 'at' for specific times." }
+    ]
+  },
+  {
+    "id": 47,
+    "sentences_en": "She goes to bed late.",
+    "sentences_tr": "O geç yatar.",
+    "level": "A1",
+    "items": [
+      { "part": "goes to bed", "explanation": "Common phrase for sleeping routine." },
+      { "part": "late", "explanation": "Adverb of time showing delay." }
+    ]
+  },
+  {
+    "id": 48,
+    "sentences_en": "I don’t like waking up early.",
+    "sentences_tr": "Erken uyanmaktan hoşlanmam.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t like + -ing", "explanation": "Negative preference using verb + -ing." },
+      { "part": "waking up", "explanation": "Phrasal verb meaning 'to stop sleeping'." }
+    ]
+  },
+  {
+    "id": 49,
+    "sentences_en": "He is watching TV with his family.",
+    "sentences_tr": "O ailesiyle televizyon izliyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is watching", "explanation": "Present continuous tense: action in progress." },
+      { "part": "with his family", "explanation": "Prepositional phrase indicating company." }
+    ]
+  },
+  {
+    "id": 50,
+    "sentences_en": "She always smiles at people.",
+    "sentences_tr": "O her zaman insanlara gülümser.",
+    "level": "A1",
+    "items": [
+      { "part": "always", "explanation": "Adverb of frequency for habits." },
+      { "part": "smiles at", "explanation": "Verb + preposition combination." }
+    ]
+  },
+  {
+    "id": 51,
+    "sentences_en": "They study English together.",
+    "sentences_tr": "Onlar birlikte İngilizce çalışırlar.",
+    "level": "A1",
+    "items": [
+      { "part": "study English", "explanation": "Verb + object phrase for learning activity." },
+      { "part": "together", "explanation": "Adverb meaning 'in company with others'." }
+    ]
+  },
+  {
+    "id": 52,
+    "sentences_en": "I’m listening to music.",
+    "sentences_tr": "Müzik dinliyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "listening to", "explanation": "Phrasal verb meaning 'to pay attention to sound'." },
+      { "part": "music", "explanation": "Uncountable noun representing art form." }
+    ]
+  },
+  {
+    "id": 53,
+    "sentences_en": "Don’t turn on the TV.",
+    "sentences_tr": "Televizyonu açma.",
+    "level": "A1",
+    "items": [
+      { "part": "turn on", "explanation": "Phrasal verb meaning 'to start an electronic device'." },
+      { "part": "Don’t", "explanation": "Used to make negative imperative sentences." }
+    ]
+  },
+  {
+    "id": 54,
+    "sentences_en": "We need more water.",
+    "sentences_tr": "Daha fazla suya ihtiyacımız var.",
+    "level": "A1",
+    "items": [
+      { "part": "need", "explanation": "Verb expressing necessity." },
+      { "part": "more water", "explanation": "Quantifier + noun for amount." }
+    ]
+  },
+  {
+    "id": 55,
+    "sentences_en": "I’m looking for my keys.",
+    "sentences_tr": "Anahtarlarımı arıyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "looking for", "explanation": "Phrasal verb meaning 'to search'." },
+      { "part": "my keys", "explanation": "Possessive noun phrase." }
+    ]
+  },
+  {
+    "id": 56,
+    "sentences_en": "It’s raining outside.",
+    "sentences_tr": "Dışarıda yağmur yağıyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is raining", "explanation": "Present continuous tense showing weather condition." },
+      { "part": "outside", "explanation": "Adverb of place meaning 'not inside'." }
+    ]
+  },
+  {
+    "id": 57,
+    "sentences_en": "I don’t have any money.",
+    "sentences_tr": "Hiç param yok.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t have", "explanation": "Negative form of possession in simple present." },
+      { "part": "any money", "explanation": "Quantifier used in negative sentences." }
+    ]
+  },
+  {
+    "id": 58,
+    "sentences_en": "She is afraid of spiders.",
+    "sentences_tr": "O örümceklerden korkar.",
+    "level": "A1",
+    "items": [
+      { "part": "afraid of", "explanation": "Adjective + preposition combination for fear." },
+      { "part": "spiders", "explanation": "Plural noun indicating animals." }
+    ]
+  },
+  {
+    "id": 59,
+    "sentences_en": "They are playing in the park.",
+    "sentences_tr": "Onlar parkta oynuyorlar.",
+    "level": "A1",
+    "items": [
+      { "part": "are playing", "explanation": "Present continuous tense: action happening now." },
+      { "part": "in the park", "explanation": "Prepositional phrase of place." }
+    ]
+  },
+  {
+    "id": 60,
+    "sentences_en": "Stand up, please.",
+    "sentences_tr": "Lütfen ayağa kalk.",
+    "level": "A1",
+    "items": [
+      { "part": "stand up", "explanation": "Phrasal verb meaning 'to rise to a standing position'." },
+      { "part": "please", "explanation": "Word used for politeness." }
+    ]
+  },
+    {
+    "id": 61,
+    "sentences_en": "I usually get up at 6 o’clock.",
+    "sentences_tr": "Genellikle saat altıda kalkarım.",
+    "level": "A1",
+    "items": [
+      { "part": "get up", "explanation": "Phrasal verb meaning 'to rise from bed'." },
+      { "part": "usually", "explanation": "Adverb of frequency for habits." }
+    ]
+  },
+  {
+    "id": 62,
+    "sentences_en": "She goes shopping every Sunday.",
+    "sentences_tr": "O her pazar alışverişe gider.",
+    "level": "A1",
+    "items": [
+      { "part": "goes shopping", "explanation": "Phrasal verb for buying items." },
+      { "part": "every Sunday", "explanation": "Time expression indicating regular action." }
+    ]
+  },
+  {
+    "id": 63,
+    "sentences_en": "We are having breakfast now.",
+    "sentences_tr": "Şu anda kahvaltı yapıyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "are having", "explanation": "Present continuous tense: action happening now." },
+      { "part": "breakfast", "explanation": "Noun meaning morning meal." }
+    ]
+  },
+  {
+    "id": 64,
+    "sentences_en": "I don’t watch TV every day.",
+    "sentences_tr": "Her gün televizyon izlemezdim.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t watch", "explanation": "Negative simple present tense for 'I/you/we/they'." },
+      { "part": "every day", "explanation": "Adverbial phrase of frequency." }
+    ]
+  },
+  {
+    "id": 65,
+    "sentences_en": "He can play football very well.",
+    "sentences_tr": "O futbolu çok iyi oynayabilir.",
+    "level": "A1",
+    "items": [
+      { "part": "can play", "explanation": "Modal verb expressing ability." },
+      { "part": "very well", "explanation": "Adverbial phrase for skill level." }
+    ]
+  },
+  {
+    "id": 66,
+    "sentences_en": "She is writing a letter.",
+    "sentences_tr": "O bir mektup yazıyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is writing", "explanation": "Present continuous tense showing ongoing action." },
+      { "part": "a letter", "explanation": "Direct object of the verb." }
+    ]
+  },
+  {
+    "id": 67,
+    "sentences_en": "I go to the supermarket every week.",
+    "sentences_tr": "Her hafta süpermarkete giderim.",
+    "level": "A1",
+    "items": [
+      { "part": "go to", "explanation": "Verb + preposition showing movement to a place." },
+      { "part": "every week", "explanation": "Adverbial phrase showing frequency." }
+    ]
+  },
+  {
+    "id": 68,
+    "sentences_en": "They are cleaning their room.",
+    "sentences_tr": "Onlar odalarını temizliyorlar.",
+    "level": "A1",
+    "items": [
+      { "part": "are cleaning", "explanation": "Present continuous tense for ongoing action." },
+      { "part": "their room", "explanation": "Possessive + noun indicating object." }
+    ]
+  },
+  {
+    "id": 69,
+    "sentences_en": "He doesn’t like pizza.",
+    "sentences_tr": "O pizzayı sevmez.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t like", "explanation": "Negative simple present for he/she/it." },
+      { "part": "pizza", "explanation": "Direct object of the verb." }
+    ]
+  },
+  {
+    "id": 70,
+    "sentences_en": "I am reading a newspaper.",
+    "sentences_tr": "Gazete okuyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "am reading", "explanation": "Present continuous tense for action in progress." },
+      { "part": "a newspaper", "explanation": "Direct object noun phrase." }
+    ]
+  },
+  {
+    "id": 71,
+    "sentences_en": "We are going to the park.",
+    "sentences_tr": "Parka gidiyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "are going", "explanation": "Present continuous showing near-future plan." },
+      { "part": "to the park", "explanation": "Prepositional phrase indicating destination." }
+    ]
+  },
+  {
+    "id": 72,
+    "sentences_en": "She always wakes up early.",
+    "sentences_tr": "O her zaman erken uyanır.",
+    "level": "A1",
+    "items": [
+      { "part": "always", "explanation": "Adverb showing habitual action." },
+      { "part": "wakes up", "explanation": "Phrasal verb for rising from bed." }
+    ]
+  },
+  {
+    "id": 73,
+    "sentences_en": "I don’t want coffee.",
+    "sentences_tr": "Kahve istemiyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t want", "explanation": "Negative form of 'want' in simple present tense." },
+      { "part": "coffee", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 74,
+    "sentences_en": "He is taking a shower.",
+    "sentences_tr": "O duş alıyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is taking", "explanation": "Present continuous tense for ongoing action." },
+      { "part": "a shower", "explanation": "Direct object of the verb." }
+    ]
+  },
+  {
+    "id": 75,
+    "sentences_en": "Can you open the window?",
+    "sentences_tr": "Pencereyi açabilir misin?",
+    "level": "A1",
+    "items": [
+      { "part": "Can you", "explanation": "Modal verb for polite requests." },
+      { "part": "open the window", "explanation": "Verb + noun phrase for action." }
+    ]
+  },
+  {
+    "id": 76,
+    "sentences_en": "I like listening to music.",
+    "sentences_tr": "Müzik dinlemeyi severim.",
+    "level": "A1",
+    "items": [
+      { "part": "like + -ing", "explanation": "Verb pattern for expressing hobbies." },
+      { "part": "listening to music", "explanation": "Phrasal verb + object noun." }
+    ]
+  },
+  {
+    "id": 77,
+    "sentences_en": "He doesn’t go to school on weekends.",
+    "sentences_tr": "O hafta sonları okula gitmez.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t go", "explanation": "Negative simple present for he/she/it." },
+      { "part": "on weekends", "explanation": "Prepositional phrase showing time frequency." }
+    ]
+  },
+  {
+    "id": 78,
+    "sentences_en": "We are playing football now.",
+    "sentences_tr": "Şu anda futbol oynuyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "are playing", "explanation": "Present continuous for action happening now." },
+      { "part": "football", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 79,
+    "sentences_en": "She goes to the gym every Monday.",
+    "sentences_tr": "O her Pazartesi spor salonuna gider.",
+    "level": "A1",
+    "items": [
+      { "part": "goes to", "explanation": "Simple present tense with third person singular + preposition." },
+      { "part": "every Monday", "explanation": "Time expression for routine." }
+    ]
+  },
+  {
+    "id": 80,
+    "sentences_en": "I’m looking after my little brother.",
+    "sentences_tr": "Küçük kardeşime bakıyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "looking after", "explanation": "Phrasal verb meaning 'to take care of'." },
+      { "part": "my little brother", "explanation": "Object noun phrase showing who is cared for." }
+    ]
+  },
+    {
+    "id": 81,
+    "sentences_en": "They are visiting their grandparents.",
+    "sentences_tr": "Onlar büyükannelerini ve büyükbabalarını ziyaret ediyorlar.",
+    "level": "A1",
+    "items": [
+      { "part": "are visiting", "explanation": "Present continuous tense for ongoing action." },
+      { "part": "their grandparents", "explanation": "Possessive noun phrase." }
+    ]
+  },
+  {
+    "id": 82,
+    "sentences_en": "I don’t eat meat.",
+    "sentences_tr": "Et yemem.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t eat", "explanation": "Negative simple present tense." },
+      { "part": "meat", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 83,
+    "sentences_en": "She is listening to the radio.",
+    "sentences_tr": "O radyoyu dinliyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is listening to", "explanation": "Present continuous tense + phrasal verb." },
+      { "part": "the radio", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 84,
+    "sentences_en": "We always help our friends.",
+    "sentences_tr": "Biz her zaman arkadaşlarımıza yardım ederiz.",
+    "level": "A1",
+    "items": [
+      { "part": "always", "explanation": "Adverb of frequency for habitual action." },
+      { "part": "help our friends", "explanation": "Verb phrase showing assistance." }
+    ]
+  },
+  {
+    "id": 85,
+    "sentences_en": "I’m studying English.",
+    "sentences_tr": "İngilizce çalışıyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "am studying", "explanation": "Present continuous tense for ongoing action." },
+      { "part": "English", "explanation": "Object noun representing the language." }
+    ]
+  },
+  {
+    "id": 86,
+    "sentences_en": "He doesn’t like swimming.",
+    "sentences_tr": "O yüzmeyi sevmez.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t like + -ing", "explanation": "Negative preference in simple present tense." },
+      { "part": "swimming", "explanation": "Verb in -ing form after 'like'." }
+    ]
+  },
+  {
+    "id": 87,
+    "sentences_en": "She goes to the library twice a week.",
+    "sentences_tr": "O haftada iki kez kütüphaneye gider.",
+    "level": "A1",
+    "items": [
+      { "part": "goes to", "explanation": "Simple present third person singular." },
+      { "part": "twice a week", "explanation": "Time expression indicating frequency." }
+    ]
+  },
+  {
+    "id": 88,
+    "sentences_en": "We are cleaning the kitchen.",
+    "sentences_tr": "Mutfağı temizliyoruz.",
+    "level": "A1",
+    "items": [
+      { "part": "are cleaning", "explanation": "Present continuous tense for ongoing action." },
+      { "part": "the kitchen", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 89,
+    "sentences_en": "I don’t play video games.",
+    "sentences_tr": "Video oyunları oynamam.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t play", "explanation": "Negative simple present tense." },
+      { "part": "video games", "explanation": "Direct object noun phrase." }
+    ]
+  },
+  {
+    "id": 90,
+    "sentences_en": "He is running in the park.",
+    "sentences_tr": "O parkta koşuyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is running", "explanation": "Present continuous tense showing action in progress." },
+      { "part": "in the park", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 91,
+    "sentences_en": "Can you close the door?",
+    "sentences_tr": "Kapıyı kapatabilir misin?",
+    "level": "A1",
+    "items": [
+      { "part": "Can you", "explanation": "Modal verb for polite request." },
+      { "part": "close the door", "explanation": "Verb phrase + object noun." }
+    ]
+  },
+  {
+    "id": 92,
+    "sentences_en": "I’m making breakfast.",
+    "sentences_tr": "Kahvaltı hazırlıyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "am making", "explanation": "Present continuous tense for current action." },
+      { "part": "breakfast", "explanation": "Object noun representing meal." }
+    ]
+  },
+  {
+    "id": 93,
+    "sentences_en": "She always goes to work by bus.",
+    "sentences_tr": "O her zaman işe otobüsle gider.",
+    "level": "A1",
+    "items": [
+      { "part": "always", "explanation": "Adverb of frequency for habits." },
+      { "part": "goes by bus", "explanation": "Verb phrase showing transport method." }
+    ]
+  },
+  {
+    "id": 94,
+    "sentences_en": "I don’t understand this question.",
+    "sentences_tr": "Bu soruyu anlamıyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "don’t understand", "explanation": "Negative simple present tense." },
+      { "part": "this question", "explanation": "Direct object noun phrase." }
+    ]
+  },
+  {
+    "id": 95,
+    "sentences_en": "He is talking on the phone.",
+    "sentences_tr": "O telefonda konuşuyor.",
+    "level": "A1",
+    "items": [
+      { "part": "is talking", "explanation": "Present continuous tense showing action in progress." },
+      { "part": "on the phone", "explanation": "Prepositional phrase indicating communication medium." }
+    ]
+  },
+  {
+    "id": 96,
+    "sentences_en": "We like going to the cinema.",
+    "sentences_tr": "Sinemaya gitmeyi severiz.",
+    "level": "A1",
+    "items": [
+      { "part": "like + -ing", "explanation": "Verb pattern for hobbies." },
+      { "part": "going to the cinema", "explanation": "Phrasal verb expression + noun phrase." }
+    ]
+  },
+  {
+    "id": 97,
+    "sentences_en": "I’m sitting on the sofa.",
+    "sentences_tr": "Kanepede oturuyorum.",
+    "level": "A1",
+    "items": [
+      { "part": "am sitting", "explanation": "Present continuous tense showing current position." },
+      { "part": "on the sofa", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 98,
+    "sentences_en": "She doesn’t drink tea.",
+    "sentences_tr": "O çay içmez.",
+    "level": "A1",
+    "items": [
+      { "part": "doesn’t drink", "explanation": "Negative simple present tense." },
+      { "part": "tea", "explanation": "Direct object noun." }
+    ]
+  },
+  {
+    "id": 99,
+    "sentences_en": "They are listening to the teacher.",
+    "sentences_tr": "Onlar öğretmeni dinliyorlar.",
+    "level": "A1",
+    "items": [
+      { "part": "are listening to", "explanation": "Present continuous + phrasal verb." },
+      { "part": "the teacher", "explanation": "Direct object noun phrase." }
+    ]
+  },
+  {
+    "id": 100,
+    "sentences_en": "I always brush my teeth before bed.",
+    "sentences_tr": "Her zaman yatmadan önce dişlerimi fırçalarım.",
+    "level": "A1",
+    "items": [
+      { "part": "always", "explanation": "Adverb of frequency for routine." },
+      { "part": "brush my teeth", "explanation": "Verb phrase showing habitual action." }
+    ]
+  },
+    {
+    "id": 101,
+    "sentences_en": "I have been learning English for two years.",
+    "sentences_tr": "İki yıldır İngilizce öğreniyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been learning", "explanation": "Present perfect continuous tense showing ongoing action that started in the past." },
+      { "part": "for two years", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 102,
+    "sentences_en": "She has already finished her homework.",
+    "sentences_tr": "O ödevini çoktan bitirdi.",
+    "level": "A2",
+    "items": [
+      { "part": "has finished", "explanation": "Present perfect tense showing completed action with relevance to now." },
+      { "part": "already", "explanation": "Adverb indicating the action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 103,
+    "sentences_en": "I am going to visit my friend tomorrow.",
+    "sentences_tr": "Yarın arkadaşımı ziyaret edeceğim.",
+    "level": "A2",
+    "items": [
+      { "part": "am going to visit", "explanation": "Future plan using 'be going to'." },
+      { "part": "tomorrow", "explanation": "Time expression indicating future." }
+    ]
+  },
+  {
+    "id": 104,
+    "sentences_en": "He has never been to London.",
+    "sentences_tr": "O hiç Londra’ya gitmedi.",
+    "level": "A2",
+    "items": [
+      { "part": "has been", "explanation": "Present perfect tense indicating experience." },
+      { "part": "never", "explanation": "Adverb meaning 'not ever'." }
+    ]
+  },
+  {
+    "id": 105,
+    "sentences_en": "I should study harder for the exam.",
+    "sentences_tr": "Sınav için daha çok çalışmalıyım.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb expressing advice or recommendation." },
+      { "part": "study harder", "explanation": "Verb phrase indicating effort in studying." }
+    ]
+  },
+  {
+    "id": 106,
+    "sentences_en": "They are planning a trip to Italy next month.",
+    "sentences_tr": "Onlar gelecek ay İtalya’ya bir gezi planlıyorlar.",
+    "level": "A2",
+    "items": [
+      { "part": "are planning", "explanation": "Present continuous tense showing future arrangement." },
+      { "part": "next month", "explanation": "Time expression for future." }
+    ]
+  },
+  {
+    "id": 107,
+    "sentences_en": "I’ve just eaten lunch.",
+    "sentences_tr": "Az önce öğle yemeği yedim.",
+    "level": "A2",
+    "items": [
+      { "part": "have eaten", "explanation": "Present perfect tense showing recent action." },
+      { "part": "just", "explanation": "Adverb indicating a very recent past action." }
+    ]
+  },
+  {
+    "id": 108,
+    "sentences_en": "She is used to waking up early.",
+    "sentences_tr": "O erken uyanmaya alışkın.",
+    "level": "A2",
+    "items": [
+      { "part": "is used to + -ing", "explanation": "Expression showing habit or familiarity." },
+      { "part": "waking up early", "explanation": "Phrasal verb + adverb phrase." }
+    ]
+  },
+  {
+    "id": 109,
+    "sentences_en": "I mustn’t forget to call my mother.",
+    "sentences_tr": "Anamı aramayı unutmamalıyım.",
+    "level": "A2",
+    "items": [
+      { "part": "mustn’t", "explanation": "Modal verb expressing prohibition." },
+      { "part": "forget to call", "explanation": "Verb phrase indicating obligation." }
+    ]
+  },
+  {
+    "id": 110,
+    "sentences_en": "We have been waiting for the bus for 20 minutes.",
+    "sentences_tr": "Otobüsü 20 dakikadır bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "have been waiting", "explanation": "Present perfect continuous showing action started in past and continues now." },
+      { "part": "for 20 minutes", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 111,
+    "sentences_en": "He has broken his phone.",
+    "sentences_tr": "Telefonunu kırdı.",
+    "level": "A2",
+    "items": [
+      { "part": "has broken", "explanation": "Present perfect tense indicating completed action with result now." },
+      { "part": "his phone", "explanation": "Possessive noun phrase." }
+    ]
+  },
+  {
+    "id": 112,
+    "sentences_en": "I need to look after my little sister.",
+    "sentences_tr": "Küçük kız kardeşime bakmam gerekiyor.",
+    "level": "A2",
+    "items": [
+      { "part": "need to", "explanation": "Expression of necessity." },
+      { "part": "look after", "explanation": "Phrasal verb meaning 'to take care of'." }
+    ]
+  },
+  {
+    "id": 113,
+    "sentences_en": "She has been working here since 2019.",
+    "sentences_tr": "O 2019’dan beri burada çalışıyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been working", "explanation": "Present perfect continuous showing action started in past and continues now." },
+      { "part": "since 2019", "explanation": "Time expression for starting point of duration." }
+    ]
+  },
+  {
+    "id": 114,
+    "sentences_en": "I would like to order a pizza.",
+    "sentences_tr": "Bir pizza sipariş etmek istiyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "would like to", "explanation": "Polite way of expressing desire." },
+      { "part": "order a pizza", "explanation": "Verb phrase showing intended action." }
+    ]
+  },
+  {
+    "id": 115,
+    "sentences_en": "He hasn’t seen that movie yet.",
+    "sentences_tr": "O henüz o filmi izlemedi.",
+    "level": "A2",
+    "items": [
+      { "part": "hasn’t seen", "explanation": "Present perfect negative indicating action not done yet." },
+      { "part": "yet", "explanation": "Adverb used with present perfect to indicate something hasn’t happened." }
+    ]
+  },
+  {
+    "id": 116,
+    "sentences_en": "We’re going to meet our friends at 6 pm.",
+    "sentences_tr": "Saat 6’da arkadaşlarımızla buluşacağız.",
+    "level": "A2",
+    "items": [
+      { "part": "are going to meet", "explanation": "Future plan using 'be going to'." },
+      { "part": "at 6 pm", "explanation": "Time expression indicating future meeting." }
+    ]
+  },
+  {
+    "id": 117,
+    "sentences_en": "I should have studied more for the test.",
+    "sentences_tr": "Test için daha çok çalışmalıydım.",
+    "level": "A2",
+    "items": [
+      { "part": "should have studied", "explanation": "Modal perfect expressing past regret or criticism." },
+      { "part": "more for the test", "explanation": "Expression showing purpose and degree." }
+    ]
+  },
+  {
+    "id": 118,
+    "sentences_en": "She has been feeling sick lately.",
+    "sentences_tr": "Son zamanlarda kendini hasta hissediyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been feeling", "explanation": "Present perfect continuous showing ongoing state." },
+      { "part": "lately", "explanation": "Adverb indicating recent time period." }
+    ]
+  },
+  {
+    "id": 119,
+    "sentences_en": "I’m looking forward to the weekend.",
+    "sentences_tr": "Hafta sonunu sabırsızlıkla bekliyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb meaning 'to be excited about a future event'." },
+      { "part": "the weekend", "explanation": "Object noun phrase." }
+    ]
+  },
+  {
+    "id": 120,
+    "sentences_en": "He might come to the party tonight.",
+    "sentences_tr": "O bu gece partiye gelebilir.",
+    "level": "A2",
+    "items": [
+      { "part": "might", "explanation": "Modal verb indicating possibility." },
+      { "part": "come to the party", "explanation": "Verb phrase showing potential action." }
+    ]
+  },
+    {
+    "id": 121,
+    "sentences_en": "I’ve been reading this book all week.",
+    "sentences_tr": "Bu kitabı tüm hafta boyunca okuyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been reading", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "all week", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 122,
+    "sentences_en": "She has lost her keys.",
+    "sentences_tr": "Anahtarlarını kaybetti.",
+    "level": "A2",
+    "items": [
+      { "part": "has lost", "explanation": "Present perfect tense indicating completed action with result." },
+      { "part": "her keys", "explanation": "Possessive noun phrase." }
+    ]
+  },
+  {
+    "id": 123,
+    "sentences_en": "We’re thinking about going on holiday.",
+    "sentences_tr": "Tatile gitmeyi düşünüyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "are thinking about", "explanation": "Present continuous + phrasal verb indicating plan or consideration." },
+      { "part": "going on holiday", "explanation": "Phrasal verb expression showing planned action." }
+    ]
+  },
+  {
+    "id": 124,
+    "sentences_en": "He could have helped us.",
+    "sentences_tr": "Bize yardım edebilirdi.",
+    "level": "A2",
+    "items": [
+      { "part": "could have helped", "explanation": "Modal perfect expressing past possibility or opportunity." }
+    ]
+  },
+  {
+    "id": 125,
+    "sentences_en": "I need to get up early tomorrow.",
+    "sentences_tr": "Yarın erken kalkmam gerekiyor.",
+    "level": "A2",
+    "items": [
+      { "part": "need to", "explanation": "Expression of necessity." },
+      { "part": "get up early", "explanation": "Phrasal verb indicating waking from bed." }
+    ]
+  },
+  {
+    "id": 126,
+    "sentences_en": "She has been studying English for three hours.",
+    "sentences_tr": "Üç saattir İngilizce çalışıyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been studying", "explanation": "Present perfect continuous showing duration of ongoing action." },
+      { "part": "for three hours", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 127,
+    "sentences_en": "I would have gone to the party, but I was busy.",
+    "sentences_tr": "Partiye giderdim ama meşguldüm.",
+    "level": "A2",
+    "items": [
+      { "part": "would have gone", "explanation": "Conditional perfect expressing hypothetical past action." },
+      { "part": "but", "explanation": "Conjunction showing contrast." }
+    ]
+  },
+  {
+    "id": 128,
+    "sentences_en": "We should have left earlier.",
+    "sentences_tr": "Daha erken ayrılmalıydık.",
+    "level": "A2",
+    "items": [
+      { "part": "should have left", "explanation": "Modal perfect expressing past regret or criticism." }
+    ]
+  },
+  {
+    "id": 129,
+    "sentences_en": "I’m getting used to waking up early.",
+    "sentences_tr": "Erken kalkmaya alışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "getting used to + -ing", "explanation": "Expression showing adaptation to new habit." },
+      { "part": "waking up early", "explanation": "Phrasal verb + adverb phrase." }
+    ]
+  },
+  {
+    "id": 130,
+    "sentences_en": "He has just finished his work.",
+    "sentences_tr": "O az önce işini bitirdi.",
+    "level": "A2",
+    "items": [
+      { "part": "has finished", "explanation": "Present perfect tense for completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent action." }
+    ]
+  },
+  {
+    "id": 131,
+    "sentences_en": "I might have left my bag at home.",
+    "sentences_tr": "Çantamı evde bırakmış olabilirim.",
+    "level": "A2",
+    "items": [
+      { "part": "might have left", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 132,
+    "sentences_en": "We are looking forward to meeting you.",
+    "sentences_tr": "Sizi tanışmayı sabırsızlıkla bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb meaning 'excited about a future event'." },
+      { "part": "meeting you", "explanation": "Verb in -ing form after 'to'." }
+    ]
+  },
+  {
+    "id": 133,
+    "sentences_en": "She must have forgotten about the meeting.",
+    "sentences_tr": "Toplantıyı unutmuş olmalı.",
+    "level": "A2",
+    "items": [
+      { "part": "must have forgotten", "explanation": "Modal perfect expressing logical assumption about past." }
+    ]
+  },
+  {
+    "id": 134,
+    "sentences_en": "I’ve been trying to call you all day.",
+    "sentences_tr": "Tüm gün seni aramaya çalışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing repeated or ongoing action." },
+      { "part": "to call you", "explanation": "Infinitive verb indicating purpose of action." }
+    ]
+  },
+  {
+    "id": 135,
+    "sentences_en": "We could have gone to the beach, but it rained.",
+    "sentences_tr": "Plaja gidebilirdik ama yağmur yağdı.",
+    "level": "A2",
+    "items": [
+      { "part": "could have gone", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "but", "explanation": "Conjunction showing contrast." }
+    ]
+  },
+  {
+    "id": 136,
+    "sentences_en": "I needn’t have bought so much food.",
+    "sentences_tr": "Bu kadar çok yiyecek almama gerek yoktu.",
+    "level": "A2",
+    "items": [
+      { "part": "needn’t have bought", "explanation": "Modal perfect expressing unnecessary past action." }
+    ]
+  },
+  {
+    "id": 137,
+    "sentences_en": "He’s used to working late.",
+    "sentences_tr": "O geç saatlere kadar çalışmaya alışkın.",
+    "level": "A2",
+    "items": [
+      { "part": "used to + -ing", "explanation": "Expression showing habit or familiarity." },
+      { "part": "working late", "explanation": "Verb in -ing form indicating habitual action." }
+    ]
+  },
+  {
+    "id": 138,
+    "sentences_en": "I’ve already seen that film.",
+    "sentences_tr": "O filmi çoktan gördüm.",
+    "level": "A2",
+    "items": [
+      { "part": "have seen", "explanation": "Present perfect tense for completed action." },
+      { "part": "already", "explanation": "Adverb indicating action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 139,
+    "sentences_en": "We are going to start the meeting soon.",
+    "sentences_tr": "Toplantıya yakında başlayacağız.",
+    "level": "A2",
+    "items": [
+      { "part": "are going to start", "explanation": "Future plan using 'be going to'." },
+      { "part": "soon", "explanation": "Adverb indicating near future." }
+    ]
+  },
+  {
+    "id": 140,
+    "sentences_en": "She may have left already.",
+    "sentences_tr": "O çoktan gitmiş olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may have left", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+    {
+    "id": 141,
+    "sentences_en": "I’ve been feeling tired lately.",
+    "sentences_tr": "Son zamanlarda kendimi yorgun hissediyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been feeling", "explanation": "Present perfect continuous tense showing ongoing state." },
+      { "part": "lately", "explanation": "Adverb indicating recent time period." }
+    ]
+  },
+  {
+    "id": 142,
+    "sentences_en": "He should take a break.",
+    "sentences_tr": "Bir mola vermeli.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb expressing advice." },
+      { "part": "take a break", "explanation": "Phrasal verb showing recommended action." }
+    ]
+  },
+  {
+    "id": 143,
+    "sentences_en": "I might go shopping tomorrow.",
+    "sentences_tr": "Yarın alışverişe gidebilirim.",
+    "level": "A2",
+    "items": [
+      { "part": "might", "explanation": "Modal verb indicating possibility." },
+      { "part": "go shopping", "explanation": "Phrasal verb indicating activity." }
+    ]
+  },
+  {
+    "id": 144,
+    "sentences_en": "We’ve been waiting for an hour.",
+    "sentences_tr": "Bir saattir bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "have been waiting", "explanation": "Present perfect continuous showing action duration." },
+      { "part": "for an hour", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 145,
+    "sentences_en": "She has just arrived home.",
+    "sentences_tr": "O az önce eve geldi.",
+    "level": "A2",
+    "items": [
+      { "part": "has arrived", "explanation": "Present perfect tense indicating completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past action." }
+    ]
+  },
+  {
+    "id": 146,
+    "sentences_en": "I’m getting ready for the party.",
+    "sentences_tr": "Parti için hazırlanıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "getting ready for", "explanation": "Phrasal verb showing preparation for an event." },
+      { "part": "the party", "explanation": "Object noun phrase." }
+    ]
+  },
+  {
+    "id": 147,
+    "sentences_en": "He must be tired after the long trip.",
+    "sentences_tr": "Uzun yolculuktan sonra yorgun olmalı.",
+    "level": "A2",
+    "items": [
+      { "part": "must be", "explanation": "Modal verb expressing logical assumption." },
+      { "part": "tired", "explanation": "Adjective describing state." }
+    ]
+  },
+  {
+    "id": 148,
+    "sentences_en": "We’re thinking of moving to a bigger house.",
+    "sentences_tr": "Daha büyük bir eve taşınmayı düşünüyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb indicating consideration." },
+      { "part": "moving to a bigger house", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+  {
+    "id": 149,
+    "sentences_en": "I should call my parents more often.",
+    "sentences_tr": "Ailemi daha sık aramalıyım.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb for advice." },
+      { "part": "call more often", "explanation": "Verb phrase indicating habitual action." }
+    ]
+  },
+  {
+    "id": 150,
+    "sentences_en": "She may be waiting at the bus stop.",
+    "sentences_tr": "Otobüs durağında bekliyor olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting at the bus stop", "explanation": "Verb phrase + prepositional phrase indicating potential action." }
+    ]
+  },
+  {
+    "id": 151,
+    "sentences_en": "I’ve been trying to solve this problem all day.",
+    "sentences_tr": "Tüm gün bu problemi çözmeye çalışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to solve this problem", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 152,
+    "sentences_en": "He could be at the office now.",
+    "sentences_tr": "Şu anda ofiste olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possible situation." },
+      { "part": "at the office now", "explanation": "Prepositional phrase showing location." }
+    ]
+  },
+  {
+    "id": 153,
+    "sentences_en": "We should not have eaten so much.",
+    "sentences_tr": "Bu kadar çok yememeliydik.",
+    "level": "A2",
+    "items": [
+      { "part": "should not have eaten", "explanation": "Modal perfect expressing past regret." }
+    ]
+  },
+  {
+    "id": 154,
+    "sentences_en": "I’ve been learning Spanish for six months.",
+    "sentences_tr": "Altı aydır İspanyolca öğreniyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been learning", "explanation": "Present perfect continuous showing duration." },
+      { "part": "for six months", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 155,
+    "sentences_en": "She might not have received the email yet.",
+    "sentences_tr": "O henüz e-postayı almış olmayabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "might not have received", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 156,
+    "sentences_en": "We are going to watch a movie tonight.",
+    "sentences_tr": "Bu gece film izleyeceğiz.",
+    "level": "A2",
+    "items": [
+      { "part": "are going to watch", "explanation": "Future plan using 'be going to'." },
+      { "part": "tonight", "explanation": "Time expression for near future." }
+    ]
+  },
+  {
+    "id": 157,
+    "sentences_en": "I’ve already cleaned the kitchen.",
+    "sentences_tr": "Mutfak zaten temizlendi.",
+    "level": "A2",
+    "items": [
+      { "part": "have cleaned", "explanation": "Present perfect tense indicating completed action." },
+      { "part": "already", "explanation": "Adverb showing earlier than expected action." }
+    ]
+  },
+  {
+    "id": 158,
+    "sentences_en": "He has been waiting for the train since morning.",
+    "sentences_tr": "O sabahtan beri treni bekliyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been waiting", "explanation": "Present perfect continuous showing action duration." },
+      { "part": "since morning", "explanation": "Time expression indicating starting point of duration." }
+    ]
+  },
+  {
+    "id": 159,
+    "sentences_en": "I might have left my keys at work.",
+    "sentences_tr": "Anahtarlarımı işte bırakmış olabilirim.",
+    "level": "A2",
+    "items": [
+      { "part": "might have left", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "at work", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 160,
+    "sentences_en": "We are looking forward to the summer holidays.",
+    "sentences_tr": "Yaz tatilini sabırsızlıkla bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb showing anticipation for future event." },
+      { "part": "the summer holidays", "explanation": "Object noun phrase indicating event." }
+    ]
+  },
+  {
+    "id": 161,
+    "sentences_en": "I have been practicing the piano for two hours.",
+    "sentences_tr": "İki saattir piyano çalıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been practicing", "explanation": "Present perfect continuous tense showing duration of ongoing action." },
+      { "part": "for two hours", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 162,
+    "sentences_en": "She should check her emails regularly.",
+    "sentences_tr": "E-postalarını düzenli olarak kontrol etmeli.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb expressing advice." },
+      { "part": "check her emails", "explanation": "Verb phrase showing recommended action." }
+    ]
+  },
+  {
+    "id": 163,
+    "sentences_en": "He may be sleeping now.",
+    "sentences_tr": "Şu anda uyuyor olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may be", "explanation": "Modal verb expressing possibility." },
+      { "part": "sleeping", "explanation": "Verb in -ing form showing ongoing action." }
+    ]
+  },
+  {
+    "id": 164,
+    "sentences_en": "We’ve been talking about this issue for a long time.",
+    "sentences_tr": "Bu konuyu uzun zamandır konuşuyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "have been talking", "explanation": "Present perfect continuous showing ongoing discussion." },
+      { "part": "for a long time", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 165,
+    "sentences_en": "I’ve just bought a new phone.",
+    "sentences_tr": "Az önce yeni bir telefon aldım.",
+    "level": "A2",
+    "items": [
+      { "part": "have bought", "explanation": "Present perfect tense indicating completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past action." }
+    ]
+  },
+  {
+    "id": 166,
+    "sentences_en": "She’s getting ready for her presentation.",
+    "sentences_tr": "Sunumu için hazırlanıyor.",
+    "level": "A2",
+    "items": [
+      { "part": "getting ready for", "explanation": "Phrasal verb showing preparation." },
+      { "part": "her presentation", "explanation": "Object noun phrase." }
+    ]
+  },
+  {
+    "id": 167,
+    "sentences_en": "He must have left early.",
+    "sentences_tr": "Erken ayrılmış olmalı.",
+    "level": "A2",
+    "items": [
+      { "part": "must have left", "explanation": "Modal perfect expressing logical assumption about past." }
+    ]
+  },
+  {
+    "id": 168,
+    "sentences_en": "We are thinking of going to the cinema.",
+    "sentences_tr": "Sinemaya gitmeyi düşünüyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb indicating consideration." },
+      { "part": "going to the cinema", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+  {
+    "id": 169,
+    "sentences_en": "I should drink more water every day.",
+    "sentences_tr": "Her gün daha fazla su içmeliyim.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb for advice." },
+      { "part": "drink more water", "explanation": "Verb phrase indicating recommended habit." }
+    ]
+  },
+  {
+    "id": 170,
+    "sentences_en": "She may not be at home now.",
+    "sentences_tr": "Şu anda evde olmayabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may not be", "explanation": "Modal verb expressing possibility in negative." },
+      { "part": "at home now", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 171,
+    "sentences_en": "I’ve been trying to fix my computer all morning.",
+    "sentences_tr": "Tüm sabah bilgisayarımı düzeltmeye çalışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to fix my computer", "explanation": "Infinitive phrase showing purpose." }
+    ]
+  },
+  {
+    "id": 172,
+    "sentences_en": "He could be waiting at the restaurant.",
+    "sentences_tr": "Restoranda bekliyor olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting at the restaurant", "explanation": "Verb phrase + prepositional phrase." }
+    ]
+  },
+  {
+    "id": 173,
+    "sentences_en": "We shouldn’t have stayed up so late.",
+    "sentences_tr": "Bu kadar geç kalmamalıydık.",
+    "level": "A2",
+    "items": [
+      { "part": "shouldn’t have stayed up", "explanation": "Modal perfect expressing past regret." }
+    ]
+  },
+  {
+    "id": 174,
+    "sentences_en": "I’ve been learning French since January.",
+    "sentences_tr": "Ocak’tan beri Fransızca öğreniyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been learning", "explanation": "Present perfect continuous showing duration." },
+      { "part": "since January", "explanation": "Time expression indicating starting point." }
+    ]
+  },
+  {
+    "id": 175,
+    "sentences_en": "She might not have finished her homework yet.",
+    "sentences_tr": "O henüz ödevini bitirmiş olmayabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "might not have finished", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 176,
+    "sentences_en": "We are going to visit our grandparents next weekend.",
+    "sentences_tr": "Gelecek hafta sonu büyüklerimizi ziyaret edeceğiz.",
+    "level": "A2",
+    "items": [
+      { "part": "are going to visit", "explanation": "Future plan using 'be going to'." },
+      { "part": "next weekend", "explanation": "Time expression for future." }
+    ]
+  },
+  {
+    "id": 177,
+    "sentences_en": "I’ve already finished my project.",
+    "sentences_tr": "Projemi çoktan bitirdim.",
+    "level": "A2",
+    "items": [
+      { "part": "have finished", "explanation": "Present perfect tense indicating completed action." },
+      { "part": "already", "explanation": "Adverb showing action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 178,
+    "sentences_en": "He has been studying all evening.",
+    "sentences_tr": "Tüm akşam çalışıyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been studying", "explanation": "Present perfect continuous showing duration of ongoing action." },
+      { "part": "all evening", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 179,
+    "sentences_en": "I might have left my wallet at home.",
+    "sentences_tr": "Cüzdanımı evde bırakmış olabilirim.",
+    "level": "A2",
+    "items": [
+      { "part": "might have left", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "at home", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 180,
+    "sentences_en": "We are looking forward to the school trip.",
+    "sentences_tr": "Okul gezisini sabırsızlıkla bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "the school trip", "explanation": "Object noun phrase indicating event." }
+    ]
+  },
+    {
+    "id": 181,
+    "sentences_en": "I have been reading the news this morning.",
+    "sentences_tr": "Bu sabah haberleri okuyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been reading", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "this morning", "explanation": "Time expression indicating when the action occurs." }
+    ]
+  },
+  {
+    "id": 182,
+    "sentences_en": "She should finish her homework before dinner.",
+    "sentences_tr": "Akşam yemeğinden önce ödevini bitirmeli.",
+    "level": "A2",
+    "items": [
+      { "part": "should finish", "explanation": "Modal verb giving advice or recommendation." },
+      { "part": "before dinner", "explanation": "Time expression indicating deadline." }
+    ]
+  },
+  {
+    "id": 183,
+    "sentences_en": "He may be working late tonight.",
+    "sentences_tr": "Bu gece geç çalışıyor olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may be", "explanation": "Modal verb expressing possibility." },
+      { "part": "working late", "explanation": "Verb phrase indicating action." }
+    ]
+  },
+  {
+    "id": 184,
+    "sentences_en": "We’ve been discussing the new project since Monday.",
+    "sentences_tr": "Pazartesiden beri yeni projeyi tartışıyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "have been discussing", "explanation": "Present perfect continuous showing ongoing discussion." },
+      { "part": "since Monday", "explanation": "Time expression indicating starting point." }
+    ]
+  },
+  {
+    "id": 185,
+    "sentences_en": "I’ve just received your message.",
+    "sentences_tr": "Mesajını az önce aldım.",
+    "level": "A2",
+    "items": [
+      { "part": "have received", "explanation": "Present perfect tense showing completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past." }
+    ]
+  },
+  {
+    "id": 186,
+    "sentences_en": "She’s getting ready to leave the house.",
+    "sentences_tr": "Evden çıkmaya hazırlanıyor.",
+    "level": "A2",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb showing preparation for an action." },
+      { "part": "leave the house", "explanation": "Verb phrase indicating intended action." }
+    ]
+  },
+  {
+    "id": 187,
+    "sentences_en": "He must be feeling unwell today.",
+    "sentences_tr": "Bugün kendini iyi hissetmiyor olmalı.",
+    "level": "A2",
+    "items": [
+      { "part": "must be feeling", "explanation": "Modal verb showing logical assumption about present state." },
+      { "part": "unwell", "explanation": "Adjective describing condition." }
+    ]
+  },
+  {
+    "id": 188,
+    "sentences_en": "We are thinking of inviting them to the party.",
+    "sentences_tr": "Onları partiye davet etmeyi düşünüyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb showing consideration or plan." },
+      { "part": "inviting them to the party", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+  {
+    "id": 189,
+    "sentences_en": "I should exercise more often.",
+    "sentences_tr": "Daha sık egzersiz yapmalıyım.",
+    "level": "A2",
+    "items": [
+      { "part": "should", "explanation": "Modal verb giving advice." },
+      { "part": "exercise more often", "explanation": "Verb phrase indicating recommended habit." }
+    ]
+  },
+  {
+    "id": 190,
+    "sentences_en": "She may not have seen the message yet.",
+    "sentences_tr": "O mesajı henüz görmemiş olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "may not have seen", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 191,
+    "sentences_en": "I’ve been trying to fix the printer all afternoon.",
+    "sentences_tr": "Tüm öğleden sonra yazıcıyı düzeltmeye çalışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to fix the printer", "explanation": "Infinitive phrase indicating purpose of action." }
+    ]
+  },
+  {
+    "id": 192,
+    "sentences_en": "He could be waiting for you at the café.",
+    "sentences_tr": "Kafede seni bekliyor olabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting for you at the café", "explanation": "Verb phrase + prepositional phrase." }
+    ]
+  },
+  {
+    "id": 193,
+    "sentences_en": "We shouldn’t have ignored the warning signs.",
+    "sentences_tr": "Uyarı işaretlerini görmezden gelmemeliydik.",
+    "level": "A2",
+    "items": [
+      { "part": "shouldn’t have ignored", "explanation": "Modal perfect expressing past regret." }
+    ]
+  },
+  {
+    "id": 194,
+    "sentences_en": "I’ve been studying German for a year now.",
+    "sentences_tr": "Bir yıldır Almanca çalışıyorum.",
+    "level": "A2",
+    "items": [
+      { "part": "have been studying", "explanation": "Present perfect continuous showing duration." },
+      { "part": "for a year now", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 195,
+    "sentences_en": "She might not have finished her work yet.",
+    "sentences_tr": "O işini henüz bitirmiş olmayabilir.",
+    "level": "A2",
+    "items": [
+      { "part": "might not have finished", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 196,
+    "sentences_en": "We are going to celebrate his birthday tomorrow.",
+    "sentences_tr": "Yarın onun doğum gününü kutlayacağız.",
+    "level": "A2",
+    "items": [
+      { "part": "are going to celebrate", "explanation": "Future plan using 'be going to'." },
+      { "part": "his birthday tomorrow", "explanation": "Noun phrase + time expression." }
+    ]
+  },
+  {
+    "id": 197,
+    "sentences_en": "I’ve already packed my suitcase.",
+    "sentences_tr": "Bavulumu çoktan hazırladım.",
+    "level": "A2",
+    "items": [
+      { "part": "have packed", "explanation": "Present perfect tense showing completed action." },
+      { "part": "already", "explanation": "Adverb indicating action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 198,
+    "sentences_en": "He has been reading all evening.",
+    "sentences_tr": "Tüm akşam kitap okuyor.",
+    "level": "A2",
+    "items": [
+      { "part": "has been reading", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "all evening", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 199,
+    "sentences_en": "I might have left my phone at the office.",
+    "sentences_tr": "Telefonumu ofiste bırakmış olabilirim.",
+    "level": "A2",
+    "items": [
+      { "part": "might have left", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "at the office", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 200,
+    "sentences_en": "We are looking forward to our holiday next month.",
+    "sentences_tr": "Gelecek ayki tatilimizi sabırsızlıkla bekliyoruz.",
+    "level": "A2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "our holiday next month", "explanation": "Object noun phrase + time expression." }
+    ]
+  },
+    {
+    "id": 201,
+    "sentences_en": "I have been trying to improve my English for several months.",
+    "sentences_tr": "Birkaç aydır İngilizcemi geliştirmeye çalışıyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to improve my English", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 202,
+    "sentences_en": "She should have asked for help earlier.",
+    "sentences_tr": "Daha önce yardım istemeliydi.",
+    "level": "B1",
+    "items": [
+      { "part": "should have asked", "explanation": "Modal perfect expressing past advice or criticism." }
+    ]
+  },
+  {
+    "id": 203,
+    "sentences_en": "He might be working on the project right now.",
+    "sentences_tr": "Şu anda proje üzerinde çalışıyor olabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "might be", "explanation": "Modal verb expressing present possibility." },
+      { "part": "working on the project", "explanation": "Verb phrase showing ongoing action." }
+    ]
+  },
+  {
+    "id": 204,
+    "sentences_en": "We’ve been planning this trip for months.",
+    "sentences_tr": "Bu geziyi aylarca planlıyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "have been planning", "explanation": "Present perfect continuous showing action over time." },
+      { "part": "for months", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 205,
+    "sentences_en": "I’ve just completed the assignment.",
+    "sentences_tr": "Ödevi az önce tamamladım.",
+    "level": "B1",
+    "items": [
+      { "part": "have completed", "explanation": "Present perfect tense showing completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past." }
+    ]
+  },
+  {
+    "id": 206,
+    "sentences_en": "She’s getting ready to leave for her meeting.",
+    "sentences_tr": "Toplantısına gitmek için hazırlanıyor.",
+    "level": "B1",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb showing preparation for an action." },
+      { "part": "leave for her meeting", "explanation": "Verb phrase indicating intended action." }
+    ]
+  },
+  {
+    "id": 207,
+    "sentences_en": "He must have misunderstood the instructions.",
+    "sentences_tr": "Talimatları yanlış anlamış olmalı.",
+    "level": "B1",
+    "items": [
+      { "part": "must have misunderstood", "explanation": "Modal perfect expressing logical assumption about past." }
+    ]
+  },
+  {
+    "id": 208,
+    "sentences_en": "We are thinking of moving to a new apartment.",
+    "sentences_tr": "Yeni bir daireye taşınmayı düşünüyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb showing consideration." },
+      { "part": "moving to a new apartment", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+  {
+    "id": 209,
+    "sentences_en": "I should have called her earlier.",
+    "sentences_tr": "Daha önce onu aramalıydım.",
+    "level": "B1",
+    "items": [
+      { "part": "should have called", "explanation": "Modal perfect showing past advice or regret." }
+    ]
+  },
+  {
+    "id": 210,
+    "sentences_en": "She may not have received the package yet.",
+    "sentences_tr": "O paketi henüz almış olmayabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "may not have received", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 211,
+    "sentences_en": "I’ve been trying to fix the computer all morning.",
+    "sentences_tr": "Tüm sabah bilgisayarı düzeltmeye çalışıyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to fix the computer", "explanation": "Infinitive phrase showing purpose." }
+    ]
+  },
+  {
+    "id": 212,
+    "sentences_en": "He could be waiting for us at the café.",
+    "sentences_tr": "Kafede bizi bekliyor olabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting for us at the café", "explanation": "Verb phrase + prepositional phrase." }
+    ]
+  },
+  {
+    "id": 213,
+    "sentences_en": "We shouldn’t have ignored the safety rules.",
+    "sentences_tr": "Güvenlik kurallarını görmezden gelmemeliydik.",
+    "level": "B1",
+    "items": [
+      { "part": "shouldn’t have ignored", "explanation": "Modal perfect expressing past regret or criticism." }
+    ]
+  },
+  {
+    "id": 214,
+    "sentences_en": "I’ve been studying English grammar for a long time.",
+    "sentences_tr": "Uzun zamandır İngilizce gramer çalışıyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been studying", "explanation": "Present perfect continuous showing duration." },
+      { "part": "for a long time", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 215,
+    "sentences_en": "She might not have completed her project yet.",
+    "sentences_tr": "O projesini henüz tamamlamış olmayabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "might not have completed", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 216,
+    "sentences_en": "We are going to visit our relatives next weekend.",
+    "sentences_tr": "Gelecek hafta sonu akrabalarımızı ziyaret edeceğiz.",
+    "level": "B1",
+    "items": [
+      { "part": "are going to visit", "explanation": "Future plan using 'be going to'." },
+      { "part": "our relatives next weekend", "explanation": "Noun phrase + time expression." }
+    ]
+  },
+  {
+    "id": 217,
+    "sentences_en": "I’ve already sent the email to my teacher.",
+    "sentences_tr": "E-postayı öğretmenime çoktan gönderdim.",
+    "level": "B1",
+    "items": [
+      { "part": "have sent", "explanation": "Present perfect tense indicating completed action." },
+      { "part": "already", "explanation": "Adverb showing action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 218,
+    "sentences_en": "He has been reading the report all afternoon.",
+    "sentences_tr": "Tüm öğleden sonra raporu okuyor.",
+    "level": "B1",
+    "items": [
+      { "part": "has been reading", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "all afternoon", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 219,
+    "sentences_en": "I might have left my keys in the car.",
+    "sentences_tr": "Anahtarlarımı arabada bırakmış olabilirim.",
+    "level": "B1",
+    "items": [
+      { "part": "might have left", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "in the car", "explanation": "Prepositional phrase indicating location." }
+    ]
+  },
+  {
+    "id": 220,
+    "sentences_en": "We are looking forward to our trip abroad next summer.",
+    "sentences_tr": "Gelecek yaz yurt dışı gezimizi sabırsızlıkla bekliyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "our trip abroad next summer", "explanation": "Object noun phrase + time expression." }
+    ]
+  },
+    {
+    "id": 221,
+    "sentences_en": "I have been learning to play the guitar for three months.",
+    "sentences_tr": "Üç aydır gitar çalmayı öğreniyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been learning", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "to play the guitar", "explanation": "Infinitive phrase indicating skill being learned." }
+    ]
+  },
+  {
+    "id": 222,
+    "sentences_en": "She should have prepared her presentation better.",
+    "sentences_tr": "Sunumunu daha iyi hazırlamalıydı.",
+    "level": "B1",
+    "items": [
+      { "part": "should have prepared", "explanation": "Modal perfect expressing past advice or criticism." }
+    ]
+  },
+  {
+    "id": 223,
+    "sentences_en": "He might be waiting for the bus at the station.",
+    "sentences_tr": "Otobüs durağında otobüsü bekliyor olabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "might be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting for the bus at the station", "explanation": "Verb phrase showing ongoing action." }
+    ]
+  },
+  {
+    "id": 224,
+    "sentences_en": "We’ve been organizing the event for weeks.",
+    "sentences_tr": "Etkinliği haftalardır organize ediyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "have been organizing", "explanation": "Present perfect continuous showing ongoing planning." },
+      { "part": "for weeks", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 225,
+    "sentences_en": "I’ve just received the invitation.",
+    "sentences_tr": "Daveti az önce aldım.",
+    "level": "B1",
+    "items": [
+      { "part": "have received", "explanation": "Present perfect tense showing completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past." }
+    ]
+  },
+  {
+    "id": 226,
+    "sentences_en": "She’s getting ready to go shopping.",
+    "sentences_tr": "Alışverişe gitmek için hazırlanıyor.",
+    "level": "B1",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb showing preparation for action." },
+      { "part": "go shopping", "explanation": "Verb phrase indicating intended action." }
+    ]
+  },
+  {
+    "id": 227,
+    "sentences_en": "He must have left his keys at home.",
+    "sentences_tr": "Anahtarlarını evde bırakmış olmalı.",
+    "level": "B1",
+    "items": [
+      { "part": "must have left", "explanation": "Modal perfect expressing logical assumption about past." },
+      { "part": "his keys at home", "explanation": "Object + location phrase." }
+    ]
+  },
+  {
+    "id": 228,
+    "sentences_en": "We are thinking of changing our plans.",
+    "sentences_tr": "Planlarımızı değiştirmeyi düşünüyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb expressing consideration or plan." },
+      { "part": "changing our plans", "explanation": "Verb phrase indicating intended action." }
+    ]
+  },
+  {
+    "id": 229,
+    "sentences_en": "I should have studied harder for the exam.",
+    "sentences_tr": "Sınav için daha çok çalışmalıydım.",
+    "level": "B1",
+    "items": [
+      { "part": "should have studied", "explanation": "Modal perfect expressing past advice or regret." }
+    ]
+  },
+  {
+    "id": 230,
+    "sentences_en": "She may not have received my message yet.",
+    "sentences_tr": "O mesajımı henüz almış olmayabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "may not have received", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 231,
+    "sentences_en": "I’ve been trying to solve this problem since morning.",
+    "sentences_tr": "Sabah beri bu problemi çözmeye çalışıyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been trying", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to solve this problem", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 232,
+    "sentences_en": "He could be waiting for the train at the station.",
+    "sentences_tr": "Treni istasyonda bekliyor olabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting for the train at the station", "explanation": "Verb phrase + prepositional phrase." }
+    ]
+  },
+  {
+    "id": 233,
+    "sentences_en": "We shouldn’t have ignored the instructions.",
+    "sentences_tr": "Talimatları görmezden gelmemeliydik.",
+    "level": "B1",
+    "items": [
+      { "part": "shouldn’t have ignored", "explanation": "Modal perfect expressing past regret or criticism." }
+    ]
+  },
+  {
+    "id": 234,
+    "sentences_en": "I’ve been practicing English speaking every day.",
+    "sentences_tr": "Her gün İngilizce konuşma pratiği yapıyorum.",
+    "level": "B1",
+    "items": [
+      { "part": "have been practicing", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "English speaking", "explanation": "Noun phrase indicating skill being practiced." }
+    ]
+  },
+  {
+    "id": 235,
+    "sentences_en": "She might not have finished reading the book yet.",
+    "sentences_tr": "O kitabı henüz bitirmiş olmayabilir.",
+    "level": "B1",
+    "items": [
+      { "part": "might not have finished", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 236,
+    "sentences_en": "We are going to attend a wedding next month.",
+    "sentences_tr": "Gelecek ay bir düğüne katılacağız.",
+    "level": "B1",
+    "items": [
+      { "part": "are going to attend", "explanation": "Future plan using 'be going to'." },
+      { "part": "a wedding next month", "explanation": "Noun phrase + time expression." }
+    ]
+  },
+  {
+    "id": 237,
+    "sentences_en": "I’ve already booked my flight tickets.",
+    "sentences_tr": "Uçak biletlerimi çoktan aldım.",
+    "level": "B1",
+    "items": [
+      { "part": "have booked", "explanation": "Present perfect tense showing completed action." },
+      { "part": "already", "explanation": "Adverb showing action happened earlier than expected." }
+    ]
+  },
+  {
+    "id": 238,
+    "sentences_en": "He has been studying for his exams all week.",
+    "sentences_tr": "Tüm hafta sınavları için çalışıyor.",
+    "level": "B1",
+    "items": [
+      { "part": "has been studying", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "all week", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 239,
+    "sentences_en": "I might have forgotten to call my friend yesterday.",
+    "sentences_tr": "Dün arkadaşımı aramayı unutmuş olabilirim.",
+    "level": "B1",
+    "items": [
+      { "part": "might have forgotten", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "to call my friend", "explanation": "Infinitive phrase showing intended action." }
+    ]
+  },
+  {
+    "id": 240,
+    "sentences_en": "We are looking forward to visiting Paris next summer.",
+    "sentences_tr": "Gelecek yaz Paris’i ziyaret etmeyi sabırsızlıkla bekliyoruz.",
+    "level": "B1",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "visiting Paris next summer", "explanation": "Verb phrase + time expression." }
+    ]
+  },
+    {
+    "id": 241,
+    "sentences_en": "I have been researching this topic for weeks to prepare my presentation.",
+    "sentences_tr": "Sunumumu hazırlamak için haftalardır bu konuyu araştırıyorum.",
+    "level": "B2",
+    "items": [
+      { "part": "have been researching", "explanation": "Present perfect continuous showing ongoing effort." },
+      { "part": "to prepare my presentation", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 242,
+    "sentences_en": "She should have informed us about the changes earlier.",
+    "sentences_tr": "Değişiklikler hakkında bizi daha önce bilgilendirmeliydi.",
+    "level": "B2",
+    "items": [
+      { "part": "should have informed", "explanation": "Modal perfect expressing past obligation or advice." }
+    ]
+  },
+  {
+    "id": 243,
+    "sentences_en": "He might be considering a career change.",
+    "sentences_tr": "Kariyer değişikliğini düşünüyor olabilir.",
+    "level": "B2",
+    "items": [
+      { "part": "might be considering", "explanation": "Modal verb expressing possibility or speculation." }
+    ]
+  },
+  {
+    "id": 244,
+    "sentences_en": "We’ve been negotiating with the company for several months.",
+    "sentences_tr": "Şirketle birkaç aydır pazarlık yapıyoruz.",
+    "level": "B2",
+    "items": [
+      { "part": "have been negotiating", "explanation": "Present perfect continuous showing ongoing negotiation." },
+      { "part": "for several months", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 245,
+    "sentences_en": "I’ve just received the final draft of the report.",
+    "sentences_tr": "Raporun son taslağını az önce aldım.",
+    "level": "B2",
+    "items": [
+      { "part": "have received", "explanation": "Present perfect tense showing completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past." }
+    ]
+  },
+  {
+    "id": 246,
+    "sentences_en": "She’s getting ready to present her findings at the conference.",
+    "sentences_tr": "Bulgularını konferansta sunmak için hazırlanıyor.",
+    "level": "B2",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb indicating preparation for action." },
+      { "part": "present her findings", "explanation": "Verb phrase indicating planned action." }
+    ]
+  },
+  {
+    "id": 247,
+    "sentences_en": "He must have misunderstood the instructions, causing the delay.",
+    "sentences_tr": "Talimatları yanlış anlamış olmalı, bu gecikmeye neden oldu.",
+    "level": "B2",
+    "items": [
+      { "part": "must have misunderstood", "explanation": "Modal perfect expressing logical assumption about past." }
+    ]
+  },
+  {
+    "id": 248,
+    "sentences_en": "We are thinking of launching the product next quarter.",
+    "sentences_tr": "Ürünü gelecek çeyrekte piyasaya sürmeyi düşünüyoruz.",
+    "level": "B2",
+    "items": [
+      { "part": "thinking of", "explanation": "Phrasal verb showing consideration or plan." },
+      { "part": "launching the product", "explanation": "Verb phrase indicating intended action." }
+    ]
+  },
+  {
+    "id": 249,
+    "sentences_en": "I should have backed up my files before the system crash.",
+    "sentences_tr": "Sistem çökmeden önce dosyalarımı yedeklemeliydim.",
+    "level": "B2",
+    "items": [
+      { "part": "should have backed up", "explanation": "Modal perfect expressing past regret or advice." }
+    ]
+  },
+  {
+    "id": 250,
+    "sentences_en": "She may not have received the contract yet.",
+    "sentences_tr": "O kontratı henüz almış olmayabilir.",
+    "level": "B2",
+    "items": [
+      { "part": "may not have received", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 251,
+    "sentences_en": "I’ve been working on this project non-stop since Monday.",
+    "sentences_tr": "Pazartesiden beri bu proje üzerinde aralıksız çalışıyorum.",
+    "level": "B2",
+    "items": [
+      { "part": "have been working", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "non-stop since Monday", "explanation": "Time expression indicating continuous effort." }
+    ]
+  },
+  {
+    "id": 252,
+    "sentences_en": "He could be waiting for the approval email.",
+    "sentences_tr": "Onay e-postasını bekliyor olabilir.",
+    "level": "B2",
+    "items": [
+      { "part": "could be", "explanation": "Modal verb expressing possibility." },
+      { "part": "waiting for the approval email", "explanation": "Verb phrase indicating potential ongoing action." }
+    ]
+  },
+  {
+    "id": 253,
+    "sentences_en": "We shouldn’t have ignored the safety warnings.",
+    "sentences_tr": "Güvenlik uyarılarını görmezden gelmemeliydik.",
+    "level": "B2",
+    "items": [
+      { "part": "shouldn’t have ignored", "explanation": "Modal perfect expressing past regret." }
+    ]
+  },
+  {
+    "id": 254,
+    "sentences_en": "I’ve been practicing my presentation skills for weeks.",
+    "sentences_tr": "Haftalardır sunum becerilerimi çalışıyorum.",
+    "level": "B2",
+    "items": [
+      { "part": "have been practicing", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "presentation skills", "explanation": "Noun phrase indicating skill being practiced." }
+    ]
+  },
+  {
+    "id": 255,
+    "sentences_en": "She might not have completed the report on time.",
+    "sentences_tr": "Raporu zamanında bitirmiş olmayabilir.",
+    "level": "B2",
+    "items": [
+      { "part": "might not have completed", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 256,
+    "sentences_en": "We are going to attend the international conference next month.",
+    "sentences_tr": "Gelecek ay uluslararası konferansa katılacağız.",
+    "level": "B2",
+    "items": [
+      { "part": "are going to attend", "explanation": "Future plan using 'be going to'." },
+      { "part": "the international conference next month", "explanation": "Noun phrase + time expression." }
+    ]
+  },
+  {
+    "id": 257,
+    "sentences_en": "I’ve already sent the updated documents to the client.",
+    "sentences_tr": "Güncellenmiş belgeleri müşteriye çoktan gönderdim.",
+    "level": "B2",
+    "items": [
+      { "part": "have sent", "explanation": "Present perfect tense showing completed action." },
+      { "part": "already", "explanation": "Adverb indicating action completed earlier than expected." }
+    ]
+  },
+  {
+    "id": 258,
+    "sentences_en": "He has been analyzing the market trends for the past month.",
+    "sentences_tr": "Son bir aydır piyasa trendlerini analiz ediyor.",
+    "level": "B2",
+    "items": [
+      { "part": "has been analyzing", "explanation": "Present perfect continuous showing ongoing action." },
+      { "part": "for the past month", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 259,
+    "sentences_en": "I might have missed the deadline for submission.",
+    "sentences_tr": "Teslim süresini kaçırmış olabilirim.",
+    "level": "B2",
+    "items": [
+      { "part": "might have missed", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "the deadline for submission", "explanation": "Noun phrase indicating the event." }
+    ]
+  },
+  {
+    "id": 260,
+    "sentences_en": "We are looking forward to collaborating with the new team.",
+    "sentences_tr": "Yeni ekiple iş birliği yapmayı sabırsızlıkla bekliyoruz.",
+    "level": "B2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "collaborating with the new team", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+    {
+    "id": 261,
+    "sentences_en": "I have been conducting in-depth research to finalize my thesis.",
+    "sentences_tr": "Tezimi tamamlamak için derinlemesine araştırmalar yapıyorum.",
+    "level": "C1",
+    "items": [
+      { "part": "have been conducting", "explanation": "Present perfect continuous showing sustained effort over time." },
+      { "part": "in-depth research", "explanation": "Noun phrase emphasizing thorough investigation." }
+    ]
+  },
+  {
+    "id": 262,
+    "sentences_en": "She should have anticipated the consequences of her actions.",
+    "sentences_tr": "Davranışlarının sonuçlarını öngörmeliydi.",
+    "level": "C1",
+    "items": [
+      { "part": "should have anticipated", "explanation": "Modal perfect expressing obligation or logical expectation in the past." }
+    ]
+  },
+  {
+    "id": 263,
+    "sentences_en": "He might be reconsidering his approach after the feedback.",
+    "sentences_tr": "Geri bildirimden sonra yaklaşımını yeniden düşünüyor olabilir.",
+    "level": "C1",
+    "items": [
+      { "part": "might be reconsidering", "explanation": "Modal verb expressing possibility of current reconsideration." }
+    ]
+  },
+  {
+    "id": 264,
+    "sentences_en": "We’ve been collaborating with international partners to expand our market.",
+    "sentences_tr": "Pazarımızı genişletmek için uluslararası ortaklarla iş birliği yapıyoruz.",
+    "level": "C1",
+    "items": [
+      { "part": "have been collaborating", "explanation": "Present perfect continuous showing ongoing collaboration." },
+      { "part": "with international partners", "explanation": "Prepositional phrase specifying collaborators." }
+    ]
+  },
+  {
+    "id": 265,
+    "sentences_en": "I’ve just completed the final review of the manuscript.",
+    "sentences_tr": "Manuskripti son bir gözden geçirme ile tamamladım.",
+    "level": "C1",
+    "items": [
+      { "part": "have completed", "explanation": "Present perfect showing action recently finished." },
+      { "part": "just", "explanation": "Adverb indicating immediate past." }
+    ]
+  },
+  {
+    "id": 266,
+    "sentences_en": "She’s getting ready to deliver a keynote speech at the conference.",
+    "sentences_tr": "Konferansta bir açılış konuşması yapmak için hazırlanıyor.",
+    "level": "C1",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb showing preparation for a significant action." },
+      { "part": "deliver a keynote speech", "explanation": "Verb phrase indicating formal presentation." }
+    ]
+  },
+  {
+    "id": 267,
+    "sentences_en": "He must have misinterpreted the data, leading to incorrect conclusions.",
+    "sentences_tr": "Verileri yanlış yorumlamış olmalı, bu da hatalı sonuçlara yol açtı.",
+    "level": "C1",
+    "items": [
+      { "part": "must have misinterpreted", "explanation": "Modal perfect expressing strong logical assumption about past." }
+    ]
+  },
+  {
+    "id": 268,
+    "sentences_en": "We are thinking of implementing a new strategy to improve efficiency.",
+    "sentences_tr": "Verimliliği artırmak için yeni bir strateji uygulamayı düşünüyoruz.",
+    "level": "C1",
+    "items": [
+      { "part": "thinking of implementing", "explanation": "Phrasal verb indicating contemplation of a plan." },
+      { "part": "a new strategy to improve efficiency", "explanation": "Noun phrase with purpose explanation." }
+    ]
+  },
+  {
+    "id": 269,
+    "sentences_en": "I should have double-checked the figures before submitting the report.",
+    "sentences_tr": "Raporu göndermeden önce rakamları iki kez kontrol etmeliydim.",
+    "level": "C1",
+    "items": [
+      { "part": "should have double-checked", "explanation": "Modal perfect expressing past obligation or regret." }
+    ]
+  },
+  {
+    "id": 270,
+    "sentences_en": "She may not have grasped the full implications of the decision.",
+    "sentences_tr": "Kararın tüm sonuçlarını anlamamış olabilir.",
+    "level": "C1",
+    "items": [
+      { "part": "may not have grasped", "explanation": "Modal perfect expressing uncertainty about past understanding." }
+    ]
+  },
+  {
+    "id": 271,
+    "sentences_en": "I’ve been analyzing statistical data to draw accurate conclusions.",
+    "sentences_tr": "Doğru sonuçlar çıkarmak için istatistiksel verileri analiz ediyorum.",
+    "level": "C1",
+    "items": [
+      { "part": "have been analyzing", "explanation": "Present perfect continuous showing ongoing analytical work." },
+      { "part": "to draw accurate conclusions", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 272,
+    "sentences_en": "He could be preparing a detailed report for the board meeting.",
+    "sentences_tr": "Yönetim kurulu toplantısı için ayrıntılı bir rapor hazırlıyor olabilir.",
+    "level": "C1",
+    "items": [
+      { "part": "could be preparing", "explanation": "Modal verb expressing potential ongoing action." },
+      { "part": "a detailed report for the board meeting", "explanation": "Noun phrase with prepositional phrase for purpose." }
+    ]
+  },
+  {
+    "id": 273,
+    "sentences_en": "We shouldn’t have underestimated the complexity of the project.",
+    "sentences_tr": "Projenin karmaşıklığını hafife almamalıydık.",
+    "level": "C1",
+    "items": [
+      { "part": "shouldn’t have underestimated", "explanation": "Modal perfect expressing past mistake or regret." }
+    ]
+  },
+  {
+    "id": 274,
+    "sentences_en": "I’ve been refining my writing style to make it more persuasive.",
+    "sentences_tr": "Yazı tarzımı daha ikna edici yapmak için geliştirmeye çalışıyorum.",
+    "level": "C1",
+    "items": [
+      { "part": "have been refining", "explanation": "Present perfect continuous showing ongoing improvement." },
+      { "part": "to make it more persuasive", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 275,
+    "sentences_en": "She might not have met all the requirements for the position.",
+    "sentences_tr": "Pozisyon için tüm gereklilikleri karşılamamış olabilir.",
+    "level": "C1",
+    "items": [
+      { "part": "might not have met", "explanation": "Modal perfect expressing past possibility or uncertainty." }
+    ]
+  },
+  {
+    "id": 276,
+    "sentences_en": "We are going to implement a new policy starting next month.",
+    "sentences_tr": "Gelecek ay itibariyle yeni bir politika uygulamaya başlayacağız.",
+    "level": "C1",
+    "items": [
+      { "part": "are going to implement", "explanation": "Future plan using 'be going to'." },
+      { "part": "a new policy starting next month", "explanation": "Noun phrase with time expression." }
+    ]
+  },
+  {
+    "id": 277,
+    "sentences_en": "I’ve already submitted the revised version of my report.",
+    "sentences_tr": "Raporumun revize edilmiş versiyonunu çoktan teslim ettim.",
+    "level": "C1",
+    "items": [
+      { "part": "have submitted", "explanation": "Present perfect showing completed action." },
+      { "part": "already", "explanation": "Adverb indicating early completion." }
+    ]
+  },
+  {
+    "id": 278,
+    "sentences_en": "He has been evaluating market strategies for the past quarter.",
+    "sentences_tr": "Son çeyrektir piyasa stratejilerini değerlendiriyor.",
+    "level": "C1",
+    "items": [
+      { "part": "has been evaluating", "explanation": "Present perfect continuous showing ongoing evaluation." },
+      { "part": "for the past quarter", "explanation": "Time expression indicating duration." }
+    ]
+  },
+  {
+    "id": 279,
+    "sentences_en": "I might have overlooked an important detail in the contract.",
+    "sentences_tr": "Sözleşmede önemli bir detayı gözden kaçırmış olabilirim.",
+    "level": "C1",
+    "items": [
+      { "part": "might have overlooked", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "an important detail in the contract", "explanation": "Noun phrase specifying the object." }
+    ]
+  },
+  {
+    "id": 280,
+    "sentences_en": "We are looking forward to implementing innovative solutions in the next project.",
+    "sentences_tr": "Bir sonraki projede yenilikçi çözümler uygulamayı sabırsızlıkla bekliyoruz.",
+    "level": "C1",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "implementing innovative solutions in the next project", "explanation": "Verb phrase showing planned action." }
+    ]
+  },
+    {
+    "id": 281,
+    "sentences_en": "I have been scrutinizing the financial reports to detect any anomalies.",
+    "sentences_tr": "Herhangi bir anormallik tespit etmek için mali raporları dikkatle inceliyorum.",
+    "level": "C2",
+    "items": [
+      { "part": "have been scrutinizing", "explanation": "Present perfect continuous showing prolonged, careful examination." },
+      { "part": "to detect any anomalies", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 282,
+    "sentences_en": "She should have anticipated the ramifications of her controversial statement.",
+    "sentences_tr": "Tartışmalı açıklamasının sonuçlarını öngörmeliydi.",
+    "level": "C2",
+    "items": [
+      { "part": "should have anticipated", "explanation": "Modal perfect expressing obligation or expectation in the past." }
+    ]
+  },
+  {
+    "id": 283,
+    "sentences_en": "He might be re-evaluating his position in light of recent developments.",
+    "sentences_tr": "Son gelişmeler ışığında pozisyonunu yeniden değerlendiriyor olabilir.",
+    "level": "C2",
+    "items": [
+      { "part": "might be re-evaluating", "explanation": "Modal verb expressing possibility of ongoing reconsideration." }
+    ]
+  },
+  {
+    "id": 284,
+    "sentences_en": "We’ve been liaising with multiple stakeholders to ensure smooth project execution.",
+    "sentences_tr": "Projeyi sorunsuz yürütmek için birçok paydaşla iletişim kuruyoruz.",
+    "level": "C2",
+    "items": [
+      { "part": "have been liaising", "explanation": "Present perfect continuous showing ongoing communication with parties involved." },
+      { "part": "with multiple stakeholders", "explanation": "Prepositional phrase specifying who is involved." }
+    ]
+  },
+  {
+    "id": 285,
+    "sentences_en": "I’ve just finalized the comprehensive analysis report.",
+    "sentences_tr": "Kapsamlı analiz raporunu az önce tamamladım.",
+    "level": "C2",
+    "items": [
+      { "part": "have finalized", "explanation": "Present perfect tense showing completed action." },
+      { "part": "just", "explanation": "Adverb indicating very recent past." }
+    ]
+  },
+  {
+    "id": 286,
+    "sentences_en": "She’s getting ready to deliver an in-depth presentation on the research findings.",
+    "sentences_tr": "Araştırma bulguları hakkında kapsamlı bir sunum yapmak için hazırlanıyor.",
+    "level": "C2",
+    "items": [
+      { "part": "getting ready to", "explanation": "Phrasal verb showing preparation for a significant action." },
+      { "part": "deliver an in-depth presentation", "explanation": "Verb phrase indicating formal and detailed presentation." }
+    ]
+  },
+  {
+    "id": 287,
+    "sentences_en": "He must have misinterpreted the data, which resulted in flawed conclusions.",
+    "sentences_tr": "Verileri yanlış yorumlamış olmalı, bu da hatalı sonuçlara yol açtı.",
+    "level": "C2",
+    "items": [
+      { "part": "must have misinterpreted", "explanation": "Modal perfect expressing strong logical assumption about past." }
+    ]
+  },
+  {
+    "id": 288,
+    "sentences_en": "We are thinking of implementing an innovative framework to enhance productivity.",
+    "sentences_tr": "Verimliliği artırmak için yenilikçi bir çerçeve uygulamayı düşünüyoruz.",
+    "level": "C2",
+    "items": [
+      { "part": "thinking of implementing", "explanation": "Phrasal verb indicating contemplation of a sophisticated plan." },
+      { "part": "an innovative framework to enhance productivity", "explanation": "Noun phrase + purpose." }
+    ]
+  },
+  {
+    "id": 289,
+    "sentences_en": "I should have meticulously reviewed the contract before signing it.",
+    "sentences_tr": "Sözleşmeyi imzalamadan önce titizlikle gözden geçirmeliydim.",
+    "level": "C2",
+    "items": [
+      { "part": "should have meticulously reviewed", "explanation": "Modal perfect expressing past obligation with emphasis on careful action." }
+    ]
+  },
+  {
+    "id": 290,
+    "sentences_en": "She may not have fully comprehended the implications of the policy changes.",
+    "sentences_tr": "Politika değişikliklerinin tüm sonuçlarını tam olarak anlamamış olabilir.",
+    "level": "C2",
+    "items": [
+      { "part": "may not have fully comprehended", "explanation": "Modal perfect expressing uncertainty about past understanding." }
+    ]
+  },
+  {
+    "id": 291,
+    "sentences_en": "I’ve been conducting comparative studies to identify best practices in the industry.",
+    "sentences_tr": "Sektördeki en iyi uygulamaları belirlemek için karşılaştırmalı çalışmalar yapıyorum.",
+    "level": "C2",
+    "items": [
+      { "part": "have been conducting", "explanation": "Present perfect continuous showing ongoing analytical work." },
+      { "part": "to identify best practices", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 292,
+    "sentences_en": "He could be drafting an extensive proposal for the upcoming project.",
+    "sentences_tr": "Yaklaşan proje için kapsamlı bir teklif tasarlıyor olabilir.",
+    "level": "C2",
+    "items": [
+      { "part": "could be drafting", "explanation": "Modal verb expressing possible ongoing action." },
+      { "part": "an extensive proposal for the upcoming project", "explanation": "Noun phrase specifying object and context." }
+    ]
+  },
+  {
+    "id": 293,
+    "sentences_en": "We shouldn’t have underestimated the potential risks involved in the project.",
+    "sentences_tr": "Projede yer alan potansiyel riskleri hafife almamalıydık.",
+    "level": "C2",
+    "items": [
+      { "part": "shouldn’t have underestimated", "explanation": "Modal perfect expressing past regret or warning." }
+    ]
+  },
+  {
+    "id": 294,
+    "sentences_en": "I’ve been refining my strategic approach to achieve maximum efficiency.",
+    "sentences_tr": "Maksimum verimlilik sağlamak için stratejik yaklaşımımı geliştiriyorum.",
+    "level": "C2",
+    "items": [
+      { "part": "have been refining", "explanation": "Present perfect continuous showing ongoing improvement." },
+      { "part": "to achieve maximum efficiency", "explanation": "Infinitive phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 295,
+    "sentences_en": "She might not have fulfilled all the stringent criteria for the grant.",
+    "sentences_tr": "Hibe için belirlenen tüm sıkı kriterleri karşılamamış olabilir.",
+    "level": "C2",
+    "items": [
+      { "part": "might not have fulfilled", "explanation": "Modal perfect expressing past possibility." }
+    ]
+  },
+  {
+    "id": 296,
+    "sentences_en": "We are going to implement comprehensive changes across all departments.",
+    "sentences_tr": "Tüm departmanlarda kapsamlı değişiklikler uygulamaya başlayacağız.",
+    "level": "C2",
+    "items": [
+      { "part": "are going to implement", "explanation": "Future plan using 'be going to'." },
+      { "part": "comprehensive changes across all departments", "explanation": "Noun phrase specifying scope of action." }
+    ]
+  },
+  {
+    "id": 297,
+    "sentences_en": "I’ve already submitted the thoroughly revised version of the document.",
+    "sentences_tr": "Belgenin tamamen revize edilmiş versiyonunu çoktan teslim ettim.",
+    "level": "C2",
+    "items": [
+      { "part": "have submitted", "explanation": "Present perfect showing completed action." },
+      { "part": "already", "explanation": "Adverb indicating early completion." }
+    ]
+  },
+  {
+    "id": 298,
+    "sentences_en": "He has been evaluating complex financial models for investment decisions.",
+    "sentences_tr": "Yatırım kararları için karmaşık finansal modelleri değerlendiriyor.",
+    "level": "C2",
+    "items": [
+      { "part": "has been evaluating", "explanation": "Present perfect continuous showing ongoing analytical work." },
+      { "part": "for investment decisions", "explanation": "Prepositional phrase indicating purpose." }
+    ]
+  },
+  {
+    "id": 299,
+    "sentences_en": "I might have overlooked a critical element in the research methodology.",
+    "sentences_tr": "Araştırma metodolojisinde kritik bir unsuru gözden kaçırmış olabilirim.",
+    "level": "C2",
+    "items": [
+      { "part": "might have overlooked", "explanation": "Modal perfect expressing past possibility." },
+      { "part": "a critical element in the research methodology", "explanation": "Noun phrase specifying object." }
+    ]
+  },
+  {
+    "id": 300,
+    "sentences_en": "We are looking forward to integrating advanced technologies in future projects.",
+    "sentences_tr": "Gelecek projelerde gelişmiş teknolojileri entegre etmeyi sabırsızlıkla bekliyoruz.",
+    "level": "C2",
+    "items": [
+      { "part": "looking forward to", "explanation": "Phrasal verb expressing anticipation." },
+      { "part": "integrating advanced technologies in future projects", "explanation": "Verb phrase showing planned complex action." }
+    ]
+  } 
+]
