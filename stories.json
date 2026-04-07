@@ -1,0 +1,903 @@
+[
+    {
+        "id": "a1_1",
+        "level": "A1",
+        "category": "Daily Life",
+        "url": "",
+        "imagePrompt": "A simple morning scene with a young man opening a window, warm sunlight, soft colors, minimal illustration, 16:9",
+        "story": "Tom wakes up early.\nHe opens the window.\nThe sun is bright.\nHe feels happy.\nHe goes to the kitchen.\nHe drinks water.\nHe eats bread.\nHe puts on his shoes.\nHe goes outside.\nHe walks in the park.\nHe sees a dog.\nHe smiles.",
+        "words": [
+            {
+                "word": "wake up",
+                "description": "uyanmak"
+            },
+            {
+                "word": "early",
+                "description": "erken"
+            },
+            {
+                "word": "window",
+                "description": "pencere"
+            },
+            {
+                "word": "walk",
+                "description": "yürümek"
+            },
+            {
+                "word": "smile",
+                "description": "gülümsemek"
+            }
+        ]
+    },
+    {
+        "id": "a1_2",
+        "level": "A1",
+        "category": "Transport",
+        "url": "",
+        "imagePrompt": "A quiet bus stop scene with a woman waiting, soft colors, minimal style, morning light, 16:9",
+        "story": "Anna leaves her house.\nShe walks to the bus stop.\nThe street is quiet.\nShe waits for the bus.\nA man stands near her.\nHe says hello.\nAnna smiles.\nThey talk a little.\nThe bus comes.\nAnna gets on the bus.\nShe sits down.\nShe looks outside.",
+        "words": [
+            {
+                "word": "leave",
+                "description": "ayrılmak"
+            },
+            {
+                "word": "wait",
+                "description": "beklemek"
+            },
+            {
+                "word": "bus stop",
+                "description": "otobüs durağı"
+            },
+            {
+                "word": "talk",
+                "description": "konuşmak"
+            },
+            {
+                "word": "sit",
+                "description": "oturmak"
+            }
+        ]
+    },
+    {
+        "id": "a1_3",
+        "level": "A1",
+        "category": "Home",
+        "url": "",
+        "imagePrompt": "A small white cat under a table in a cozy home, soft lighting, cute style, minimal illustration, 16:9",
+        "story": "Liam is at home.\nHe hears a sound.\nHe looks under the table.\nHe sees a small cat.\nThe cat is white.\nIt looks hungry.\nLiam brings milk.\nThe cat drinks milk.\nIt looks at Liam.\nLiam sits down.\nThe cat sleeps.\nLiam feels happy.",
+        "words": [
+            {
+                "word": "hear",
+                "description": "duymak"
+            },
+            {
+                "word": "look",
+                "description": "bakmak"
+            },
+            {
+                "word": "hungry",
+                "description": "aç"
+            },
+            {
+                "word": "drink",
+                "description": "içmek"
+            },
+            {
+                "word": "sleep",
+                "description": "uyumak"
+            }
+        ]
+    },
+    {
+        "id": "a1_4",
+        "level": "A1",
+        "category": "Work",
+        "url": "",
+        "imagePrompt": "A young woman entering a simple office building, nervous but smiling, clean minimal style, 16:9",
+        "story": "Emma wakes up early.\nToday is her first day.\nShe feels nervous.\nShe wears clean clothes.\nShe looks in the mirror.\nShe takes a deep breath.\nShe leaves home.\nShe walks to work.\nShe sees the office.\nShe meets her manager.\nHe is kind.\nEmma smiles.",
+        "words": [
+            {
+                "word": "nervous",
+                "description": "gergin"
+            },
+            {
+                "word": "wear",
+                "description": "giymek"
+            },
+            {
+                "word": "mirror",
+                "description": "ayna"
+            },
+            {
+                "word": "meet",
+                "description": "tanışmak"
+            },
+            {
+                "word": "kind",
+                "description": "nazik"
+            }
+        ]
+    },
+    {
+        "id": "a1_5",
+        "level": "A1",
+        "category": "Weather",
+        "url": "",
+        "imagePrompt": "A rainy day scene with a man inside drinking tea, cozy atmosphere, soft colors, minimal style, 16:9",
+        "story": "Jack wakes up late.\nHe hears rain.\nHe looks outside.\nThe sky is dark.\nPeople have umbrellas.\nCars move slowly.\nJack makes tea.\nHe sits on the sofa.\nHe reads a book.\nThe rain is soft.\nHe feels calm.\nHe smiles.",
+        "words": [
+            {
+                "word": "rain",
+                "description": "yağmur"
+            },
+            {
+                "word": "dark",
+                "description": "karanlık"
+            },
+            {
+                "word": "umbrella",
+                "description": "şemsiye"
+            },
+            {
+                "word": "slow",
+                "description": "yavaş"
+            },
+            {
+                "word": "calm",
+                "description": "sakin"
+            }
+        ]
+    },
+    {
+        "id": "a2_1",
+        "level": "A2",
+        "category": "Shopping",
+        "url": "",
+        "imagePrompt": "A young woman shopping in a small grocery store, picking fresh fruits, colorful minimal style, 16:9",
+        "story": "Sara goes to the store.\nShe wants to buy apples.\nThe apples look fresh.\nShe picks three apples.\nShe sees bananas and takes some.\nShe goes to the counter.\nThe cashier smiles.\nSara pays the money.\nShe leaves the store happily.\nShe walks home slowly.\nShe eats an apple and feels good.\nThe sun is shining.",
+        "words": [
+            {
+                "word": "store",
+                "description": "mağaza"
+            },
+            {
+                "word": "buy",
+                "description": "satın almak"
+            },
+            {
+                "word": "fresh",
+                "description": "taze"
+            },
+            {
+                "word": "counter",
+                "description": "tezgah"
+            },
+            {
+                "word": "pay",
+                "description": "ödemek"
+            }
+        ]
+    },
+    {
+        "id": "a2_2",
+        "level": "A2",
+        "category": "Travel",
+        "url": "",
+        "imagePrompt": "A bus station with people waiting, a bus arriving, soft bright style, minimal 16:9",
+        "story": "Tom and Anna go to the city.\nThey take a bus.\nThe bus is full.\nThey find two seats.\nTom looks out of the window.\nHe sees many buildings.\nAnna reads a map.\nThey talk about the places they will visit.\nThe bus stops near a museum.\nThey get off the bus.\nThey walk together to the museum.\nIt is very big and interesting.",
+        "words": [
+            {
+                "word": "bus",
+                "description": "otobüs"
+            },
+            {
+                "word": "seat",
+                "description": "koltuk"
+            },
+            {
+                "word": "window",
+                "description": "pencere"
+            },
+            {
+                "word": "map",
+                "description": "harita"
+            },
+            {
+                "word": "museum",
+                "description": "müze"
+            }
+        ]
+    },
+    {
+        "id": "a2_3",
+        "level": "A2",
+        "category": "Food",
+        "url": "",
+        "imagePrompt": "A small kitchen with a man cooking pasta, colorful ingredients, minimal illustration, 16:9",
+        "story": "Liam cooks dinner at home.\nHe cuts vegetables.\nHe boils water.\nHe adds pasta to the water.\nHe waits for ten minutes.\nHe mixes the vegetables.\nHe adds salt and pepper.\nThe pasta is ready.\nHe puts the food on a plate.\nHe sits at the table.\nHe tastes the pasta.\nHe smiles and enjoys his dinner.",
+        "words": [
+            {
+                "word": "cook",
+                "description": "yemek yapmak"
+            },
+            {
+                "word": "vegetable",
+                "description": "sebze"
+            },
+            {
+                "word": "boil",
+                "description": "kaynatmak"
+            },
+            {
+                "word": "mix",
+                "description": "karıştırmak"
+            },
+            {
+                "word": "taste",
+                "description": "tatmak"
+            }
+        ]
+    },
+    {
+        "id": "a2_4",
+        "level": "A2",
+        "category": "Weather",
+        "url": "",
+        "imagePrompt": "A windy day with a girl walking with an umbrella, clouds in the sky, minimal style, 16:9",
+        "story": "Emma looks outside.\nThe wind is strong.\nShe takes her umbrella.\nShe walks to school.\nThe trees move in the wind.\nShe sees leaves on the street.\nShe holds her umbrella tightly.\nShe meets her friend.\nThey talk and laugh.\nThey reach school together.\nThe sky is grey.\nThey go inside the classroom.",
+        "words": [
+            {
+                "word": "wind",
+                "description": "rüzgar"
+            },
+            {
+                "word": "umbrella",
+                "description": "şemsiye"
+            },
+            {
+                "word": "tree",
+                "description": "ağaç"
+            },
+            {
+                "word": "leaf",
+                "description": "yaprak"
+            },
+            {
+                "word": "classroom",
+                "description": "sınıf"
+            }
+        ]
+    },
+    {
+        "id": "a2_5",
+        "level": "A2",
+        "category": "Leisure",
+        "url": "",
+        "imagePrompt": "A boy reading a book in a park, sitting on a bench, sunny day, minimal colorful style, 16:9",
+        "story": "Jack goes to the park.\nHe finds a bench.\nHe sits down.\nHe takes a book from his bag.\nHe reads carefully.\nHe hears children playing.\nA dog runs near him.\nHe smiles and looks around.\nHe continues reading.\nHe feels relaxed.\nThe sun is warm.\nHe enjoys the afternoon.",
+        "words": [
+            {
+                "word": "bench",
+                "description": "bank"
+            },
+            {
+                "word": "bag",
+                "description": "çanta"
+            },
+            {
+                "word": "carefully",
+                "description": "dikkatlice"
+            },
+            {
+                "word": "relaxed",
+                "description": "rahatlamış"
+            },
+            {
+                "word": "enjoy",
+                "description": "zevk almak"
+            }
+        ]
+    },
+    {
+        "id": "b1_1",
+        "level": "B1",
+        "category": "Travel",
+        "url": "",
+        "imagePrompt": "A young couple exploring a city, looking at maps and street signs, colorful minimal illustration, 16:9",
+        "story": "Tom and Anna are in a new city.\nThey want to visit the museum.\nTom looks at the map.\nAnna asks a passerby for directions.\nThey walk through the busy streets.\nThey see a small café.\nThey decide to stop for coffee.\nThe coffee is hot and tasty.\nThey continue walking.\nThey find the museum entrance.\nTickets are expensive, but they buy them.\nInside, they admire the paintings.\nThey take photos to remember the day.\nThey leave feeling happy and inspired.",
+        "words": [
+            {
+                "word": "explore",
+                "description": "keşfetmek"
+            },
+            {
+                "word": "passerby",
+                "description": "yoldan geçen kişi"
+            },
+            {
+                "word": "busy",
+                "description": "kalabalık"
+            },
+            {
+                "word": "admire",
+                "description": "hayran olmak"
+            },
+            {
+                "word": "inspired",
+                "description": "ilham almış"
+            }
+        ]
+    },
+    {
+        "id": "b1_2",
+        "level": "B1",
+        "category": "Work",
+        "url": "",
+        "imagePrompt": "A young woman in an office working at her desk, computer and papers around, minimal style, 16:9",
+        "story": "Emma starts her workday early.\nShe checks her emails.\nThere are many messages from clients.\nShe writes answers carefully.\nHer colleague comes to her desk.\nThey discuss a new project.\nThey make a plan for the week.\nEmma feels a little tired.\nShe takes a short coffee break.\nShe talks with her friend about the weekend.\nThey laugh and feel relaxed.\nEmma returns to work with energy.\nShe completes the tasks for the morning.\nShe feels proud of her work.",
+        "words": [
+            {
+                "word": "client",
+                "description": "müşteri"
+            },
+            {
+                "word": "colleague",
+                "description": "iş arkadaşı"
+            },
+            {
+                "word": "plan",
+                "description": "plan yapmak"
+            },
+            {
+                "word": "break",
+                "description": "mola"
+            },
+            {
+                "word": "task",
+                "description": "görev"
+            }
+        ]
+    },
+    {
+        "id": "b1_3",
+        "level": "B1",
+        "category": "Leisure",
+        "url": "",
+        "imagePrompt": "A boy and a dog in the park playing frisbee, sunny day, minimal colorful illustration, 16:9",
+        "story": "Jack goes to the park with his dog.\nHe throws a frisbee.\nThe dog runs fast and catches it.\nJack laughs loudly.\nOther people watch them.\nA child comes near and asks to play.\nJack shares the frisbee with the child.\nThey play together happily.\nThe dog sits under a tree, tired.\nJack gives him water.\nHe takes photos of the park.\nHe feels calm and joyful.\nThe sun starts to set.\nHe walks home with the dog.",
+        "words": [
+            {
+                "word": "frisbee",
+                "description": "frizbi"
+            },
+            {
+                "word": "catch",
+                "description": "yakalamak"
+            },
+            {
+                "word": "tired",
+                "description": "yorgun"
+            },
+            {
+                "word": "joyful",
+                "description": "mutlu, neşeli"
+            },
+            {
+                "word": "share",
+                "description": "paylaşmak"
+            }
+        ]
+    },
+    {
+        "id": "b1_4",
+        "level": "B1",
+        "category": "Food",
+        "url": "",
+        "imagePrompt": "A chef preparing pasta in a small kitchen, vegetables and utensils around, minimal style, 16:9",
+        "story": "Liam wants to cook dinner for his friends.\nHe chooses a pasta recipe.\nHe cuts tomatoes and onions.\nHe boils water for the pasta.\nHe adds salt and oil.\nHe cooks the pasta carefully.\nHe fries the vegetables.\nHe mixes everything in a pan.\nHe tastes the food and adds spices.\nHe sets the table neatly.\nHis friends arrive and smell the delicious meal.\nThey eat and compliment Liam.\nHe feels proud and happy.\nAfter dinner, they clean the kitchen together.",
+        "words": [
+            {
+                "word": "recipe",
+                "description": "tarif"
+            },
+            {
+                "word": "carefully",
+                "description": "dikkatlice"
+            },
+            {
+                "word": "spice",
+                "description": "baharat"
+            },
+            {
+                "word": "compliment",
+                "description": "övmek"
+            },
+            {
+                "word": "clean",
+                "description": "temizlemek"
+            }
+        ]
+    },
+    {
+        "id": "b1_5",
+        "level": "B1",
+        "category": "Daily Life",
+        "url": "",
+        "imagePrompt": "A young man jogging in a park early in the morning, sunrise in the background, minimal colorful style, 16:9",
+        "story": "David wakes up at six.\nHe puts on his jogging shoes.\nHe drinks some water.\nHe goes to the park.\nHe starts running slowly.\nHe sees other people jogging.\nHe waves to a friend.\nHe increases his speed a little.\nHe feels his heart beating fast.\nHe runs for thirty minutes.\nHe stretches after finishing.\nHe drinks water again.\nHe feels healthy and energetic.\nHe returns home to take a shower.",
+        "words": [
+            {
+                "word": "jogging",
+                "description": "koşu"
+            },
+            {
+                "word": "stretch",
+                "description": "gerinmek"
+            },
+            {
+                "word": "energy",
+                "description": "enerji"
+            },
+            {
+                "word": "fast",
+                "description": "hızlı"
+            },
+            {
+                "word": "friend",
+                "description": "arkadaş"
+            }
+        ]
+    },
+    {
+        "id": "b2_1",
+        "level": "B2",
+        "category": "Travel",
+        "url": "",
+        "imagePrompt": "A young couple exploring a European city, looking at a map, historic buildings in the background, colorful minimal illustration, 16:9",
+        "story": "Tom and Anna have arrived in Paris for a short vacation.\nThey have booked a small hotel near the city center.\nThis morning, they decided to visit the Louvre Museum.\nTom checked the tickets online while Anna packed some snacks.\nThey walked through the busy streets and admired the architecture.\nAnna noticed a small café and suggested they stop for coffee.\nWhile sipping their drinks, they planned the afternoon route.\nThey took photos of the streets and old buildings.\nThe museum was crowded, but they enjoyed every exhibition.\nThey discussed their favorite paintings and artists.\nAfter leaving the museum, they walked along the Seine River.\nThe sunset reflected beautifully on the water.\nThey felt inspired by the city and promised to return.\nOn their way back, they stopped at a bakery to buy croissants.\nFinally, they returned to the hotel feeling satisfied and happy.",
+        "words": [
+            {
+                "word": "vacation",
+                "description": "tatil"
+            },
+            {
+                "word": "historic",
+                "description": "tarihi"
+            },
+            {
+                "word": "admire",
+                "description": "hayran olmak"
+            },
+            {
+                "word": "sip",
+                "description": "yudumlamak"
+            },
+            {
+                "word": "promised",
+                "description": "söz vermek"
+            }
+        ]
+    },
+    {
+        "id": "b2_2",
+        "level": "B2",
+        "category": "Work",
+        "url": "",
+        "imagePrompt": "A modern office with a young man giving a presentation to colleagues, minimal colorful style, 16:9",
+        "story": "Emma has been working at the company for three years.\nToday she needs to give an important presentation to the management team.\nShe has prepared her slides carefully and rehearsed several times.\nHer colleagues arrive early to support her.\nShe starts speaking confidently, explaining the project progress.\nSome managers ask questions about the budget and deadlines.\nEmma answers them clearly and professionally.\nAfter the presentation, her manager praises her work.\nShe feels relieved and proud of her performance.\nDuring lunch, she talks with colleagues about new ideas.\nThey plan a team-building event next week.\nEmma realizes how much she enjoys working in this team.\nShe returns to her desk motivated to complete the remaining tasks.\nShe sends a few emails and organizes her schedule for tomorrow.\nBy the end of the day, she feels accomplished and energized.",
+        "words": [
+            {
+                "word": "presentation",
+                "description": "sunum"
+            },
+            {
+                "word": "management",
+                "description": "yönetim"
+            },
+            {
+                "word": "confidently",
+                "description": "kendinden emin bir şekilde"
+            },
+            {
+                "word": "deadline",
+                "description": "son teslim tarihi"
+            },
+            {
+                "word": "accomplished",
+                "description": "başarılı, tamamlanmış"
+            }
+        ]
+    },
+    {
+        "id": "b2_3",
+        "level": "B2",
+        "category": "Leisure",
+        "url": "",
+        "imagePrompt": "A young woman hiking on a mountain trail, breathtaking view, sunrise in the background, minimal illustration, 16:9",
+        "story": "Sophie enjoys hiking during weekends.\nShe planned a trail in the nearby mountains.\nThe weather was perfect, sunny with a light breeze.\nShe packed her backpack with water and snacks.\nDuring the climb, she met other hikers and exchanged greetings.\nShe admired the view of the valley from the top.\nShe took photos to remember the beautiful scenery.\nWhile resting, she drank water and ate a sandwich.\nShe thought about returning soon with her friends.\nThe descent was slower because the path was steep.\nShe reached the base feeling satisfied and healthy.\nLater, she shared her experience with her family.\nThey were impressed by the photos and stories.\nSophie realized how important nature and exercise are for her.\nShe promised to make hiking a weekly habit.",
+        "words": [
+            {
+                "word": "hike",
+                "description": "doğa yürüyüşü yapmak"
+            },
+            {
+                "word": "breeze",
+                "description": "hafif rüzgar"
+            },
+            {
+                "word": "admired",
+                "description": "hayranlıkla baktı"
+            },
+            {
+                "word": "descend",
+                "description": "inmek"
+            },
+            {
+                "word": "promised",
+                "description": "söz vermek"
+            }
+        ]
+    },
+    {
+        "id": "b2_4",
+        "level": "B2",
+        "category": "Food",
+        "url": "",
+        "imagePrompt": "A group of friends cooking together in a modern kitchen, colorful ingredients, minimal illustration, 16:9",
+        "story": "Liam invited his friends over for a dinner party.\nThey decided to cook Italian food together.\nHe prepared the pasta while others chopped vegetables.\nThey discussed the recipe and divided the tasks.\nWhile cooking, they listened to music and laughed a lot.\nLiam added spices carefully to the sauce.\nThe aroma filled the kitchen and made everyone hungry.\nFinally, they served the pasta and salads on the table.\nThey enjoyed eating and complimented each other's efforts.\nAfter dinner, they cleaned the kitchen together.\nThey shared stories and talked about future gatherings.\nLiam felt grateful for having such supportive friends.\nHe realized that cooking together strengthens friendships.\nThey planned another cooking evening next month.\nEveryone left happy and satisfied.",
+        "words": [
+            {
+                "word": "invite",
+                "description": "davet etmek"
+            },
+            {
+                "word": "divide",
+                "description": "bölmek, ayırmak"
+            },
+            {
+                "word": "aroma",
+                "description": "koku"
+            },
+            {
+                "word": "compliment",
+                "description": "övmek"
+            },
+            {
+                "word": "supportive",
+                "description": "destekleyici"
+            }
+        ]
+    },
+    {
+        "id": "b2_5",
+        "level": "B2",
+        "category": "Daily Life",
+        "url": "",
+        "imagePrompt": "A young man jogging and stretching in a city park, sunrise, soft minimal colors, 16:9",
+        "story": "David has been following a morning jogging routine for months.\nHe wakes up at six and prepares his sports clothes.\nBefore leaving, he drinks a glass of water.\nHe jogs through the park, greeting other runners.\nHe feels the fresh air and enjoys the sunrise.\nDuring the run, he stretches occasionally to avoid injury.\nAfter thirty minutes, he completes his run and cools down.\nHe drinks water again and checks his smartwatch for progress.\nHe notices that his stamina has improved significantly.\nFeeling energized, he plans a light breakfast.\nHe reflects on how exercise positively affects his mood.\nHe takes a quick shower and gets ready for work.\nThe morning routine gives him a sense of discipline and focus.\nDavid feels motivated to maintain this healthy habit daily.\nHe leaves the house feeling prepared for the day ahead.",
+        "words": [
+            {
+                "word": "stamina",
+                "description": "dayanıklılık"
+            },
+            {
+                "word": "injury",
+                "description": "yaralanma"
+            },
+            {
+                "word": "cool down",
+                "description": "soğuma hareketleri yapmak"
+            },
+            {
+                "word": "routine",
+                "description": "rutini"
+            },
+            {
+                "word": "discipline",
+                "description": "disiplin"
+            }
+        ]
+    },
+    {
+        "id": "c1_1",
+        "level": "C1",
+        "category": "Travel",
+        "url": "",
+        "imagePrompt": "A young couple exploring historic streets in Europe, with cobblestones and old buildings, warm sunset, detailed minimal style, 16:9",
+        "story": "Tom and Anna had planned their trip to Europe for months, carefully researching the best cities to visit.\nUpon arriving in Rome, they were immediately captivated by the historic architecture and bustling streets.\nThey had booked a small boutique hotel near the city center, which turned out to be charming and comfortable.\nOn their first day, they decided to explore the Colosseum and the surrounding ancient ruins.\nThey joined a guided tour, where the guide provided fascinating stories about the gladiators and emperors.\nAfter the tour, they wandered through the local markets, tasting fresh pastries and observing the vibrant street life.\nTom suggested visiting a nearby café, where they sampled authentic espresso and chatted about their plans.\nLater, they took a long walk along the Tiber River, admiring the reflections of the sunset on the water.\nThey discussed which museums to visit the following day and made a flexible itinerary.\nDespite being tired from the long day, they felt inspired by the culture and history surrounding them.\nThey returned to their hotel, reflecting on how traveling broadens perspectives and deepens understanding.\nBefore sleeping, they reviewed photos and notes from the day, feeling grateful for the experience.\nThe evening ended with a promise to wake early the next day and explore more of the hidden gems.\nTom wrote a short diary entry, while Anna sketched the view from their balcony.\nThey drifted to sleep, excited about the adventures that awaited them.\nThe trip was shaping up to be a perfect blend of learning, enjoyment, and cultural immersion.\nEach moment felt carefully crafted and unforgettable, leaving lasting memories.\nThey realized that traveling together strengthened their bond and mutual curiosity.\nBy the end of the week, they would have stories to share for years to come.\nThis journey reminded them that exploration is not just about places, but also about perspectives.",
+        "words": [
+            {
+                "word": "captivated",
+                "description": "büyülenmiş, etkilenmiş"
+            },
+            {
+                "word": "boutique",
+                "description": "şirin ve küçük otel"
+            },
+            {
+                "word": "fascinating",
+                "description": "büyüleyici"
+            },
+            {
+                "word": "immersed",
+                "description": "dalmak, içine girmek"
+            },
+            {
+                "word": "perspectives",
+                "description": "bakış açıları"
+            }
+        ]
+    },
+    {
+        "id": "c1_2",
+        "level": "C1",
+        "category": "Work",
+        "url": "",
+        "imagePrompt": "A modern office with employees collaborating on a complex project, laptops and charts visible, minimal professional style, 16:9",
+        "story": "Emma has been leading her team on a challenging project for several months, coordinating tasks across multiple departments.\nThe project involves developing a new product line that requires both creativity and rigorous planning.\nShe convened a morning meeting to assess progress and identify potential obstacles.\nColleagues reported on their sections, highlighting achievements as well as concerns about tight deadlines.\nEmma listened attentively, offering suggestions and encouraging collaborative problem-solving.\nAfter the meeting, she drafted an updated schedule and shared it with the team.\nThroughout the day, she responded to urgent emails, attended virtual conferences, and reviewed detailed reports.\nShe realized that effective leadership requires balancing delegation with hands-on involvement.\nDuring lunch, she reflected on the importance of maintaining team morale, especially during high-pressure periods.\nShe proposed a brainstorming session in the afternoon to foster creativity and idea-sharing.\nBy late afternoon, several new solutions had been suggested, and the team felt motivated.\nEmma documented the progress and sent a summary to the management team.\nShe also prepared notes for a presentation to stakeholders, emphasizing the project’s strategic value.\nDespite the intensity of the day, Emma felt a sense of accomplishment and professional growth.\nShe left the office, thinking about ways to further enhance productivity and collaboration.\nShe knew that the project’s success depended not only on planning, but also on inspiring and empowering the team.\nReturning home, she reflected on lessons learned and strategies for future projects.\nShe felt confident that with continued effort, the team could overcome any challenges.\nEmma understood that leadership is as much about vision as it is about execution.",
+        "words": [
+            {
+                "word": "coordinating",
+                "description": "koordinasyon yapmak"
+            },
+            {
+                "word": "obstacles",
+                "description": "engel"
+            },
+            {
+                "word": "delegation",
+                "description": "görev dağılımı"
+            },
+            {
+                "word": "brainstorming",
+                "description": "beyin fırtınası"
+            },
+            {
+                "word": "stakeholders",
+                "description": "paydaşlar"
+            }
+        ]
+    },
+    {
+        "id": "c1_3",
+        "level": "C1",
+        "category": "Leisure",
+        "url": "",
+        "imagePrompt": "A woman hiking in a dense forest, morning sunlight through trees, minimal illustration, 16:9",
+        "story": "Sophie enjoys hiking as a way to escape the stresses of daily life.\nShe planned a challenging route through a dense forest known for its scenic beauty.\nCarrying a backpack with essentials, she set out early in the morning.\nThe trail was steep in places, but the fresh air and chirping birds made it invigorating.\nShe met a few fellow hikers and exchanged brief conversations about the trail conditions.\nAt the peak, Sophie paused to take photographs and admire the panoramic view.\nShe reflected on how nature can foster both mental clarity and physical endurance.\nDuring the descent, she carefully navigated rocky paths and slippery sections.\nShe encountered a small stream and rested briefly by its flowing water.\nHer journal notes included sketches and observations about flora and fauna.\nReaching the trailhead, she felt a deep sense of satisfaction and accomplishment.\nThe experience reminded her that personal growth often comes from challenging oneself.\nLater, she shared her adventures online, hoping to inspire others to explore the outdoors.\nShe made a mental note to try an even longer trail next month.\nDespite the fatigue, Sophie felt rejuvenated and mentally refreshed.\nHiking, she realized, was not merely exercise, but a holistic experience.\nIt strengthened both body and mind while providing valuable moments of introspection.\nShe concluded that outdoor adventures were essential for maintaining balance in life.\nThe forest had offered not only a challenge, but also serenity and perspective.",
+        "words": [
+            {
+                "word": "invigorating",
+                "description": "canlandırıcı"
+            },
+            {
+                "word": "flora",
+                "description": "bitki örtüsü"
+            },
+            {
+                "word": "fauna",
+                "description": "hayvanlar"
+            },
+            {
+                "word": "rejuvenated",
+                "description": "yenilenmiş, tazelenmiş"
+            },
+            {
+                "word": "introspection",
+                "description": "iç gözlem"
+            }
+        ]
+    },
+    {
+        "id": "c1_4",
+        "level": "C1",
+        "category": "Food",
+        "url": "",
+        "imagePrompt": "A professional kitchen with chefs preparing a gourmet meal together, high detail, 16:9",
+        "story": "Liam invited a group of friends to a gourmet dinner party at his apartment.\nThey planned to cook multiple courses together, sharing responsibilities.\nEach friend chose a dish according to their skills and preferences.\nThe kitchen was filled with the aroma of spices, herbs, and freshly baked bread.\nLiam coordinated the timing, ensuring each course was served perfectly.\nThey tasted each dish and offered constructive feedback to improve flavors.\nDuring the meal, conversations flowed from cooking techniques to travel experiences.\nThey discussed the cultural origins of certain ingredients and recipes.\nAfter dinner, everyone participated in cleaning and organizing the kitchen.\nLiam reflected on how cooking together not only creates food, but strengthens relationships.\nThey ended the evening by planning another culinary session next month.\nThe experience reinforced the idea that shared activities foster connection and joy.\nLiam felt grateful for friends who were both enthusiastic and skilled.\nThe dinner had been a combination of learning, laughter, and delicious flavors.\nHe noted some ideas for improving the next gathering and experimenting with new recipes.\nBy the end of the night, everyone left with satisfaction and inspiration.\nLiam realized that food could be a powerful medium for building memories.\nThis event reminded him of the importance of collaboration and creativity.\nCooking, he concluded, is as much about people as it is about ingredients.",
+        "words": [
+            {
+                "word": "gourmet",
+                "description": "gurme, kaliteli yemek"
+            },
+            {
+                "word": "constructive",
+                "description": "yapıcı"
+            },
+            {
+                "word": "ingredients",
+                "description": "malzemeler"
+            },
+            {
+                "word": "collaboration",
+                "description": "iş birliği"
+            },
+            {
+                "word": "medium",
+                "description": "araç, vesile"
+            }
+        ]
+    },
+    {
+        "id": "c1_5",
+        "level": "C1",
+        "category": "Daily Life",
+        "url": "",
+        "imagePrompt": "A young man following a detailed morning fitness routine, city park with sunrise, minimal style, 16:9",
+        "story": "David has developed a comprehensive morning fitness routine over the past year.\nHe begins by stretching his muscles to prevent injury and improve flexibility.\nThen he engages in a 5-kilometer jog, maintaining a consistent pace throughout.\nDuring the run, he monitors his heart rate and breathing patterns carefully.\nAfter completing the jog, he performs a series of strength exercises targeting various muscle groups.\nHe cools down with deep breathing and light stretches.\nDavid reflects on his progress, noting improvements in endurance and stamina.\nHe keeps a fitness journal where he records times, distances, and performance metrics.\nThe routine not only strengthens his body but also enhances mental clarity and focus.\nHe drinks water and prepares a protein-rich breakfast to aid recovery.\nDavid schedules his day around the energy and motivation gained from this practice.\nHe finds that consistent effort leads to noticeable results and personal satisfaction.\nSometimes he invites friends to join, fostering both accountability and social connection.\nHe experiments with new exercises to challenge himself and prevent monotony.\nBy adhering to this routine, David has achieved a balance between physical health and productivity.\nHe believes that discipline, reflection, and gradual progress are key to long-term success.\nThis structured approach has made fitness an integral and enjoyable part of his life.\nHe concludes that the mind-body connection is strengthened through consistent practice.\nUltimately, David feels empowered and prepared for the challenges of each day.",
+        "words": [
+            {
+                "word": "endurance",
+                "description": "dayanıklılık"
+            },
+            {
+                "word": "metrics",
+                "description": "ölçümler, performans verileri"
+            },
+            {
+                "word": "accountability",
+                "description": "sorumluluk, hesap verebilirlik"
+            },
+            {
+                "word": "monotony",
+                "description": "monotonluk"
+            },
+            {
+                "word": "empowered",
+                "description": "güçlenmiş, kendine güvenen"
+            }
+        ]
+    },
+    {
+        "id": "b2_1",
+        "level": "B2",
+        "category": "Travel",
+        "url": "",
+        "imagePrompt": "A young couple exploring a European city, looking at a map, historic buildings in the background, colorful minimal illustration, 16:9",
+        "story": "Tom and Anna have arrived in Paris for a short vacation.\nThey have booked a small hotel near the city center.\nThis morning, they decided to visit the Louvre Museum.\nTom checked the tickets online while Anna packed some snacks.\nThey walked through the busy streets and admired the architecture.\nAnna noticed a small café and suggested they stop for coffee.\nWhile sipping their drinks, they planned the afternoon route.\nThey took photos of the streets and old buildings.\nThe museum was crowded, but they enjoyed every exhibition.\nThey discussed their favorite paintings and artists.\nAfter leaving the museum, they walked along the Seine River.\nThe sunset reflected beautifully on the water.\nThey felt inspired by the city and promised to return.\nOn their way back, they stopped at a bakery to buy croissants.\nFinally, they returned to the hotel feeling satisfied and happy.",
+        "words": [
+            {
+                "word": "vacation",
+                "description": "tatil"
+            },
+            {
+                "word": "historic",
+                "description": "tarihi"
+            },
+            {
+                "word": "admire",
+                "description": "hayran olmak"
+            },
+            {
+                "word": "sip",
+                "description": "yudumlamak"
+            },
+            {
+                "word": "promised",
+                "description": "söz vermek"
+            }
+        ]
+    },
+    {
+        "id": "b2_2",
+        "level": "B2",
+        "category": "Work",
+        "url": "",
+        "imagePrompt": "A modern office with a young man giving a presentation to colleagues, minimal colorful style, 16:9",
+        "story": "Emma has been working at the company for three years.\nToday she needs to give an important presentation to the management team.\nShe has prepared her slides carefully and rehearsed several times.\nHer colleagues arrive early to support her.\nShe starts speaking confidently, explaining the project progress.\nSome managers ask questions about the budget and deadlines.\nEmma answers them clearly and professionally.\nAfter the presentation, her manager praises her work.\nShe feels relieved and proud of her performance.\nDuring lunch, she talks with colleagues about new ideas.\nThey plan a team-building event next week.\nEmma realizes how much she enjoys working in this team.\nShe returns to her desk motivated to complete the remaining tasks.\nShe sends a few emails and organizes her schedule for tomorrow.\nBy the end of the day, she feels accomplished and energized.",
+        "words": [
+            {
+                "word": "presentation",
+                "description": "sunum"
+            },
+            {
+                "word": "management",
+                "description": "yönetim"
+            },
+            {
+                "word": "confidently",
+                "description": "kendinden emin bir şekilde"
+            },
+            {
+                "word": "deadline",
+                "description": "son teslim tarihi"
+            },
+            {
+                "word": "accomplished",
+                "description": "başarılı, tamamlanmış"
+            }
+        ]
+    },
+    {
+        "id": "b2_3",
+        "level": "B2",
+        "category": "Leisure",
+        "url": "",
+        "imagePrompt": "A young woman hiking on a mountain trail, breathtaking view, sunrise in the background, minimal illustration, 16:9",
+        "story": "Sophie enjoys hiking during weekends.\nShe planned a trail in the nearby mountains.\nThe weather was perfect, sunny with a light breeze.\nShe packed her backpack with water and snacks.\nDuring the climb, she met other hikers and exchanged greetings.\nShe admired the view of the valley from the top.\nShe took photos to remember the beautiful scenery.\nWhile resting, she drank water and ate a sandwich.\nShe thought about returning soon with her friends.\nThe descent was slower because the path was steep.\nShe reached the base feeling satisfied and healthy.\nLater, she shared her experience with her family.\nThey were impressed by the photos and stories.\nSophie realized how important nature and exercise are for her.\nShe promised to make hiking a weekly habit.",
+        "words": [
+            {
+                "word": "hike",
+                "description": "doğa yürüyüşü yapmak"
+            },
+            {
+                "word": "breeze",
+                "description": "hafif rüzgar"
+            },
+            {
+                "word": "admired",
+                "description": "hayranlıkla baktı"
+            },
+            {
+                "word": "descend",
+                "description": "inmek"
+            },
+            {
+                "word": "promised",
+                "description": "söz vermek"
+            }
+        ]
+    },
+    {
+        "id": "b2_4",
+        "level": "B2",
+        "category": "Food",
+        "url": "",
+        "imagePrompt": "A group of friends cooking together in a modern kitchen, colorful ingredients, minimal illustration, 16:9",
+        "story": "Liam invited his friends over for a dinner party.\nThey decided to cook Italian food together.\nHe prepared the pasta while others chopped vegetables.\nThey discussed the recipe and divided the tasks.\nWhile cooking, they listened to music and laughed a lot.\nLiam added spices carefully to the sauce.\nThe aroma filled the kitchen and made everyone hungry.\nFinally, they served the pasta and salads on the table.\nThey enjoyed eating and complimented each other's efforts.\nAfter dinner, they cleaned the kitchen together.\nThey shared stories and talked about future gatherings.\nLiam felt grateful for having such supportive friends.\nHe realized that cooking together strengthens friendships.\nThey planned another cooking evening next month.\nEveryone left happy and satisfied.",
+        "words": [
+            {
+                "word": "invite",
+                "description": "davet etmek"
+            },
+            {
+                "word": "divide",
+                "description": "bölmek, ayırmak"
+            },
+            {
+                "word": "aroma",
+                "description": "koku"
+            },
+            {
+                "word": "compliment",
+                "description": "övmek"
+            },
+            {
+                "word": "supportive",
+                "description": "destekleyici"
+            }
+        ]
+    },
+    {
+        "id": "b2_5",
+        "level": "B2",
+        "category": "Daily Life",
+        "url": "",
+        "url": "",
+        "imagePrompt": "A young man jogging and stretching in a city park, sunrise, soft minimal colors, 16:9",
+        "story": "David has been following a morning jogging routine for months.\nHe wakes up at six and prepares his sports clothes.\nBefore leaving, he drinks a glass of water.\nHe jogs through the park, greeting other runners.\nHe feels the fresh air and enjoys the sunrise.\nDuring the run, he stretches occasionally to avoid injury.\nAfter thirty minutes, he completes his run and cools down.\nHe drinks water again and checks his smartwatch for progress.\nHe notices that his stamina has improved significantly.\nFeeling energized, he plans a light breakfast.\nHe reflects on how exercise positively affects his mood.\nHe takes a quick shower and gets ready for work.\nThe morning routine gives him a sense of discipline and focus.\nDavid feels motivated to maintain this healthy habit daily.\nHe leaves the house feeling prepared for the day ahead.",
+        "words": [
+            {
+                "word": "stamina",
+                "description": "dayanıklılık"
+            },
+            {
+                "word": "injury",
+                "description": "yaralanma"
+            },
+            {
+                "word": "cool down",
+                "description": "soğuma hareketleri yapmak"
+            },
+            {
+                "word": "routine",
+                "description": "rutini"
+            },
+            {
+                "word": "discipline",
+                "description": "disiplin"
+            }
+        ]
+    }
+]
