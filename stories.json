@@ -5,28 +5,19 @@
         "category": "Daily Life",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa11.png?alt=media&token=0b40095b-5dbb-4cf2-83ee-fc62a961b5ff",
         "imagePrompt": "A simple morning scene with a young man opening a window, warm sunlight, soft colors, minimal illustration, 16:9",
-        "voice":"a1_1_voice","story": "Tom wakes up early. He opens the window and looks outside. The sun is bright, and he feels happy. He goes to the kitchen, drinks some water, and eats bread. Then he puts on his shoes and goes outside. He walks in the park. He sees a dog and smiles.",
+        "voice": "a1_1_voice",
+        "story": "Tom wakes up early. He opens the window and looks outside. The sun is bright, and he feels happy. He goes to the kitchen, drinks some water, and eats bread. Then he puts on his shoes and goes outside. He walks in the park. He sees a dog and smiles.",
         "words": [
-            {
-                "word": "wake up",
-                "description": "uyanmak"
-            },
-            {
-                "word": "early",
-                "description": "erken"
-            },
-            {
-                "word": "window",
-                "description": "pencere"
-            },
-            {
-                "word": "walk",
-                "description": "yürümek"
-            },
-            {
-                "word": "smile",
-                "description": "gülümsemek"
-            }
+            { "word": "wake up", "description": "uyanmak" },
+            { "word": "early", "description": "erken" },
+            { "word": "window", "description": "pencere" },
+            { "word": "bright", "description": "parlak, aydınlık" },
+            { "word": "kitchen", "description": "mutfak" },
+            { "word": "bread", "description": "ekmek" },
+            { "word": "shoes", "description": "ayakkabılar" },
+            { "word": "walk", "description": "yürümek" },
+            { "word": "park", "description": "park" },
+            { "word": "smile", "description": "gülümsemek" }
         ]
     },
     {
@@ -35,28 +26,19 @@
         "category": "Transport",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa12.png?alt=media&token=aa6845e9-def7-40b4-a511-f8866f151784",
         "imagePrompt": "A quiet bus stop scene with a woman waiting, soft colors, minimal style, morning light, 16:9",
-        "voice":"a1_2_voice","story": "Anna leaves her house. She walks to the bus stop. The street is quiet. She waits for the bus. A man stands near her. He says hello. Anna smiles. They talk a little. The bus comes. Anna gets on the bus. She sits down. She looks outside.",
+        "voice": "a1_2_voice",
+        "story": "Anna leaves her house. She walks to the bus stop. The street is quiet. She waits for the bus. A man stands near her. He says hello. Anna smiles. They talk a little. The bus comes. Anna gets on the bus. She sits down. She looks outside.",
         "words": [
-            {
-                "word": "leave",
-                "description": "ayrılmak"
-            },
-            {
-                "word": "wait",
-                "description": "beklemek"
-            },
-            {
-                "word": "bus stop",
-                "description": "otobüs durağı"
-            },
-            {
-                "word": "talk",
-                "description": "konuşmak"
-            },
-            {
-                "word": "sit",
-                "description": "oturmak"
-            }
+            { "word": "leave", "description": "ayrılmak" },
+            { "word": "house", "description": "ev" },
+            { "word": "bus stop", "description": "otobüs durağı" },
+            { "word": "street", "description": "sokak" },
+            { "word": "quiet", "description": "sessiz" },
+            { "word": "wait", "description": "beklemek" },
+            { "word": "stand", "description": "durmak, ayakta durmak" },
+            { "word": "talk", "description": "konuşmak" },
+            { "word": "get on", "description": "binmek (araca)" },
+            { "word": "sit", "description": "oturmak" }
         ]
     },
     {
@@ -65,28 +47,20 @@
         "category": "Home",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa13.png?alt=media&token=b36c8a2a-2c72-43ac-b8ad-b8611aae0de1",
         "imagePrompt": "A small white cat under a table in a cozy home, soft lighting, cute style, minimal illustration, 16:9",
-        "voice":"a1_3_voice","story": "Liam is at home. He hears a sound. He looks under the table. He sees a small white cat. It looks hungry. Liam brings milk. The cat drinks milk. It looks at Liam. Liam sits down. The cat sleeps. Liam feels happy.",
+        "voice": "a1_3_voice",
+        "story": "Liam is at home. He hears a sound. He looks under the table. He sees a small white cat. It looks hungry. Liam brings milk. The cat drinks milk. It looks at Liam. Liam sits down. The cat sleeps. Liam feels happy.",
         "words": [
-            {
-                "word": "hear",
-                "description": "duymak"
-            },
-            {
-                "word": "look",
-                "description": "bakmak"
-            },
-            {
-                "word": "hungry",
-                "description": "aç"
-            },
-            {
-                "word": "drink",
-                "description": "içmek"
-            },
-            {
-                "word": "sleep",
-                "description": "uyumak"
-            }
+            { "word": "hear", "description": "duymak" },
+            { "word": "sound", "description": "ses" },
+            { "word": "look", "description": "bakmak" },
+            { "word": "under", "description": "altında" },
+            { "word": "table", "description": "masa" },
+            { "word": "small", "description": "küçük" },
+            { "word": "hungry", "description": "aç" },
+            { "word": "bring", "description": "getirmek" },
+            { "word": "milk", "description": "süt" },
+            { "word": "drink", "description": "içmek" },
+            { "word": "sleep", "description": "uyumak" }
         ]
     },
     {
@@ -95,28 +69,20 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa14.png?alt=media&token=951637a6-9e53-45ca-b397-becf77deae4c",
         "imagePrompt": "A young woman entering a simple office building, nervous but smiling, clean minimal style, 16:9",
-        "voice":"a1_4_voice","story": "Emma wakes up early. Today is her first day. She feels nervous. She wears clean clothes. She looks in the mirror. She takes a deep breath. She leaves home. She walks to work. She sees the office. She meets her manager. He is kind. Emma smiles.",
+        "voice": "a1_4_voice",
+        "story": "Emma wakes up early. Today is her first day. She feels nervous. She wears clean clothes. She looks in the mirror. She takes a deep breath. She leaves home. She walks to work. She sees the office. She meets her manager. He is kind. Emma smiles.",
         "words": [
-            {
-                "word": "nervous",
-                "description": "gergin"
-            },
-            {
-                "word": "wear",
-                "description": "giymek"
-            },
-            {
-                "word": "mirror",
-                "description": "ayna"
-            },
-            {
-                "word": "meet",
-                "description": "tanışmak"
-            },
-            {
-                "word": "kind",
-                "description": "nazik"
-            }
+            { "word": "nervous", "description": "gergin" },
+            { "word": "first day", "description": "ilk gün" },
+            { "word": "wear", "description": "giymek" },
+            { "word": "clean", "description": "temiz" },
+            { "word": "clothes", "description": "kıyafetler" },
+            { "word": "mirror", "description": "ayna" },
+            { "word": "deep breath", "description": "derin nefes" },
+            { "word": "office", "description": "ofis" },
+            { "word": "meet", "description": "tanışmak" },
+            { "word": "manager", "description": "yönetici" },
+            { "word": "kind", "description": "nazik" }
         ]
     },
     {
@@ -125,28 +91,20 @@
         "category": "Weather",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa15.png?alt=media&token=ffd2b51f-1b78-4ed4-acac-9c9964564bec",
         "imagePrompt": "A rainy day scene with a man inside drinking tea, cozy atmosphere, soft colors, minimal style, 16:9",
-        "voice":"a1_5_voice","story": "Jack wakes up late. He hears rain. He looks outside. The sky is dark. People have umbrellas. Cars move slowly. Jack makes tea. He sits on the sofa. He reads a book. The rain is soft. He feels calm. He smiles.",
+        "voice": "a1_5_voice",
+        "story": "Jack wakes up late. He hears rain. He looks outside. The sky is dark. People have umbrellas. Cars move slowly. Jack makes tea. He sits on the sofa. He reads a book. The rain is soft. He feels calm. He smiles.",
         "words": [
-            {
-                "word": "rain",
-                "description": "yağmur"
-            },
-            {
-                "word": "dark",
-                "description": "karanlık"
-            },
-            {
-                "word": "umbrella",
-                "description": "şemsiye"
-            },
-            {
-                "word": "slow",
-                "description": "yavaş"
-            },
-            {
-                "word": "calm",
-                "description": "sakin"
-            }
+            { "word": "rain", "description": "yağmur" },
+            { "word": "late", "description": "geç" },
+            { "word": "sky", "description": "gökyüzü" },
+            { "word": "dark", "description": "karanlık" },
+            { "word": "umbrella", "description": "şemsiye" },
+            { "word": "slowly", "description": "yavaşça" },
+            { "word": "tea", "description": "çay" },
+            { "word": "sofa", "description": "kanepe" },
+            { "word": "book", "description": "kitap" },
+            { "word": "soft", "description": "yumuşak, hafif" },
+            { "word": "calm", "description": "sakin" }
         ]
     },
     {
@@ -155,28 +113,20 @@
         "category": "Shopping",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa21.png?alt=media&token=9bf4b644-a810-4a54-8ec9-f39016123d7d",
         "imagePrompt": "A young woman shopping in a small grocery store, picking fresh fruits, colorful minimal style, 16:9",
-        "voice":"a2_1_voice","story": "Sara goes to the store. She wants to buy apples. The apples look fresh. She picks three apples. She sees bananas and takes some. She goes to the counter. The cashier smiles. Sara pays the money. She leaves the store happily. She walks home slowly. She eats an apple and feels good. The sun is shining.",
+        "voice": "a2_1_voice",
+        "story": "Sara goes to the store. She wants to buy apples. The apples look fresh. She picks three apples. She sees bananas and takes some. She goes to the counter. The cashier smiles. Sara pays the money. She leaves the store happily. She walks home slowly. She eats an apple and feels good. The sun is shining.",
         "words": [
-            {
-                "word": "store",
-                "description": "mağaza"
-            },
-            {
-                "word": "buy",
-                "description": "satın almak"
-            },
-            {
-                "word": "fresh",
-                "description": "taze"
-            },
-            {
-                "word": "counter",
-                "description": "tezgah"
-            },
-            {
-                "word": "pay",
-                "description": "ödemek"
-            }
+            { "word": "store", "description": "mağaza" },
+            { "word": "buy", "description": "satın almak" },
+            { "word": "fresh", "description": "taze" },
+            { "word": "pick", "description": "seçip almak" },
+            { "word": "apple", "description": "elma" },
+            { "word": "banana", "description": "muz" },
+            { "word": "counter", "description": "tezgah" },
+            { "word": "cashier", "description": "kasiyer" },
+            { "word": "pay", "description": "ödemek" },
+            { "word": "happily", "description": "mutlu bir şekilde" },
+            { "word": "shining", "description": "parlıyor, güneş açık" }
         ]
     },
     {
@@ -185,28 +135,20 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa22.png?alt=media&token=8f704b4e-92cb-48b2-8864-214fcd6e8c96",
         "imagePrompt": "A bus station with people waiting, a bus arriving, soft bright style, minimal 16:9",
-        "voice":"a2_2_voice","story": "Tom and Anna go to the city. They take a bus. The bus is full. They find two seats. Tom looks out of the window. He sees many buildings. Anna reads a map. They talk about the places they will visit. The bus stops near a museum. They get off the bus. They walk together to the museum. It is very big and interesting.",
+        "voice": "a2_2_voice",
+        "story": "Tom and Anna go to the city. They take a bus. The bus is full. They find two seats. Tom looks out of the window. He sees many buildings. Anna reads a map. They talk about the places they will visit. The bus stops near a museum. They get off the bus. They walk together to the museum. It is very big and interesting.",
         "words": [
-            {
-                "word": "bus",
-                "description": "otobüs"
-            },
-            {
-                "word": "seat",
-                "description": "koltuk"
-            },
-            {
-                "word": "window",
-                "description": "pencere"
-            },
-            {
-                "word": "map",
-                "description": "harita"
-            },
-            {
-                "word": "museum",
-                "description": "müze"
-            }
+            { "word": "city", "description": "şehir" },
+            { "word": "bus", "description": "otobüs" },
+            { "word": "full", "description": "dolu" },
+            { "word": "seat", "description": "koltuk" },
+            { "word": "window", "description": "pencere" },
+            { "word": "building", "description": "bina" },
+            { "word": "map", "description": "harita" },
+            { "word": "visit", "description": "ziyaret etmek" },
+            { "word": "museum", "description": "müze" },
+            { "word": "get off", "description": "inmek (araçtan)" },
+            { "word": "interesting", "description": "ilginç" }
         ]
     },
     {
@@ -215,28 +157,22 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa23.png?alt=media&token=ff0fed9f-3834-43c1-b782-dabf9ef8d526",
         "imagePrompt": "A small kitchen with a man cooking pasta, colorful ingredients, minimal illustration, 16:9",
-        "voice":"a2_3_voice","story": "Liam cooks dinner at home. He cuts vegetables. He boils water. He adds pasta to the water. He waits for ten minutes. He mixes the vegetables. He adds salt and pepper. The pasta is ready. He puts the food on a plate. He sits at the table. He tastes the pasta. He smiles and enjoys his dinner.",
+        "voice": "a2_3_voice",
+        "story": "Liam cooks dinner at home. He cuts vegetables. He boils water. He adds pasta to the water. He waits for ten minutes. He mixes the vegetables. He adds salt and pepper. The pasta is ready. He puts the food on a plate. He sits at the table. He tastes the pasta. He smiles and enjoys his dinner.",
         "words": [
-            {
-                "word": "cook",
-                "description": "yemek yapmak"
-            },
-            {
-                "word": "vegetable",
-                "description": "sebze"
-            },
-            {
-                "word": "boil",
-                "description": "kaynatmak"
-            },
-            {
-                "word": "mix",
-                "description": "karıştırmak"
-            },
-            {
-                "word": "taste",
-                "description": "tatmak"
-            }
+            { "word": "cook", "description": "yemek yapmak" },
+            { "word": "dinner", "description": "akşam yemeği" },
+            { "word": "cut", "description": "kesmek" },
+            { "word": "vegetable", "description": "sebze" },
+            { "word": "boil", "description": "kaynatmak" },
+            { "word": "add", "description": "eklemek" },
+            { "word": "pasta", "description": "makarna" },
+            { "word": "mix", "description": "karıştırmak" },
+            { "word": "salt", "description": "tuz" },
+            { "word": "pepper", "description": "karabiber" },
+            { "word": "plate", "description": "tabak" },
+            { "word": "taste", "description": "tatmak" },
+            { "word": "enjoy", "description": "zevk almak" }
         ]
     },
     {
@@ -245,28 +181,21 @@
         "category": "Weather",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa24.png?alt=media&token=a72c9072-d120-4aee-85be-86fb87a06967",
         "imagePrompt": "A windy day with a girl walking with an umbrella, clouds in the sky, minimal style, 16:9",
-        "voice":"a2_4_voice","story": "Emma looks outside. The wind is strong. She takes her umbrella. She walks to school. The trees move in the wind. She sees leaves on the street. She holds her umbrella tightly. She meets her friend. They talk and laugh. They reach school together. The sky is grey. They go inside the classroom.",
+        "voice": "a2_4_voice",
+        "story": "Emma looks outside. The wind is strong. She takes her umbrella. She walks to school. The trees move in the wind. She sees leaves on the street. She holds her umbrella tightly. She meets her friend. They talk and laugh. They reach school together. The sky is grey. They go inside the classroom.",
         "words": [
-            {
-                "word": "wind",
-                "description": "rüzgar"
-            },
-            {
-                "word": "umbrella",
-                "description": "şemsiye"
-            },
-            {
-                "word": "tree",
-                "description": "ağaç"
-            },
-            {
-                "word": "leaf",
-                "description": "yaprak"
-            },
-            {
-                "word": "classroom",
-                "description": "sınıf"
-            }
+            { "word": "wind", "description": "rüzgar" },
+            { "word": "strong", "description": "güçlü" },
+            { "word": "umbrella", "description": "şemsiye" },
+            { "word": "school", "description": "okul" },
+            { "word": "tree", "description": "ağaç" },
+            { "word": "leaf", "description": "yaprak" },
+            { "word": "hold", "description": "tutmak" },
+            { "word": "tightly", "description": "sıkıca" },
+            { "word": "laugh", "description": "gülmek" },
+            { "word": "reach", "description": "ulaşmak, varmak" },
+            { "word": "grey", "description": "gri" },
+            { "word": "classroom", "description": "sınıf" }
         ]
     },
     {
@@ -275,28 +204,21 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa25.png?alt=media&token=b4d711f4-edf9-46ee-964d-f24a709c22b0",
         "imagePrompt": "A boy reading a book in a park, sitting on a bench, sunny day, minimal colorful style, 16:9",
-        "voice":"a2_5_voice","story": "Jack goes to the park. He finds a bench. He sits down. He takes a book from his bag. He reads carefully. He hears children playing. A dog runs near him. He smiles and looks around. He continues reading. He feels relaxed. The sun is warm. He enjoys the afternoon.",
+        "voice": "a2_5_voice",
+        "story": "Jack goes to the park. He finds a bench. He sits down. He takes a book from his bag. He reads carefully. He hears children playing. A dog runs near him. He smiles and looks around. He continues reading. He feels relaxed. The sun is warm. He enjoys the afternoon.",
         "words": [
-            {
-                "word": "bench",
-                "description": "bank"
-            },
-            {
-                "word": "bag",
-                "description": "çanta"
-            },
-            {
-                "word": "carefully",
-                "description": "dikkatlice"
-            },
-            {
-                "word": "relaxed",
-                "description": "rahatlamış"
-            },
-            {
-                "word": "enjoy",
-                "description": "zevk almak"
-            }
+            { "word": "bench", "description": "bank" },
+            { "word": "bag", "description": "çanta" },
+            { "word": "read", "description": "okumak" },
+            { "word": "carefully", "description": "dikkatlice" },
+            { "word": "children", "description": "çocuklar" },
+            { "word": "playing", "description": "oynuyor" },
+            { "word": "run", "description": "koşmak" },
+            { "word": "continue", "description": "devam etmek" },
+            { "word": "relaxed", "description": "rahatlamış" },
+            { "word": "warm", "description": "sıcak" },
+            { "word": "enjoy", "description": "zevk almak" },
+            { "word": "afternoon", "description": "öğleden sonra" }
         ]
     },
     {
@@ -305,28 +227,19 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb11.png?alt=media&token=fa1fb5bf-f80a-45b1-a271-c7844b091d70",
         "imagePrompt": "A young couple exploring a city, looking at maps and street signs, colorful minimal illustration, 16:9",
-        "voice":"b1_1_voice","story": "Tom and Anna are in a new city. They want to visit the museum. Tom looks at the map. Anna asks a passerby for directions. They walk through the busy streets. They see a small café. They decide to stop for coffee. The coffee is hot and tasty. They continue walking. They find the museum entrance. Tickets are expensive, but they buy them. Inside, they admire the paintings. They take photos to remember the day. They leave feeling happy and inspired.",
+        "voice": "b1_1_voice",
+        "story": "Tom and Anna are in a new city. They want to visit the museum. Tom looks at the map. Anna asks a passerby for directions. They walk through the busy streets. They see a small café. They decide to stop for coffee. The coffee is hot and tasty. They continue walking. They find the museum entrance. Tickets are expensive, but they buy them. Inside, they admire the paintings. They take photos to remember the day. They leave feeling happy and inspired.",
         "words": [
-            {
-                "word": "explore",
-                "description": "keşfetmek"
-            },
-            {
-                "word": "passerby",
-                "description": "yoldan geçen kişi"
-            },
-            {
-                "word": "busy",
-                "description": "kalabalık"
-            },
-            {
-                "word": "admire",
-                "description": "hayran olmak"
-            },
-            {
-                "word": "inspired",
-                "description": "ilham almış"
-            }
+            { "word": "explore", "description": "keşfetmek" },
+            { "word": "passerby", "description": "yoldan geçen kişi" },
+            { "word": "directions", "description": "yön tarifi" },
+            { "word": "busy", "description": "kalabalık" },
+            { "word": "decide", "description": "karar vermek" },
+            { "word": "entrance", "description": "giriş" },
+            { "word": "expensive", "description": "pahalı" },
+            { "word": "admire", "description": "hayran olmak" },
+            { "word": "painting", "description": "tablo, resim" },
+            { "word": "inspired", "description": "ilham almış" }
         ]
     },
     {
@@ -335,28 +248,20 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb12.png?alt=media&token=4130ce18-a1f9-4aed-abcd-bab15c470923",
         "imagePrompt": "A young woman in an office working at her desk, computer and papers around, minimal style, 16:9",
-        "voice":"b1_2_voice","story": "Emma starts her workday early. She checks her emails. There are many messages from clients. She writes answers carefully. Her colleague comes to her desk. They discuss a new project. They make a plan for the week. Emma feels a little tired. She takes a short coffee break. She talks with her friend about the weekend. They laugh and feel relaxed. Emma returns to work with energy. She completes the tasks for the morning. She feels proud of her work.",
+        "voice": "b1_2_voice",
+        "story": "Emma starts her workday early. She checks her emails. There are many messages from clients. She writes answers carefully. Her colleague comes to her desk. They discuss a new project. They make a plan for the week. Emma feels a little tired. She takes a short coffee break. She talks with her friend about the weekend. They laugh and feel relaxed. Emma returns to work with energy. She completes the tasks for the morning. She feels proud of her work.",
         "words": [
-            {
-                "word": "client",
-                "description": "müşteri"
-            },
-            {
-                "word": "colleague",
-                "description": "iş arkadaşı"
-            },
-            {
-                "word": "plan",
-                "description": "plan yapmak"
-            },
-            {
-                "word": "break",
-                "description": "mola"
-            },
-            {
-                "word": "task",
-                "description": "görev"
-            }
+            { "word": "workday", "description": "iş günü" },
+            { "word": "check", "description": "kontrol etmek" },
+            { "word": "client", "description": "müşteri" },
+            { "word": "colleague", "description": "iş arkadaşı" },
+            { "word": "discuss", "description": "tartışmak, konuşmak" },
+            { "word": "plan", "description": "plan yapmak" },
+            { "word": "break", "description": "mola" },
+            { "word": "energy", "description": "enerji" },
+            { "word": "complete", "description": "tamamlamak" },
+            { "word": "task", "description": "görev" },
+            { "word": "proud", "description": "gururlu" }
         ]
     },
     {
@@ -365,28 +270,18 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb13.png?alt=media&token=3c51e3aa-3100-4b1f-9b06-9b979c16175c",
         "imagePrompt": "A boy and a dog in the park playing frisbee, sunny day, minimal colorful illustration, 16:9",
-        "voice":"b1_3_voice","story": "Jack goes to the park with his dog. He throws a frisbee. The dog runs fast and catches it. Jack laughs loudly. Other people watch them. A child comes near and asks to play. Jack shares the frisbee with the child. They play together happily. The dog sits under a tree, tired. Jack gives him water. He takes photos of the park. He feels calm and joyful. The sun starts to set. He walks home with the dog.",
+        "voice": "b1_3_voice",
+        "story": "Jack goes to the park with his dog. He throws a frisbee. The dog runs fast and catches it. Jack laughs loudly. Other people watch them. A child comes near and asks to play. Jack shares the frisbee with the child. They play together happily. The dog sits under a tree, tired. Jack gives him water. He takes photos of the park. He feels calm and joyful. The sun starts to set. He walks home with the dog.",
         "words": [
-            {
-                "word": "frisbee",
-                "description": "frizbi"
-            },
-            {
-                "word": "catch",
-                "description": "yakalamak"
-            },
-            {
-                "word": "tired",
-                "description": "yorgun"
-            },
-            {
-                "word": "joyful",
-                "description": "mutlu, neşeli"
-            },
-            {
-                "word": "share",
-                "description": "paylaşmak"
-            }
+            { "word": "throw", "description": "atmak, fırlatmak" },
+            { "word": "frisbee", "description": "frizbi" },
+            { "word": "catch", "description": "yakalamak" },
+            { "word": "loudly", "description": "yüksek sesle" },
+            { "word": "share", "description": "paylaşmak" },
+            { "word": "tired", "description": "yorgun" },
+            { "word": "joyful", "description": "mutlu, neşeli" },
+            { "word": "set", "description": "batmak (güneş için)" },
+            { "word": "calm", "description": "sakin" }
         ]
     },
     {
@@ -395,28 +290,20 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb14.png?alt=media&token=247d8637-3746-4b1f-bb42-7c483a8f9bb4",
         "imagePrompt": "A chef preparing pasta in a small kitchen, vegetables and utensils around, minimal style, 16:9",
-        "voice":"b1_4_voice","story": "Liam wants to cook dinner for his friends. He chooses a pasta recipe. He cuts tomatoes and onions. He boils water for the pasta. He adds salt and oil. He cooks the pasta carefully. He fries the vegetables. He mixes everything in a pan. He tastes the food and adds spices. He sets the table neatly. His friends arrive and smell the delicious meal. They eat and compliment Liam. He feels proud and happy. After dinner, they clean the kitchen together.",
+        "voice": "b1_4_voice",
+        "story": "Liam wants to cook dinner for his friends. He chooses a pasta recipe. He cuts tomatoes and onions. He boils water for the pasta. He adds salt and oil. He cooks the pasta carefully. He fries the vegetables. He mixes everything in a pan. He tastes the food and adds spices. He sets the table neatly. His friends arrive and smell the delicious meal. They eat and compliment Liam. He feels proud and happy. After dinner, they clean the kitchen together.",
         "words": [
-            {
-                "word": "recipe",
-                "description": "tarif"
-            },
-            {
-                "word": "carefully",
-                "description": "dikkatlice"
-            },
-            {
-                "word": "spice",
-                "description": "baharat"
-            },
-            {
-                "word": "compliment",
-                "description": "övmek"
-            },
-            {
-                "word": "clean",
-                "description": "temizlemek"
-            }
+            { "word": "recipe", "description": "tarif" },
+            { "word": "tomato", "description": "domates" },
+            { "word": "onion", "description": "soğan" },
+            { "word": "oil", "description": "yağ" },
+            { "word": "fry", "description": "kavurmak, kızartmak" },
+            { "word": "pan", "description": "tava" },
+            { "word": "spice", "description": "baharat" },
+            { "word": "neatly", "description": "düzenli bir şekilde" },
+            { "word": "delicious", "description": "lezzetli" },
+            { "word": "compliment", "description": "övmek" },
+            { "word": "carefully", "description": "dikkatlice" }
         ]
     },
     {
@@ -425,28 +312,20 @@
         "category": "Daily Life",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb15.png?alt=media&token=219f2256-9468-4239-9bca-95554104c57c",
         "imagePrompt": "A young man jogging in a park early in the morning, sunrise in the background, minimal colorful style, 16:9",
-        "voice":"b1_5_voice","story": "David wakes up at six. He puts on his jogging shoes. He drinks some water. He goes to the park. He starts running slowly. He sees other people jogging. He waves to a friend. He increases his speed a little. He feels his heart beating fast. He runs for thirty minutes. He stretches after finishing. He drinks water again. He feels healthy and energetic. He returns home to take a shower.",
+        "voice": "b1_5_voice",
+        "story": "David wakes up at six. He puts on his jogging shoes. He drinks some water. He goes to the park. He starts running slowly. He sees other people jogging. He waves to a friend. He increases his speed a little. He feels his heart beating fast. He runs for thirty minutes. He stretches after finishing. He drinks water again. He feels healthy and energetic. He returns home to take a shower.",
         "words": [
-            {
-                "word": "jogging",
-                "description": "koşu"
-            },
-            {
-                "word": "stretch",
-                "description": "gerinmek"
-            },
-            {
-                "word": "energy",
-                "description": "enerji"
-            },
-            {
-                "word": "fast",
-                "description": "hızlı"
-            },
-            {
-                "word": "friend",
-                "description": "arkadaş"
-            }
+            { "word": "jogging", "description": "koşu" },
+            { "word": "shoes", "description": "ayakkabılar" },
+            { "word": "wave", "description": "el sallamak" },
+            { "word": "increase", "description": "artırmak" },
+            { "word": "speed", "description": "hız" },
+            { "word": "heart", "description": "kalp" },
+            { "word": "beat", "description": "atmak (kalp için)" },
+            { "word": "stretch", "description": "gerinmek" },
+            { "word": "healthy", "description": "sağlıklı" },
+            { "word": "energetic", "description": "enerjik" },
+            { "word": "shower", "description": "duş" }
         ]
     },
     {
@@ -455,28 +334,22 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb21.png?alt=media&token=e10863c1-7cbe-4d0e-93b7-24afffd69b34",
         "imagePrompt": "A young couple exploring a European city, looking at a map, historic buildings in the background, colorful minimal illustration, 16:9",
-        "voice":"b2_1_voice","story": "Tom and Anna have arrived in Paris for a short vacation. They have booked a small hotel near the city center. This morning, they decided to visit the Louvre Museum. Tom checked the tickets online while Anna packed some snacks. They walked through the busy streets and admired the architecture. Anna noticed a small café and suggested they stop for coffee. While sipping their drinks, they planned the afternoon route. They took photos of the streets and old buildings. The museum was crowded, but they enjoyed every exhibition. They discussed their favorite paintings and artists. After leaving the museum, they walked along the Seine River. The sunset reflected beautifully on the water. They felt inspired by the city and promised to return. On their way back, they stopped at a bakery to buy croissants. Finally, they returned to the hotel feeling satisfied and happy.",
+        "voice": "b2_1_voice",
+        "story": "Tom and Anna have arrived in Paris for a short vacation. They have booked a small hotel near the city center. This morning, they decided to visit the Louvre Museum. Tom checked the tickets online while Anna packed some snacks. They walked through the busy streets and admired the architecture. Anna noticed a small café and suggested they stop for coffee. While sipping their drinks, they planned the afternoon route. They took photos of the streets and old buildings. The museum was crowded, but they enjoyed every exhibition. They discussed their favorite paintings and artists. After leaving the museum, they walked along the Seine River. The sunset reflected beautifully on the water. They felt inspired by the city and promised to return. On their way back, they stopped at a bakery to buy croissants. Finally, they returned to the hotel feeling satisfied and happy.",
         "words": [
-            {
-                "word": "vacation",
-                "description": "tatil"
-            },
-            {
-                "word": "historic",
-                "description": "tarihi"
-            },
-            {
-                "word": "admire",
-                "description": "hayran olmak"
-            },
-            {
-                "word": "sip",
-                "description": "yudumlamak"
-            },
-            {
-                "word": "promised",
-                "description": "söz vermek"
-            }
+            { "word": "vacation", "description": "tatil" },
+            { "word": "booked", "description": "rezervasyon yapmak" },
+            { "word": "architecture", "description": "mimari" },
+            { "word": "notice", "description": "fark etmek" },
+            { "word": "suggest", "description": "önermek" },
+            { "word": "sip", "description": "yudumlamak" },
+            { "word": "route", "description": "güzergah" },
+            { "word": "crowded", "description": "kalabalık" },
+            { "word": "exhibition", "description": "sergi" },
+            { "word": "admire", "description": "hayran olmak" },
+            { "word": "reflect", "description": "yansımak" },
+            { "word": "promised", "description": "söz vermek" },
+            { "word": "satisfied", "description": "memnun, tatmin olmuş" }
         ]
     },
     {
@@ -485,28 +358,21 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb22.png?alt=media&token=1a0593c6-b7f8-4e54-b06c-28bb79a9815a",
         "imagePrompt": "A modern office with a young man giving a presentation to colleagues, minimal colorful style, 16:9",
-        "voice":"b2_2_voice","story": "Emma has been working at the company for three years. Today she needs to give an important presentation to the management team. She has prepared her slides carefully and rehearsed several times. Her colleagues arrive early to support her. She starts speaking confidently, explaining the project progress. Some managers ask questions about the budget and deadlines. Emma answers them clearly and professionally. After the presentation, her manager praises her work. She feels relieved and proud of her performance. During lunch, she talks with colleagues about new ideas. They plan a team-building event next week. Emma realizes how much she enjoys working in this team. She returns to her desk, motivated to complete the remaining tasks. She sends a few emails and organizes her schedule for tomorrow. By the end of the day, she feels accomplished and energized.",
+        "voice": "b2_2_voice",
+        "story": "Emma has been working at the company for three years. Today she needs to give an important presentation to the management team. She has prepared her slides carefully and rehearsed several times. Her colleagues arrive early to support her. She starts speaking confidently, explaining the project progress. Some managers ask questions about the budget and deadlines. Emma answers them clearly and professionally. After the presentation, her manager praises her work. She feels relieved and proud of her performance. During lunch, she talks with colleagues about new ideas. They plan a team-building event next week. Emma realizes how much she enjoys working in this team. She returns to her desk, motivated to complete the remaining tasks. She sends a few emails and organizes her schedule for tomorrow. By the end of the day, she feels accomplished and energized.",
         "words": [
-            {
-                "word": "presentation",
-                "description": "sunum"
-            },
-            {
-                "word": "management",
-                "description": "yönetim"
-            },
-            {
-                "word": "confidently",
-                "description": "kendinden emin bir şekilde"
-            },
-            {
-                "word": "deadline",
-                "description": "son teslim tarihi"
-            },
-            {
-                "word": "accomplished",
-                "description": "başarılı, tamamlanmış"
-            }
+            { "word": "presentation", "description": "sunum" },
+            { "word": "management", "description": "yönetim" },
+            { "word": "rehearse", "description": "prova yapmak" },
+            { "word": "confidently", "description": "kendinden emin bir şekilde" },
+            { "word": "budget", "description": "bütçe" },
+            { "word": "deadline", "description": "son teslim tarihi" },
+            { "word": "praise", "description": "övmek, takdir etmek" },
+            { "word": "relieved", "description": "rahatlamış" },
+            { "word": "motivated", "description": "motive olmuş" },
+            { "word": "remaining", "description": "kalan" },
+            { "word": "accomplished", "description": "başarılı, tamamlanmış" },
+            { "word": "schedule", "description": "program, takvim" }
         ]
     },
     {
@@ -515,28 +381,21 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb23.png?alt=media&token=dc43c3ec-2cad-42fe-a4d6-15aeeb9d8518",
         "imagePrompt": "A young woman hiking on a mountain trail, breathtaking view, sunrise in the background, minimal illustration, 16:9",
-        "voice":"b2_3_voice","story": "Sophie enjoys hiking during weekends. She planned a trail in the nearby mountains. The weather was perfect, sunny with a light breeze. She packed her backpack with water and snacks. During the climb, she met other hikers and exchanged greetings. She admired the view of the valley from the top. She took photos to remember the beautiful scenery. While resting, she drank water and ate a sandwich. She thought about returning soon with her friends. The descent was slower because the path was steep. She reached the base feeling satisfied and healthy. Later, she shared her experience with her family. They were impressed by the photos and stories. Sophie realized how important nature and exercise are for her. She promised to make hiking a weekly habit.",
+        "voice": "b2_3_voice",
+        "story": "Sophie enjoys hiking during weekends. She planned a trail in the nearby mountains. The weather was perfect, sunny with a light breeze. She packed her backpack with water and snacks. During the climb, she met other hikers and exchanged greetings. She admired the view of the valley from the top. She took photos to remember the beautiful scenery. While resting, she drank water and ate a sandwich. She thought about returning soon with her friends. The descent was slower because the path was steep. She reached the base feeling satisfied and healthy. Later, she shared her experience with her family. They were impressed by the photos and stories. Sophie realized how important nature and exercise are for her. She promised to make hiking a weekly habit.",
         "words": [
-            {
-                "word": "hike",
-                "description": "doğa yürüyüşü yapmak"
-            },
-            {
-                "word": "breeze",
-                "description": "hafif rüzgar"
-            },
-            {
-                "word": "admired",
-                "description": "hayranlıkla baktı"
-            },
-            {
-                "word": "descend",
-                "description": "inmek"
-            },
-            {
-                "word": "promised",
-                "description": "söz vermek"
-            }
+            { "word": "hike", "description": "doğa yürüyüşü yapmak" },
+            { "word": "trail", "description": "patika, yol" },
+            { "word": "breeze", "description": "hafif rüzgar" },
+            { "word": "backpack", "description": "sırt çantası" },
+            { "word": "climb", "description": "tırmanmak" },
+            { "word": "exchange", "description": "değiş tokuş etmek" },
+            { "word": "admired", "description": "hayranlıkla baktı" },
+            { "word": "scenery", "description": "manzara" },
+            { "word": "descent", "description": "iniş" },
+            { "word": "steep", "description": "dik, sarp" },
+            { "word": "impressed", "description": "etkilenmiş" },
+            { "word": "promised", "description": "söz vermek" }
         ]
     },
     {
@@ -545,28 +404,20 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb24.png?alt=media&token=4dd47a2d-35c1-41f7-ab2b-9e5328639397",
         "imagePrompt": "A group of friends cooking together in a modern kitchen, colorful ingredients, minimal illustration, 16:9",
-        "voice":"b2_4_voice","story": "Liam invited his friends over for a dinner party. They decided to cook Italian food together. He prepared the pasta while others chopped vegetables. They discussed the recipe and divided the tasks. While cooking, they listened to music and laughed a lot. Liam added spices carefully to the sauce. The aroma filled the kitchen and made everyone hungry. Finally, they served the pasta and salads on the table. They enjoyed eating and complimented each other's efforts. After dinner, they cleaned the kitchen together. They shared stories and talked about future gatherings. Liam felt grateful for having such supportive friends. He realized that cooking together strengthens friendships. They planned another cooking evening next month. Everyone left happy and satisfied.",
+        "voice": "b2_4_voice",
+        "story": "Liam invited his friends over for a dinner party. They decided to cook Italian food together. He prepared the pasta while others chopped vegetables. They discussed the recipe and divided the tasks. While cooking, they listened to music and laughed a lot. Liam added spices carefully to the sauce. The aroma filled the kitchen and made everyone hungry. Finally, they served the pasta and salads on the table. They enjoyed eating and complimented each other's efforts. After dinner, they cleaned the kitchen together. They shared stories and talked about future gatherings. Liam felt grateful for having such supportive friends. He realized that cooking together strengthens friendships. They planned another cooking evening next month. Everyone left happy and satisfied.",
         "words": [
-            {
-                "word": "invite",
-                "description": "davet etmek"
-            },
-            {
-                "word": "divide",
-                "description": "bölmek, ayırmak"
-            },
-            {
-                "word": "aroma",
-                "description": "koku"
-            },
-            {
-                "word": "compliment",
-                "description": "övmek"
-            },
-            {
-                "word": "supportive",
-                "description": "destekleyici"
-            }
+            { "word": "invite", "description": "davet etmek" },
+            { "word": "chop", "description": "doğramak" },
+            { "word": "divide", "description": "bölmek, ayırmak" },
+            { "word": "sauce", "description": "sos" },
+            { "word": "aroma", "description": "koku" },
+            { "word": "serve", "description": "servis yapmak, sunmak" },
+            { "word": "compliment", "description": "övmek" },
+            { "word": "gathering", "description": "toplanma, buluşma" },
+            { "word": "grateful", "description": "minnettar" },
+            { "word": "supportive", "description": "destekleyici" },
+            { "word": "strengthen", "description": "güçlendirmek" }
         ]
     },
     {
@@ -575,28 +426,21 @@
         "category": "Daily Life",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb25.png?alt=media&token=cd39a4c5-0263-4f72-8d2c-893d12af8cf9",
         "imagePrompt": "A young man jogging and stretching in a city park, sunrise, soft minimal colors, 16:9",
-        "voice":"b2_5_voice","story": "David has been following a morning jogging routine for months. He wakes up at six and prepares his sports clothes. Before leaving, he drinks a glass of water. He jogs through the park, greeting other runners. He feels the fresh air and enjoys the sunrise. During the run, he stretches occasionally to avoid injury. After thirty minutes, he completes his run and cools down. He drinks water again and checks his smartwatch for progress. He notices that his stamina has improved significantly. Feeling energized, he plans a light breakfast. He reflects on how exercise positively affects his mood. He takes a quick shower and gets ready for work. The morning routine gives him a sense of discipline and focus. David feels motivated to maintain this healthy habit daily. He leaves the house feeling prepared for the day ahead.",
+        "voice": "b2_5_voice",
+        "story": "David has been following a morning jogging routine for months. He wakes up at six and prepares his sports clothes. Before leaving, he drinks a glass of water. He jogs through the park, greeting other runners. He feels the fresh air and enjoys the sunrise. During the run, he stretches occasionally to avoid injury. After thirty minutes, he completes his run and cools down. He drinks water again and checks his smartwatch for progress. He notices that his stamina has improved significantly. Feeling energized, he plans a light breakfast. He reflects on how exercise positively affects his mood. He takes a quick shower and gets ready for work. The morning routine gives him a sense of discipline and focus. David feels motivated to maintain this healthy habit daily. He leaves the house feeling prepared for the day ahead.",
         "words": [
-            {
-                "word": "stamina",
-                "description": "dayanıklılık"
-            },
-            {
-                "word": "injury",
-                "description": "yaralanma"
-            },
-            {
-                "word": "cool down",
-                "description": "soğuma hareketleri yapmak"
-            },
-            {
-                "word": "routine",
-                "description": "rutini"
-            },
-            {
-                "word": "discipline",
-                "description": "disiplin"
-            }
+            { "word": "routine", "description": "rutin" },
+            { "word": "greet", "description": "selamlamak" },
+            { "word": "occasionally", "description": "ara sıra" },
+            { "word": "injury", "description": "yaralanma" },
+            { "word": "cool down", "description": "soğuma hareketleri yapmak" },
+            { "word": "smartwatch", "description": "akıllı saat" },
+            { "word": "stamina", "description": "dayanıklılık" },
+            { "word": "significantly", "description": "önemli ölçüde" },
+            { "word": "reflect", "description": "düşünmek, yansıtmak" },
+            { "word": "discipline", "description": "disiplin" },
+            { "word": "maintain", "description": "sürdürmek" },
+            { "word": "prepared", "description": "hazır" }
         ]
     },
     {
@@ -605,28 +449,22 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc11.png?alt=media&token=17339301-8dee-4a7d-affc-55794588b0a7",
         "imagePrompt": "A young couple exploring historic streets in Europe, with cobblestones and old buildings, warm sunset, detailed minimal style, 16:9",
-        "voice":"c1_1_voice","story": "Tom and Anna had planned their trip to Europe for months, carefully researching the best cities to visit. Upon arriving in Rome, they were immediately captivated by the historic architecture and bustling streets. They had booked a small boutique hotel near the city center, which turned out to be charming and comfortable. On their first day, they decided to explore the Colosseum and the surrounding ancient ruins. They joined a guided tour, where the guide provided fascinating stories about the gladiators and emperors. After the tour, they wandered through the local markets, tasting fresh pastries and observing the vibrant street life. Tom suggested visiting a nearby café, where they sampled authentic espresso and chatted about their plans. Later, they took a long walk along the Tiber River, admiring the reflections of the sunset on the water. They discussed which museums to visit the following day and made a flexible itinerary. Despite being tired from the long day, they felt inspired by the culture and history surrounding them. They returned to their hotel, reflecting on how traveling broadens perspectives and deepens understanding. Before sleeping, they reviewed photos and notes from the day, feeling grateful for the experience. The evening ended with a promise to wake early the next day and explore more of the hidden gems. Tom wrote a short diary entry, while Anna sketched the view from their balcony. They drifted to sleep, excited about the adventures that awaited them. The trip was shaping up to be a perfect blend of learning, enjoyment, and cultural immersion. Each moment felt carefully crafted and unforgettable, leaving lasting memories. They realized that traveling together strengthened their bond and mutual curiosity. By the end of the week, they would have stories to share for years to come. This journey reminded them that exploration is not just about places, but also about perspectives.",
+        "voice": "c1_1_voice",
+        "story": "Tom and Anna had planned their trip to Europe for months, carefully researching the best cities to visit. Upon arriving in Rome, they were immediately captivated by the historic architecture and bustling streets. They had booked a small boutique hotel near the city center, which turned out to be charming and comfortable. On their first day, they decided to explore the Colosseum and the surrounding ancient ruins. They joined a guided tour, where the guide provided fascinating stories about the gladiators and emperors. After the tour, they wandered through the local markets, tasting fresh pastries and observing the vibrant street life. Tom suggested visiting a nearby café, where they sampled authentic espresso and chatted about their plans. Later, they took a long walk along the Tiber River, admiring the reflections of the sunset on the water. They discussed which museums to visit the following day and made a flexible itinerary. Despite being tired from the long day, they felt inspired by the culture and history surrounding them. They returned to their hotel, reflecting on how traveling broadens perspectives and deepens understanding. Before sleeping, they reviewed photos and notes from the day, feeling grateful for the experience. The evening ended with a promise to wake early the next day and explore more of the hidden gems. Tom wrote a short diary entry, while Anna sketched the view from their balcony. They drifted to sleep, excited about the adventures that awaited them. The trip was shaping up to be a perfect blend of learning, enjoyment, and cultural immersion. Each moment felt carefully crafted and unforgettable, leaving lasting memories. They realized that traveling together strengthened their bond and mutual curiosity. By the end of the week, they would have stories to share for years to come. This journey reminded them that exploration is not just about places, but also about perspectives.",
         "words": [
-            {
-                "word": "captivated",
-                "description": "büyülenmiş, etkilenmiş"
-            },
-            {
-                "word": "boutique",
-                "description": "şirin ve küçük otel"
-            },
-            {
-                "word": "fascinating",
-                "description": "büyüleyici"
-            },
-            {
-                "word": "immersed",
-                "description": "dalmak, içine girmek"
-            },
-            {
-                "word": "perspectives",
-                "description": "bakış açıları"
-            }
+            { "word": "captivated", "description": "büyülenmiş, etkilenmiş" },
+            { "word": "bustling", "description": "hareketli, cıvıl cıvıl" },
+            { "word": "boutique", "description": "şirin ve küçük otel" },
+            { "word": "ancient", "description": "antik, eski" },
+            { "word": "ruins", "description": "harabeler" },
+            { "word": "fascinating", "description": "büyüleyici" },
+            { "word": "wander", "description": "dolaşmak, gezinmek" },
+            { "word": "vibrant", "description": "canlı, enerjik" },
+            { "word": "sample", "description": "tatmak, denemek" },
+            { "word": "itinerary", "description": "seyahat planı" },
+            { "word": "immersion", "description": "tam dalma, içine girme" },
+            { "word": "perspectives", "description": "bakış açıları" },
+            { "word": "mutual", "description": "karşılıklı" }
         ]
     },
     {
@@ -635,28 +473,21 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc12.png?alt=media&token=885066b2-6ba9-40a1-9858-2481970ba4df",
         "imagePrompt": "A modern office with employees collaborating on a complex project, laptops and charts visible, minimal professional style, 16:9",
-        "voice":"c1_2_voice","story": "Emma has been leading her team on a challenging project for several months, coordinating tasks across multiple departments. The project involves developing a new product line that requires both creativity and rigorous planning. She convened a morning meeting to assess progress and identify potential obstacles. Colleagues reported on their sections, highlighting achievements as well as concerns about tight deadlines. Emma listened attentively, offering suggestions and encouraging collaborative problem-solving. After the meeting, she drafted an updated schedule and shared it with the team. Throughout the day, she responded to urgent emails, attended virtual conferences, and reviewed detailed reports. She realized that effective leadership requires balancing delegation with hands-on involvement. During lunch, she reflected on the importance of maintaining team morale, especially during high-pressure periods. She proposed a brainstorming session in the afternoon to foster creativity and idea-sharing. By late afternoon, several new solutions had been suggested, and the team felt motivated. Emma documented the progress and sent a summary to the management team. She also prepared notes for a presentation to stakeholders, emphasizing the project’s strategic value. Despite the intensity of the day, Emma felt a sense of accomplishment and professional growth. She left the office, thinking about ways to further enhance productivity and collaboration. She knew that the project’s success depended not only on planning, but also on inspiring and empowering the team. Returning home, she reflected on lessons learned and strategies for future projects. She felt confident that with continued effort, the team could overcome any challenges. Emma understood that leadership is as much about vision as it is about execution.",
+        "voice": "c1_2_voice",
+        "story": "Emma has been leading her team on a challenging project for several months, coordinating tasks across multiple departments. The project involves developing a new product line that requires both creativity and rigorous planning. She convened a morning meeting to assess progress and identify potential obstacles. Colleagues reported on their sections, highlighting achievements as well as concerns about tight deadlines. Emma listened attentively, offering suggestions and encouraging collaborative problem-solving. After the meeting, she drafted an updated schedule and shared it with the team. Throughout the day, she responded to urgent emails, attended virtual conferences, and reviewed detailed reports. She realized that effective leadership requires balancing delegation with hands-on involvement. During lunch, she reflected on the importance of maintaining team morale, especially during high-pressure periods. She proposed a brainstorming session in the afternoon to foster creativity and idea-sharing. By late afternoon, several new solutions had been suggested, and the team felt motivated. Emma documented the progress and sent a summary to the management team. She also prepared notes for a presentation to stakeholders, emphasizing the project's strategic value. Despite the intensity of the day, Emma felt a sense of accomplishment and professional growth. She left the office, thinking about ways to further enhance productivity and collaboration.",
         "words": [
-            {
-                "word": "coordinating",
-                "description": "koordinasyon yapmak"
-            },
-            {
-                "word": "obstacles",
-                "description": "engel"
-            },
-            {
-                "word": "delegation",
-                "description": "görev dağılımı"
-            },
-            {
-                "word": "brainstorming",
-                "description": "beyin fırtınası"
-            },
-            {
-                "word": "stakeholders",
-                "description": "paydaşlar"
-            }
+            { "word": "coordinating", "description": "koordinasyon yapmak" },
+            { "word": "rigorous", "description": "titiz, sıkı" },
+            { "word": "convene", "description": "toplamak, bir araya getirmek" },
+            { "word": "obstacles", "description": "engeller" },
+            { "word": "attentively", "description": "dikkatle, özenle" },
+            { "word": "delegation", "description": "görev dağılımı" },
+            { "word": "morale", "description": "moral, motivasyon" },
+            { "word": "brainstorming", "description": "beyin fırtınası" },
+            { "word": "foster", "description": "teşvik etmek, beslemek" },
+            { "word": "stakeholders", "description": "paydaşlar" },
+            { "word": "emphasize", "description": "vurgulamak" },
+            { "word": "productivity", "description": "verimlilik" }
         ]
     },
     {
@@ -665,28 +496,22 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc13.png?alt=media&token=2d54e378-c503-4d37-851e-f7522935bfaf",
         "imagePrompt": "A woman hiking in a dense forest, morning sunlight through trees, minimal illustration, 16:9",
-        "voice":"c1_3_voice","story": "Sophie enjoys hiking as a way to escape the stresses of daily life. She planned a challenging route through a dense forest known for its scenic beauty. Carrying a backpack with essentials, she set out early in the morning. The trail was steep in places, but the fresh air and chirping birds made it invigorating. She met a few fellow hikers and exchanged brief conversations about the trail conditions. At the peak, Sophie paused to take photographs and admire the panoramic view. She reflected on how nature can foster both mental clarity and physical endurance. During the descent, she carefully navigated rocky paths and slippery sections. She encountered a small stream and rested briefly by its flowing water. Her journal notes included sketches and observations about flora and fauna. Reaching the trailhead, she felt a deep sense of satisfaction and accomplishment. The experience reminded her that personal growth often comes from challenging oneself. Later, she shared her adventures online, hoping to inspire others to explore the outdoors. She made a mental note to try an even longer trail next month. Despite the fatigue, Sophie felt rejuvenated and mentally refreshed. Hiking, she realized, was not merely exercise, but a holistic experience. It strengthened both body and mind while providing valuable moments of introspection. She concluded that outdoor adventures were essential for maintaining balance in life. The forest had offered not only a challenge, but also serenity and perspective.",
+        "voice": "c1_3_voice",
+        "story": "Sophie enjoys hiking as a way to escape the stresses of daily life. She planned a challenging route through a dense forest known for its scenic beauty. Carrying a backpack with essentials, she set out early in the morning. The trail was steep in places, but the fresh air and chirping birds made it invigorating. She met a few fellow hikers and exchanged brief conversations about the trail conditions. At the peak, Sophie paused to take photographs and admire the panoramic view. She reflected on how nature can foster both mental clarity and physical endurance. During the descent, she carefully navigated rocky paths and slippery sections. She encountered a small stream and rested briefly by its flowing water. Her journal notes included sketches and observations about flora and fauna. Reaching the trailhead, she felt a deep sense of satisfaction and accomplishment. The experience reminded her that personal growth often comes from challenging oneself. Later, she shared her adventures online, hoping to inspire others to explore the outdoors. She made a mental note to try an even longer trail next month. Despite the fatigue, Sophie felt rejuvenated and mentally refreshed.",
         "words": [
-            {
-                "word": "invigorating",
-                "description": "canlandırıcı"
-            },
-            {
-                "word": "flora",
-                "description": "bitki örtüsü"
-            },
-            {
-                "word": "fauna",
-                "description": "hayvanlar"
-            },
-            {
-                "word": "rejuvenated",
-                "description": "yenilenmiş, tazelenmiş"
-            },
-            {
-                "word": "introspection",
-                "description": "iç gözlem"
-            }
+            { "word": "dense", "description": "yoğun, sık" },
+            { "word": "invigorating", "description": "canlandırıcı" },
+            { "word": "fellow", "description": "birlikte olan, hemcins" },
+            { "word": "panoramic", "description": "panoramik, geniş manzaralı" },
+            { "word": "endurance", "description": "dayanıklılık" },
+            { "word": "navigate", "description": "yol bulmak, yönlenmek" },
+            { "word": "slippery", "description": "kaygan" },
+            { "word": "encounter", "description": "karşılaşmak" },
+            { "word": "flora", "description": "bitki örtüsü" },
+            { "word": "fauna", "description": "hayvanlar" },
+            { "word": "rejuvenated", "description": "yenilenmiş, tazelenmiş" },
+            { "word": "introspection", "description": "iç gözlem" },
+            { "word": "fatigue", "description": "yorgunluk" }
         ]
     },
     {
@@ -695,28 +520,21 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc14.png?alt=media&token=ce35423e-50c7-43fa-b13d-a3e7d967ff2d",
         "imagePrompt": "A professional kitchen with chefs preparing a gourmet meal together, high detail, 16:9",
-        "voice":"c1_4_voice","story": "Liam invited a group of friends to a gourmet dinner party at his apartment. They planned to cook multiple courses together, sharing responsibilities. Each friend chose a dish according to their skills and preferences. The kitchen was filled with the aroma of spices, herbs, and freshly baked bread. Liam coordinated the timing, ensuring each course was served perfectly. They tasted each dish and offered constructive feedback to improve flavors. During the meal, conversations flowed from cooking techniques to travel experiences. They discussed the cultural origins of certain ingredients and recipes. After dinner, everyone participated in cleaning and organizing the kitchen. Liam reflected on how cooking together not only creates food, but strengthens relationships. They ended the evening by planning another culinary session next month. The experience reinforced the idea that shared activities foster connection and joy. Liam felt grateful for friends who were both enthusiastic and skilled. The dinner had been a combination of learning, laughter, and delicious flavors. He noted some ideas for improving the next gathering and experimenting with new recipes. By the end of the night, everyone left with satisfaction and inspiration. Liam realized that food could be a powerful medium for building memories. This event reminded him of the importance of collaboration and creativity. Cooking, he concluded, is as much about people as it is about ingredients.",
+        "voice": "c1_4_voice",
+        "story": "Liam invited a group of friends to a gourmet dinner party at his apartment. They planned to cook multiple courses together, sharing responsibilities. Each friend chose a dish according to their skills and preferences. The kitchen was filled with the aroma of spices, herbs, and freshly baked bread. Liam coordinated the timing, ensuring each course was served perfectly. They tasted each dish and offered constructive feedback to improve flavors. During the meal, conversations flowed from cooking techniques to travel experiences. They discussed the cultural origins of certain ingredients and recipes. After dinner, everyone participated in cleaning and organizing the kitchen. Liam reflected on how cooking together not only creates food, but strengthens relationships. They ended the evening by planning another culinary session next month. The experience reinforced the idea that shared activities foster connection and joy.",
         "words": [
-            {
-                "word": "gourmet",
-                "description": "gurme, kaliteli yemek"
-            },
-            {
-                "word": "constructive",
-                "description": "yapıcı"
-            },
-            {
-                "word": "ingredients",
-                "description": "malzemeler"
-            },
-            {
-                "word": "collaboration",
-                "description": "iş birliği"
-            },
-            {
-                "word": "medium",
-                "description": "araç, vesile"
-            }
+            { "word": "gourmet", "description": "gurme, kaliteli yemek" },
+            { "word": "courses", "description": "yemek servisleri, tabaklar" },
+            { "word": "preferences", "description": "tercihler" },
+            { "word": "herbs", "description": "otlar, baharatlar" },
+            { "word": "constructive", "description": "yapıcı" },
+            { "word": "feedback", "description": "geri bildirim" },
+            { "word": "technique", "description": "teknik" },
+            { "word": "ingredients", "description": "malzemeler" },
+            { "word": "culinary", "description": "mutfak sanatına ait" },
+            { "word": "reinforce", "description": "pekiştirmek, güçlendirmek" },
+            { "word": "collaboration", "description": "iş birliği" },
+            { "word": "medium", "description": "araç, vesile" }
         ]
     },
     {
@@ -725,115 +543,137 @@
         "category": "Daily Life",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc15.png?alt=media&token=10404e57-f8e0-4b09-aab4-e8da6c0e1085",
         "imagePrompt": "A young man following a detailed morning fitness routine, city park with sunrise, minimal style, 16:9",
-        "voice":"c1_5_voice","story": "David has developed a comprehensive morning fitness routine over the past year. He begins by stretching his muscles to prevent injury and improve flexibility. Then he engages in a 5-kilometer jog, maintaining a consistent pace throughout. During the run, he monitors his heart rate and breathing patterns carefully. After completing the jog, he performs a series of strength exercises targeting various muscle groups. He cools down with deep breathing and light stretches. David reflects on his progress, noting improvements in endurance and stamina. He keeps a fitness journal where he records times, distances, and performance metrics. The routine not only strengthens his body, but also enhances mental clarity and focus. He drinks water and prepares a protein-rich breakfast to aid recovery. David schedules his day around the energy and motivation gained from this practice. He finds that consistent effort leads to noticeable results and personal satisfaction. Sometimes he invites friends to join, fostering both accountability and social connection. He experiments with new exercises to challenge himself and prevent monotony. By adhering to this routine, David has achieved a balance between physical health and productivity. He believes that discipline, reflection, and gradual progress are key to long-term success. This structured approach has made fitness an integral and enjoyable part of his life. He concludes that the mind-body connection is strengthened through consistent practice. Ultimately, David feels empowered and prepared for the challenges of each day.",
+        "voice": "c1_5_voice",
+        "story": "David has developed a comprehensive morning fitness routine over the past year. He begins by stretching his muscles to prevent injury and improve flexibility. Then he engages in a 5-kilometer jog, maintaining a consistent pace throughout. During the run, he monitors his heart rate and breathing patterns carefully. After completing the jog, he performs a series of strength exercises targeting various muscle groups. He cools down with deep breathing and light stretches. David reflects on his progress, noting improvements in endurance and stamina. He keeps a fitness journal where he records times, distances, and performance metrics. The routine not only strengthens his body, but also enhances mental clarity and focus. He drinks water and prepares a protein-rich breakfast to aid recovery. David schedules his day around the energy and motivation gained from this practice. He finds that consistent effort leads to noticeable results and personal satisfaction.",
         "words": [
-            {
-                "word": "endurance",
-                "description": "dayanıklılık"
-            },
-            {
-                "word": "metrics",
-                "description": "ölçümler, performans verileri"
-            },
-            {
-                "word": "accountability",
-                "description": "sorumluluk, hesap verebilirlik"
-            },
-            {
-                "word": "monotony",
-                "description": "monotonluk"
-            },
-            {
-                "word": "empowered",
-                "description": "güçlenmiş, kendine güvenen"
-            }
+            { "word": "comprehensive", "description": "kapsamlı" },
+            { "word": "flexibility", "description": "esneklik" },
+            { "word": "consistent", "description": "tutarlı, düzenli" },
+            { "word": "pace", "description": "tempo, hız" },
+            { "word": "monitor", "description": "izlemek, takip etmek" },
+            { "word": "breathing", "description": "nefes alma" },
+            { "word": "endurance", "description": "dayanıklılık" },
+            { "word": "stamina", "description": "güç, kondisyon" },
+            { "word": "metrics", "description": "ölçümler, performans verileri" },
+            { "word": "accountability", "description": "sorumluluk, hesap verebilirlik" },
+            { "word": "monotony", "description": "monotonluk" },
+            { "word": "empowered", "description": "güçlenmiş, kendine güvenen" }
         ]
     },
-{
-      "id": "c2_1",
-      "level": "C2",
-      "category": "Travel",
-            "url":"https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc21.png?alt=media&token=8e12010d-dc12-41a5-b991-2e6abc65c1a3",
-
-      "imagePrompt": "A young couple exploring an ancient European city at twilight, intricate architecture and street lamps, highly detailed minimal illustration, 16:9",
-      "story": "Tom and Anna had meticulously planned their European adventure, researching both renowned landmarks and hidden gems. Upon arriving in Florence, they were immediately captivated by the juxtaposition of Renaissance architecture and modern street life. They checked into a quaint boutique hotel, whose interior design reflected the city’s historic charm. Their first excursion involved wandering through the Uffizi Gallery, marveling at masterpieces that spanned centuries. While admiring Botticelli’s paintings, Anna discussed with Tom the nuances of light and perspective. They later ventured into the bustling local market, sampling fresh delicacies and interacting with friendly vendors. Tom suggested they visit a quiet café tucked away in a side street, which offered both excellent espresso and an inspiring view. As they sipped their drinks, they debated which museums to prioritize over the next few days. Walking along the Arno River at dusk, they observed reflections of the city lights on the water, creating a magical atmosphere. They paused to photograph the Ponte Vecchio and noted ideas for their travel journal. Despite the long day, they felt invigorated, aware that each experience enriched their understanding of culture and history. Later, they returned to their hotel, reflecting on the intangible value of immersive travel. Before retiring for the night, they wrote detailed entries in their journal, capturing sensory impressions and personal reflections. They planned to rise early the next day to explore lesser-known neighborhoods, aiming to capture authentic city life. Their evenings were reserved for quiet contemplation, reviewing photos, and discussing the philosophical aspects of their journey. The trip was not merely a sightseeing tour, but an exploration of human creativity, resilience, and cultural expression. Each street and alley seemed to tell a story, intertwining past and present in a way that was both instructive and inspiring. Tom and Anna realized that such experiences foster empathy and broadened perspectives in ways that few other activities could. By the end of the week, they would have accumulated not only photographs but profound insights into human artistry and history. This journey reminded them that true travel extends beyond observation, encompassing reflection, appreciation, and personal growth.",
-          "voice":"c2_1_voice",  
-    "words": [
-        { "word": "juxtaposition", "description": "yan yana koyma, zıtlık" },
-        { "word": "nuances", "description": "ince ayrıntılar" },
-        { "word": "invigorated", "description": "canlanmış, enerji dolu" },
-        { "word": "intangible", "description": "soyut, maddi olmayan" },
-        { "word": "empathy", "description": "empati" }
-      ]
+    {
+        "id": "c2_1",
+        "level": "C2",
+        "category": "Travel",
+        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc21.png?alt=media&token=8e12010d-dc12-41a5-b991-2e6abc65c1a3",
+        "imagePrompt": "A young couple exploring an ancient European city at twilight, intricate architecture and street lamps, highly detailed minimal illustration, 16:9",
+        "voice": "c2_1_voice",
+        "story": "Tom and Anna had meticulously planned their European adventure, researching both renowned landmarks and hidden gems. Upon arriving in Florence, they were immediately captivated by the juxtaposition of Renaissance architecture and modern street life. They checked into a quaint boutique hotel, whose interior design reflected the city's historic charm. Their first excursion involved wandering through the Uffizi Gallery, marveling at masterpieces that spanned centuries. While admiring Botticelli's paintings, Anna discussed with Tom the nuances of light and perspective. They later ventured into the bustling local market, sampling fresh delicacies and interacting with friendly vendors. Tom suggested they visit a quiet café tucked away in a side street, which offered both excellent espresso and an inspiring view. As they sipped their drinks, they debated which museums to prioritize over the next few days. Walking along the Arno River at dusk, they observed reflections of the city lights on the water, creating a magical atmosphere. They paused to photograph the Ponte Vecchio and noted ideas for their travel journal. Despite the long day, they felt invigorated, aware that each experience enriched their understanding of culture and history. Later, they returned to their hotel, reflecting on the intangible value of immersive travel. Before retiring for the night, they wrote detailed entries in their journal, capturing sensory impressions and personal reflections. They planned to rise early the next day to explore lesser-known neighborhoods, aiming to capture authentic city life. Their evenings were reserved for quiet contemplation, reviewing photos, and discussing the philosophical aspects of their journey.",
+        "words": [
+            { "word": "meticulously", "description": "titizlikle, özenle" },
+            { "word": "renowned", "description": "ünlü, tanınmış" },
+            { "word": "juxtaposition", "description": "yan yana koyma, zıtlık" },
+            { "word": "quaint", "description": "sevimli, eski moda güzel" },
+            { "word": "excursion", "description": "gezi, kısa seyahat" },
+            { "word": "marvel", "description": "hayret etmek, şaşırmak" },
+            { "word": "nuances", "description": "ince ayrıntılar" },
+            { "word": "venture", "description": "cesurca gitmek, yola çıkmak" },
+            { "word": "invigorated", "description": "canlanmış, enerji dolu" },
+            { "word": "intangible", "description": "soyut, maddi olmayan" },
+            { "word": "contemplation", "description": "derin düşünce, tefekkür" },
+            { "word": "empathy", "description": "empati" },
+            { "word": "philosophical", "description": "felsefi" }
+        ]
     },
     {
-      "id": "c2_2",
-      "level": "C2",
-      "category": "Work",
-                "url":"https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc22.png?alt=media&token=29b543ba-0c52-4fdd-8bde-3d7f82d89f5b",
-
-      "imagePrompt": "A diverse corporate team brainstorming in a modern office, charts, laptops, and whiteboards visible, minimal professional style, 16:9",
-      "story": "Emma had been tasked with overseeing a high-stakes international project, requiring meticulous coordination across multiple time zones. She convened a virtual meeting with colleagues in London, New York, and Tokyo, ensuring that all stakeholders were aligned on objectives. Each participant presented updates, highlighting both accomplishments and potential risks. Emma facilitated the discussion, encouraging constructive debate while steering the conversation toward actionable outcomes. She synthesized complex information, translating it into concise directives and timelines for her team. Throughout the day, she balanced responding to urgent queries with strategic planning for the next project phase. During a brief pause, she reflected on the leadership skills required to inspire a remote and culturally diverse team. She emphasized accountability, creativity, and transparency as core principles. Emma drafted a comprehensive report, outlining milestones achieved and lessons learned, which was circulated to executives. Later, she organized a virtual brainstorming session to solicit innovative solutions to unforeseen challenges. The team generated multiple feasible strategies, which Emma evaluated based on feasibility and impact. She recognized the importance of recognizing individual contributions while fostering collaboration. By evening, the project roadmap was updated, risks mitigated, and the team morale remained high. Emma left the office feeling both exhausted and fulfilled, cognizant of the complex interplay between planning, leadership, and execution. She documented insights for future projects, emphasizing adaptability, strategic foresight, and stakeholder engagement. The experience reinforced her understanding that effective leadership involves both vision and meticulous attention to detail. She realized that managing complexity successfully requires empathy, decisive action, and continuous reflection. Emma concluded that high-performing teams thrive not solely on technical expertise, but on trust, communication, and shared purpose. Her ability to balance multiple priorities simultaneously had been tested and strengthened. Ultimately, she felt confident in her capacity to lead complex projects to successful outcomes.",
-            "voice":"c2_2_voice",
-
+        "id": "c2_2",
+        "level": "C2",
+        "category": "Work",
+        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc22.png?alt=media&token=29b543ba-0c52-4fdd-8bde-3d7f82d89f5b",
+        "imagePrompt": "A diverse corporate team brainstorming in a modern office, charts, laptops, and whiteboards visible, minimal professional style, 16:9",
+        "voice": "c2_2_voice",
+        "story": "Emma had been tasked with overseeing a high-stakes international project, requiring meticulous coordination across multiple time zones. She convened a virtual meeting with colleagues in London, New York, and Tokyo, ensuring that all stakeholders were aligned on objectives. Each participant presented updates, highlighting both accomplishments and potential risks. Emma facilitated the discussion, encouraging constructive debate while steering the conversation toward actionable outcomes. She synthesized complex information, translating it into concise directives and timelines for her team. Throughout the day, she balanced responding to urgent queries with strategic planning for the next project phase. During a brief pause, she reflected on the leadership skills required to inspire a remote and culturally diverse team. She emphasized accountability, creativity, and transparency as core principles. Emma drafted a comprehensive report, outlining milestones achieved and lessons learned, which was circulated to executives. Later, she organized a virtual brainstorming session to solicit innovative solutions to unforeseen challenges. The team generated multiple feasible strategies, which Emma evaluated based on feasibility and impact. She recognized the importance of recognizing individual contributions while fostering collaboration.",
         "words": [
-        { "word": "stakeholders", "description": "paydaşlar" },
-        { "word": "feasibility", "description": "yapılabilirlik" },
-        { "word": "cognizant", "description": "farkında, bilincinde" },
-        { "word": "mitigated", "description": "azaltmak, hafifletmek" },
-        { "word": "foresight", "description": "öngörü" }
-      ]
+            { "word": "overseeing", "description": "denetlemek, gözetmek" },
+            { "word": "meticulous", "description": "titiz, dikkatli" },
+            { "word": "stakeholders", "description": "paydaşlar" },
+            { "word": "facilitate", "description": "kolaylaştırmak" },
+            { "word": "synthesize", "description": "sentezlemek, birleştirmek" },
+            { "word": "directives", "description": "yönergeler, talimatlar" },
+            { "word": "accountability", "description": "hesap verebilirlik" },
+            { "word": "transparency", "description": "şeffaflık" },
+            { "word": "milestones", "description": "kilometre taşları, önemli aşamalar" },
+            { "word": "feasibility", "description": "yapılabilirlik" },
+            { "word": "cognizant", "description": "farkında, bilincinde" },
+            { "word": "mitigated", "description": "azaltıldı, hafifletildi" },
+            { "word": "foresight", "description": "öngörü" }
+        ]
     },
     {
-      "id": "c2_3",
-      "level": "C2",
-      "category": "Leisure",
-                "url":"https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc23.png?alt=media&token=e1ccf627-47fc-4099-90c3-b8cf044e78ed",
-
-      "imagePrompt": "A woman hiking through a dense, misty forest with sunlight piercing through, highly detailed minimal illustration, 16:9",
-      "story": "Sophie had long regarded hiking as both a physical challenge and a meditative practice. She embarked on a particularly demanding trail, famed for its rugged terrain and panoramic vistas. Carrying her backpack with provisions, she navigated the steep inclines with measured steps. The forest was alive with sounds of birdsong and rustling leaves, creating an immersive sensory experience. Along the way, she encountered fellow hikers, exchanging insights and trail tips. Reaching a vantage point, Sophie paused to sketch the landscape and record observations in her journal. She contemplated the interconnectedness of nature, considering ecological dynamics and human impact. The descent required careful attention to avoid slipping on moss-covered rocks and uneven ground. She crossed a small stream, noting how sunlight refracted through droplets, producing a fleeting rainbow. Her reflections included both scientific curiosity and personal introspection. Upon returning to the trailhead, she felt a profound sense of accomplishment and mental clarity. The hike had tested her endurance, focus, and adaptability in ways that were both challenging and rewarding. Sophie shared her experiences with an online community, hoping to inspire awareness of conservation and outdoor education. She planned future excursions that would gradually increase in difficulty and scope. Despite fatigue, she felt rejuvenated, with renewed appreciation for the subtleties of the natural world. Hiking had become a conduit for personal growth, resilience, and holistic well-being. She realized that such immersive experiences cultivate mindfulness, perspective, and emotional intelligence. Nature provided lessons in patience, observation, and the impermanence of all things. Each journey reinforced her belief that exploration is an essential component of a reflective and enriched life. Sophie concluded that outdoor adventure fosters not only physical stamina but intellectual and emotional depth.",
-            "voice":"c2_3_voice",
-
+        "id": "c2_3",
+        "level": "C2",
+        "category": "Leisure",
+        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc23.png?alt=media&token=e1ccf627-47fc-4099-90c3-b8cf044e78ed",
+        "imagePrompt": "A woman hiking through a dense, misty forest with sunlight piercing through, highly detailed minimal illustration, 16:9",
+        "voice": "c2_3_voice",
+        "story": "Sophie had long regarded hiking as both a physical challenge and a meditative practice. She embarked on a particularly demanding trail, famed for its rugged terrain and panoramic vistas. Carrying her backpack with provisions, she navigated the steep inclines with measured steps. The forest was alive with sounds of birdsong and rustling leaves, creating an immersive sensory experience. Along the way, she encountered fellow hikers, exchanging insights and trail tips. Reaching a vantage point, Sophie paused to sketch the landscape and record observations in her journal. She contemplated the interconnectedness of nature, considering ecological dynamics and human impact. The descent required careful attention to avoid slipping on moss-covered rocks and uneven ground. She crossed a small stream, noting how sunlight refracted through droplets, producing a fleeting rainbow. Her reflections included both scientific curiosity and personal introspection. Upon returning to the trailhead, she felt a profound sense of accomplishment and mental clarity. The hike had tested her endurance, focus, and adaptability in ways that were both challenging and rewarding.",
         "words": [
-        { "word": "immersive", "description": "daldırıcı, içine alan" },
-        { "word": "interconnectedness", "description": "karşılıklı bağlılık" },
-        { "word": "adaptability", "description": "uyum yeteneği" },
-        { "word": "rejuvenated", "description": "yenilenmiş" },
-        { "word": "conduit", "description": "araç, vasıta" }
-      ]
+            { "word": "meditative", "description": "meditasyon gibi, düşündürücü" },
+            { "word": "rugged", "description": "engebeli, sarp" },
+            { "word": "vistas", "description": "manzaralar, görünümler" },
+            { "word": "provisions", "description": "erzak, ihtiyaçlar" },
+            { "word": "immersive", "description": "daldırıcı, içine alan" },
+            { "word": "vantage point", "description": "avantajlı bakış noktası" },
+            { "word": "interconnectedness", "description": "karşılıklı bağlılık" },
+            { "word": "refract", "description": "kırmak, sapıtmak (ışık için)" },
+            { "word": "fleeting", "description": "geçici, kısa süreli" },
+            { "word": "adaptability", "description": "uyum yeteneği" },
+            { "word": "rejuvenated", "description": "yenilenmiş" },
+            { "word": "conduit", "description": "araç, vasıta" }
+        ]
     },
     {
-      "id": "c2_4",
-      "level": "C2",
-      "category": "Food",
-                "url":"https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc24.png?alt=media&token=0244cedf-1e29-4379-8f01-76f43f6fc266",
-
-      "imagePrompt": "A gourmet kitchen with chefs preparing intricate dishes, elegant plating, minimal professional illustration, 16:9",
-      "story": "Liam orchestrated a complex multi-course dinner for a small gathering of friends and culinary enthusiasts. They collaborated in preparing each dish, exchanging techniques and experimenting with flavors. The kitchen was filled with an intricate symphony of aromas, from sautéed herbs to freshly baked bread. Liam ensured that timing and presentation were meticulously coordinated, reflecting the artistry of the cuisine. Each friend contributed insights into regional cooking methods and ingredient selection. Tasting and refining dishes became a shared endeavor, fostering both creativity and camaraderie. Throughout the evening, discussions ranged from culinary science to cultural gastronomy. Post-dinner, they collectively organized the kitchen and documented recipes for future reference. Liam reflected on how collaborative cooking nurtures both technical skill and interpersonal relationships. The experience highlighted that food serves as a medium for cultural expression and social bonding. Planning subsequent culinary sessions, they considered introducing more challenging techniques and ingredients. The evening underscored the importance of meticulous preparation, attention to detail, and iterative improvement. Conversations were enriched by personal anecdotes and professional experiences. By the end of the gathering, all participants felt inspired and motivated to experiment further. Liam noted lessons for refining both flavor profiles and plating aesthetics. They acknowledged that shared culinary experiences can create lasting memories and deepen friendships. Cooking, in this context, became an art form intertwined with social engagement. The process demonstrated how collaboration and reflection elevate both skill and enjoyment. Ultimately, Liam appreciated that gastronomy is not merely sustenance, but a conduit for connection and creativity. He concluded that such immersive experiences reinforce cultural awareness and personal growth.",
-            "voice":"c2_4_voice",
-
+        "id": "c2_4",
+        "level": "C2",
+        "category": "Food",
+        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc24.png?alt=media&token=0244cedf-1e29-4379-8f01-76f43f6fc266",
+        "imagePrompt": "A gourmet kitchen with chefs preparing intricate dishes, elegant plating, minimal professional illustration, 16:9",
+        "voice": "c2_4_voice",
+        "story": "Liam orchestrated a complex multi-course dinner for a small gathering of friends and culinary enthusiasts. They collaborated in preparing each dish, exchanging techniques and experimenting with flavors. The kitchen was filled with an intricate symphony of aromas, from sautéed herbs to freshly baked bread. Liam ensured that timing and presentation were meticulously coordinated, reflecting the artistry of the cuisine. Each friend contributed insights into regional cooking methods and ingredient selection. Tasting and refining dishes became a shared endeavor, fostering both creativity and camaraderie. Throughout the evening, discussions ranged from culinary science to cultural gastronomy. Post-dinner, they collectively organized the kitchen and documented recipes for future reference. Liam reflected on how collaborative cooking nurtures both technical skill and interpersonal relationships. The experience highlighted that food serves as a medium for cultural expression and social bonding.",
         "words": [
-        { "word": "orchestrated", "description": "düzenlemek, organize etmek" },
-        { "word": "camaraderie", "description": "arkadaşlık, dostluk" },
-        { "word": "iterative", "description": "tekrarlamalı, aşamalı geliştirme" },
-        { "word": "gastronomy", "description": "yemek sanatı" },
-        { "word": "immersive", "description": "daldırıcı, içine alan" }
-      ]
+            { "word": "orchestrated", "description": "düzenlemek, organize etmek" },
+            { "word": "culinary", "description": "mutfak sanatına ait" },
+            { "word": "intricate", "description": "karmaşık, girift" },
+            { "word": "sautéed", "description": "hafifçe kavurulmuş" },
+            { "word": "artistry", "description": "sanatsal ustalık" },
+            { "word": "refining", "description": "geliştirmek, iyileştirmek" },
+            { "word": "endeavor", "description": "çaba, girişim" },
+            { "word": "camaraderie", "description": "arkadaşlık, dostluk" },
+            { "word": "gastronomy", "description": "yemek sanatı" },
+            { "word": "iterative", "description": "tekrarlamalı, aşamalı geliştirme" },
+            { "word": "immersive", "description": "daldırıcı, içine alan" }
+        ]
     },
     {
-      "id": "c2_5",
-      "level": "C2",
-      "category": "Daily Life",
-        "url":"https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc25.png?alt=media&token=27103341-3d2a-4cfe-a450-9a6f4dabe201",
-      "imagePrompt": "A young man performing an advanced morning fitness and mindfulness routine in a city park at sunrise, minimal style, 16:9",
-      "story": "David has cultivated an advanced morning routine that integrates physical fitness, mindfulness, and reflective journaling. He begins with dynamic stretching exercises to optimize mobility and prevent injuries. Following this, he engages in a high-intensity interval training session, carefully monitoring heart rate and exertion levels. During cooldown, he practices deep breathing and guided meditation, centering attention on the present moment. He maintains a detailed journal recording performance metrics, emotional states, and cognitive reflections. David finds that this combination of physical exertion and mental focus enhances both resilience and cognitive clarity. He experiments with different routines and adjusts intensity based on progress and feedback. Occasionally, he invites friends to join, fostering accountability and shared motivation. Breakfast is carefully balanced, incorporating macro- and micronutrients to support recovery and energy levels. Throughout the day, he notes improvements in concentration, mood, and overall productivity. He integrates mindfulness techniques into work and study, enhancing decision-making and stress management. David reflects on the iterative nature of habit formation, recognizing incremental progress as essential. He evaluates long-term goals alongside daily performance, ensuring alignment with personal development objectives. The morning practice serves as a foundation for discipline, resilience, and sustained motivation. He considers adjustments to optimize outcomes, reflecting on both successes and areas for improvement. By integrating physical and cognitive practices, he achieves a holistic approach to wellness. David recognizes that consistent effort and reflection are key to mastery and self-actualization. The routine exemplifies a balanced synergy between body, mind, and personal growth. Ultimately, he experiences empowerment, clarity, and preparedness to navigate complex daily challenges. This regimen demonstrates the profound impact of disciplined, mindful, and integrated practice on life quality.",
-      "voice":"c2_5_voice",
+        "id": "c2_5",
+        "level": "C2",
+        "category": "Daily Life",
+        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc25.png?alt=media&token=27103341-3d2a-4cfe-a450-9a6f4dabe201",
+        "imagePrompt": "A young man performing an advanced morning fitness and mindfulness routine in a city park at sunrise, minimal style, 16:9",
+        "voice": "c2_5_voice",
+        "story": "David has cultivated an advanced morning routine that integrates physical fitness, mindfulness, and reflective journaling. He begins with dynamic stretching exercises to optimize mobility and prevent injuries. Following this, he engages in a high-intensity interval training session, carefully monitoring heart rate and exertion levels. During cooldown, he practices deep breathing and guided meditation, centering attention on the present moment. He maintains a detailed journal recording performance metrics, emotional states, and cognitive reflections. David finds that this combination of physical exertion and mental focus enhances both resilience and cognitive clarity. He experiments with different routines and adjusts intensity based on progress and feedback. Occasionally, he invites friends to join, fostering accountability and shared motivation. Breakfast is carefully balanced, incorporating macro- and micronutrients to support recovery and energy levels. Throughout the day, he notes improvements in concentration, mood, and overall productivity.",
         "words": [
-        { "word": "exertion", "description": "çaba, güç sarf etme" },
-        { "word": "cognitive", "description": "bilişsel, zihinsel" },
-        { "word": "iterative", "description": "tekrarlamalı, aşamalı geliştirme" },
-        { "word": "self-actualization", "description": "kendini gerçekleştirme" },
-        { "word": "synergy", "description": "sinergi, birlikte güç oluşturma" }
-      ]
+            { "word": "cultivated", "description": "geliştirmiş, oluşturmuş" },
+            { "word": "integrate", "description": "bütünleştirmek, entegre etmek" },
+            { "word": "mindfulness", "description": "bilinçli farkındalık" },
+            { "word": "dynamic", "description": "dinamik, hareketli" },
+            { "word": "optimize", "description": "en iyi hale getirmek" },
+            { "word": "exertion", "description": "çaba, güç sarf etme" },
+            { "word": "cognitive", "description": "bilişsel, zihinsel" },
+            { "word": "resilience", "description": "dayanıklılık, toparlanma gücü" },
+            { "word": "iterative", "description": "tekrarlamalı, aşamalı geliştirme" },
+            { "word": "micronutrients", "description": "mikro besinler" },
+            { "word": "self-actualization", "description": "kendini gerçekleştirme" },
+            { "word": "synergy", "description": "sinerji, birlikte güç oluşturma" }
+        ]
     }
 ]
