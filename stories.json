@@ -155,7 +155,7 @@
         "category": "Shopping",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa21.png?alt=media&token=9bf4b644-a810-4a54-8ec9-f39016123d7d",
         "imagePrompt": "A young woman shopping in a small grocery store, picking fresh fruits, colorful minimal style, 16:9",
-        "voice":"a2_1_voice","story": "Sara goes to the store.\nShe wants to buy apples.\nThe apples look fresh.\nShe picks three apples.\nShe sees bananas and takes some.\nShe goes to the counter.\nThe cashier smiles.\nSara pays the money.\nShe leaves the store happily.\nShe walks home slowly.\nShe eats an apple and feels good.\nThe sun is shining.",
+        "voice":"a2_1_voice","story": "Sara goes to the store. She wants to buy apples. The apples look fresh. She picks three apples. She sees bananas and takes some. She goes to the counter. The cashier smiles. Sara pays the money. She leaves the store happily. She walks home slowly. She eats an apple and feels good. The sun is shining.",
         "words": [
             {
                 "word": "store",
@@ -185,7 +185,7 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa22.png?alt=media&token=8f704b4e-92cb-48b2-8864-214fcd6e8c96",
         "imagePrompt": "A bus station with people waiting, a bus arriving, soft bright style, minimal 16:9",
-        "voice":"a2_2_voice","story": "Tom and Anna go to the city.\nThey take a bus.\nThe bus is full.\nThey find two seats.\nTom looks out of the window.\nHe sees many buildings.\nAnna reads a map.\nThey talk about the places they will visit.\nThe bus stops near a museum.\nThey get off the bus.\nThey walk together to the museum.\nIt is very big and interesting.",
+        "voice":"a2_2_voice","story": "Tom and Anna go to the city. They take a bus. The bus is full. They find two seats. Tom looks out of the window. He sees many buildings. Anna reads a map. They talk about the places they will visit. The bus stops near a museum. They get off the bus. They walk together to the museum. It is very big and interesting.",
         "words": [
             {
                 "word": "bus",
@@ -215,7 +215,7 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa23.png?alt=media&token=ff0fed9f-3834-43c1-b782-dabf9ef8d526",
         "imagePrompt": "A small kitchen with a man cooking pasta, colorful ingredients, minimal illustration, 16:9",
-        "voice":"a2_3_voice","story": "Liam cooks dinner at home.\nHe cuts vegetables.\nHe boils water.\nHe adds pasta to the water.\nHe waits for ten minutes.\nHe mixes the vegetables.\nHe adds salt and pepper.\nThe pasta is ready.\nHe puts the food on a plate.\nHe sits at the table.\nHe tastes the pasta.\nHe smiles and enjoys his dinner.",
+        "voice":"a2_3_voice","story": "Liam cooks dinner at home. He cuts vegetables. He boils water. He adds pasta to the water. He waits for ten minutes. He mixes the vegetables. He adds salt and pepper. The pasta is ready. He puts the food on a plate. He sits at the table. He tastes the pasta. He smiles and enjoys his dinner.",
         "words": [
             {
                 "word": "cook",
@@ -245,7 +245,7 @@
         "category": "Weather",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa24.png?alt=media&token=a72c9072-d120-4aee-85be-86fb87a06967",
         "imagePrompt": "A windy day with a girl walking with an umbrella, clouds in the sky, minimal style, 16:9",
-        "voice":"a2_4_voice","story": "Emma looks outside.\nThe wind is strong.\nShe takes her umbrella.\nShe walks to school.\nThe trees move in the wind.\nShe sees leaves on the street.\nShe holds her umbrella tightly.\nShe meets her friend.\nThey talk and laugh.\nThey reach school together.\nThe sky is grey.\nThey go inside the classroom.",
+        "voice":"a2_4_voice","story": "Emma looks outside. The wind is strong. She takes her umbrella. She walks to school. The trees move in the wind. She sees leaves on the street. She holds her umbrella tightly. She meets her friend. They talk and laugh. They reach school together. The sky is grey. They go inside the classroom.",
         "words": [
             {
                 "word": "wind",
@@ -275,7 +275,7 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fa25.png?alt=media&token=b4d711f4-edf9-46ee-964d-f24a709c22b0",
         "imagePrompt": "A boy reading a book in a park, sitting on a bench, sunny day, minimal colorful style, 16:9",
-        "voice":"a2_5_voice","story": "Jack goes to the park.\nHe finds a bench.\nHe sits down.\nHe takes a book from his bag.\nHe reads carefully.\nHe hears children playing.\nA dog runs near him.\nHe smiles and looks around.\nHe continues reading.\nHe feels relaxed.\nThe sun is warm.\nHe enjoys the afternoon.",
+        "voice":"a2_5_voice","story": "Jack goes to the park. He finds a bench. He sits down. He takes a book from his bag. He reads carefully. He hears children playing. A dog runs near him. He smiles and looks around. He continues reading. He feels relaxed. The sun is warm. He enjoys the afternoon.",
         "words": [
             {
                 "word": "bench",
@@ -305,7 +305,7 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb11.png?alt=media&token=fa1fb5bf-f80a-45b1-a271-c7844b091d70",
         "imagePrompt": "A young couple exploring a city, looking at maps and street signs, colorful minimal illustration, 16:9",
-        "voice":"b1_1_voice","story": "Tom and Anna are in a new city.\nThey want to visit the museum.\nTom looks at the map.\nAnna asks a passerby for directions.\nThey walk through the busy streets.\nThey see a small café.\nThey decide to stop for coffee.\nThe coffee is hot and tasty.\nThey continue walking.\nThey find the museum entrance.\nTickets are expensive, but they buy them.\nInside, they admire the paintings.\nThey take photos to remember the day.\nThey leave feeling happy and inspired.",
+        "voice":"b1_1_voice","story": "Tom and Anna are in a new city. They want to visit the museum. Tom looks at the map. Anna asks a passerby for directions. They walk through the busy streets. They see a small café. They decide to stop for coffee. The coffee is hot and tasty. They continue walking. They find the museum entrance. Tickets are expensive, but they buy them. Inside, they admire the paintings. They take photos to remember the day. They leave feeling happy and inspired.",
         "words": [
             {
                 "word": "explore",
@@ -335,7 +335,7 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb12.png?alt=media&token=4130ce18-a1f9-4aed-abcd-bab15c470923",
         "imagePrompt": "A young woman in an office working at her desk, computer and papers around, minimal style, 16:9",
-        "voice":"b1_2_voice","story": "Emma starts her workday early.\nShe checks her emails.\nThere are many messages from clients.\nShe writes answers carefully.\nHer colleague comes to her desk.\nThey discuss a new project.\nThey make a plan for the week.\nEmma feels a little tired.\nShe takes a short coffee break.\nShe talks with her friend about the weekend.\nThey laugh and feel relaxed.\nEmma returns to work with energy.\nShe completes the tasks for the morning.\nShe feels proud of her work.",
+        "voice":"b1_2_voice","story": "Emma starts her workday early. She checks her emails. There are many messages from clients. She writes answers carefully. Her colleague comes to her desk. They discuss a new project. They make a plan for the week. Emma feels a little tired. She takes a short coffee break. She talks with her friend about the weekend. They laugh and feel relaxed. Emma returns to work with energy. She completes the tasks for the morning. She feels proud of her work.",
         "words": [
             {
                 "word": "client",
@@ -365,7 +365,7 @@
         "category": "Leisure",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb13.png?alt=media&token=3c51e3aa-3100-4b1f-9b06-9b979c16175c",
         "imagePrompt": "A boy and a dog in the park playing frisbee, sunny day, minimal colorful illustration, 16:9",
-        "voice":"b1_3_voice","story": "Jack goes to the park with his dog.\nHe throws a frisbee.\nThe dog runs fast and catches it.\nJack laughs loudly.\nOther people watch them.\nA child comes near and asks to play.\nJack shares the frisbee with the child.\nThey play together happily.\nThe dog sits under a tree, tired.\nJack gives him water.\nHe takes photos of the park.\nHe feels calm and joyful.\nThe sun starts to set.\nHe walks home with the dog.",
+        "voice":"b1_3_voice","story": "Jack goes to the park with his dog. He throws a frisbee. The dog runs fast and catches it. Jack laughs loudly. Other people watch them. A child comes near and asks to play. Jack shares the frisbee with the child. They play together happily. The dog sits under a tree, tired. Jack gives him water. He takes photos of the park. He feels calm and joyful. The sun starts to set. He walks home with the dog.",
         "words": [
             {
                 "word": "frisbee",
@@ -395,7 +395,7 @@
         "category": "Food",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb14.png?alt=media&token=247d8637-3746-4b1f-bb42-7c483a8f9bb4",
         "imagePrompt": "A chef preparing pasta in a small kitchen, vegetables and utensils around, minimal style, 16:9",
-        "voice":"b1_4_voice","story": "Liam wants to cook dinner for his friends.\nHe chooses a pasta recipe.\nHe cuts tomatoes and onions.\nHe boils water for the pasta.\nHe adds salt and oil.\nHe cooks the pasta carefully.\nHe fries the vegetables.\nHe mixes everything in a pan.\nHe tastes the food and adds spices.\nHe sets the table neatly.\nHis friends arrive and smell the delicious meal.\nThey eat and compliment Liam.\nHe feels proud and happy.\nAfter dinner, they clean the kitchen together.",
+        "voice":"b1_4_voice","story": "Liam wants to cook dinner for his friends. He chooses a pasta recipe. He cuts tomatoes and onions. He boils water for the pasta. He adds salt and oil. He cooks the pasta carefully. He fries the vegetables. He mixes everything in a pan. He tastes the food and adds spices. He sets the table neatly. His friends arrive and smell the delicious meal. They eat and compliment Liam. He feels proud and happy. After dinner, they clean the kitchen together.",
         "words": [
             {
                 "word": "recipe",
@@ -425,7 +425,7 @@
         "category": "Daily Life",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb15.png?alt=media&token=219f2256-9468-4239-9bca-95554104c57c",
         "imagePrompt": "A young man jogging in a park early in the morning, sunrise in the background, minimal colorful style, 16:9",
-        "voice":"b1_5_voice","story": "David wakes up at six.\nHe puts on his jogging shoes.\nHe drinks some water.\nHe goes to the park.\nHe starts running slowly.\nHe sees other people jogging.\nHe waves to a friend.\nHe increases his speed a little.\nHe feels his heart beating fast.\nHe runs for thirty minutes.\nHe stretches after finishing.\nHe drinks water again.\nHe feels healthy and energetic.\nHe returns home to take a shower.",
+        "voice":"b1_5_voice","story": "David wakes up at six. He puts on his jogging shoes. He drinks some water. He goes to the park. He starts running slowly. He sees other people jogging. He waves to a friend. He increases his speed a little. He feels his heart beating fast. He runs for thirty minutes. He stretches after finishing. He drinks water again. He feels healthy and energetic. He returns home to take a shower.",
         "words": [
             {
                 "word": "jogging",
@@ -455,7 +455,7 @@
         "category": "Travel",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb21.png?alt=media&token=e10863c1-7cbe-4d0e-93b7-24afffd69b34",
         "imagePrompt": "A young couple exploring a European city, looking at a map, historic buildings in the background, colorful minimal illustration, 16:9",
-        "voice":"b2_1_voice","story": "Tom and Anna have arrived in Paris for a short vacation.\nThey have booked a small hotel near the city center.\nThis morning, they decided to visit the Louvre Museum.\nTom checked the tickets online while Anna packed some snacks.\nThey walked through the busy streets and admired the architecture.\nAnna noticed a small café and suggested they stop for coffee.\nWhile sipping their drinks, they planned the afternoon route.\nThey took photos of the streets and old buildings.\nThe museum was crowded, but they enjoyed every exhibition.\nThey discussed their favorite paintings and artists.\nAfter leaving the museum, they walked along the Seine River.\nThe sunset reflected beautifully on the water.\nThey felt inspired by the city and promised to return.\nOn their way back, they stopped at a bakery to buy croissants.\nFinally, they returned to the hotel feeling satisfied and happy.",
+        "voice":"b2_1_voice","story": "Tom and Anna have arrived in Paris for a short vacation. They have booked a small hotel near the city center. This morning, they decided to visit the Louvre Museum. Tom checked the tickets online while Anna packed some snacks. They walked through the busy streets and admired the architecture. Anna noticed a small café and suggested they stop for coffee. While sipping their drinks, they planned the afternoon route. They took photos of the streets and old buildings. The museum was crowded, but they enjoyed every exhibition. They discussed their favorite paintings and artists. After leaving the museum, they walked along the Seine River. The sunset reflected beautifully on the water. They felt inspired by the city and promised to return. On their way back, they stopped at a bakery to buy croissants. Finally, they returned to the hotel feeling satisfied and happy.",
         "words": [
             {
                 "word": "vacation",
@@ -485,7 +485,7 @@
         "category": "Work",
         "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb22.png?alt=media&token=1a0593c6-b7f8-4e54-b06c-28bb79a9815a",
         "imagePrompt": "A modern office with a young man giving a presentation to colleagues, minimal colorful style, 16:9",
-        "voice":"b2_2_voice","story": "Emma has been working at the company for three years.\nToday she needs to give an important presentation to the management team.\nShe has prepared her slides carefully and rehearsed several times.\nHer colleagues arrive early to support her.\nShe starts speaking confidently, explaining the project progress.\nSome managers ask questions about the budget and deadlines.\nEmma answers them clearly and professionally.\nAfter the presentation, her manager praises her work.\nShe feels relieved and proud of her performance.\nDuring lunch, she talks with colleagues about new ideas.\nThey plan a team-building event next week.\nEmma realizes how much she enjoys working in this team.\nShe returns to her desk motivated to complete the remaining tasks.\nShe sends a few emails and organizes her schedule for tomorrow.\nBy the end of the day, she feels accomplished and energized.",
+        "voice":"b2_2_voice","story": "Emma has been working at the company for three years. Today she needs to give an important presentation to the management team. She has prepared her slides carefully and rehearsed several times. Her colleagues arrive early to support her. She starts speaking confidently, explaining the project progress. Some managers ask questions about the budget and deadlines. Emma answers them clearly and professionally. After the presentation, her manager praises her work. She feels relieved and proud of her performance. During lunch, she talks with colleagues about new ideas. They plan a team-building event next week. Emma realizes how much she enjoys working in this team. She returns to her desk, motivated to complete the remaining tasks. She sends a few emails and organizes her schedule for tomorrow. By the end of the day, she feels accomplished and energized.",
         "words": [
             {
                 "word": "presentation",
