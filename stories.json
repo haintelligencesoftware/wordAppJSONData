@@ -584,6 +584,7 @@
             { "word": "philosophical", "description": "felsefi" }
         ]
     },
+    /*
     {
         "id": "c2_2",
         "level": "C2",
@@ -608,6 +609,7 @@
             { "word": "foresight", "description": "öngörü" }
         ]
     },
+    */
     {
         "id": "c2_3",
         "level": "C2",
