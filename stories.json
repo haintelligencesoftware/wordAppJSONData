@@ -376,29 +376,6 @@
         ]
     },
     {
-        "id": "b2_3",
-        "level": "B2",
-        "category": "Leisure",
-        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fb23.png?alt=media&token=dc43c3ec-2cad-42fe-a4d6-15aeeb9d8518",
-        "imagePrompt": "A young woman hiking on a mountain trail, breathtaking view, sunrise in the background, minimal illustration, 16:9",
-        "voice": "b2_3_voice",
-        "story": "Sophie enjoys hiking during weekends. She planned a trail in the nearby mountains. The weather was perfect, sunny with a light breeze. She packed her backpack with water and snacks. During the climb, she met other hikers and exchanged greetings. She admired the view of the valley from the top. She took photos to remember the beautiful scenery. While resting, she drank water and ate a sandwich. She thought about returning soon with her friends. The descent was slower because the path was steep. She reached the base feeling satisfied and healthy. Later, she shared her experience with her family. They were impressed by the photos and stories. Sophie realized how important nature and exercise are for her. She promised to make hiking a weekly habit.",
-        "words": [
-            { "word": "hike", "description": "doğa yürüyüşü yapmak" },
-            { "word": "trail", "description": "patika, yol" },
-            { "word": "breeze", "description": "hafif rüzgar" },
-            { "word": "backpack", "description": "sırt çantası" },
-            { "word": "climb", "description": "tırmanmak" },
-            { "word": "exchange", "description": "değiş tokuş etmek" },
-            { "word": "admired", "description": "hayranlıkla baktı" },
-            { "word": "scenery", "description": "manzara" },
-            { "word": "descent", "description": "iniş" },
-            { "word": "steep", "description": "dik, sarp" },
-            { "word": "impressed", "description": "etkilenmiş" },
-            { "word": "promised", "description": "söz vermek" }
-        ]
-    },
-    {
         "id": "b2_4",
         "level": "B2",
         "category": "Food",
@@ -584,32 +561,6 @@
             { "word": "philosophical", "description": "felsefi" }
         ]
     },
-    /*
-    {
-        "id": "c2_2",
-        "level": "C2",
-        "category": "Work",
-        "url": "https://firebasestorage.googleapis.com/v0/b/hilearnenglishwords.firebasestorage.app/o/stories%2Fc22.png?alt=media&token=29b543ba-0c52-4fdd-8bde-3d7f82d89f5b",
-        "imagePrompt": "A diverse corporate team brainstorming in a modern office, charts, laptops, and whiteboards visible, minimal professional style, 16:9",
-        "voice": "c2_2_voice",
-        "story": "Emma had been tasked with overseeing a high-stakes international project, requiring meticulous coordination across multiple time zones. She convened a virtual meeting with colleagues in London, New York, and Tokyo, ensuring that all stakeholders were aligned on objectives. Each participant presented updates, highlighting both accomplishments and potential risks. Emma facilitated the discussion, encouraging constructive debate while steering the conversation toward actionable outcomes. She synthesized complex information, translating it into concise directives and timelines for her team. Throughout the day, she balanced responding to urgent queries with strategic planning for the next project phase. During a brief pause, she reflected on the leadership skills required to inspire a remote and culturally diverse team. She emphasized accountability, creativity, and transparency as core principles. Emma drafted a comprehensive report, outlining milestones achieved and lessons learned, which was circulated to executives. Later, she organized a virtual brainstorming session to solicit innovative solutions to unforeseen challenges. The team generated multiple feasible strategies, which Emma evaluated based on feasibility and impact. She recognized the importance of recognizing individual contributions while fostering collaboration.",
-        "words": [
-            { "word": "overseeing", "description": "denetlemek, gözetmek" },
-            { "word": "meticulous", "description": "titiz, dikkatli" },
-            { "word": "stakeholders", "description": "paydaşlar" },
-            { "word": "facilitate", "description": "kolaylaştırmak" },
-            { "word": "synthesize", "description": "sentezlemek, birleştirmek" },
-            { "word": "directives", "description": "yönergeler, talimatlar" },
-            { "word": "accountability", "description": "hesap verebilirlik" },
-            { "word": "transparency", "description": "şeffaflık" },
-            { "word": "milestones", "description": "kilometre taşları, önemli aşamalar" },
-            { "word": "feasibility", "description": "yapılabilirlik" },
-            { "word": "cognizant", "description": "farkında, bilincinde" },
-            { "word": "mitigated", "description": "azaltıldı, hafifletildi" },
-            { "word": "foresight", "description": "öngörü" }
-        ]
-    },
-    */
     {
         "id": "c2_3",
         "level": "C2",
