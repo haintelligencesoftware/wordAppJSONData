@@ -30119,5 +30119,3137 @@
     }
   }
 },
-  
+  {
+  "id": "grammar_010",
+  "unit": 10,
+  "slug": "asking-telling-nationality",
+  "level": "A1",
+  "category": "personal-information",
+
+  "content": {
+    "en": {
+      "title": "Asking & Telling Nationality",
+      "summary": "We use questions such as What nationality are you? and Where are you from? to ask about nationality or country of origin. To state nationality, use the verb be followed by a nationality adjective, such as I am Turkish or She is Italian.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "What is Nationality?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "A ", "emphasis": "normal" },
+              { "text": "nationality", "emphasis": "strong" },
+              { "text": " tells us which nation or national group a person belongs to. In English, nationality words such as ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese and French", "emphasis": "accent" },
+              { "text": " normally begin with a capital letter.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "highlight": ["Japanese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "To ask someone directly about their nationality, use ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "What nationality + am/is/are + Subject?"
+          },
+          "examples": [
+            { "english": "What nationality are you?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Telling Your Nationality",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "To tell your nationality, use ", "emphasis": "normal" },
+              { "text": "I am + nationality", "emphasis": "accent" },
+              { "text": ". Do not normally use ", "emphasis": "normal" },
+              { "text": "a or an", "emphasis": "warning" },
+              { "text": " before a nationality adjective.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Subject + am/is/are + Nationality."
+          },
+          "examples": [
+            { "english": "I am Turkish.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nationality with He, She, We and They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Use the correct form of ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", and you/we/they ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Another very common question is ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": " This asks about a person's ", "emphasis": "normal" },
+              { "text": "country or place of origin", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Where + am/is/are + Subject + from?"
+          },
+          "examples": [
+            { "english": "Where are you from?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Country vs. Nationality",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "A ", "emphasis": "normal" },
+              { "text": "country", "emphasis": "strong" },
+              { "text": " is a place, while a ", "emphasis": "normal" },
+              { "text": "nationality", "emphasis": "accent" },
+              { "text": " describes a person's national identity. Use ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " but use ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "highlight": ["Italian"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Yes/No Questions",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "To ask whether someone has a particular nationality, put ", "emphasis": "normal" },
+              { "text": "am, is or are before the subject", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Am/Is/Are + Subject + Nationality?"
+          },
+          "examples": [
+            { "english": "Are you Turkish?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Short Answers",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Answer yes/no nationality questions with the correct form of ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "highlight": ["Yes, they are"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Negative Sentences",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "To make nationality sentences negative, add ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " after am, is or are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Subject + am/is/are + not + Nationality."
+          },
+          "examples": [
+            { "english": "I am not Italian.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "highlight": ["aren't", "French"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Nationality Words Start with Capital Letters",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "In English, nationality words begin with a ", "emphasis": "normal" },
+              { "text": "capital letter", "emphasis": "accent" },
+              { "text": ", even when they appear in the middle of a sentence.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "highlight": ["Portuguese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Do Not Confuse Country and Nationality",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Do not say ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " when you mean nationality. Say ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " or ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "highlight": ["from Japan"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Do Not Use A/An Before Nationality Adjectives",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "When a nationality word is used as an adjective after be, do not normally put ", "emphasis": "normal" },
+              { "text": "a or an", "emphasis": "warning" },
+              { "text": " before it. Say ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ", not 'I am a Turkish'.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "highlight": ["is", "German"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Remember",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Remember: ", "emphasis": "normal" },
+              { "text": "Where are you from? → country, What nationality are you? → nationality, I am from Türkiye → country, I am Turkish → nationality", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        "What nationality are you?",
+        "I am Turkish.",
+        "What nationality is she?",
+        "She is Italian.",
+        "Where are you from?",
+        "I am from Türkiye.",
+        "Are you German? No, I am not.",
+        "They are Portuguese."
+      ]
+    },
+
+    "tr": {
+      "title": "Milliyet Sorma ve Söyleme",
+      "summary": "Bir kişinin milliyetini sormak için What nationality are you? kullanılabilir. Nereli olduğunu sormak için Where are you from? kullanılır. Milliyet söylerken I am Turkish gibi be + milliyet yapısı kullanılır.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "Milliyet Nedir?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Milliyet, bir kişinin hangi ", "emphasis": "normal" },
+              { "text": "ulusa veya millî gruba", "emphasis": "strong" },
+              { "text": " ait olduğunu belirtir. İngilizcede ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese ve French", "emphasis": "accent" },
+              { "text": " gibi milliyet kelimeleri büyük harfle başlar.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "O İtalyan.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Onlar Japon.", "highlight": ["Japanese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Bir kişinin milliyetini doğrudan sormak için ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": " kullanılır.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "What nationality + am/is/are + Subject?"
+          },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Milliyetin ne?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Onun milliyeti ne?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Onun milliyeti ne?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Milliyetini Söyleme",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Kendi milliyetini söylerken ", "emphasis": "normal" },
+              { "text": "I am + milliyet", "emphasis": "accent" },
+              { "text": " yapısı kullanılır. Milliyet sıfatından önce normalde ", "emphasis": "normal" },
+              { "text": "a/an kullanılmaz", "emphasis": "warning" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Subject + am/is/are + Nationality."
+          },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "O Alman.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "O İspanyol.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "He, She, We ve They ile Milliyet",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Özneye göre doğru ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": " biçimi kullanılır: I ile ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she ile ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they ile ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "O Koreli.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "O Fransız.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Biz Türküz.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Onlar Portekizli.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Bir kişinin nereli olduğunu sormanın en yaygın yollarından biri ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": " sorusudur. Bu soru kişinin ", "emphasis": "normal" },
+              { "text": "ülkesini veya geldiği yeri", "emphasis": "strong" },
+              { "text": " sorar.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Where + am/is/are + Subject + from?"
+          },
+          "examples": [
+            { "english": "Where are you from?", "translation": "Nerelisin?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "O nereli?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "Onlar nereli?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Ülke ve Milliyet Farkı",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Bir ", "emphasis": "normal" },
+              { "text": "ülke", "emphasis": "strong" },
+              { "text": " bir yerdir; ", "emphasis": "normal" },
+              { "text": "milliyet", "emphasis": "accent" },
+              { "text": " ise kişinin millî kimliğini belirtir. Ülke söylerken ", "emphasis": "normal" },
+              { "text": "from + ülke", "emphasis": "strong" },
+              { "text": ", milliyet söylerken ", "emphasis": "normal" },
+              { "text": "be + milliyet", "emphasis": "strong" },
+              { "text": " kullanılır.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Ben Türkiye'denim.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "O İtalya'dan.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "O İtalyan.", "highlight": ["Italian"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Evet/Hayır Soruları",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Bir kişinin belirli bir milliyetten olup olmadığını sorarken ", "emphasis": "normal" },
+              { "text": "am, is veya are özneden önce", "emphasis": "accent" },
+              { "text": " getirilir.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Am/Is/Are + Subject + Nationality?"
+          },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "Türk müsün?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "O Fransız mı?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Onlar İtalyan mı?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Kısa Cevaplar",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Milliyetle ilgili evet/hayır sorularında kısa cevap verirken doğru ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": " biçimi kullanılır.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "Türk müsün? Evet.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "O Alman mı? Hayır.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Onlar İspanyol mu? Evet.", "highlight": ["Yes, they are"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Olumsuz Cümleler",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Milliyet cümlesini olumsuz yapmak için am, is veya are'dan sonra ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " kullanılır.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": {
+            "pattern": "Subject + am/is/are + not + Nationality."
+          },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Ben İtalyan değilim.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "O Alman değil.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "Onlar Fransız değil.", "highlight": ["aren't", "French"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Milliyetler Büyük Harfle Başlar",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "İngilizcede milliyet isimleri ve sıfatları her zaman ", "emphasis": "normal" },
+              { "text": "büyük harfle", "emphasis": "accent" },
+              { "text": " başlar.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Arkadaşım Japon.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Onlar Portekizli.", "highlight": ["Portuguese"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Ülke ile Milliyeti Karıştırma",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Milliyetini söylerken ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " deme. ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " veya ülkeni söylüyorsan ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": " de.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Ben Türkiye'denim.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "O Japon.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "O Japonya'dan.", "highlight": ["from Japan"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Milliyet Sıfatından Önce A/An Kullanma",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Milliyet kelimesi be fiilinden sonra sıfat olarak kullanılıyorsa önüne normalde ", "emphasis": "normal" },
+              { "text": "a veya an", "emphasis": "warning" },
+              { "text": " getirilmez. ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " doğrudur.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ben Türküm.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "O İtalyan.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "O Alman.", "highlight": ["is", "German"] }
+          ]
+        },
+
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Aklında Tut",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Aklında tut: ", "emphasis": "normal" },
+              { "text": "Where are you from? → ülke, What nationality are you? → milliyet, I am from Türkiye → ülke, I am Turkish → milliyet", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Milliyetin ne?" },
+        { "english": "I am Turkish.", "translation": "Ben Türküm." },
+        { "english": "What nationality is she?", "translation": "Onun milliyeti ne?" },
+        { "english": "She is Italian.", "translation": "O İtalyan." },
+        { "english": "Where are you from?", "translation": "Nerelisin?" },
+        { "english": "I am from Türkiye.", "translation": "Ben Türkiye'denim." },
+        { "english": "Are you German? No, I am not.", "translation": "Alman mısın? Hayır, değilim." },
+        { "english": "They are Portuguese.", "translation": "Onlar Portekizli." }
+      ]
+    },
+
+    "ar": {
+      "title": "السؤال عن الجنسية وذكرها",
+      "summary": "نستخدم What nationality are you? للسؤال عن الجنسية، ونستخدم Where are you from? للسؤال عن البلد أو مكان الأصل. ولذكر الجنسية نستخدم be مع اسم الجنسية مثل I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "ما هي الجنسية؟",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "تدل ", "emphasis": "normal" },
+              { "text": "الجنسية", "emphasis": "strong" },
+              { "text": " على الأمة أو المجموعة الوطنية التي ينتمي إليها الشخص. وتبدأ كلمات الجنسية في الإنجليزية مثل ", "emphasis": "normal" },
+              { "text": "Turkish وItalian وJapanese وFrench", "emphasis": "accent" },
+              { "text": " بحرف كبير.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "هي إيطالية.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "هم يابانيون.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "للسؤال مباشرةً عن جنسية شخص نستخدم ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "ما جنسيتك؟", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "ما جنسيته؟", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "ما جنسيتها؟", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "ذكر الجنسية",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "لذكر جنسيتك استخدم ", "emphasis": "normal" },
+              { "text": "I am + nationality", "emphasis": "accent" },
+              { "text": ". ولا نستخدم عادةً ", "emphasis": "normal" },
+              { "text": "a أو an", "emphasis": "warning" },
+              { "text": " قبل صفة الجنسية.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "هو ألماني.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "هي إسبانية.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "الجنسية مع He وShe وWe وThey",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "استخدم الصيغة الصحيحة من ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": مع I نستخدم ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": "، ومع he/she نستخدم ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": "، ومع you/we/they نستخدم ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "هو كوري.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "هي فرنسية.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "نحن أتراك.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "هم برتغاليون.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "من الأسئلة الشائعة أيضاً ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": " وهو يسأل عن ", "emphasis": "normal" },
+              { "text": "بلد أو مكان الأصل", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "من أين أنت؟", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "من أين هو؟", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "من أين هم؟", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "البلد والجنسية",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "الـ", "emphasis": "normal" },
+              { "text": "بلد", "emphasis": "strong" },
+              { "text": " مكان، بينما ", "emphasis": "normal" },
+              { "text": "الجنسية", "emphasis": "accent" },
+              { "text": " تصف الهوية الوطنية للشخص. نستخدم ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " للبلد و", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " للجنسية.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "أنا من تركيا.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "هي من إيطاليا.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "هي إيطالية.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "أسئلة نعم أو لا",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "للسؤال إن كان شخص من جنسية معينة نضع ", "emphasis": "normal" },
+              { "text": "am أو is أو are قبل الفاعل", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "هل أنت تركي؟", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "هل هي فرنسية؟", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "هل هم إيطاليون؟", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "الإجابات القصيرة",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "في الإجابات القصيرة استخدم الصيغة الصحيحة من ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "هل أنت تركي؟ نعم.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "هل هي ألمانية؟ لا.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "هل هم إسبان؟ نعم.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "الجمل المنفية",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "لجعل جملة الجنسية منفية نضع ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " بعد am أو is أو are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "أنا لست إيطالياً.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "هو ليس ألمانياً.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "هم ليسوا فرنسيين.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "الجنسية تبدأ بحرف كبير",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "تبدأ كلمات الجنسية في الإنجليزية دائماً ", "emphasis": "normal" },
+              { "text": "بحرف كبير", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "صديقي ياباني.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "هم برتغاليون.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "لا تخلط بين البلد والجنسية",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "لا تقل ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " للتعبير عن الجنسية. قل ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " أو ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "أنا من تركيا.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "هو ياباني.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "هو من اليابان.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "لا تستخدم A/An قبل صفة الجنسية",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "عندما تأتي الجنسية كصفة بعد be لا نستخدم عادةً ", "emphasis": "normal" },
+              { "text": "a أو an", "emphasis": "warning" },
+              { "text": " قبلها. نقول ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "أنا تركي.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "هي إيطالية.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "هو ألماني.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "تذكّر",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "تذكّر: ", "emphasis": "normal" },
+              { "text": "Where are you from? → البلد، What nationality are you? → الجنسية، I am from Türkiye → البلد، I am Turkish → الجنسية", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "ما جنسيتك؟" },
+        { "english": "I am Turkish.", "translation": "أنا تركي." },
+        { "english": "What nationality is she?", "translation": "ما جنسيتها؟" },
+        { "english": "She is Italian.", "translation": "هي إيطالية." },
+        { "english": "Where are you from?", "translation": "من أين أنت؟" },
+        { "english": "I am from Türkiye.", "translation": "أنا من تركيا." },
+        { "english": "Are you German? No, I am not.", "translation": "هل أنت ألماني؟ لا." },
+        { "english": "They are Portuguese.", "translation": "هم برتغاليون." }
+      ]
+    },
+
+    "ja": {
+      "title": "国籍の尋ね方と答え方",
+      "summary": "国籍を尋ねるときは What nationality are you?、出身国を尋ねるときは Where are you from? を使います。国籍を言うときは I am Turkish のように be + 国籍を使います。",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "国籍とは？",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "国籍は、人がどの ", "emphasis": "normal" },
+              { "text": "国や国民グループ", "emphasis": "strong" },
+              { "text": " に属するかを表します。英語の国籍語 ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese, French", "emphasis": "accent" },
+              { "text": " などは大文字で始めます。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "彼女はイタリア人です。", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "彼らは日本人です。", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "相手の国籍を直接尋ねるときは ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": " を使います。", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "あなたの国籍は何ですか？", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "彼の国籍は何ですか？", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "彼女の国籍は何ですか？", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "自分の国籍を言う",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "国籍を言うときは ", "emphasis": "normal" },
+              { "text": "I am + 国籍", "emphasis": "accent" },
+              { "text": " を使います。国籍形容詞の前に通常 ", "emphasis": "normal" },
+              { "text": "a/an は使いません", "emphasis": "warning" },
+              { "text": "。", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "彼はドイツ人です。", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "彼女はスペイン人です。", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "He, She, We, They と国籍",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "主語に合った ", "emphasis": "normal" },
+              { "text": "be動詞", "emphasis": "strong" },
+              { "text": " を使います。I は ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": "、he/she は ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": "、you/we/they は ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": " です。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "彼は韓国人です。", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "彼女はフランス人です。", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "私たちはトルコ人です。", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "彼らはポルトガル人です。", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "とてもよく使うもう一つの質問は ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": " です。これは ", "emphasis": "normal" },
+              { "text": "出身国や出身地", "emphasis": "strong" },
+              { "text": " を尋ねます。", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "どこの出身ですか？", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "彼はどこの出身ですか？", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "彼らはどこの出身ですか？", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "国と国籍の違い",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "「", "emphasis": "normal" },
+              { "text": "国", "emphasis": "strong" },
+              { "text": "」は場所を表し、「", "emphasis": "normal" },
+              { "text": "国籍", "emphasis": "accent" },
+              { "text": "」は人の国民的な所属を表します。国には ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": "、国籍には ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " を使います。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "私はトルコ出身です。", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "彼女はイタリア出身です。", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "彼女はイタリア人です。", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Yes/No 疑問文",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "特定の国籍かを尋ねるときは ", "emphasis": "normal" },
+              { "text": "am/is/are を主語の前", "emphasis": "accent" },
+              { "text": " に置きます。", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "あなたはトルコ人ですか？", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "彼女はフランス人ですか？", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "彼らはイタリア人ですか？", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "短い答え",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "短い答えでは正しい ", "emphasis": "normal" },
+              { "text": "be動詞", "emphasis": "accent" },
+              { "text": " を使います。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "トルコ人ですか？ はい。", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "彼女はドイツ人ですか？ いいえ。", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "彼らはスペイン人ですか？ はい。", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "否定文",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "国籍の文を否定するときは am/is/are の後に ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " を置きます。", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "私はイタリア人ではありません。", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "彼はドイツ人ではありません。", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "彼らはフランス人ではありません。", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "国籍語は大文字で始める",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "英語では国籍を表す語は常に ", "emphasis": "normal" },
+              { "text": "大文字", "emphasis": "accent" },
+              { "text": " で始めます。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "私の友達は日本人です。", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "彼らはポルトガル人です。", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "国と国籍を混同しない",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "国籍を言うときに ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " とは言いません。", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " または ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": " と言います。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "私はトルコ出身です。", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "彼は日本人です。", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "彼は日本出身です。", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "国籍形容詞の前に A/An を置かない",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "be の後で国籍を形容詞として使う場合、通常 ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " は使いません。", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " が正しい形です。", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "私はトルコ人です。", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "彼女はイタリア人です。", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "彼はドイツ人です。", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "覚えておこう",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "覚えましょう：", "emphasis": "normal" },
+              { "text": "Where are you from? → 国、What nationality are you? → 国籍、I am from Türkiye → 国、I am Turkish → 国籍", "emphasis": "accent" },
+              { "text": "。", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "あなたの国籍は何ですか？" },
+        { "english": "I am Turkish.", "translation": "私はトルコ人です。" },
+        { "english": "What nationality is she?", "translation": "彼女の国籍は何ですか？" },
+        { "english": "She is Italian.", "translation": "彼女はイタリア人です。" },
+        { "english": "Where are you from?", "translation": "どこの出身ですか？" },
+        { "english": "I am from Türkiye.", "translation": "私はトルコ出身です。" },
+        { "english": "Are you German? No, I am not.", "translation": "ドイツ人ですか？ いいえ。" },
+        { "english": "They are Portuguese.", "translation": "彼らはポルトガル人です。" }
+      ]
+    },
+
+    "de": {
+      "title": "Nach der Nationalität fragen und sie nennen",
+      "summary": "Mit What nationality are you? fragt man nach der Nationalität. Where are you from? fragt nach dem Herkunftsland. Die Nationalität wird mit be + Nationalität angegeben, zum Beispiel I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "Was ist eine Nationalität?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Die ", "emphasis": "normal" },
+              { "text": "Nationalität", "emphasis": "strong" },
+              { "text": " bezeichnet die nationale Zugehörigkeit einer Person. Englische Nationalitätswörter wie ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese und French", "emphasis": "accent" },
+              { "text": " beginnen mit einem Großbuchstaben.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ich bin Türke/Türkin.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Sie ist Italienerin.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Sie sind Japaner.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Um direkt nach der Nationalität zu fragen, verwendet man ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Welche Nationalität hast du?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Welche Nationalität hat er?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Welche Nationalität hat sie?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Die Nationalität nennen",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Zum Nennen der Nationalität verwendet man ", "emphasis": "normal" },
+              { "text": "I am + Nationalität", "emphasis": "accent" },
+              { "text": ". Vor einem Nationalitätsadjektiv steht normalerweise ", "emphasis": "normal" },
+              { "text": "kein a/an", "emphasis": "warning" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ich bin türkisch / Türke/Türkin.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Er ist Deutscher.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Sie ist Spanierin.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nationalität mit He, She, We und They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Verwende die passende Form von ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Er ist Koreaner.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Sie ist Französin.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Wir sind Türken.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Sie sind Portugiesen.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Eine weitere sehr häufige Frage ist ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Sie fragt nach dem ", "emphasis": "normal" },
+              { "text": "Herkunftsland oder Herkunftsort", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "Woher kommst du?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "Woher kommt er?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "Woher kommen sie?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Land und Nationalität",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Ein ", "emphasis": "normal" },
+              { "text": "Land", "emphasis": "strong" },
+              { "text": " ist ein Ort; eine ", "emphasis": "normal" },
+              { "text": "Nationalität", "emphasis": "accent" },
+              { "text": " beschreibt die nationale Zugehörigkeit. Verwende ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " für das Land und ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " für die Nationalität.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Ich komme aus der Türkei.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Ich bin Türke/Türkin.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Sie kommt aus Italien.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Sie ist Italienerin.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Ja/Nein-Fragen",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Bei einer Frage nach einer bestimmten Nationalität steht ", "emphasis": "normal" },
+              { "text": "am, is oder are vor dem Subjekt", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "Bist du Türke/Türkin?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "Ist sie Französin?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Sind sie Italiener?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Kurzantworten",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "In Kurzantworten verwendet man die passende Form von ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "Bist du Türke/Türkin? Ja.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "Ist sie Deutsche? Nein.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Sind sie Spanier? Ja.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Verneinung",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Für eine Verneinung steht ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " nach am, is oder are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Ich bin kein Italiener/keine Italienerin.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Er ist kein Deutscher.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "Sie sind keine Franzosen.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Nationalitäten beginnen groß",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Nationalitätswörter beginnen im Englischen immer mit einem ", "emphasis": "normal" },
+              { "text": "Großbuchstaben", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ich bin Türke/Türkin.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Mein Freund ist Japaner.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Sie sind Portugiesen.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Land und Nationalität nicht verwechseln",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Sage für die Nationalität nicht ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": ". Richtig sind ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " oder ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ich bin Türke/Türkin.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Ich komme aus der Türkei.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Er ist Japaner.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Er kommt aus Japan.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Kein A/An vor Nationalitätsadjektiven",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Steht die Nationalität als Adjektiv nach be, verwendet man normalerweise ", "emphasis": "normal" },
+              { "text": "kein a/an", "emphasis": "warning" },
+              { "text": ". Richtig ist ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Ich bin türkisch / Türke/Türkin.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Sie ist Italienerin.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Er ist Deutscher.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Merke dir",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Merke: ", "emphasis": "normal" },
+              { "text": "Where are you from? → Land, What nationality are you? → Nationalität, I am from Türkiye → Land, I am Turkish → Nationalität", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Welche Nationalität hast du?" },
+        { "english": "I am Turkish.", "translation": "Ich bin Türke/Türkin." },
+        { "english": "What nationality is she?", "translation": "Welche Nationalität hat sie?" },
+        { "english": "She is Italian.", "translation": "Sie ist Italienerin." },
+        { "english": "Where are you from?", "translation": "Woher kommst du?" },
+        { "english": "I am from Türkiye.", "translation": "Ich komme aus der Türkei." },
+        { "english": "Are you German? No, I am not.", "translation": "Bist du Deutscher/Deutsche? Nein." },
+        { "english": "They are Portuguese.", "translation": "Sie sind Portugiesen." }
+      ]
+    },
+
+    "ko": {
+      "title": "국적 묻기와 말하기",
+      "summary": "국적을 물을 때 What nationality are you?를 사용하고, 출신 국가를 물을 때 Where are you from?을 사용합니다. 국적은 I am Turkish처럼 be + 국적으로 말합니다.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "국적이란?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "국적은 사람이 어느 ", "emphasis": "normal" },
+              { "text": "국가나 국민 집단", "emphasis": "strong" },
+              { "text": "에 속하는지를 나타냅니다. 영어의 ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese, French", "emphasis": "accent" },
+              { "text": " 같은 국적 단어는 대문자로 시작합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "그녀는 이탈리아인입니다.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "그들은 일본인입니다.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "상대방의 국적을 직접 물을 때 ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": "를 사용합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "국적이 무엇인가요?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "그의 국적은 무엇인가요?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "그녀의 국적은 무엇인가요?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "국적 말하기",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "자신의 국적을 말할 때 ", "emphasis": "normal" },
+              { "text": "I am + 국적", "emphasis": "accent" },
+              { "text": "을 사용합니다. 국적 형용사 앞에는 보통 ", "emphasis": "normal" },
+              { "text": "a/an을 사용하지 않습니다", "emphasis": "warning" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "그는 독일인입니다.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "그녀는 스페인인입니다.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "He, She, We, They와 국적",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "주어에 맞는 ", "emphasis": "normal" },
+              { "text": "be 동사", "emphasis": "strong" },
+              { "text": "를 사용합니다. I에는 ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she에는 ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they에는 ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": "를 사용합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "그는 한국인입니다.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "그녀는 프랑스인입니다.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "우리는 터키인입니다.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "그들은 포르투갈인입니다.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "출신을 묻는 매우 일반적인 질문은 ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": "입니다. 이 질문은 ", "emphasis": "normal" },
+              { "text": "출신 국가나 지역", "emphasis": "strong" },
+              { "text": "을 묻습니다.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "어디 출신인가요?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "그는 어디 출신인가요?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "그들은 어디 출신인가요?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "나라와 국적의 차이",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "나라(country)는 ", "emphasis": "normal" },
+              { "text": "장소", "emphasis": "strong" },
+              { "text": "이고 국적은 사람의 ", "emphasis": "normal" },
+              { "text": "국가적 정체성", "emphasis": "accent" },
+              { "text": "을 나타냅니다. 나라는 ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": ", 국적은 ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": "를 사용합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "저는 튀르키예 출신입니다.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "그녀는 이탈리아 출신입니다.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "그녀는 이탈리아인입니다.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "예/아니요 질문",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "특정 국적인지 물을 때 ", "emphasis": "normal" },
+              { "text": "am/is/are를 주어 앞에", "emphasis": "accent" },
+              { "text": " 둡니다.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "터키인인가요?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "그녀는 프랑스인인가요?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "그들은 이탈리아인인가요?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "짧은 대답",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "짧은 대답에서는 알맞은 ", "emphasis": "normal" },
+              { "text": "be 동사", "emphasis": "accent" },
+              { "text": "를 사용합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "터키인인가요? 네.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "그녀는 독일인인가요? 아니요.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "그들은 스페인인인가요? 네.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "부정문",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "국적 문장을 부정할 때 am/is/are 뒤에 ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": "을 사용합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "저는 이탈리아인이 아닙니다.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "그는 독일인이 아닙니다.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "그들은 프랑스인이 아닙니다.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "국적 단어는 대문자로 시작",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "영어에서 국적 단어는 항상 ", "emphasis": "normal" },
+              { "text": "대문자", "emphasis": "accent" },
+              { "text": "로 시작합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "제 친구는 일본인입니다.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "그들은 포르투갈인입니다.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "나라와 국적을 혼동하지 않기",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "국적을 말할 때 ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": "라고 하지 않습니다. ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " 또는 ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": "라고 합니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "저는 튀르키예 출신입니다.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "그는 일본인입니다.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "그는 일본 출신입니다.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "국적 형용사 앞에 A/An 사용하지 않기",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "be 뒤에서 국적이 형용사로 쓰일 때 보통 ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": "을 사용하지 않습니다. ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": "가 올바른 형태입니다.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "저는 터키인입니다.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "그녀는 이탈리아인입니다.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "그는 독일인입니다.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "기억하세요",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "기억하세요: ", "emphasis": "normal" },
+              { "text": "Where are you from? → 나라, What nationality are you? → 국적, I am from Türkiye → 나라, I am Turkish → 국적", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "국적이 무엇인가요?" },
+        { "english": "I am Turkish.", "translation": "저는 터키인입니다." },
+        { "english": "What nationality is she?", "translation": "그녀의 국적은 무엇인가요?" },
+        { "english": "She is Italian.", "translation": "그녀는 이탈리아인입니다." },
+        { "english": "Where are you from?", "translation": "어디 출신인가요?" },
+        { "english": "I am from Türkiye.", "translation": "저는 튀르키예 출신입니다." },
+        { "english": "Are you German? No, I am not.", "translation": "독일인인가요? 아니요." },
+        { "english": "They are Portuguese.", "translation": "그들은 포르투갈인입니다." }
+      ]
+    },
+
+    "fr": {
+      "title": "Demander et dire la nationalité",
+      "summary": "On utilise What nationality are you? pour demander la nationalité et Where are you from? pour demander le pays d'origine. Pour dire la nationalité, on utilise be + nationalité, par exemple I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "Qu'est-ce que la nationalité ?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "La ", "emphasis": "normal" },
+              { "text": "nationalité", "emphasis": "strong" },
+              { "text": " indique l'appartenance nationale d'une personne. En anglais, les mots comme ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese et French", "emphasis": "accent" },
+              { "text": " commencent par une majuscule.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Elle est italienne.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Ils sont japonais.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Pour demander directement la nationalité, on utilise ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Quelle est ta nationalité ?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Quelle est sa nationalité ?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Quelle est sa nationalité ?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Dire sa nationalité",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Pour dire sa nationalité, on utilise ", "emphasis": "normal" },
+              { "text": "I am + nationalité", "emphasis": "accent" },
+              { "text": ". On ne met normalement pas ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " devant l'adjectif de nationalité.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Il est allemand.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Elle est espagnole.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nationalité avec He, She, We et They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Utilise la bonne forme de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": " : I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Il est coréen.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Elle est française.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Nous sommes turcs.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Ils sont portugais.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Une autre question très courante est ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Elle demande le ", "emphasis": "normal" },
+              { "text": "pays ou lieu d'origine", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "D'où viens-tu ?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "D'où vient-il ?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "D'où viennent-ils ?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Pays et nationalité",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Un ", "emphasis": "normal" },
+              { "text": "pays", "emphasis": "strong" },
+              { "text": " est un lieu, tandis que la ", "emphasis": "normal" },
+              { "text": "nationalité", "emphasis": "accent" },
+              { "text": " décrit l'appartenance nationale. Utilise ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " pour le pays et ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " pour la nationalité.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Je viens de Türkiye.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Elle vient d'Italie.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Elle est italienne.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Questions oui/non",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Pour demander si quelqu'un a une certaine nationalité, on place ", "emphasis": "normal" },
+              { "text": "am, is ou are avant le sujet", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "Es-tu turc/turque ?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "Est-elle française ?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Sont-ils italiens ?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Réponses courtes",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Dans les réponses courtes, utilise la bonne forme de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "Es-tu turc/turque ? Oui.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "Est-elle allemande ? Non.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Sont-ils espagnols ? Oui.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Phrases négatives",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Pour faire une phrase négative, place ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " après am, is ou are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Je ne suis pas italien/italienne.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Il n'est pas allemand.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "Ils ne sont pas français.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Les nationalités prennent une majuscule en anglais",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "En anglais, les mots de nationalité commencent toujours par une ", "emphasis": "normal" },
+              { "text": "majuscule", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Mon ami est japonais.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Ils sont portugais.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Ne confonds pas pays et nationalité",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Ne dis pas ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " pour exprimer ta nationalité. Dis ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " ou ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Je viens de Türkiye.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Il est japonais.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Il vient du Japon.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Pas de A/An devant l'adjectif de nationalité",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Lorsqu'une nationalité est utilisée comme adjectif après be, on ne place normalement pas ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " devant. On dit ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Je suis turc/turque.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Elle est italienne.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Il est allemand.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "À retenir",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "À retenir : ", "emphasis": "normal" },
+              { "text": "Where are you from? → pays, What nationality are you? → nationalité, I am from Türkiye → pays, I am Turkish → nationalité", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Quelle est ta nationalité ?" },
+        { "english": "I am Turkish.", "translation": "Je suis turc/turque." },
+        { "english": "What nationality is she?", "translation": "Quelle est sa nationalité ?" },
+        { "english": "She is Italian.", "translation": "Elle est italienne." },
+        { "english": "Where are you from?", "translation": "D'où viens-tu ?" },
+        { "english": "I am from Türkiye.", "translation": "Je viens de Türkiye." },
+        { "english": "Are you German? No, I am not.", "translation": "Es-tu allemand(e) ? Non." },
+        { "english": "They are Portuguese.", "translation": "Ils sont portugais." }
+      ]
+    },
+
+    "es": {
+      "title": "Preguntar y decir la nacionalidad",
+      "summary": "Usamos What nationality are you? para preguntar la nacionalidad y Where are you from? para preguntar el país de origen. Para decir la nacionalidad usamos be + nacionalidad, por ejemplo I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "¿Qué es la nacionalidad?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "La ", "emphasis": "normal" },
+              { "text": "nacionalidad", "emphasis": "strong" },
+              { "text": " indica la pertenencia nacional de una persona. En inglés, palabras como ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese y French", "emphasis": "accent" },
+              { "text": " empiezan con mayúscula.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Ella es italiana.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Son japoneses.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para preguntar directamente la nacionalidad usamos ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "¿Cuál es tu nacionalidad?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "¿Cuál es su nacionalidad?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "¿Cuál es su nacionalidad?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Decir tu nacionalidad",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para decir tu nacionalidad usamos ", "emphasis": "normal" },
+              { "text": "I am + nacionalidad", "emphasis": "accent" },
+              { "text": ". Normalmente no usamos ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " delante del adjetivo de nacionalidad.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Él es alemán.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Ella es española.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nacionalidad con He, She, We y They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Usa la forma correcta de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Él es coreano.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Ella es francesa.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Somos turcos.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Son portugueses.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Otra pregunta muy común es ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Pregunta por el ", "emphasis": "normal" },
+              { "text": "país o lugar de origen", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "¿De dónde eres?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "¿De dónde es él?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "¿De dónde son?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "País y nacionalidad",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Un ", "emphasis": "normal" },
+              { "text": "país", "emphasis": "strong" },
+              { "text": " es un lugar; la ", "emphasis": "normal" },
+              { "text": "nacionalidad", "emphasis": "accent" },
+              { "text": " describe la identidad nacional. Usa ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " para el país y ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " para la nacionalidad.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Soy de Türkiye.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Ella es de Italia.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Ella es italiana.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Preguntas de sí/no",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para preguntar si alguien tiene una nacionalidad concreta ponemos ", "emphasis": "normal" },
+              { "text": "am, is o are antes del sujeto", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "¿Eres turco/a?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "¿Es ella francesa?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "¿Son italianos?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Respuestas cortas",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "En respuestas cortas usamos la forma correcta de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "¿Eres turco/a? Sí.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "¿Es ella alemana? No.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "¿Son españoles? Sí.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Oraciones negativas",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para negar una nacionalidad colocamos ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " después de am, is o are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "No soy italiano/a.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Él no es alemán.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "No son franceses.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Las nacionalidades empiezan con mayúscula",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "En inglés, las nacionalidades siempre empiezan con ", "emphasis": "normal" },
+              { "text": "mayúscula", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Mi amigo es japonés.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Son portugueses.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "No confundas país y nacionalidad",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "No digas ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " para expresar nacionalidad. Di ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " o ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Soy de Türkiye.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Él es japonés.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Él es de Japón.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "No uses A/An delante de la nacionalidad",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Cuando la nacionalidad funciona como adjetivo después de be, normalmente no usamos ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": ". La forma correcta es ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Soy turco/a.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Ella es italiana.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Él es alemán.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Recuerda",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Recuerda: ", "emphasis": "normal" },
+              { "text": "Where are you from? → país, What nationality are you? → nacionalidad, I am from Türkiye → país, I am Turkish → nacionalidad", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "¿Cuál es tu nacionalidad?" },
+        { "english": "I am Turkish.", "translation": "Soy turco/a." },
+        { "english": "What nationality is she?", "translation": "¿Cuál es su nacionalidad?" },
+        { "english": "She is Italian.", "translation": "Ella es italiana." },
+        { "english": "Where are you from?", "translation": "¿De dónde eres?" },
+        { "english": "I am from Türkiye.", "translation": "Soy de Türkiye." },
+        { "english": "Are you German? No, I am not.", "translation": "¿Eres alemán/alemana? No." },
+        { "english": "They are Portuguese.", "translation": "Son portugueses." }
+      ]
+    },
+
+    "pt": {
+      "title": "Perguntar e dizer a nacionalidade",
+      "summary": "Utilizamos What nationality are you? para perguntar a nacionalidade e Where are you from? para perguntar o país de origem. Para dizer a nacionalidade utilizamos be + nacionalidade, por exemplo I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "O que é a nacionalidade?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "A ", "emphasis": "normal" },
+              { "text": "nacionalidade", "emphasis": "strong" },
+              { "text": " indica a pertença nacional de uma pessoa. Em inglês, palavras como ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese e French", "emphasis": "accent" },
+              { "text": " começam por letra maiúscula.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Ela é italiana.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Eles são japoneses.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para perguntar diretamente a nacionalidade utilizamos ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Qual é a tua nacionalidade?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Qual é a nacionalidade dele?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Qual é a nacionalidade dela?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Dizer a nacionalidade",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para dizer a tua nacionalidade utiliza ", "emphasis": "normal" },
+              { "text": "I am + nacionalidade", "emphasis": "accent" },
+              { "text": ". Normalmente não utilizamos ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " antes do adjetivo de nacionalidade.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Ele é alemão.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Ela é espanhola.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nacionalidade com He, She, We e They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Utiliza a forma correta de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Ele é coreano.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Ela é francesa.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Somos turcos.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Eles são portugueses.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Outra pergunta muito comum é ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Esta pergunta refere-se ao ", "emphasis": "normal" },
+              { "text": "país ou local de origem", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "De onde és?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "De onde é ele?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "De onde são eles?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "País e nacionalidade",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Um ", "emphasis": "normal" },
+              { "text": "país", "emphasis": "strong" },
+              { "text": " é um lugar; a ", "emphasis": "normal" },
+              { "text": "nacionalidade", "emphasis": "accent" },
+              { "text": " descreve a identidade nacional. Utiliza ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " para o país e ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " para a nacionalidade.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Sou da Turquia.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Ela é de Itália.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Ela é italiana.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Perguntas de sim/não",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para perguntar se alguém tem uma determinada nacionalidade colocamos ", "emphasis": "normal" },
+              { "text": "am, is ou are antes do sujeito", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "És turco/turca?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "Ela é francesa?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Eles são italianos?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Respostas curtas",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Nas respostas curtas utilizamos a forma correta de ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "És turco/turca? Sim.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "Ela é alemã? Não.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Eles são espanhóis? Sim.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Frases negativas",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Para negar uma nacionalidade colocamos ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " depois de am, is ou are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Não sou italiano/italiana.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Ele não é alemão.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "Eles não são franceses.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "As nacionalidades começam por maiúscula",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Em inglês, as palavras de nacionalidade começam sempre por ", "emphasis": "normal" },
+              { "text": "letra maiúscula", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "O meu amigo é japonês.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Eles são portugueses.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Não confundas país e nacionalidade",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Não digas ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " para indicar a nacionalidade. Diz ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " ou ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Sou da Turquia.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Ele é japonês.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Ele é do Japão.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Não uses A/An antes da nacionalidade",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Quando a nacionalidade funciona como adjetivo depois de be, normalmente não utilizamos ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": ". A forma correta é ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sou turco/turca.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Ela é italiana.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Ele é alemão.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Lembra-te",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Lembra-te: ", "emphasis": "normal" },
+              { "text": "Where are you from? → país, What nationality are you? → nacionalidade, I am from Türkiye → país, I am Turkish → nacionalidade", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Qual é a tua nacionalidade?" },
+        { "english": "I am Turkish.", "translation": "Sou turco/turca." },
+        { "english": "What nationality is she?", "translation": "Qual é a nacionalidade dela?" },
+        { "english": "She is Italian.", "translation": "Ela é italiana." },
+        { "english": "Where are you from?", "translation": "De onde és?" },
+        { "english": "I am from Türkiye.", "translation": "Sou da Turquia." },
+        { "english": "Are you German? No, I am not.", "translation": "És alemão/alemã? Não." },
+        { "english": "They are Portuguese.", "translation": "Eles são portugueses." }
+      ]
+    },
+
+    "it": {
+      "title": "Chiedere e dire la nazionalità",
+      "summary": "Usiamo What nationality are you? per chiedere la nazionalità e Where are you from? per chiedere il paese d'origine. Per dire la nazionalità usiamo be + nazionalità, per esempio I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "Cos'è la nazionalità?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "La ", "emphasis": "normal" },
+              { "text": "nazionalità", "emphasis": "strong" },
+              { "text": " indica l'appartenenza nazionale di una persona. In inglese parole come ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese e French", "emphasis": "accent" },
+              { "text": " iniziano con la lettera maiuscola.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Lei è italiana.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "Sono giapponesi.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Per chiedere direttamente la nazionalità usiamo ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Qual è la tua nazionalità?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Qual è la sua nazionalità?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Qual è la sua nazionalità?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Dire la propria nazionalità",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Per dire la propria nazionalità usiamo ", "emphasis": "normal" },
+              { "text": "I am + nazionalità", "emphasis": "accent" },
+              { "text": ". Normalmente non usiamo ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " prima dell'aggettivo di nazionalità.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Lui è tedesco.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Lei è spagnola.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nazionalità con He, She, We e They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Usa la forma corretta di ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Lui è coreano.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Lei è francese.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Siamo turchi.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "Sono portoghesi.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Un'altra domanda molto comune è ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Chiede il ", "emphasis": "normal" },
+              { "text": "paese o luogo d'origine", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "Di dove sei?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "Di dov'è lui?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "Di dove sono?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Paese e nazionalità",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Un ", "emphasis": "normal" },
+              { "text": "paese", "emphasis": "strong" },
+              { "text": " è un luogo; la ", "emphasis": "normal" },
+              { "text": "nazionalità", "emphasis": "accent" },
+              { "text": " descrive l'identità nazionale. Usa ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " per il paese e ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " per la nazionalità.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Vengo dalla Turchia.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Lei viene dall'Italia.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Lei è italiana.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Domande sì/no",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Per chiedere se qualcuno ha una determinata nazionalità mettiamo ", "emphasis": "normal" },
+              { "text": "am, is o are prima del soggetto", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "Sei turco/a?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "Lei è francese?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Sono italiani?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Risposte brevi",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Nelle risposte brevi usiamo la forma corretta di ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "Sei turco/a? Sì.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "Lei è tedesca? No.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Sono spagnoli? Sì.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Frasi negative",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Per negare una nazionalità mettiamo ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " dopo am, is o are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Non sono italiano/a.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Lui non è tedesco.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "Non sono francesi.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Le nazionalità iniziano con la maiuscola",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "In inglese le parole di nazionalità iniziano sempre con una ", "emphasis": "normal" },
+              { "text": "lettera maiuscola", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Il mio amico è giapponese.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "Sono portoghesi.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Non confondere paese e nazionalità",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Non dire ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " per esprimere la nazionalità. Di' ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " oppure ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Vengo dalla Turchia.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Lui è giapponese.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Lui viene dal Giappone.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Non usare A/An prima della nazionalità",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Quando la nazionalità è usata come aggettivo dopo be, normalmente non usiamo ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": ". La forma corretta è ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Sono turco/a.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Lei è italiana.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Lui è tedesco.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Ricorda",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Ricorda: ", "emphasis": "normal" },
+              { "text": "Where are you from? → paese, What nationality are you? → nazionalità, I am from Türkiye → paese, I am Turkish → nazionalità", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Qual è la tua nazionalità?" },
+        { "english": "I am Turkish.", "translation": "Sono turco/a." },
+        { "english": "What nationality is she?", "translation": "Qual è la sua nazionalità?" },
+        { "english": "She is Italian.", "translation": "Lei è italiana." },
+        { "english": "Where are you from?", "translation": "Di dove sei?" },
+        { "english": "I am from Türkiye.", "translation": "Vengo dalla Turchia." },
+        { "english": "Are you German? No, I am not.", "translation": "Sei tedesco/a? No." },
+        { "english": "They are Portuguese.", "translation": "Sono portoghesi." }
+      ]
+    },
+
+    "sv": {
+      "title": "Fråga och berätta om nationalitet",
+      "summary": "What nationality are you? används för att fråga om nationalitet och Where are you from? för att fråga om ursprungsland. Nationalitet uttrycks med be + nationalitet, till exempel I am Turkish.",
+
+      "sections": [
+        {
+          "id": "grammar_010_section_01",
+          "type": "explanation",
+          "title": "Vad är nationalitet?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "En ", "emphasis": "normal" },
+              { "text": "nationalitet", "emphasis": "strong" },
+              { "text": " visar en persons nationella tillhörighet. På engelska börjar ord som ", "emphasis": "normal" },
+              { "text": "Turkish, Italian, Japanese och French", "emphasis": "accent" },
+              { "text": " med stor bokstav.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["Turkish"] },
+            { "english": "She is Italian.", "translation": "Hon är italiensk.", "highlight": ["Italian"] },
+            { "english": "They are Japanese.", "translation": "De är japanska.", "highlight": ["Japanese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_02",
+          "type": "rule",
+          "title": "What Nationality Are You?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "För att fråga direkt om nationalitet använder man ", "emphasis": "normal" },
+              { "text": "What nationality are you?", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "What nationality + am/is/are + Subject?" },
+          "examples": [
+            { "english": "What nationality are you?", "translation": "Vilken nationalitet har du?", "highlight": ["What nationality", "are you"] },
+            { "english": "What nationality is he?", "translation": "Vilken nationalitet har han?", "highlight": ["What nationality", "is he"] },
+            { "english": "What nationality is she?", "translation": "Vilken nationalitet har hon?", "highlight": ["What nationality", "is she"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_03",
+          "type": "rule",
+          "title": "Berätta din nationalitet",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "För att berätta din nationalitet använder du ", "emphasis": "normal" },
+              { "text": "I am + nationalitet", "emphasis": "accent" },
+              { "text": ". Normalt används inte ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": " framför ett nationalitetsadjektiv.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + Nationality." },
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["I am", "Turkish"] },
+            { "english": "He is German.", "translation": "Han är tysk.", "highlight": ["He is", "German"] },
+            { "english": "She is Spanish.", "translation": "Hon är spansk.", "highlight": ["She is", "Spanish"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_04",
+          "type": "rule",
+          "title": "Nationalitet med He, She, We och They",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Använd rätt form av ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "strong" },
+              { "text": ": I → ", "emphasis": "normal" },
+              { "text": "am", "emphasis": "accent" },
+              { "text": ", he/she → ", "emphasis": "normal" },
+              { "text": "is", "emphasis": "accent" },
+              { "text": ", you/we/they → ", "emphasis": "normal" },
+              { "text": "are", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "He is Korean.", "translation": "Han är koreansk.", "highlight": ["He", "is", "Korean"] },
+            { "english": "She is French.", "translation": "Hon är fransk.", "highlight": ["She", "is", "French"] },
+            { "english": "We are Turkish.", "translation": "Vi är turkiska.", "highlight": ["We", "are", "Turkish"] },
+            { "english": "They are Portuguese.", "translation": "De är portugisiska.", "highlight": ["They", "are", "Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_05",
+          "type": "rule",
+          "title": "Where Are You From?",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "En annan mycket vanlig fråga är ", "emphasis": "normal" },
+              { "text": "Where are you from?", "emphasis": "accent" },
+              { "text": ". Den frågar om personens ", "emphasis": "normal" },
+              { "text": "ursprungsland eller ursprungsort", "emphasis": "strong" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Where + am/is/are + Subject + from?" },
+          "examples": [
+            { "english": "Where are you from?", "translation": "Var kommer du ifrån?", "highlight": ["Where", "are you", "from"] },
+            { "english": "Where is he from?", "translation": "Var kommer han ifrån?", "highlight": ["Where", "is he", "from"] },
+            { "english": "Where are they from?", "translation": "Var kommer de ifrån?", "highlight": ["Where", "are they", "from"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_06",
+          "type": "rule",
+          "title": "Land och nationalitet",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Ett ", "emphasis": "normal" },
+              { "text": "land", "emphasis": "strong" },
+              { "text": " är en plats, medan en ", "emphasis": "normal" },
+              { "text": "nationalitet", "emphasis": "accent" },
+              { "text": " beskriver nationell tillhörighet. Använd ", "emphasis": "normal" },
+              { "text": "from + country", "emphasis": "strong" },
+              { "text": " för land och ", "emphasis": "normal" },
+              { "text": "be + nationality", "emphasis": "strong" },
+              { "text": " för nationalitet.", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am from Türkiye.", "translation": "Jag kommer från Türkiye.", "highlight": ["from", "Türkiye"] },
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["Turkish"] },
+            { "english": "She is from Italy.", "translation": "Hon kommer från Italien.", "highlight": ["from", "Italy"] },
+            { "english": "She is Italian.", "translation": "Hon är italiensk.", "highlight": ["Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_07",
+          "type": "rule",
+          "title": "Ja/nej-frågor",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "För att fråga om någon har en viss nationalitet placeras ", "emphasis": "normal" },
+              { "text": "am, is eller are före subjektet", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Am/Is/Are + Subject + Nationality?" },
+          "examples": [
+            { "english": "Are you Turkish?", "translation": "Är du turkisk?", "highlight": ["Are", "you", "Turkish"] },
+            { "english": "Is she French?", "translation": "Är hon fransk?", "highlight": ["Is", "she", "French"] },
+            { "english": "Are they Italian?", "translation": "Är de italienska?", "highlight": ["Are", "they", "Italian"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_08",
+          "type": "rule",
+          "title": "Korta svar",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "I korta svar används rätt form av ", "emphasis": "normal" },
+              { "text": "be", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "Are you Turkish? Yes, I am.", "translation": "Är du turkisk? Ja.", "highlight": ["Yes, I am"] },
+            { "english": "Is she German? No, she isn't.", "translation": "Är hon tysk? Nej.", "highlight": ["No, she isn't"] },
+            { "english": "Are they Spanish? Yes, they are.", "translation": "Är de spanska? Ja.", "highlight": ["Yes, they are"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_09",
+          "type": "rule",
+          "title": "Nekande meningar",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "För att göra en nationalitetsmening nekande placeras ", "emphasis": "normal" },
+              { "text": "not", "emphasis": "accent" },
+              { "text": " efter am, is eller are.", "emphasis": "normal" }
+            ]
+          }],
+          "formula": { "pattern": "Subject + am/is/are + not + Nationality." },
+          "examples": [
+            { "english": "I am not Italian.", "translation": "Jag är inte italiensk.", "highlight": ["am not", "Italian"] },
+            { "english": "He isn't German.", "translation": "Han är inte tysk.", "highlight": ["isn't", "German"] },
+            { "english": "They aren't French.", "translation": "De är inte franska.", "highlight": ["aren't", "French"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_10",
+          "type": "rule",
+          "title": "Nationaliteter börjar med stor bokstav",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "På engelska börjar nationalitetsord alltid med ", "emphasis": "normal" },
+              { "text": "stor bokstav", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["Turkish"] },
+            { "english": "My friend is Japanese.", "translation": "Min vän är japansk.", "highlight": ["Japanese"] },
+            { "english": "They are Portuguese.", "translation": "De är portugisiska.", "highlight": ["Portuguese"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_11",
+          "type": "warning",
+          "title": "Blanda inte ihop land och nationalitet",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Säg inte ", "emphasis": "normal" },
+              { "text": "I am Türkiye", "emphasis": "warning" },
+              { "text": " när du menar nationalitet. Säg ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": " eller ", "emphasis": "normal" },
+              { "text": "I am from Türkiye", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["Turkish"] },
+            { "english": "I am from Türkiye.", "translation": "Jag kommer från Türkiye.", "highlight": ["from Türkiye"] },
+            { "english": "He is Japanese.", "translation": "Han är japansk.", "highlight": ["Japanese"] },
+            { "english": "He is from Japan.", "translation": "Han kommer från Japan.", "highlight": ["from Japan"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_12",
+          "type": "warning",
+          "title": "Använd inte A/An före nationalitetsadjektiv",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "När nationaliteten används som adjektiv efter be använder man normalt inte ", "emphasis": "normal" },
+              { "text": "a/an", "emphasis": "warning" },
+              { "text": ". Rätt form är ", "emphasis": "normal" },
+              { "text": "I am Turkish", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }],
+          "examples": [
+            { "english": "I am Turkish.", "translation": "Jag är turkisk.", "highlight": ["am", "Turkish"] },
+            { "english": "She is Italian.", "translation": "Hon är italiensk.", "highlight": ["is", "Italian"] },
+            { "english": "He is German.", "translation": "Han är tysk.", "highlight": ["is", "German"] }
+          ]
+        },
+        {
+          "id": "grammar_010_section_13",
+          "type": "tip",
+          "title": "Kom ihåg",
+          "blocks": [{
+            "type": "text",
+            "parts": [
+              { "text": "Kom ihåg: ", "emphasis": "normal" },
+              { "text": "Where are you from? → land, What nationality are you? → nationalitet, I am from Türkiye → land, I am Turkish → nationalitet", "emphasis": "accent" },
+              { "text": ".", "emphasis": "normal" }
+            ]
+          }]
+        }
+      ],
+
+      "quickExamples": [
+        { "english": "What nationality are you?", "translation": "Vilken nationalitet har du?" },
+        { "english": "I am Turkish.", "translation": "Jag är turkisk." },
+        { "english": "What nationality is she?", "translation": "Vilken nationalitet har hon?" },
+        { "english": "She is Italian.", "translation": "Hon är italiensk." },
+        { "english": "Where are you from?", "translation": "Var kommer du ifrån?" },
+        { "english": "I am from Türkiye.", "translation": "Jag kommer från Türkiye." },
+        { "english": "Are you German? No, I am not.", "translation": "Är du tysk? Nej." },
+        { "english": "They are Portuguese.", "translation": "De är portugisiska." }
+      ]
+    }
+  }
+},
 ]
