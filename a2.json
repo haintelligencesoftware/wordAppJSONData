@@ -1,1852 +1,5182 @@
 [
-    {
-        "id": 1,
-        "word_english": "able",
-        "word_turkish": "yapabilmek"
-    },
-    {
-        "id": 2,
-        "word_english": "about",
-        "word_turkish": "hakkında"
-    },
-    {
-        "id": 3,
-        "word_english": "above",
-        "word_turkish": "yukarıda"
-    },
-    {
-        "id": 4,
-        "word_english": "accept",
-        "word_turkish": "kabul etmek"
-    },
-    {
-        "id": 5,
-        "word_english": "accident",
-        "word_turkish": "kaza"
-    },
-    {
-        "id": 6,
-        "word_english": "account",
-        "word_turkish": "hesap"
-    },
-    {
-        "id": 7,
-        "word_english": "achieve",
-        "word_turkish": "başarmak"
-    },
-    {
-        "id": 8,
-        "word_english": "across",
-        "word_turkish": "karşısında"
-    },
-    {
-        "id": 9,
-        "word_english": "act",
-        "word_turkish": "hareket etmek"
-    },
-    {
-        "id": 10,
-        "word_english": "action",
-        "word_turkish": "eylem"
-    },
-    {
-        "id": 11,
-        "word_english": "active",
-        "word_turkish": "aktif"
-    },
-    {
-        "id": 12,
-        "word_english": "actually",
-        "word_turkish": "aslında"
-    },
-    {
-        "id": 13,
-        "word_english": "add",
-        "word_turkish": "eklemek"
-    },
-    {
-        "id": 14,
-        "word_english": "address",
-        "word_turkish": "adres"
-    },
-    {
-        "id": 15,
-        "word_english": "adult",
-        "word_turkish": "yetişkin"
-    },
-    {
-        "id": 16,
-        "word_english": "affect",
-        "word_turkish": "etkilemek"
-    },
-    {
-        "id": 17,
-        "word_english": "afraid",
-        "word_turkish": "korkmuş"
-    },
-    {
-        "id": 18,
-        "word_english": "after",
-        "word_turkish": "sonra"
-    },
-    {
-        "id": 19,
-        "word_english": "again",
-        "word_turkish": "yine"
-    },
-    {
-        "id": 20,
-        "word_english": "against",
-        "word_turkish": "karşı"
-    },
-    {
-        "id": 21,
-        "word_english": "age",
-        "word_turkish": "yaş"
-    },
-    {
-        "id": 22,
-        "word_english": "ago",
-        "word_turkish": "önce"
-    },
-    {
-        "id": 23,
-        "word_english": "agree",
-        "word_turkish": "katılmak"
-    },
-    {
-        "id": 24,
-        "word_english": "air",
-        "word_turkish": "hava"
-    },
-    {
-        "id": 25,
-        "word_english": "airport",
-        "word_turkish": "havaalanı"
-    },
-    {
-        "id": 26,
-        "word_english": "alcohol",
-        "word_turkish": "alkol"
-    },
-    {
-        "id": 27,
-        "word_english": "all",
-        "word_turkish": "hepsi"
-    },
-    {
-        "id": 28,
-        "word_english": "allow",
-        "word_turkish": "izin vermek"
-    },
-    {
-        "id": 29,
-        "word_english": "almost",
-        "word_turkish": "neredeyse"
-    },
-    {
-        "id": 30,
-        "word_english": "alone",
-        "word_turkish": "yalnız"
-    },
-    {
-        "id": 31,
-        "word_english": "already",
-        "word_turkish": "zaten"
-    },
-    {
-        "id": 32,
-        "word_english": "also",
-        "word_turkish": "ayrıca"
-    },
-    {
-        "id": 33,
-        "word_english": "although",
-        "word_turkish": "rağmen"
-    },
-    {
-        "id": 34,
-        "word_english": "always",
-        "word_turkish": "her zaman"
-    },
-    {
-        "id": 35,
-        "word_english": "amazing",
-        "word_turkish": "şaşırtıcı"
-    },
-    {
-        "id": 36,
-        "word_english": "amount",
-        "word_turkish": "miktar"
-    },
-    {
-        "id": 37,
-        "word_english": "ancient",
-        "word_turkish": "eski"
-    },
-    {
-        "id": 38,
-        "word_english": "and",
-        "word_turkish": "ve"
-    },
-    {
-        "id": 39,
-        "word_english": "anger",
-        "word_turkish": "öfke"
-    },
-    {
-        "id": 40,
-        "word_english": "animal",
-        "word_turkish": "hayvan"
-    },
-    {
-        "id": 41,
-        "word_english": "annoy",
-        "word_turkish": "sinirlendirmek"
-    },
-    {
-        "id": 42,
-        "word_english": "answer",
-        "word_turkish": "cevap"
-    },
-    {
-        "id": 43,
-        "word_english": "any",
-        "word_turkish": "herhangi"
-    },
-    {
-        "id": 44,
-        "word_english": "apologize",
-        "word_turkish": "özür dilemek"
-    },
-    {
-        "id": 45,
-        "word_english": "appear",
-        "word_turkish": "görünmek"
-    },
-    {
-        "id": 46,
-        "word_english": "apply",
-        "word_turkish": "başvurmak"
-    },
-    {
-        "id": 47,
-        "word_english": "area",
-        "word_turkish": "alan"
-    },
-    {
-        "id": 48,
-        "word_english": "argue",
-        "word_turkish": "tartışmak"
-    },
-    {
-        "id": 49,
-        "word_english": "arm",
-        "word_turkish": "kol"
-    },
-    {
-        "id": 50,
-        "word_english": "around",
-        "word_turkish": "etrafında"
-    },
-    {
-        "id": 51,
-        "word_english": "arrange",
-        "word_turkish": "düzenlemek"
-    },
-    {
-        "id": 52,
-        "word_english": "arrive",
-        "word_turkish": "varmak"
-    },
-    {
-        "id": 53,
-        "word_english": "ask",
-        "word_turkish": "sormak"
-    },
-    {
-        "id": 54,
-        "word_english": "assault",
-        "word_turkish": "saldırı"
-    },
-    {
-        "id": 55,
-        "word_english": "assistance",
-        "word_turkish": "yardım"
-    },
-    {
-        "id": 56,
-        "word_english": "assume",
-        "word_turkish": "varsaymak"
-    },
-    {
-        "id": 57,
-        "word_english": "athlete",
-        "word_turkish": "sporcu"
-    },
-    {
-        "id": 58,
-        "word_english": "attempt",
-        "word_turkish": "denemek"
-    },
-    {
-        "id": 59,
-        "word_english": "attract",
-        "word_turkish": "çekmek"
-    },
-    {
-        "id": 60,
-        "word_english": "audience",
-        "word_turkish": "izleyici"
-    },
-    {
-        "id": 61,
-        "word_english": "average",
-        "word_turkish": "ortalama"
-    },
-    {
-        "id": 62,
-        "word_english": "back",
-        "word_turkish": "geri"
-    },
-    {
-        "id": 63,
-        "word_english": "bad",
-        "word_turkish": "kötü"
-    },
-    {
-        "id": 64,
-        "word_english": "bag",
-        "word_turkish": "çanta"
-    },
-    {
-        "id": 65,
-        "word_english": "balance",
-        "word_turkish": "denge"
-    },
-    {
-        "id": 66,
-        "word_english": "bar",
-        "word_turkish": "bar"
-    },
-    {
-        "id": 67,
-        "word_english": "basic",
-        "word_turkish": "temel"
-    },
-    {
-        "id": 68,
-        "word_english": "basket",
-        "word_turkish": "sepet"
-    },
-    {
-        "id": 69,
-        "word_english": "bath",
-        "word_turkish": "banyo"
-    },
-    {
-        "id": 70,
-        "word_english": "beach",
-        "word_turkish": "plaj"
-    },
-    {
-        "id": 71,
-        "word_english": "beautiful",
-        "word_turkish": "güzel"
-    },
-    {
-        "id": 72,
-        "word_english": "because",
-        "word_turkish": "çünkü"
-    },
-    {
-        "id": 73,
-        "word_english": "become",
-        "word_turkish": "olmak"
-    },
-    {
-        "id": 74,
-        "word_english": "before",
-        "word_turkish": "önce"
-    },
-    {
-        "id": 75,
-        "word_english": "begin",
-        "word_turkish": "başlamak"
-    },
-    {
-        "id": 76,
-        "word_english": "behind",
-        "word_turkish": "arkada"
-    },
-    {
-        "id": 77,
-        "word_english": "believe",
-        "word_turkish": "inanmak"
-    },
-    {
-        "id": 78,
-        "word_english": "below",
-        "word_turkish": "aşağıda"
-    },
-    {
-        "id": 79,
-        "word_english": "benefit",
-        "word_turkish": "fayda"
-    },
-    {
-        "id": 80,
-        "word_english": "best",
-        "word_turkish": "en iyi"
-    },
-    {
-        "id": 81,
-        "word_english": "better",
-        "word_turkish": "daha iyi"
-    },
-    {
-        "id": 82,
-        "word_english": "between",
-        "word_turkish": "arasında"
-    },
-    {
-        "id": 83,
-        "word_english": "beyond",
-        "word_turkish": "ötesinde"
-    },
-    {
-        "id": 84,
-        "word_english": "bicycle",
-        "word_turkish": "bisiklet"
-    },
-    {
-        "id": 85,
-        "word_english": "big",
-        "word_turkish": "büyük"
-    },
-    {
-        "id": 86,
-        "word_english": "bill",
-        "word_turkish": "fatura"
-    },
-    {
-        "id": 87,
-        "word_english": "billion",
-        "word_turkish": "milyar"
-    },
-    {
-        "id": 88,
-        "word_english": "bird",
-        "word_turkish": "kuş"
-    },
-    {
-        "id": 89,
-        "word_english": "birthday",
-        "word_turkish": "doğum günü"
-    },
-    {
-        "id": 90,
-        "word_english": "black",
-        "word_turkish": "siyah"
-    },
-    {
-        "id": 91,
-        "word_english": "bless",
-        "word_turkish": "kutlamak"
-    },
-    {
-        "id": 92,
-        "word_english": "blood",
-        "word_turkish": "kan"
-    },
-    {
-        "id": 93,
-        "word_english": "blow",
-        "word_turkish": "üflemek"
-    },
-    {
-        "id": 94,
-        "word_english": "blue",
-        "word_turkish": "mavi"
-    },
-    {
-        "id": 95,
-        "word_english": "board",
-        "word_turkish": "tahta"
-    },
-    {
-        "id": 96,
-        "word_english": "body",
-        "word_turkish": "vücut"
-    },
-    {
-        "id": 97,
-        "word_english": "book",
-        "word_turkish": "kitap"
-    },
-    {
-        "id": 98,
-        "word_english": "border",
-        "word_turkish": "sınır"
-    },
-    {
-        "id": 99,
-        "word_english": "both",
-        "word_turkish": "ikisi de"
-    },
-    {
-        "id": 100,
-        "word_english": "bother",
-        "word_turkish": "rahatsız etmek"
-    },
-    {
-        "id": 101,
-        "word_english": "bottle",
-        "word_turkish": "şişe"
-    },
-    {
-        "id": 102,
-        "word_english": "bottom",
-        "word_turkish": "alt"
-    },
-    {
-        "id": 103,
-        "word_english": "boundary",
-        "word_turkish": "sınır"
-    },
-    {
-        "id": 104,
-        "word_english": "bowl",
-        "word_turkish": "kase"
-    },
-    {
-        "id": 105,
-        "word_english": "brain",
-        "word_turkish": "beyin"
-    },
-    {
-        "id": 106,
-        "word_english": "branch",
-        "word_turkish": "dal"
-    },
-    {
-        "id": 107,
-        "word_english": "bread",
-        "word_turkish": "ekmek"
-    },
-    {
-        "id": 108,
-        "word_english": "break",
-        "word_turkish": "kırmak"
-    },
-    {
-        "id": 109,
-        "word_english": "breakfast",
-        "word_turkish": "kahvaltı"
-    },
-    {
-        "id": 110,
-        "word_english": "bring",
-        "word_turkish": "getirmek"
-    },
-    {
-        "id": 111,
-        "word_english": "brother",
-        "word_turkish": "erkek kardeş"
-    },
-    {
-        "id": 112,
-        "word_english": "build",
-        "word_turkish": "inşa etmek"
-    },
-    {
-        "id": 113,
-        "word_english": "business",
-        "word_turkish": "iş"
-    },
-    {
-        "id": 114,
-        "word_english": "busy",
-        "word_turkish": "meşgul"
-    },
-    {
-        "id": 115,
-        "word_english": "but",
-        "word_turkish": "ama"
-    },
-    {
-        "id": 116,
-        "word_english": "buy",
-        "word_turkish": "satın almak"
-    },
-    {
-        "id": 117,
-        "word_english": "by",
-        "word_turkish": "tarafından"
-    },
-    {
-        "id": 118,
-        "word_english": "call",
-        "word_turkish": "aramak"
-    },
-    {
-        "id": 119,
-        "word_english": "camera",
-        "word_turkish": "kamera"
-    },
-    {
-        "id": 120,
-        "word_english": "campaign",
-        "word_turkish": "kampanya"
-    },
-    {
-        "id": 121,
-        "word_english": "can",
-        "word_turkish": "yapabilmek"
-    },
-    {
-        "id": 122,
-        "word_english": "capital",
-        "word_turkish": "başkent"
-    },
-    {
-        "id": 123,
-        "word_english": "car",
-        "word_turkish": "araba"
-    },
-    {
-        "id": 124,
-        "word_english": "care",
-        "word_turkish": "bakmak"
-    },
-    {
-        "id": 125,
-        "word_english": "careful",
-        "word_turkish": "dikkatli"
-    },
-    {
-        "id": 126,
-        "word_english": "carry",
-        "word_turkish": "taşımak"
-    },
-    {
-        "id": 127,
-        "word_english": "cause",
-        "word_turkish": "sebep olmak"
-    },
-    {
-        "id": 128,
-        "word_english": "celebrate",
-        "word_turkish": "kutlamak"
-    },
-    {
-        "id": 129,
-        "word_english": "center",
-        "word_turkish": "merkez"
-    },
-    {
-        "id": 130,
-        "word_english": "certain",
-        "word_turkish": "kesin"
-    },
-    {
-        "id": 131,
-        "word_english": "chance",
-        "word_turkish": "şans"
-    },
-    {
-        "id": 132,
-        "word_english": "change",
-        "word_turkish": "değiştirmek"
-    },
-    {
-        "id": 133,
-        "word_english": "charge",
-        "word_turkish": "şarj etmek"
-    },
-    {
-        "id": 134,
-        "word_english": "check",
-        "word_turkish": "kontrol etmek"
-    },
-    {
-        "id": 135,
-        "word_english": "child",
-        "word_turkish": "çocuk"
-    },
-    {
-        "id": 136,
-        "word_english": "choice",
-        "word_turkish": "seçim"
-    },
-    {
-        "id": 137,
-        "word_english": "choose",
-        "word_turkish": "seçmek"
-    },
-    {
-        "id": 138,
-        "word_english": "church",
-        "word_turkish": "kilise"
-    },
-    {
-        "id": 139,
-        "word_english": "circle",
-        "word_turkish": "daire"
-    },
-    {
-        "id": 140,
-        "word_english": "city",
-        "word_turkish": "şehir"
-    },
-    {
-        "id": 141,
-        "word_english": "class",
-        "word_turkish": "sınıf"
-    },
-    {
-        "id": 142,
-        "word_english": "clean",
-        "word_turkish": "temiz"
-    },
-    {
-        "id": 143,
-        "word_english": "clear",
-        "word_turkish": "açık"
-    },
-    {
-        "id": 144,
-        "word_english": "climb",
-        "word_turkish": "tırmanmak"
-    },
-    {
-        "id": 145,
-        "word_english": "clothes",
-        "word_turkish": "giysi"
-    },
-    {
-        "id": 146,
-        "word_english": "cloud",
-        "word_turkish": "bulut"
-    },
-    {
-        "id": 147,
-        "word_english": "coach",
-        "word_turkish": "koç"
-    },
-    {
-        "id": 148,
-        "word_english": "cold",
-        "word_turkish": "soğuk"
-    },
-    {
-        "id": 149,
-        "word_english": "collect",
-        "word_turkish": "toplamak"
-    },
-    {
-        "id": 150,
-        "word_english": "color",
-        "word_turkish": "renk"
-    },
-    {
-        "id": 151,
-        "word_english": "come",
-        "word_turkish": "gelmek"
-    },
-    {
-        "id": 152,
-        "word_english": "common",
-        "word_turkish": "yaygın"
-    },
-    {
-        "id": 153,
-        "word_english": "company",
-        "word_turkish": "şirket"
-    },
-    {
-        "id": 154,
-        "word_english": "compare",
-        "word_turkish": "karşılaştırmak"
-    },
-    {
-        "id": 155,
-        "word_english": "complete",
-        "word_turkish": "tamamlamak"
-    },
-    {
-        "id": 156,
-        "word_english": "computer",
-        "word_turkish": "bilgisayar"
-    },
-    {
-        "id": 157,
-        "word_english": "concert",
-        "word_turkish": "konser"
-    },
-    {
-        "id": 158,
-        "word_english": "condition",
-        "word_turkish": "durum"
-    },
-    {
-        "id": 159,
-        "word_english": "conference",
-        "word_turkish": "konferans"
-    },
-    {
-        "id": 160,
-        "word_english": "confidence",
-        "word_turkish": "güven"
-    },
-    {
-        "id": 161,
-        "word_english": "confuse",
-        "word_turkish": "kafasını karıştırmak"
-    },
-    {
-        "id": 162,
-        "word_english": "connect",
-        "word_turkish": "bağlamak"
-    },
-    {
-        "id": 163,
-        "word_english": "contact",
-        "word_turkish": "iletişim"
-    },
-    {
-        "id": 164,
-        "word_english": "continue",
-        "word_turkish": "devam etmek"
-    },
-    {
-        "id": 165,
-        "word_english": "control",
-        "word_turkish": "kontrol etmek"
-    },
-    {
-        "id": 166,
-        "word_english": "conversation",
-        "word_turkish": "konuşma"
-    },
-    {
-        "id": 167,
-        "word_english": "cook",
-        "word_turkish": "pişirmek"
-    },
-    {
-        "id": 168,
-        "word_english": "copy",
-        "word_turkish": "kopya"
-    },
-    {
-        "id": 169,
-        "word_english": "corner",
-        "word_turkish": "köşe"
-    },
-    {
-        "id": 170,
-        "word_english": "cost",
-        "word_turkish": "maliyet"
-    },
-    {
-        "id": 171,
-        "word_english": "country",
-        "word_turkish": "ülke"
-    },
-    {
-        "id": 172,
-        "word_english": "courage",
-        "word_turkish": "cesaret"
-    },
-    {
-        "id": 173,
-        "word_english": "course",
-        "word_turkish": "kurs"
-    },
-    {
-        "id": 174,
-        "word_english": "create",
-        "word_turkish": "yaratmak"
-    },
-    {
-        "id": 175,
-        "word_english": "danger",
-        "word_turkish": "tehlike"
-    },
-    {
-        "id": 176,
-        "word_english": "data",
-        "word_turkish": "veri"
-    },
-    {
-        "id": 177,
-        "word_english": "date",
-        "word_turkish": "tarih"
-    },
-    {
-        "id": 178,
-        "word_english": "daughter",
-        "word_turkish": "kız çocuk"
-    },
-    {
-        "id": 179,
-        "word_english": "day",
-        "word_turkish": "gün"
-    },
-    {
-        "id": 180,
-        "word_english": "dead",
-        "word_turkish": "ölü"
-    },
-    {
-        "id": 181,
-        "word_english": "deal",
-        "word_turkish": "iş yapmak"
-    },
-    {
-        "id": 182,
-        "word_english": "debate",
-        "word_turkish": "tartışma"
-    },
-    {
-        "id": 183,
-        "word_english": "decide",
-        "word_turkish": "karar vermek"
-    },
-    {
-        "id": 184,
-        "word_english": "deep",
-        "word_turkish": "derin"
-    },
-    {
-        "id": 185,
-        "word_english": "defend",
-        "word_turkish": "savunmak"
-    },
-    {
-        "id": 186,
-        "word_english": "degree",
-        "word_turkish": "derece"
-    },
-    {
-        "id": 187,
-        "word_english": "demand",
-        "word_turkish": "talep etmek"
-    },
-    {
-        "id": 188,
-        "word_english": "deny",
-        "word_turkish": "inkar etmek"
-    },
-    {
-        "id": 189,
-        "word_english": "depart",
-        "word_turkish": "ayrılmak"
-    },
-    {
-        "id": 190,
-        "word_english": "describe",
-        "word_turkish": "tanımlamak"
-    },
-    {
-        "id": 191,
-        "word_english": "desire",
-        "word_turkish": "arzu etmek"
-    },
-    {
-        "id": 192,
-        "word_english": "develop",
-        "word_turkish": "gelişmek"
-    },
-    {
-        "id": 193,
-        "word_english": "difference",
-        "word_turkish": "fark"
-    },
-    {
-        "id": 194,
-        "word_english": "different",
-        "word_turkish": "farklı"
-    },
-    {
-        "id": 195,
-        "word_english": "difficult",
-        "word_turkish": "zor"
-    },
-    {
-        "id": 196,
-        "word_english": "dinner",
-        "word_turkish": "akşam yemeği"
-    },
-    {
-        "id": 197,
-        "word_english": "direct",
-        "word_turkish": "doğrudan"
-    },
-    {
-        "id": 198,
-        "word_english": "disappear",
-        "word_turkish": "kaybolmak"
-    },
-    {
-        "id": 199,
-        "word_english": "discover",
-        "word_turkish": "keşfetmek"
-    },
-    {
-        "id": 200,
-        "word_english": "disease",
-        "word_turkish": "hastalık"
-    },
-    {
-        "id": 201,
-        "word_english": "dish",
-        "word_turkish": "yemek"
-    },
-    {
-        "id": 202,
-        "word_english": "distance",
-        "word_turkish": "mesafe"
-    },
-    {
-        "id": 203,
-        "word_english": "divide",
-        "word_turkish": "bölmek"
-    },
-    {
-        "id": 204,
-        "word_english": "do",
-        "word_turkish": "yapmak"
-    },
-    {
-        "id": 205,
-        "word_english": "doctor",
-        "word_turkish": "doktor"
-    },
-    {
-        "id": 206,
-        "word_english": "dog",
-        "word_turkish": "köpek"
-    },
-    {
-        "id": 207,
-        "word_english": "door",
-        "word_turkish": "kapı"
-    },
-    {
-        "id": 208,
-        "word_english": "double",
-        "word_turkish": "çift"
-    },
-    {
-        "id": 209,
-        "word_english": "down",
-        "word_turkish": "aşağı"
-    },
-    {
-        "id": 210,
-        "word_english": "draw",
-        "word_turkish": "çizmek"
-    },
-    {
-        "id": 211,
-        "word_english": "dream",
-        "word_turkish": "rüya"
-    },
-    {
-        "id": 212,
-        "word_english": "dress",
-        "word_turkish": "elbise"
-    },
-    {
-        "id": 213,
-        "word_english": "drink",
-        "word_turkish": "içmek"
-    },
-    {
-        "id": 214,
-        "word_english": "drive",
-        "word_turkish": "sürmek"
-    },
-    {
-        "id": 215,
-        "word_english": "drop",
-        "word_turkish": "düşürmek"
-    },
-    {
-        "id": 216,
-        "word_english": "dry",
-        "word_turkish": "kuru"
-    },
-    {
-        "id": 217,
-        "word_english": "during",
-        "word_turkish": "sırasında"
-    },
-    {
-        "id": 218,
-        "word_english": "each",
-        "word_turkish": "her"
-    },
-    {
-        "id": 219,
-        "word_english": "early",
-        "word_turkish": "erken"
-    },
-    {
-        "id": 220,
-        "word_english": "earn",
-        "word_turkish": "kazanmak"
-    },
-    {
-        "id": 221,
-        "word_english": "east",
-        "word_turkish": "doğu"
-    },
-    {
-        "id": 222,
-        "word_english": "easy",
-        "word_turkish": "kolay"
-    },
-    {
-        "id": 223,
-        "word_english": "education",
-        "word_turkish": "eğitim"
-    },
-    {
-        "id": 224,
-        "word_english": "effect",
-        "word_turkish": "etki"
-    },
-    {
-        "id": 225,
-        "word_english": "enough",
-        "word_turkish": "yeterli"
-    },
-    {
-        "id": 226,
-        "word_english": "even",
-        "word_turkish": "hatta"
-    },
-    {
-        "id": 227,
-        "word_english": "event",
-        "word_turkish": "etkinlik"
-    },
-    {
-        "id": 228,
-        "word_english": "every",
-        "word_turkish": "her"
-    },
-    {
-        "id": 229,
-        "word_english": "everyone",
-        "word_turkish": "herkes"
-    },
-    {
-        "id": 230,
-        "word_english": "everything",
-        "word_turkish": "her şey"
-    },
-    {
-        "id": 231,
-        "word_english": "example",
-        "word_turkish": "örnek"
-    },
-    {
-        "id": 232,
-        "word_english": "excuse",
-        "word_turkish": "özür dilemek"
-    },
-    {
-        "id": 233,
-        "word_english": "exercise",
-        "word_turkish": "egzersiz"
-    },
-    {
-        "id": 234,
-        "word_english": "exist",
-        "word_turkish": "var olmak"
-    },
-    {
-        "id": 235,
-        "word_english": "expand",
-        "word_turkish": "genişletmek"
-    },
-    {
-        "id": 236,
-        "word_english": "expect",
-        "word_turkish": "beklemek"
-    },
-    {
-        "id": 237,
-        "word_english": "experience",
-        "word_turkish": "deneyim"
-    },
-    {
-        "id": 238,
-        "word_english": "explain",
-        "word_turkish": "açıklamak"
-    },
-    {
-        "id": 239,
-        "word_english": "explore",
-        "word_turkish": "keşfetmek"
-    },
-    {
-        "id": 240,
-        "word_english": "expression",
-        "word_turkish": "ifade"
-    },
-    {
-        "id": 241,
-        "word_english": "eye",
-        "word_turkish": "göz"
-    },
-    {
-        "id": 242,
-        "word_english": "face",
-        "word_turkish": "yüz"
-    },
-    {
-        "id": 243,
-        "word_english": "fact",
-        "word_turkish": "gerçek"
-    },
-    {
-        "id": 244,
-        "word_english": "fail",
-        "word_turkish": "başarısız olmak"
-    },
-    {
-        "id": 245,
-        "word_english": "fall",
-        "word_turkish": "düşmek"
-    },
-    {
-        "id": 246,
-        "word_english": "family",
-        "word_turkish": "aile"
-    },
-    {
-        "id": 247,
-        "word_english": "famous",
-        "word_turkish": "ünlü"
-    },
-    {
-        "id": 248,
-        "word_english": "fast",
-        "word_turkish": "hızlı"
-    },
-    {
-        "id": 249,
-        "word_english": "father",
-        "word_turkish": "baba"
-    },
-    {
-        "id": 250,
-        "word_english": "feel",
-        "word_turkish": "hissetmek"
-    },
-    {
-        "id": 251,
-        "word_english": "female",
-        "word_turkish": "kadın"
-    },
-    {
-        "id": 252,
-        "word_english": "fight",
-        "word_turkish": "dövüşmek"
-    },
-    {
-        "id": 253,
-        "word_english": "find",
-        "word_turkish": "bulmak"
-    },
-    {
-        "id": 254,
-        "word_english": "fine",
-        "word_turkish": "iyi"
-    },
-    {
-        "id": 255,
-        "word_english": "finish",
-        "word_turkish": "bitirmek"
-    },
-    {
-        "id": 256,
-        "word_english": "fire",
-        "word_turkish": "ateş"
-    },
-    {
-        "id": 257,
-        "word_english": "first",
-        "word_turkish": "ilk"
-    },
-    {
-        "id": 258,
-        "word_english": "fish",
-        "word_turkish": "balık"
-    },
-    {
-        "id": 259,
-        "word_english": "fit",
-        "word_turkish": "uygun"
-    },
-    {
-        "id": 260,
-        "word_english": "five",
-        "word_turkish": "beş"
-    },
-    {
-        "id": 261,
-        "word_english": "floor",
-        "word_turkish": "zemin"
-    },
-    {
-        "id": 262,
-        "word_english": "follow",
-        "word_turkish": "takip etmek"
-    },
-    {
-        "id": 263,
-        "word_english": "food",
-        "word_turkish": "yiyecek"
-    },
-    {
-        "id": 264,
-        "word_english": "for",
-        "word_turkish": "için"
-    },
-    {
-        "id": 265,
-        "word_english": "forest",
-        "word_turkish": "orman"
-    },
-    {
-        "id": 266,
-        "word_english": "forget",
-        "word_turkish": "unutmak"
-    },
-    {
-        "id": 267,
-        "word_english": "form",
-        "word_turkish": "şekil"
-    },
-    {
-        "id": 268,
-        "word_english": "free",
-        "word_turkish": "ücretsiz"
-    },
-    {
-        "id": 269,
-        "word_english": "friend",
-        "word_turkish": "arkadaş"
-    },
-    {
-        "id": 270,
-        "word_english": "from",
-        "word_turkish": "den"
-    },
-    {
-        "id": 271,
-        "word_english": "front",
-        "word_turkish": "ön"
-    },
-    {
-        "id": 272,
-        "word_english": "fruit",
-        "word_turkish": "meyve"
-    },
-    {
-        "id": 273,
-        "word_english": "full",
-        "word_turkish": "dolu"
-    },
-    {
-        "id": 274,
-        "word_english": "fun",
-        "word_turkish": "eğlence"
-    },
-    {
-        "id": 275,
-        "word_english": "future",
-        "word_turkish": "gelecek"
-    },
-    {
-        "id": 276,
-        "word_english": "game",
-        "word_turkish": "oyun"
-    },
-    {
-        "id": 277,
-        "word_english": "garden",
-        "word_turkish": "bahçe"
-    },
-    {
-        "id": 278,
-        "word_english": "gas",
-        "word_turkish": "gaz"
-    },
-    {
-        "id": 279,
-        "word_english": "general",
-        "word_turkish": "genel"
-    },
-    {
-        "id": 280,
-        "word_english": "girl",
-        "word_turkish": "kız"
-    },
-    {
-        "id": 281,
-        "word_english": "give",
-        "word_turkish": "vermek"
-    },
-    {
-        "id": 282,
-        "word_english": "glad",
-        "word_turkish": "mutlu"
-    },
-    {
-        "id": 283,
-        "word_english": "go",
-        "word_turkish": "gitmek"
-    },
-    {
-        "id": 284,
-        "word_english": "goal",
-        "word_turkish": "hedef"
-    },
-    {
-        "id": 285,
-        "word_english": "good",
-        "word_turkish": "iyi"
-    },
-    {
-        "id": 286,
-        "word_english": "grand",
-        "word_turkish": "büyük"
-    },
-    {
-        "id": 287,
-        "word_english": "grass",
-        "word_turkish": "çimen"
-    },
-    {
-        "id": 288,
-        "word_english": "great",
-        "word_turkish": "harika"
-    },
-    {
-        "id": 289,
-        "word_english": "green",
-        "word_turkish": "yeşil"
-    },
-    {
-        "id": 290,
-        "word_english": "ground",
-        "word_turkish": "zemin"
-    },
-    {
-        "id": 291,
-        "word_english": "group",
-        "word_turkish": "grup"
-    },
-    {
-        "id": 292,
-        "word_english": "grow",
-        "word_turkish": "büyümek"
-    },
-    {
-        "id": 293,
-        "word_english": "guess",
-        "word_turkish": "tahmin etmek"
-    },
-    {
-        "id": 294,
-        "word_english": "hair",
-        "word_turkish": "saç"
-    },
-    {
-        "id": 295,
-        "word_english": "half",
-        "word_turkish": "yarım"
-    },
-    {
-        "id": 296,
-        "word_english": "hand",
-        "word_turkish": "el"
-    },
-    {
-        "id": 297,
-        "word_english": "happen",
-        "word_turkish": "olmak"
-    },
-    {
-        "id": 298,
-        "word_english": "happy",
-        "word_turkish": "mutlu"
-    },
-    {
-        "id": 299,
-        "word_english": "hard",
-        "word_turkish": "zor"
-    },
-    {
-        "id": 300,
-        "word_english": "have",
-        "word_turkish": "sahip olmak"
-    },
-    {
-        "id": 301,
-        "word_english": "he",
-        "word_turkish": "o"
-    },
-    {
-        "id": 302,
-        "word_english": "head",
-        "word_turkish": "baş"
-    },
-    {
-        "id": 303,
-        "word_english": "health",
-        "word_turkish": "sağlık"
-    },
-    {
-        "id": 304,
-        "word_english": "hear",
-        "word_turkish": "duymak"
-    },
-    {
-        "id": 305,
-        "word_english": "heart",
-        "word_turkish": "kalp"
-    },
-    {
-        "id": 306,
-        "word_english": "heavy",
-        "word_turkish": "ağır"
-    },
-    {
-        "id": 307,
-        "word_english": "help",
-        "word_turkish": "yardım etmek"
-    },
-    {
-        "id": 308,
-        "word_english": "here",
-        "word_turkish": "burada"
-    },
-    {
-        "id": 309,
-        "word_english": "high",
-        "word_turkish": "yüksek"
-    },
-    {
-        "id": 310,
-        "word_english": "him",
-        "word_turkish": "onu"
-    },
-    {
-        "id": 311,
-        "word_english": "his",
-        "word_turkish": "onun"
-    },
-    {
-        "id": 312,
-        "word_english": "history",
-        "word_turkish": "tarih"
-    },
-    {
-        "id": 313,
-        "word_english": "hit",
-        "word_turkish": "vurmak"
-    },
-    {
-        "id": 314,
-        "word_english": "hold",
-        "word_turkish": "tutmak"
-    },
-    {
-        "id": 315,
-        "word_english": "home",
-        "word_turkish": "ev"
-    },
-    {
-        "id": 316,
-        "word_english": "hope",
-        "word_turkish": "umut etmek"
-    },
-    {
-        "id": 317,
-        "word_english": "hour",
-        "word_turkish": "saat"
-    },
-    {
-        "id": 318,
-        "word_english": "house",
-        "word_turkish": "ev"
-    },
-    {
-        "id": 319,
-        "word_english": "how",
-        "word_turkish": "nasıl"
-    },
-    {
-        "id": 320,
-        "word_english": "human",
-        "word_turkish": "insan"
-    },
-    {
-        "id": 321,
-        "word_english": "I",
-        "word_turkish": "ben"
-    },
-    {
-        "id": 322,
-        "word_english": "idea",
-        "word_turkish": "fikir"
-    },
-    {
-        "id": 323,
-        "word_english": "if",
-        "word_turkish": "eğer"
-    },
-    {
-        "id": 324,
-        "word_english": "important",
-        "word_turkish": "önemli"
-    },
-    {
-        "id": 325,
-        "word_english": "in",
-        "word_turkish": "içinde"
-    },
-    {
-        "id": 326,
-        "word_english": "income",
-        "word_turkish": "gelir"
-    },
-    {
-        "id": 327,
-        "word_english": "increase",
-        "word_turkish": "artırmak"
-    },
-    {
-        "id": 328,
-        "word_english": "information",
-        "word_turkish": "bilgi"
-    },
-    {
-        "id": 329,
-        "word_english": "inside",
-        "word_turkish": "içinde"
-    },
-    {
-        "id": 330,
-        "word_english": "instead",
-        "word_turkish": "yerine"
-    },
-    {
-        "id": 331,
-        "word_english": "interest",
-        "word_turkish": "ilgi"
-    },
-    {
-        "id": 332,
-        "word_english": "interview",
-        "word_turkish": "mülakat"
-    },
-    {
-        "id": 333,
-        "word_english": "into",
-        "word_turkish": "içeri"
-    },
-    {
-        "id": 334,
-        "word_english": "is",
-        "word_turkish": "dir"
-    },
-    {
-        "id": 335,
-        "word_english": "it",
-        "word_turkish": "o"
-    },
-    {
-        "id": 336,
-        "word_english": "job",
-        "word_turkish": "iş"
-    },
-    {
-        "id": 337,
-        "word_english": "join",
-        "word_turkish": "katılmak"
-    },
-    {
-        "id": 338,
-        "word_english": "journey",
-        "word_turkish": "seyahat"
-    },
-    {
-        "id": 339,
-        "word_english": "judge",
-        "word_turkish": "yargılamak"
-    },
-    {
-        "id": 340,
-        "word_english": "jump",
-        "word_turkish": "zıplamak"
-    },
-    {
-        "id": 341,
-        "word_english": "just",
-        "word_turkish": "sadece"
-    },
-    {
-        "id": 342,
-        "word_english": "keep",
-        "word_turkish": "saklamak"
-    },
-    {
-        "id": 343,
-        "word_english": "key",
-        "word_turkish": "anahtar"
-    },
-    {
-        "id": 344,
-        "word_english": "kind",
-        "word_turkish": "nezaket"
-    },
-    {
-        "id": 345,
-        "word_english": "kitchen",
-        "word_turkish": "mutfak"
-    },
-    {
-        "id": 346,
-        "word_english": "know",
-        "word_turkish": "bilmek"
-    },
-    {
-        "id": 347,
-        "word_english": "land",
-        "word_turkish": "toprak"
-    },
-    {
-        "id": 348,
-        "word_english": "large",
-        "word_turkish": "büyük"
-    },
-    {
-        "id": 349,
-        "word_english": "last",
-        "word_turkish": "son"
-    },
-    {
-        "id": 350,
-        "word_english": "late",
-        "word_turkish": "geç"
-    },
-    {
-        "id": 351,
-        "word_english": "laugh",
-        "word_turkish": "gülmek"
-    },
-    {
-        "id": 352,
-        "word_english": "law",
-        "word_turkish": "kanun"
-    },
-    {
-        "id": 353,
-        "word_english": "learn",
-        "word_turkish": "öğrenmek"
-    },
-    {
-        "id": 354,
-        "word_english": "leave",
-        "word_turkish": "terk etmek"
-    },
-    {
-        "id": 355,
-        "word_english": "left",
-        "word_turkish": "sol"
-    },
-    {
-        "id": 356,
-        "word_english": "leg",
-        "word_turkish": "bacak"
-    },
-    {
-        "id": 357,
-        "word_english": "lesson",
-        "word_turkish": "ders"
-    },
-    {
-        "id": 358,
-        "word_english": "letter",
-        "word_turkish": "mektup"
-    },
-    {
-        "id": 359,
-        "word_english": "library",
-        "word_turkish": "kütüphane"
-    },
-    {
-        "id": 360,
-        "word_english": "life",
-        "word_turkish": "hayat"
-    },
-    {
-        "id": 361,
-        "word_english": "light",
-        "word_turkish": "ışık"
-    },
-    {
-        "id": 362,
-        "word_english": "like",
-        "word_turkish": "gibi"
-    },
-    {
-        "id": 363,
-        "word_english": "line",
-        "word_turkish": "hat"
-    },
-    {
-        "id": 364,
-        "word_english": "listen",
-        "word_turkish": "dinlemek"
-    },
-    {
-        "id": 365,
-        "word_english": "little",
-        "word_turkish": "küçük"
-    },
-    {
-        "id": 366,
-        "word_english": "live",
-        "word_turkish": "yaşamak"
-    },
-    {
-        "id": 367,
-        "word_english": "long",
-        "word_turkish": "uzun"
-    },
-    {
-        "id": 368,
-        "word_english": "look",
-        "word_turkish": "bakmak"
-    },
-    {
-        "id": 369,
-        "word_english": "lot",
-        "word_turkish": "çok"
-    },
-    {
-        "id": 370,
-        "word_english": "love",
-        "word_turkish": "sevmek"
-    }
+  {
+    "id": 1,
+    "word_english": "able",
+    "word_japanese": "できる",
+    "word_german": "können",
+    "word_korean": "할 수 있다",
+    "word_french": "pouvoir",
+    "word_spanish": "poder",
+    "word_portuguese": "poder",
+    "word_italian": "potere",
+    "word_swedish": "kunna",
+    "word_turkish": "yapabilmek",
+    "word_arabic": "يستطيع"
+  },
+  {
+    "id": 2,
+    "word_english": "about",
+    "word_japanese": "について",
+    "word_german": "über",
+    "word_korean": "~에 대해",
+    "word_french": "à propos de",
+    "word_spanish": "sobre",
+    "word_portuguese": "sobre",
+    "word_italian": "riguardo a",
+    "word_swedish": "om",
+    "word_turkish": "hakkında",
+    "word_arabic": "حول"
+  },
+  {
+    "id": 3,
+    "word_english": "above",
+    "word_japanese": "上に",
+    "word_german": "über",
+    "word_korean": "위에",
+    "word_french": "au-dessus",
+    "word_spanish": "encima de",
+    "word_portuguese": "acima de",
+    "word_italian": "sopra",
+    "word_swedish": "ovanför",
+    "word_turkish": "yukarıda",
+    "word_arabic": "فوق"
+  },
+  {
+    "id": 4,
+    "word_english": "accept",
+    "word_japanese": "受け入れる",
+    "word_german": "akzeptieren",
+    "word_korean": "받아들이다",
+    "word_french": "accepter",
+    "word_spanish": "aceptar",
+    "word_portuguese": "aceitar",
+    "word_italian": "accettare",
+    "word_swedish": "acceptera",
+    "word_turkish": "kabul etmek",
+    "word_arabic": "يقبل"
+  },
+  {
+    "id": 5,
+    "word_english": "accident",
+    "word_japanese": "事故",
+    "word_german": "Unfall",
+    "word_korean": "사고",
+    "word_french": "accident",
+    "word_spanish": "accidente",
+    "word_portuguese": "acidente",
+    "word_italian": "incidente",
+    "word_swedish": "olycka",
+    "word_turkish": "kaza",
+    "word_arabic": "حادث"
+  },
+  {
+    "id": 6,
+    "word_english": "account",
+    "word_japanese": "アカウント",
+    "word_german": "Konto",
+    "word_korean": "계정",
+    "word_french": "compte",
+    "word_spanish": "cuenta",
+    "word_portuguese": "conta",
+    "word_italian": "conto",
+    "word_swedish": "konto",
+    "word_turkish": "hesap",
+    "word_arabic": "حساب"
+  },
+  {
+    "id": 7,
+    "word_english": "achieve",
+    "word_japanese": "達成する",
+    "word_german": "erreichen",
+    "word_korean": "달성하다",
+    "word_french": "atteindre",
+    "word_spanish": "lograr",
+    "word_portuguese": "alcançar",
+    "word_italian": "raggiungere",
+    "word_swedish": "uppnå",
+    "word_turkish": "başarmak",
+    "word_arabic": "يحقق"
+  },
+  {
+    "id": 8,
+    "word_english": "across",
+    "word_japanese": "向こう側に",
+    "word_german": "auf der anderen Seite",
+    "word_korean": "건너편에",
+    "word_french": "de l'autre côté",
+    "word_spanish": "al otro lado",
+    "word_portuguese": "do outro lado",
+    "word_italian": "dall'altra parte",
+    "word_swedish": "på andra sidan",
+    "word_turkish": "karşısında",
+    "word_arabic": "على الجانب الآخر"
+  },
+  {
+    "id": 9,
+    "word_english": "act",
+    "word_japanese": "行動する",
+    "word_german": "handeln",
+    "word_korean": "행동하다",
+    "word_french": "agir",
+    "word_spanish": "actuar",
+    "word_portuguese": "agir",
+    "word_italian": "agire",
+    "word_swedish": "handla",
+    "word_turkish": "hareket etmek",
+    "word_arabic": "يتصرف"
+  },
+  {
+    "id": 10,
+    "word_english": "action",
+    "word_japanese": "行動",
+    "word_german": "Handlung",
+    "word_korean": "행동",
+    "word_french": "action",
+    "word_spanish": "acción",
+    "word_portuguese": "ação",
+    "word_italian": "azione",
+    "word_swedish": "handling",
+    "word_turkish": "eylem",
+    "word_arabic": "فعل"
+  },
+  {
+    "id": 11,
+    "word_english": "active",
+    "word_japanese": "活発な",
+    "word_german": "aktiv",
+    "word_korean": "활동적인",
+    "word_french": "actif",
+    "word_spanish": "activo",
+    "word_portuguese": "ativo",
+    "word_italian": "attivo",
+    "word_swedish": "aktiv",
+    "word_turkish": "aktif",
+    "word_arabic": "نشط"
+  },
+  {
+    "id": 12,
+    "word_english": "actually",
+    "word_japanese": "実は",
+    "word_german": "eigentlich",
+    "word_korean": "사실은",
+    "word_french": "en fait",
+    "word_spanish": "en realidad",
+    "word_portuguese": "na verdade",
+    "word_italian": "in realtà",
+    "word_swedish": "faktiskt",
+    "word_turkish": "aslında",
+    "word_arabic": "في الواقع"
+  },
+  {
+    "id": 13,
+    "word_english": "add",
+    "word_japanese": "加える",
+    "word_german": "hinzufügen",
+    "word_korean": "추가하다",
+    "word_french": "ajouter",
+    "word_spanish": "añadir",
+    "word_portuguese": "adicionar",
+    "word_italian": "aggiungere",
+    "word_swedish": "lägga till",
+    "word_turkish": "eklemek",
+    "word_arabic": "يضيف"
+  },
+  {
+    "id": 14,
+    "word_english": "address",
+    "word_japanese": "住所",
+    "word_german": "Adresse",
+    "word_korean": "주소",
+    "word_french": "adresse",
+    "word_spanish": "dirección",
+    "word_portuguese": "endereço",
+    "word_italian": "indirizzo",
+    "word_swedish": "adress",
+    "word_turkish": "adres",
+    "word_arabic": "عنوان"
+  },
+  {
+    "id": 15,
+    "word_english": "adult",
+    "word_japanese": "大人",
+    "word_german": "Erwachsener",
+    "word_korean": "성인",
+    "word_french": "adulte",
+    "word_spanish": "adulto",
+    "word_portuguese": "adulto",
+    "word_italian": "adulto",
+    "word_swedish": "vuxen",
+    "word_turkish": "yetişkin",
+    "word_arabic": "بالغ"
+  },
+  {
+    "id": 16,
+    "word_english": "affect",
+    "word_japanese": "影響を与える",
+    "word_german": "beeinflussen",
+    "word_korean": "영향을 미치다",
+    "word_french": "affecter",
+    "word_spanish": "afectar",
+    "word_portuguese": "afetar",
+    "word_italian": "influenzare",
+    "word_swedish": "påverka",
+    "word_turkish": "etkilemek",
+    "word_arabic": "يؤثر"
+  },
+  {
+    "id": 17,
+    "word_english": "afraid",
+    "word_japanese": "怖がっている",
+    "word_german": "ängstlich",
+    "word_korean": "두려워하는",
+    "word_french": "effrayé",
+    "word_spanish": "asustado",
+    "word_portuguese": "assustado",
+    "word_italian": "spaventato",
+    "word_swedish": "rädd",
+    "word_turkish": "korkmuş",
+    "word_arabic": "خائف"
+  },
+  {
+    "id": 18,
+    "word_english": "after",
+    "word_japanese": "後で",
+    "word_german": "nach",
+    "word_korean": "후에",
+    "word_french": "après",
+    "word_spanish": "después",
+    "word_portuguese": "depois",
+    "word_italian": "dopo",
+    "word_swedish": "efter",
+    "word_turkish": "sonra",
+    "word_arabic": "بعد"
+  },
+  {
+    "id": 19,
+    "word_english": "again",
+    "word_japanese": "もう一度",
+    "word_german": "wieder",
+    "word_korean": "다시",
+    "word_french": "encore",
+    "word_spanish": "otra vez",
+    "word_portuguese": "novamente",
+    "word_italian": "di nuovo",
+    "word_swedish": "igen",
+    "word_turkish": "yine",
+    "word_arabic": "مرة أخرى"
+  },
+  {
+    "id": 20,
+    "word_english": "against",
+    "word_japanese": "反対して",
+    "word_german": "gegen",
+    "word_korean": "~에 반대하여",
+    "word_french": "contre",
+    "word_spanish": "contra",
+    "word_portuguese": "contra",
+    "word_italian": "contro",
+    "word_swedish": "mot",
+    "word_turkish": "karşı",
+    "word_arabic": "ضد"
+  },
+  {
+    "id": 21,
+    "word_english": "age",
+    "word_japanese": "年齢",
+    "word_german": "Alter",
+    "word_korean": "나이",
+    "word_french": "âge",
+    "word_spanish": "edad",
+    "word_portuguese": "idade",
+    "word_italian": "età",
+    "word_swedish": "ålder",
+    "word_turkish": "yaş",
+    "word_arabic": "عمر"
+  },
+  {
+    "id": 22,
+    "word_english": "ago",
+    "word_japanese": "前に",
+    "word_german": "vor",
+    "word_korean": "전에",
+    "word_french": "hace",
+    "word_spanish": "atrás",
+    "word_portuguese": "há",
+    "word_italian": "fa",
+    "word_swedish": "för ... sedan",
+    "word_turkish": "önce",
+    "word_arabic": "منذ"
+  },
+  {
+    "id": 23,
+    "word_english": "agree",
+    "word_japanese": "同意する",
+    "word_german": "zustimmen",
+    "word_korean": "동의하다",
+    "word_french": "être d'accord",
+    "word_spanish": "estar de acuerdo",
+    "word_portuguese": "concordar",
+    "word_italian": "essere d'accordo",
+    "word_swedish": "hålla med",
+    "word_turkish": "katılmak",
+    "word_arabic": "يوافق"
+  },
+  {
+    "id": 24,
+    "word_english": "air",
+    "word_japanese": "空気",
+    "word_german": "Luft",
+    "word_korean": "공기",
+    "word_french": "air",
+    "word_spanish": "aire",
+    "word_portuguese": "ar",
+    "word_italian": "aria",
+    "word_swedish": "luft",
+    "word_turkish": "hava",
+    "word_arabic": "هواء"
+  },
+  {
+    "id": 25,
+    "word_english": "airport",
+    "word_japanese": "空港",
+    "word_german": "Flughafen",
+    "word_korean": "공항",
+    "word_french": "aéroport",
+    "word_spanish": "aeropuerto",
+    "word_portuguese": "aeroporto",
+    "word_italian": "aeroporto",
+    "word_swedish": "flygplats",
+    "word_turkish": "havaalanı",
+    "word_arabic": "مطار"
+  },
+  {
+    "id": 26,
+    "word_english": "alcohol",
+    "word_japanese": "アルコール",
+    "word_german": "Alkohol",
+    "word_korean": "알코올",
+    "word_french": "alcool",
+    "word_spanish": "alcohol",
+    "word_portuguese": "álcool",
+    "word_italian": "alcol",
+    "word_swedish": "alkohol",
+    "word_turkish": "alkol",
+    "word_arabic": "كحول"
+  },
+  {
+    "id": 27,
+    "word_english": "all",
+    "word_japanese": "すべて",
+    "word_german": "alle",
+    "word_korean": "모두",
+    "word_french": "tout",
+    "word_spanish": "todo",
+    "word_portuguese": "tudo",
+    "word_italian": "tutto",
+    "word_swedish": "alla",
+    "word_turkish": "hepsi",
+    "word_arabic": "الكل"
+  },
+  {
+    "id": 28,
+    "word_english": "allow",
+    "word_japanese": "許可する",
+    "word_german": "erlauben",
+    "word_korean": "허락하다",
+    "word_french": "permettre",
+    "word_spanish": "permitir",
+    "word_portuguese": "permitir",
+    "word_italian": "permettere",
+    "word_swedish": "tillåta",
+    "word_turkish": "izin vermek",
+    "word_arabic": "يسمح"
+  },
+  {
+    "id": 29,
+    "word_english": "almost",
+    "word_japanese": "ほとんど",
+    "word_german": "fast",
+    "word_korean": "거의",
+    "word_french": "presque",
+    "word_spanish": "casi",
+    "word_portuguese": "quase",
+    "word_italian": "quasi",
+    "word_swedish": "nästan",
+    "word_turkish": "neredeyse",
+    "word_arabic": "تقريبًا"
+  },
+  {
+    "id": 30,
+    "word_english": "alone",
+    "word_japanese": "一人で",
+    "word_german": "allein",
+    "word_korean": "혼자",
+    "word_french": "seul",
+    "word_spanish": "solo",
+    "word_portuguese": "sozinho",
+    "word_italian": "da solo",
+    "word_swedish": "ensam",
+    "word_turkish": "yalnız",
+    "word_arabic": "وحيدًا"
+  },
+  {
+    "id": 31,
+    "word_english": "already",
+    "word_japanese": "すでに",
+    "word_german": "bereits",
+    "word_korean": "이미",
+    "word_french": "déjà",
+    "word_spanish": "ya",
+    "word_portuguese": "já",
+    "word_italian": "già",
+    "word_swedish": "redan",
+    "word_turkish": "zaten",
+    "word_arabic": "بالفعل"
+  },
+  {
+    "id": 32,
+    "word_english": "also",
+    "word_japanese": "また",
+    "word_german": "auch",
+    "word_korean": "또한",
+    "word_french": "aussi",
+    "word_spanish": "también",
+    "word_portuguese": "também",
+    "word_italian": "anche",
+    "word_swedish": "också",
+    "word_turkish": "ayrıca",
+    "word_arabic": "أيضًا"
+  },
+  {
+    "id": 33,
+    "word_english": "although",
+    "word_japanese": "〜だけれども",
+    "word_german": "obwohl",
+    "word_korean": "비록 ...지만",
+    "word_french": "bien que",
+    "word_spanish": "aunque",
+    "word_portuguese": "embora",
+    "word_italian": "sebbene",
+    "word_swedish": "även om",
+    "word_turkish": "rağmen",
+    "word_arabic": "على الرغم من"
+  },
+  {
+    "id": 34,
+    "word_english": "always",
+    "word_japanese": "いつも",
+    "word_german": "immer",
+    "word_korean": "항상",
+    "word_french": "toujours",
+    "word_spanish": "siempre",
+    "word_portuguese": "sempre",
+    "word_italian": "sempre",
+    "word_swedish": "alltid",
+    "word_turkish": "her zaman",
+    "word_arabic": "دائمًا"
+  },
+  {
+    "id": 35,
+    "word_english": "amazing",
+    "word_japanese": "驚くべき",
+    "word_german": "erstaunlich",
+    "word_korean": "놀라운",
+    "word_french": "incroyable",
+    "word_spanish": "increíble",
+    "word_portuguese": "incrível",
+    "word_italian": "incredibile",
+    "word_swedish": "fantastisk",
+    "word_turkish": "şaşırtıcı",
+    "word_arabic": "مذهل"
+  },
+  {
+    "id": 36,
+    "word_english": "amount",
+    "word_japanese": "量",
+    "word_german": "Menge",
+    "word_korean": "양",
+    "word_french": "quantité",
+    "word_spanish": "cantidad",
+    "word_portuguese": "quantidade",
+    "word_italian": "quantità",
+    "word_swedish": "mängd",
+    "word_turkish": "miktar",
+    "word_arabic": "كمية"
+  },
+  {
+    "id": 37,
+    "word_english": "ancient",
+    "word_japanese": "古代の",
+    "word_german": "antik",
+    "word_korean": "고대의",
+    "word_french": "ancien",
+    "word_spanish": "antiguo",
+    "word_portuguese": "antigo",
+    "word_italian": "antico",
+    "word_swedish": "forntida",
+    "word_turkish": "eski",
+    "word_arabic": "قديم"
+  },
+  {
+    "id": 38,
+    "word_english": "and",
+    "word_japanese": "そして",
+    "word_german": "und",
+    "word_korean": "그리고",
+    "word_french": "et",
+    "word_spanish": "y",
+    "word_portuguese": "e",
+    "word_italian": "e",
+    "word_swedish": "och",
+    "word_turkish": "ve",
+    "word_arabic": "و"
+  },
+  {
+    "id": 39,
+    "word_english": "anger",
+    "word_japanese": "怒り",
+    "word_german": "Wut",
+    "word_korean": "분노",
+    "word_french": "colère",
+    "word_spanish": "ira",
+    "word_portuguese": "raiva",
+    "word_italian": "rabbia",
+    "word_swedish": "ilska",
+    "word_turkish": "öfke",
+    "word_arabic": "غضب"
+  },
+  {
+    "id": 40,
+    "word_english": "animal",
+    "word_japanese": "動物",
+    "word_german": "Tier",
+    "word_korean": "동물",
+    "word_french": "animal",
+    "word_spanish": "animal",
+    "word_portuguese": "animal",
+    "word_italian": "animale",
+    "word_swedish": "djur",
+    "word_turkish": "hayvan",
+    "word_arabic": "حيوان"
+  },
+  {
+    "id": 41,
+    "word_english": "annoy",
+    "word_japanese": "いら立たせる",
+    "word_german": "nerven",
+    "word_korean": "짜증나게 하다",
+    "word_french": "agacer",
+    "word_spanish": "molestar",
+    "word_portuguese": "incomodar",
+    "word_italian": "infastidire",
+    "word_swedish": "irritera",
+    "word_turkish": "sinirlendirmek",
+    "word_arabic": "يزعج"
+  },
+  {
+    "id": 42,
+    "word_english": "answer",
+    "word_japanese": "答え",
+    "word_german": "Antwort",
+    "word_korean": "대답",
+    "word_french": "réponse",
+    "word_spanish": "respuesta",
+    "word_portuguese": "resposta",
+    "word_italian": "risposta",
+    "word_swedish": "svar",
+    "word_turkish": "cevap",
+    "word_arabic": "إجابة"
+  },
+  {
+    "id": 43,
+    "word_english": "any",
+    "word_japanese": "どんな〜でも",
+    "word_german": "irgendein",
+    "word_korean": "어떤 ...라도",
+    "word_french": "n'importe quel",
+    "word_spanish": "cualquier",
+    "word_portuguese": "qualquer",
+    "word_italian": "qualsiasi",
+    "word_swedish": "vilken som helst",
+    "word_turkish": "herhangi",
+    "word_arabic": "أي"
+  },
+  {
+    "id": 44,
+    "word_english": "apologize",
+    "word_japanese": "謝る",
+    "word_german": "sich entschuldigen",
+    "word_korean": "사과하다",
+    "word_french": "s'excuser",
+    "word_spanish": "disculparse",
+    "word_portuguese": "pedir desculpa",
+    "word_italian": "scusarsi",
+    "word_swedish": "be om ursäkt",
+    "word_turkish": "özür dilemek",
+    "word_arabic": "يعتذر"
+  },
+  {
+    "id": 45,
+    "word_english": "appear",
+    "word_japanese": "現れる",
+    "word_german": "erscheinen",
+    "word_korean": "나타나다",
+    "word_french": "apparaître",
+    "word_spanish": "aparecer",
+    "word_portuguese": "aparecer",
+    "word_italian": "apparire",
+    "word_swedish": "dyka upp",
+    "word_turkish": "görünmek",
+    "word_arabic": "يظهر"
+  },
+  {
+    "id": 46,
+    "word_english": "apply",
+    "word_japanese": "応募する",
+    "word_german": "sich bewerben",
+    "word_korean": "지원하다",
+    "word_french": "postuler",
+    "word_spanish": "solicitar",
+    "word_portuguese": "candidatar-se",
+    "word_italian": "candidarsi",
+    "word_swedish": "ansöka",
+    "word_turkish": "başvurmak",
+    "word_arabic": "يتقدم"
+  },
+  {
+    "id": 47,
+    "word_english": "area",
+    "word_japanese": "地域",
+    "word_german": "Bereich",
+    "word_korean": "지역",
+    "word_french": "zone",
+    "word_spanish": "área",
+    "word_portuguese": "área",
+    "word_italian": "area",
+    "word_swedish": "område",
+    "word_turkish": "alan",
+    "word_arabic": "منطقة"
+  },
+  {
+    "id": 48,
+    "word_english": "argue",
+    "word_japanese": "議論する",
+    "word_german": "streiten",
+    "word_korean": "논쟁하다",
+    "word_french": "se disputer",
+    "word_spanish": "discutir",
+    "word_portuguese": "discutir",
+    "word_italian": "discutere",
+    "word_swedish": "argumentera",
+    "word_turkish": "tartışmak",
+    "word_arabic": "يجادل"
+  },
+  {
+    "id": 49,
+    "word_english": "arm",
+    "word_japanese": "腕",
+    "word_german": "Arm",
+    "word_korean": "팔",
+    "word_french": "bras",
+    "word_spanish": "brazo",
+    "word_portuguese": "braço",
+    "word_italian": "braccio",
+    "word_swedish": "arm",
+    "word_turkish": "kol",
+    "word_arabic": "ذراع"
+  },
+  {
+    "id": 50,
+    "word_english": "around",
+    "word_japanese": "周りに",
+    "word_german": "um ... herum",
+    "word_korean": "주위에",
+    "word_french": "autour de",
+    "word_spanish": "alrededor de",
+    "word_portuguese": "à volta de",
+    "word_italian": "intorno a",
+    "word_swedish": "runt",
+    "word_turkish": "etrafında",
+    "word_arabic": "حول"
+  },
+  {
+    "id": 51,
+    "word_english": "arrange",
+    "word_japanese": "手配する",
+    "word_german": "organisieren",
+    "word_korean": "정리하다",
+    "word_french": "organiser",
+    "word_spanish": "organizar",
+    "word_portuguese": "organizar",
+    "word_italian": "organizzare",
+    "word_swedish": "ordna",
+    "word_turkish": "düzenlemek",
+    "word_arabic": "يرتب"
+  },
+  {
+    "id": 52,
+    "word_english": "arrive",
+    "word_japanese": "到着する",
+    "word_german": "ankommen",
+    "word_korean": "도착하다",
+    "word_french": "arriver",
+    "word_spanish": "llegar",
+    "word_portuguese": "chegar",
+    "word_italian": "arrivare",
+    "word_swedish": "anlända",
+    "word_turkish": "varmak",
+    "word_arabic": "يصل"
+  },
+  {
+    "id": 53,
+    "word_english": "ask",
+    "word_japanese": "尋ねる",
+    "word_german": "fragen",
+    "word_korean": "묻다",
+    "word_french": "demander",
+    "word_spanish": "preguntar",
+    "word_portuguese": "perguntar",
+    "word_italian": "chiedere",
+    "word_swedish": "fråga",
+    "word_turkish": "sormak",
+    "word_arabic": "يسأل"
+  },
+  {
+    "id": 54,
+    "word_english": "assault",
+    "word_japanese": "暴行",
+    "word_german": "Angriff",
+    "word_korean": "폭행",
+    "word_french": "agression",
+    "word_spanish": "agresión",
+    "word_portuguese": "agressão",
+    "word_italian": "aggressione",
+    "word_swedish": "överfall",
+    "word_turkish": "saldırı",
+    "word_arabic": "اعتداء"
+  },
+  {
+    "id": 55,
+    "word_english": "assistance",
+    "word_japanese": "援助",
+    "word_german": "Hilfe",
+    "word_korean": "도움",
+    "word_french": "assistance",
+    "word_spanish": "asistencia",
+    "word_portuguese": "assistência",
+    "word_italian": "assistenza",
+    "word_swedish": "hjälp",
+    "word_turkish": "yardım",
+    "word_arabic": "مساعدة"
+  },
+  {
+    "id": 56,
+    "word_english": "assume",
+    "word_japanese": "仮定する",
+    "word_german": "annehmen",
+    "word_korean": "가정하다",
+    "word_french": "supposer",
+    "word_spanish": "suponer",
+    "word_portuguese": "supor",
+    "word_italian": "supporre",
+    "word_swedish": "anta",
+    "word_turkish": "varsaymak",
+    "word_arabic": "يفترض"
+  },
+  {
+    "id": 57,
+    "word_english": "athlete",
+    "word_japanese": "運動選手",
+    "word_german": "Sportler",
+    "word_korean": "운동선수",
+    "word_french": "athlète",
+    "word_spanish": "atleta",
+    "word_portuguese": "atleta",
+    "word_italian": "atleta",
+    "word_swedish": "idrottare",
+    "word_turkish": "sporcu",
+    "word_arabic": "رياضي"
+  },
+  {
+    "id": 58,
+    "word_english": "attempt",
+    "word_japanese": "試みる",
+    "word_german": "versuchen",
+    "word_korean": "시도하다",
+    "word_french": "essayer",
+    "word_spanish": "intentar",
+    "word_portuguese": "tentar",
+    "word_italian": "tentare",
+    "word_swedish": "försöka",
+    "word_turkish": "denemek",
+    "word_arabic": "يحاول"
+  },
+  {
+    "id": 59,
+    "word_english": "attract",
+    "word_japanese": "引きつける",
+    "word_german": "anziehen",
+    "word_korean": "끌어당기다",
+    "word_french": "attirer",
+    "word_spanish": "atraer",
+    "word_portuguese": "atrair",
+    "word_italian": "attirare",
+    "word_swedish": "attrahera",
+    "word_turkish": "çekmek",
+    "word_arabic": "يجذب"
+  },
+  {
+    "id": 60,
+    "word_english": "audience",
+    "word_japanese": "観客",
+    "word_german": "Publikum",
+    "word_korean": "관객",
+    "word_french": "public",
+    "word_spanish": "público",
+    "word_portuguese": "público",
+    "word_italian": "pubblico",
+    "word_swedish": "publik",
+    "word_turkish": "izleyici",
+    "word_arabic": "جمهور"
+  },
+  {
+    "id": 61,
+    "word_english": "average",
+    "word_japanese": "平均",
+    "word_german": "Durchschnitt",
+    "word_korean": "평균",
+    "word_french": "moyenne",
+    "word_spanish": "promedio",
+    "word_portuguese": "média",
+    "word_italian": "media",
+    "word_swedish": "genomsnitt",
+    "word_turkish": "ortalama",
+    "word_arabic": "متوسط"
+  },
+  {
+    "id": 62,
+    "word_english": "back",
+    "word_japanese": "戻って",
+    "word_german": "zurück",
+    "word_korean": "뒤로",
+    "word_french": "en arrière",
+    "word_spanish": "atrás",
+    "word_portuguese": "para trás",
+    "word_italian": "indietro",
+    "word_swedish": "tillbaka",
+    "word_turkish": "geri",
+    "word_arabic": "إلى الخلف"
+  },
+  {
+    "id": 63,
+    "word_english": "bad",
+    "word_japanese": "悪い",
+    "word_german": "schlecht",
+    "word_korean": "나쁜",
+    "word_french": "mauvais",
+    "word_spanish": "malo",
+    "word_portuguese": "mau",
+    "word_italian": "cattivo",
+    "word_swedish": "dålig",
+    "word_turkish": "kötü",
+    "word_arabic": "سيئ"
+  },
+  {
+    "id": 64,
+    "word_english": "bag",
+    "word_japanese": "かばん",
+    "word_german": "Tasche",
+    "word_korean": "가방",
+    "word_french": "sac",
+    "word_spanish": "bolsa",
+    "word_portuguese": "mala",
+    "word_italian": "borsa",
+    "word_swedish": "väska",
+    "word_turkish": "çanta",
+    "word_arabic": "حقيبة"
+  },
+  {
+    "id": 65,
+    "word_english": "balance",
+    "word_japanese": "バランス",
+    "word_german": "Gleichgewicht",
+    "word_korean": "균형",
+    "word_french": "équilibre",
+    "word_spanish": "equilibrio",
+    "word_portuguese": "equilíbrio",
+    "word_italian": "equilibrio",
+    "word_swedish": "balans",
+    "word_turkish": "denge",
+    "word_arabic": "توازن"
+  },
+  {
+    "id": 66,
+    "word_english": "bar",
+    "word_japanese": "バー",
+    "word_german": "Bar",
+    "word_korean": "바",
+    "word_french": "bar",
+    "word_spanish": "bar",
+    "word_portuguese": "bar",
+    "word_italian": "bar",
+    "word_swedish": "bar",
+    "word_turkish": "bar",
+    "word_arabic": "بار"
+  },
+  {
+    "id": 67,
+    "word_english": "basic",
+    "word_japanese": "基本的な",
+    "word_german": "grundlegend",
+    "word_korean": "기본적인",
+    "word_french": "basique",
+    "word_spanish": "básico",
+    "word_portuguese": "básico",
+    "word_italian": "basilare",
+    "word_swedish": "grundläggande",
+    "word_turkish": "temel",
+    "word_arabic": "أساسي"
+  },
+  {
+    "id": 68,
+    "word_english": "basket",
+    "word_japanese": "かご",
+    "word_german": "Korb",
+    "word_korean": "바구니",
+    "word_french": "panier",
+    "word_spanish": "cesta",
+    "word_portuguese": "cesto",
+    "word_italian": "cesto",
+    "word_swedish": "korg",
+    "word_turkish": "sepet",
+    "word_arabic": "سلة"
+  },
+  {
+    "id": 69,
+    "word_english": "bath",
+    "word_japanese": "風呂",
+    "word_german": "Bad",
+    "word_korean": "목욕",
+    "word_french": "bain",
+    "word_spanish": "baño",
+    "word_portuguese": "banho",
+    "word_italian": "bagno",
+    "word_swedish": "bad",
+    "word_turkish": "banyo",
+    "word_arabic": "حمام"
+  },
+  {
+    "id": 70,
+    "word_english": "beach",
+    "word_japanese": "ビーチ",
+    "word_german": "Strand",
+    "word_korean": "해변",
+    "word_french": "plage",
+    "word_spanish": "playa",
+    "word_portuguese": "praia",
+    "word_italian": "spiaggia",
+    "word_swedish": "strand",
+    "word_turkish": "plaj",
+    "word_arabic": "شاطئ"
+  },
+  {
+    "id": 71,
+    "word_english": "beautiful",
+    "word_japanese": "美しい",
+    "word_german": "schön",
+    "word_korean": "아름다운",
+    "word_french": "beau",
+    "word_spanish": "bonito",
+    "word_portuguese": "bonito",
+    "word_italian": "bello",
+    "word_swedish": "vacker",
+    "word_turkish": "güzel",
+    "word_arabic": "جميل"
+  },
+  {
+    "id": 72,
+    "word_english": "because",
+    "word_japanese": "なぜなら",
+    "word_german": "weil",
+    "word_korean": "왜냐하면",
+    "word_french": "parce que",
+    "word_spanish": "porque",
+    "word_portuguese": "porque",
+    "word_italian": "perché",
+    "word_swedish": "eftersom",
+    "word_turkish": "çünkü",
+    "word_arabic": "لأن"
+  },
+  {
+    "id": 73,
+    "word_english": "become",
+    "word_japanese": "〜になる",
+    "word_german": "werden",
+    "word_korean": "~이 되다",
+    "word_french": "devenir",
+    "word_spanish": "convertirse",
+    "word_portuguese": "tornar-se",
+    "word_italian": "diventare",
+    "word_swedish": "bli",
+    "word_turkish": "olmak",
+    "word_arabic": "يصبح"
+  },
+  {
+    "id": 74,
+    "word_english": "before",
+    "word_japanese": "前に",
+    "word_german": "vor",
+    "word_korean": "전에",
+    "word_french": "avant",
+    "word_spanish": "antes",
+    "word_portuguese": "antes",
+    "word_italian": "prima",
+    "word_swedish": "före",
+    "word_turkish": "önce",
+    "word_arabic": "قبل"
+  },
+  {
+    "id": 75,
+    "word_english": "begin",
+    "word_japanese": "始める",
+    "word_german": "beginnen",
+    "word_korean": "시작하다",
+    "word_french": "commencer",
+    "word_spanish": "empezar",
+    "word_portuguese": "começar",
+    "word_italian": "iniziare",
+    "word_swedish": "börja",
+    "word_turkish": "başlamak",
+    "word_arabic": "يبدأ"
+  },
+  {
+    "id": 76,
+    "word_english": "behind",
+    "word_japanese": "後ろに",
+    "word_german": "hinter",
+    "word_korean": "뒤에",
+    "word_french": "derrière",
+    "word_spanish": "detrás de",
+    "word_portuguese": "atrás de",
+    "word_italian": "dietro",
+    "word_swedish": "bakom",
+    "word_turkish": "arkada",
+    "word_arabic": "خلف"
+  },
+  {
+    "id": 77,
+    "word_english": "believe",
+    "word_japanese": "信じる",
+    "word_german": "glauben",
+    "word_korean": "믿다",
+    "word_french": "croire",
+    "word_spanish": "creer",
+    "word_portuguese": "acreditar",
+    "word_italian": "credere",
+    "word_swedish": "tro",
+    "word_turkish": "inanmak",
+    "word_arabic": "يؤمن"
+  },
+  {
+    "id": 78,
+    "word_english": "below",
+    "word_japanese": "下に",
+    "word_german": "unterhalb",
+    "word_korean": "아래에",
+    "word_french": "en dessous",
+    "word_spanish": "debajo",
+    "word_portuguese": "abaixo",
+    "word_italian": "sotto",
+    "word_swedish": "nedanför",
+    "word_turkish": "aşağıda",
+    "word_arabic": "أسفل"
+  },
+  {
+    "id": 79,
+    "word_english": "benefit",
+    "word_japanese": "利益",
+    "word_german": "Vorteil",
+    "word_korean": "이점",
+    "word_french": "avantage",
+    "word_spanish": "beneficio",
+    "word_portuguese": "benefício",
+    "word_italian": "beneficio",
+    "word_swedish": "fördel",
+    "word_turkish": "fayda",
+    "word_arabic": "فائدة"
+  },
+  {
+    "id": 80,
+    "word_english": "best",
+    "word_japanese": "最高の",
+    "word_german": "am besten",
+    "word_korean": "최고의",
+    "word_french": "meilleur",
+    "word_spanish": "mejor",
+    "word_portuguese": "melhor",
+    "word_italian": "migliore",
+    "word_swedish": "bäst",
+    "word_turkish": "en iyi",
+    "word_arabic": "الأفضل"
+  },
+  {
+    "id": 81,
+    "word_english": "better",
+    "word_japanese": "より良い",
+    "word_german": "besser",
+    "word_korean": "더 나은",
+    "word_french": "meilleur",
+    "word_spanish": "mejor",
+    "word_portuguese": "melhor",
+    "word_italian": "migliore",
+    "word_swedish": "bättre",
+    "word_turkish": "daha iyi",
+    "word_arabic": "أفضل"
+  },
+  {
+    "id": 82,
+    "word_english": "between",
+    "word_japanese": "〜の間に",
+    "word_german": "zwischen",
+    "word_korean": "사이에",
+    "word_french": "entre",
+    "word_spanish": "entre",
+    "word_portuguese": "entre",
+    "word_italian": "tra",
+    "word_swedish": "mellan",
+    "word_turkish": "arasında",
+    "word_arabic": "بين"
+  },
+  {
+    "id": 83,
+    "word_english": "beyond",
+    "word_japanese": "〜を越えて",
+    "word_german": "jenseits",
+    "word_korean": "너머에",
+    "word_french": "au-delà",
+    "word_spanish": "más allá",
+    "word_portuguese": "além de",
+    "word_italian": "oltre",
+    "word_swedish": "bortom",
+    "word_turkish": "ötesinde",
+    "word_arabic": "ما وراء"
+  },
+  {
+    "id": 84,
+    "word_english": "bicycle",
+    "word_japanese": "自転車",
+    "word_german": "Fahrrad",
+    "word_korean": "자전거",
+    "word_french": "vélo",
+    "word_spanish": "bicicleta",
+    "word_portuguese": "bicicleta",
+    "word_italian": "bicicletta",
+    "word_swedish": "cykel",
+    "word_turkish": "bisiklet",
+    "word_arabic": "دراجة"
+  },
+  {
+    "id": 85,
+    "word_english": "big",
+    "word_japanese": "大きい",
+    "word_german": "groß",
+    "word_korean": "큰",
+    "word_french": "grand",
+    "word_spanish": "grande",
+    "word_portuguese": "grande",
+    "word_italian": "grande",
+    "word_swedish": "stor",
+    "word_turkish": "büyük",
+    "word_arabic": "كبير"
+  },
+  {
+    "id": 86,
+    "word_english": "bill",
+    "word_japanese": "請求書",
+    "word_german": "Rechnung",
+    "word_korean": "청구서",
+    "word_french": "facture",
+    "word_spanish": "factura",
+    "word_portuguese": "fatura",
+    "word_italian": "conto",
+    "word_swedish": "räkning",
+    "word_turkish": "fatura",
+    "word_arabic": "فاتورة"
+  },
+  {
+    "id": 87,
+    "word_english": "billion",
+    "word_japanese": "十億",
+    "word_german": "Milliarde",
+    "word_korean": "십억",
+    "word_french": "milliard",
+    "word_spanish": "mil millones",
+    "word_portuguese": "mil milhões",
+    "word_italian": "miliardo",
+    "word_swedish": "miljard",
+    "word_turkish": "milyar",
+    "word_arabic": "مليار"
+  },
+  {
+    "id": 88,
+    "word_english": "bird",
+    "word_japanese": "鳥",
+    "word_german": "Vogel",
+    "word_korean": "새",
+    "word_french": "oiseau",
+    "word_spanish": "pájaro",
+    "word_portuguese": "pássaro",
+    "word_italian": "uccello",
+    "word_swedish": "fågel",
+    "word_turkish": "kuş",
+    "word_arabic": "طائر"
+  },
+  {
+    "id": 89,
+    "word_english": "birthday",
+    "word_japanese": "誕生日",
+    "word_german": "Geburtstag",
+    "word_korean": "생일",
+    "word_french": "anniversaire",
+    "word_spanish": "cumpleaños",
+    "word_portuguese": "aniversário",
+    "word_italian": "compleanno",
+    "word_swedish": "födelsedag",
+    "word_turkish": "doğum günü",
+    "word_arabic": "عيد ميلاد"
+  },
+  {
+    "id": 90,
+    "word_english": "black",
+    "word_japanese": "黒",
+    "word_german": "schwarz",
+    "word_korean": "검은색",
+    "word_french": "noir",
+    "word_spanish": "negro",
+    "word_portuguese": "preto",
+    "word_italian": "nero",
+    "word_swedish": "svart",
+    "word_turkish": "siyah",
+    "word_arabic": "أسود"
+  },
+  {
+    "id": 91,
+    "word_english": "bless",
+    "word_japanese": "祝福する",
+    "word_german": "segnen",
+    "word_korean": "축복하다",
+    "word_french": "bénir",
+    "word_spanish": "bendecir",
+    "word_portuguese": "abençoar",
+    "word_italian": "benedire",
+    "word_swedish": "välsigna",
+    "word_turkish": "kutlamak",
+    "word_arabic": "يبارك"
+  },
+  {
+    "id": 92,
+    "word_english": "blood",
+    "word_japanese": "血",
+    "word_german": "Blut",
+    "word_korean": "피",
+    "word_french": "sang",
+    "word_spanish": "sangre",
+    "word_portuguese": "sangue",
+    "word_italian": "sangue",
+    "word_swedish": "blod",
+    "word_turkish": "kan",
+    "word_arabic": "دم"
+  },
+  {
+    "id": 93,
+    "word_english": "blow",
+    "word_japanese": "吹く",
+    "word_german": "blasen",
+    "word_korean": "불다",
+    "word_french": "souffler",
+    "word_spanish": "soplar",
+    "word_portuguese": "soprar",
+    "word_italian": "soffiare",
+    "word_swedish": "blåsa",
+    "word_turkish": "üflemek",
+    "word_arabic": "ينفخ"
+  },
+  {
+    "id": 94,
+    "word_english": "blue",
+    "word_japanese": "青",
+    "word_german": "blau",
+    "word_korean": "파란색",
+    "word_french": "bleu",
+    "word_spanish": "azul",
+    "word_portuguese": "azul",
+    "word_italian": "blu",
+    "word_swedish": "blå",
+    "word_turkish": "mavi",
+    "word_arabic": "أزرق"
+  },
+  {
+    "id": 95,
+    "word_english": "board",
+    "word_japanese": "板",
+    "word_german": "Brett",
+    "word_korean": "판자",
+    "word_french": "planche",
+    "word_spanish": "tabla",
+    "word_portuguese": "tábua",
+    "word_italian": "tavola",
+    "word_swedish": "bräda",
+    "word_turkish": "tahta",
+    "word_arabic": "لوح"
+  },
+  {
+    "id": 96,
+    "word_english": "body",
+    "word_japanese": "体",
+    "word_german": "Körper",
+    "word_korean": "몸",
+    "word_french": "corps",
+    "word_spanish": "cuerpo",
+    "word_portuguese": "corpo",
+    "word_italian": "corpo",
+    "word_swedish": "kropp",
+    "word_turkish": "vücut",
+    "word_arabic": "جسم"
+  },
+  {
+    "id": 97,
+    "word_english": "book",
+    "word_japanese": "本",
+    "word_german": "Buch",
+    "word_korean": "책",
+    "word_french": "livre",
+    "word_spanish": "libro",
+    "word_portuguese": "livro",
+    "word_italian": "libro",
+    "word_swedish": "bok",
+    "word_turkish": "kitap",
+    "word_arabic": "كتاب"
+  },
+  {
+    "id": 98,
+    "word_english": "border",
+    "word_japanese": "国境",
+    "word_german": "Grenze",
+    "word_korean": "경계",
+    "word_french": "frontière",
+    "word_spanish": "frontera",
+    "word_portuguese": "fronteira",
+    "word_italian": "confine",
+    "word_swedish": "gräns",
+    "word_turkish": "sınır",
+    "word_arabic": "حدود"
+  },
+  {
+    "id": 99,
+    "word_english": "both",
+    "word_japanese": "両方",
+    "word_german": "beide",
+    "word_korean": "둘 다",
+    "word_french": "les deux",
+    "word_spanish": "ambos",
+    "word_portuguese": "ambos",
+    "word_italian": "entrambi",
+    "word_swedish": "båda",
+    "word_turkish": "ikisi de",
+    "word_arabic": "كلاهما"
+  },
+  {
+    "id": 100,
+    "word_english": "bother",
+    "word_japanese": "困らせる",
+    "word_german": "stören",
+    "word_korean": "귀찮게 하다",
+    "word_french": "déranger",
+    "word_spanish": "molestar",
+    "word_portuguese": "incomodar",
+    "word_italian": "disturbare",
+    "word_swedish": "störa",
+    "word_turkish": "rahatsız etmek",
+    "word_arabic": "يزعج"
+  },
+  {
+    "id": 101,
+    "word_english": "bottle",
+    "word_japanese": "瓶",
+    "word_german": "Flasche",
+    "word_korean": "병",
+    "word_french": "bouteille",
+    "word_spanish": "botella",
+    "word_portuguese": "garrafa",
+    "word_italian": "bottiglia",
+    "word_swedish": "flaska",
+    "word_turkish": "şişe",
+    "word_arabic": "زجاجة"
+  },
+  {
+    "id": 102,
+    "word_english": "bottom",
+    "word_japanese": "底",
+    "word_german": "Unterseite",
+    "word_korean": "바닥",
+    "word_french": "bas",
+    "word_spanish": "fondo",
+    "word_portuguese": "fundo",
+    "word_italian": "fondo",
+    "word_swedish": "botten",
+    "word_turkish": "alt",
+    "word_arabic": "أسفل"
+  },
+  {
+    "id": 103,
+    "word_english": "boundary",
+    "word_japanese": "境界",
+    "word_german": "Grenze",
+    "word_korean": "경계",
+    "word_french": "limite",
+    "word_spanish": "límite",
+    "word_portuguese": "limite",
+    "word_italian": "confine",
+    "word_swedish": "gräns",
+    "word_turkish": "sınır",
+    "word_arabic": "حدود"
+  },
+  {
+    "id": 104,
+    "word_english": "bowl",
+    "word_japanese": "ボウル",
+    "word_german": "Schüssel",
+    "word_korean": "그릇",
+    "word_french": "bol",
+    "word_spanish": "tazón",
+    "word_portuguese": "tigela",
+    "word_italian": "ciotola",
+    "word_swedish": "skål",
+    "word_turkish": "kase",
+    "word_arabic": "وعاء"
+  },
+  {
+    "id": 105,
+    "word_english": "brain",
+    "word_japanese": "脳",
+    "word_german": "Gehirn",
+    "word_korean": "뇌",
+    "word_french": "cerveau",
+    "word_spanish": "cerebro",
+    "word_portuguese": "cérebro",
+    "word_italian": "cervello",
+    "word_swedish": "hjärna",
+    "word_turkish": "beyin",
+    "word_arabic": "دماغ"
+  },
+  {
+    "id": 106,
+    "word_english": "branch",
+    "word_japanese": "枝",
+    "word_german": "Ast",
+    "word_korean": "가지",
+    "word_french": "branche",
+    "word_spanish": "rama",
+    "word_portuguese": "ramo",
+    "word_italian": "ramo",
+    "word_swedish": "gren",
+    "word_turkish": "dal",
+    "word_arabic": "غصن"
+  },
+  {
+    "id": 107,
+    "word_english": "bread",
+    "word_japanese": "パン",
+    "word_german": "Brot",
+    "word_korean": "빵",
+    "word_french": "pain",
+    "word_spanish": "pan",
+    "word_portuguese": "pão",
+    "word_italian": "pane",
+    "word_swedish": "bröd",
+    "word_turkish": "ekmek",
+    "word_arabic": "خبز"
+  },
+  {
+    "id": 108,
+    "word_english": "break",
+    "word_japanese": "壊す",
+    "word_german": "brechen",
+    "word_korean": "깨뜨리다",
+    "word_french": "casser",
+    "word_spanish": "romper",
+    "word_portuguese": "quebrar",
+    "word_italian": "rompere",
+    "word_swedish": "bryta",
+    "word_turkish": "kırmak",
+    "word_arabic": "يكسر"
+  },
+  {
+    "id": 109,
+    "word_english": "breakfast",
+    "word_japanese": "朝食",
+    "word_german": "Frühstück",
+    "word_korean": "아침 식사",
+    "word_french": "petit-déjeuner",
+    "word_spanish": "desayuno",
+    "word_portuguese": "pequeno-almoço",
+    "word_italian": "colazione",
+    "word_swedish": "frukost",
+    "word_turkish": "kahvaltı",
+    "word_arabic": "فطور"
+  },
+  {
+    "id": 110,
+    "word_english": "bring",
+    "word_japanese": "持ってくる",
+    "word_german": "bringen",
+    "word_korean": "가져오다",
+    "word_french": "apporter",
+    "word_spanish": "traer",
+    "word_portuguese": "trazer",
+    "word_italian": "portare",
+    "word_swedish": "ta med",
+    "word_turkish": "getirmek",
+    "word_arabic": "يجلب"
+  },
+  {
+    "id": 111,
+    "word_english": "brother",
+    "word_japanese": "兄弟",
+    "word_german": "Bruder",
+    "word_korean": "형제",
+    "word_french": "frère",
+    "word_spanish": "hermano",
+    "word_portuguese": "irmão",
+    "word_italian": "fratello",
+    "word_swedish": "bror",
+    "word_turkish": "erkek kardeş",
+    "word_arabic": "أخ"
+  },
+  {
+    "id": 112,
+    "word_english": "build",
+    "word_japanese": "建てる",
+    "word_german": "bauen",
+    "word_korean": "짓다",
+    "word_french": "construire",
+    "word_spanish": "construir",
+    "word_portuguese": "construir",
+    "word_italian": "costruire",
+    "word_swedish": "bygga",
+    "word_turkish": "inşa etmek",
+    "word_arabic": "يبني"
+  },
+  {
+    "id": 113,
+    "word_english": "business",
+    "word_japanese": "仕事",
+    "word_german": "Geschäft",
+    "word_korean": "사업",
+    "word_french": "affaires",
+    "word_spanish": "negocio",
+    "word_portuguese": "negócio",
+    "word_italian": "affari",
+    "word_swedish": "verksamhet",
+    "word_turkish": "iş",
+    "word_arabic": "عمل"
+  },
+  {
+    "id": 114,
+    "word_english": "busy",
+    "word_japanese": "忙しい",
+    "word_german": "beschäftigt",
+    "word_korean": "바쁜",
+    "word_french": "occupé",
+    "word_spanish": "ocupado",
+    "word_portuguese": "ocupado",
+    "word_italian": "occupato",
+    "word_swedish": "upptagen",
+    "word_turkish": "meşgul",
+    "word_arabic": "مشغول"
+  },
+  {
+    "id": 115,
+    "word_english": "but",
+    "word_japanese": "しかし",
+    "word_german": "aber",
+    "word_korean": "하지만",
+    "word_french": "mais",
+    "word_spanish": "pero",
+    "word_portuguese": "mas",
+    "word_italian": "ma",
+    "word_swedish": "men",
+    "word_turkish": "ama",
+    "word_arabic": "لكن"
+  },
+  {
+    "id": 116,
+    "word_english": "buy",
+    "word_japanese": "買う",
+    "word_german": "kaufen",
+    "word_korean": "사다",
+    "word_french": "acheter",
+    "word_spanish": "comprar",
+    "word_portuguese": "comprar",
+    "word_italian": "comprare",
+    "word_swedish": "köpa",
+    "word_turkish": "satın almak",
+    "word_arabic": "يشتري"
+  },
+  {
+    "id": 117,
+    "word_english": "by",
+    "word_japanese": "〜によって",
+    "word_german": "von",
+    "word_korean": "~에 의해",
+    "word_french": "par",
+    "word_spanish": "por",
+    "word_portuguese": "por",
+    "word_italian": "da",
+    "word_swedish": "av",
+    "word_turkish": "tarafından",
+    "word_arabic": "بواسطة"
+  },
+  {
+    "id": 118,
+    "word_english": "call",
+    "word_japanese": "電話する",
+    "word_german": "anrufen",
+    "word_korean": "전화하다",
+    "word_french": "appeler",
+    "word_spanish": "llamar",
+    "word_portuguese": "telefonar",
+    "word_italian": "chiamare",
+    "word_swedish": "ringa",
+    "word_turkish": "aramak",
+    "word_arabic": "يتصل"
+  },
+  {
+    "id": 119,
+    "word_english": "camera",
+    "word_japanese": "カメラ",
+    "word_german": "Kamera",
+    "word_korean": "카메라",
+    "word_french": "caméra",
+    "word_spanish": "cámara",
+    "word_portuguese": "câmara",
+    "word_italian": "fotocamera",
+    "word_swedish": "kamera",
+    "word_turkish": "kamera",
+    "word_arabic": "كاميرا"
+  },
+  {
+    "id": 120,
+    "word_english": "campaign",
+    "word_japanese": "キャンペーン",
+    "word_german": "Kampagne",
+    "word_korean": "캠페인",
+    "word_french": "campagne",
+    "word_spanish": "campaña",
+    "word_portuguese": "campanha",
+    "word_italian": "campagna",
+    "word_swedish": "kampanj",
+    "word_turkish": "kampanya",
+    "word_arabic": "حملة"
+  },
+  {
+    "id": 121,
+    "word_english": "can",
+    "word_japanese": "〜できる",
+    "word_german": "können",
+    "word_korean": "~할 수 있다",
+    "word_french": "pouvoir",
+    "word_spanish": "poder",
+    "word_portuguese": "poder",
+    "word_italian": "potere",
+    "word_swedish": "kunna",
+    "word_turkish": "yapabilmek",
+    "word_arabic": "يستطيع"
+  },
+  {
+    "id": 122,
+    "word_english": "capital",
+    "word_japanese": "首都",
+    "word_german": "Hauptstadt",
+    "word_korean": "수도",
+    "word_french": "capitale",
+    "word_spanish": "capital",
+    "word_portuguese": "capital",
+    "word_italian": "capitale",
+    "word_swedish": "huvudstad",
+    "word_turkish": "başkent",
+    "word_arabic": "عاصمة"
+  },
+  {
+    "id": 123,
+    "word_english": "car",
+    "word_japanese": "車",
+    "word_german": "Auto",
+    "word_korean": "자동차",
+    "word_french": "voiture",
+    "word_spanish": "coche",
+    "word_portuguese": "carro",
+    "word_italian": "auto",
+    "word_swedish": "bil",
+    "word_turkish": "araba",
+    "word_arabic": "سيارة"
+  },
+  {
+    "id": 124,
+    "word_english": "care",
+    "word_japanese": "世話をする",
+    "word_german": "sich kümmern",
+    "word_korean": "돌보다",
+    "word_french": "prendre soin",
+    "word_spanish": "cuidar",
+    "word_portuguese": "cuidar",
+    "word_italian": "prendersi cura",
+    "word_swedish": "ta hand om",
+    "word_turkish": "bakmak",
+    "word_arabic": "يعتني"
+  },
+  {
+    "id": 125,
+    "word_english": "careful",
+    "word_japanese": "注意深い",
+    "word_german": "vorsichtig",
+    "word_korean": "조심스러운",
+    "word_french": "prudent",
+    "word_spanish": "cuidadoso",
+    "word_portuguese": "cuidadoso",
+    "word_italian": "attento",
+    "word_swedish": "försiktig",
+    "word_turkish": "dikkatli",
+    "word_arabic": "حذر"
+  },
+  {
+    "id": 126,
+    "word_english": "carry",
+    "word_japanese": "運ぶ",
+    "word_german": "tragen",
+    "word_korean": "나르다",
+    "word_french": "porter",
+    "word_spanish": "llevar",
+    "word_portuguese": "transportar",
+    "word_italian": "portare",
+    "word_swedish": "bära",
+    "word_turkish": "taşımak",
+    "word_arabic": "يحمل"
+  },
+  {
+    "id": 127,
+    "word_english": "cause",
+    "word_japanese": "引き起こす",
+    "word_german": "verursachen",
+    "word_korean": "야기하다",
+    "word_french": "causer",
+    "word_spanish": "causar",
+    "word_portuguese": "causar",
+    "word_italian": "causare",
+    "word_swedish": "orsaka",
+    "word_turkish": "sebep olmak",
+    "word_arabic": "يسبب"
+  },
+  {
+    "id": 128,
+    "word_english": "celebrate",
+    "word_japanese": "祝う",
+    "word_german": "feiern",
+    "word_korean": "축하하다",
+    "word_french": "célébrer",
+    "word_spanish": "celebrar",
+    "word_portuguese": "celebrar",
+    "word_italian": "celebrare",
+    "word_swedish": "fira",
+    "word_turkish": "kutlamak",
+    "word_arabic": "يحتفل"
+  },
+  {
+    "id": 129,
+    "word_english": "center",
+    "word_japanese": "中心",
+    "word_german": "Zentrum",
+    "word_korean": "중심",
+    "word_french": "centre",
+    "word_spanish": "centro",
+    "word_portuguese": "centro",
+    "word_italian": "centro",
+    "word_swedish": "centrum",
+    "word_turkish": "merkez",
+    "word_arabic": "مركز"
+  },
+  {
+    "id": 130,
+    "word_english": "certain",
+    "word_japanese": "確かな",
+    "word_german": "sicher",
+    "word_korean": "확실한",
+    "word_french": "certain",
+    "word_spanish": "seguro",
+    "word_portuguese": "certo",
+    "word_italian": "certo",
+    "word_swedish": "säker",
+    "word_turkish": "kesin",
+    "word_arabic": "مؤكد"
+  },
+  {
+    "id": 131,
+    "word_english": "chance",
+    "word_japanese": "機会",
+    "word_german": "Chance",
+    "word_korean": "기회",
+    "word_french": "chance",
+    "word_spanish": "oportunidad",
+    "word_portuguese": "oportunidade",
+    "word_italian": "possibilità",
+    "word_swedish": "chans",
+    "word_turkish": "şans",
+    "word_arabic": "فرصة"
+  },
+  {
+    "id": 132,
+    "word_english": "change",
+    "word_japanese": "変える",
+    "word_german": "ändern",
+    "word_korean": "바꾸다",
+    "word_french": "changer",
+    "word_spanish": "cambiar",
+    "word_portuguese": "mudar",
+    "word_italian": "cambiare",
+    "word_swedish": "ändra",
+    "word_turkish": "değiştirmek",
+    "word_arabic": "يغيّر"
+  },
+  {
+    "id": 133,
+    "word_english": "charge",
+    "word_japanese": "充電する",
+    "word_german": "aufladen",
+    "word_korean": "충전하다",
+    "word_french": "charger",
+    "word_spanish": "cargar",
+    "word_portuguese": "carregar",
+    "word_italian": "caricare",
+    "word_swedish": "ladda",
+    "word_turkish": "şarj etmek",
+    "word_arabic": "يشحن"
+  },
+  {
+    "id": 134,
+    "word_english": "check",
+    "word_japanese": "確認する",
+    "word_german": "prüfen",
+    "word_korean": "확인하다",
+    "word_french": "vérifier",
+    "word_spanish": "comprobar",
+    "word_portuguese": "verificar",
+    "word_italian": "controllare",
+    "word_swedish": "kontrollera",
+    "word_turkish": "kontrol etmek",
+    "word_arabic": "يفحص"
+  },
+  {
+    "id": 135,
+    "word_english": "child",
+    "word_japanese": "子供",
+    "word_german": "Kind",
+    "word_korean": "아이",
+    "word_french": "enfant",
+    "word_spanish": "niño",
+    "word_portuguese": "criança",
+    "word_italian": "bambino",
+    "word_swedish": "barn",
+    "word_turkish": "çocuk",
+    "word_arabic": "طفل"
+  },
+  {
+    "id": 136,
+    "word_english": "choice",
+    "word_japanese": "選択",
+    "word_german": "Wahl",
+    "word_korean": "선택",
+    "word_french": "choix",
+    "word_spanish": "elección",
+    "word_portuguese": "escolha",
+    "word_italian": "scelta",
+    "word_swedish": "val",
+    "word_turkish": "seçim",
+    "word_arabic": "اختيار"
+  },
+  {
+    "id": 137,
+    "word_english": "choose",
+    "word_japanese": "選ぶ",
+    "word_german": "wählen",
+    "word_korean": "선택하다",
+    "word_french": "choisir",
+    "word_spanish": "elegir",
+    "word_portuguese": "escolher",
+    "word_italian": "scegliere",
+    "word_swedish": "välja",
+    "word_turkish": "seçmek",
+    "word_arabic": "يختار"
+  },
+  {
+    "id": 138,
+    "word_english": "church",
+    "word_japanese": "教会",
+    "word_german": "Kirche",
+    "word_korean": "교회",
+    "word_french": "église",
+    "word_spanish": "iglesia",
+    "word_portuguese": "igreja",
+    "word_italian": "chiesa",
+    "word_swedish": "kyrka",
+    "word_turkish": "kilise",
+    "word_arabic": "كنيسة"
+  },
+  {
+    "id": 139,
+    "word_english": "circle",
+    "word_japanese": "円",
+    "word_german": "Kreis",
+    "word_korean": "원",
+    "word_french": "cercle",
+    "word_spanish": "círculo",
+    "word_portuguese": "círculo",
+    "word_italian": "cerchio",
+    "word_swedish": "cirkel",
+    "word_turkish": "daire",
+    "word_arabic": "دائرة"
+  },
+  {
+    "id": 140,
+    "word_english": "city",
+    "word_japanese": "都市",
+    "word_german": "Stadt",
+    "word_korean": "도시",
+    "word_french": "ville",
+    "word_spanish": "ciudad",
+    "word_portuguese": "cidade",
+    "word_italian": "città",
+    "word_swedish": "stad",
+    "word_turkish": "şehir",
+    "word_arabic": "مدينة"
+  },
+  {
+    "id": 141,
+    "word_english": "class",
+    "word_japanese": "クラス",
+    "word_german": "Klasse",
+    "word_korean": "수업",
+    "word_french": "classe",
+    "word_spanish": "clase",
+    "word_portuguese": "aula",
+    "word_italian": "classe",
+    "word_swedish": "klass",
+    "word_turkish": "sınıf",
+    "word_arabic": "صف"
+  },
+  {
+    "id": 142,
+    "word_english": "clean",
+    "word_japanese": "きれいな",
+    "word_german": "sauber",
+    "word_korean": "깨끗한",
+    "word_french": "propre",
+    "word_spanish": "limpio",
+    "word_portuguese": "limpo",
+    "word_italian": "pulito",
+    "word_swedish": "ren",
+    "word_turkish": "temiz",
+    "word_arabic": "نظيف"
+  },
+  {
+    "id": 143,
+    "word_english": "clear",
+    "word_japanese": "明確な",
+    "word_german": "klar",
+    "word_korean": "명확한",
+    "word_french": "clair",
+    "word_spanish": "claro",
+    "word_portuguese": "claro",
+    "word_italian": "chiaro",
+    "word_swedish": "tydlig",
+    "word_turkish": "açık",
+    "word_arabic": "واضح"
+  },
+  {
+    "id": 144,
+    "word_english": "climb",
+    "word_japanese": "登る",
+    "word_german": "klettern",
+    "word_korean": "오르다",
+    "word_french": "grimper",
+    "word_spanish": "subir",
+    "word_portuguese": "trepar",
+    "word_italian": "arrampicarsi",
+    "word_swedish": "klättra",
+    "word_turkish": "tırmanmak",
+    "word_arabic": "يتسلق"
+  },
+  {
+    "id": 145,
+    "word_english": "clothes",
+    "word_japanese": "服",
+    "word_german": "Kleidung",
+    "word_korean": "옷",
+    "word_french": "vêtements",
+    "word_spanish": "ropa",
+    "word_portuguese": "roupa",
+    "word_italian": "vestiti",
+    "word_swedish": "kläder",
+    "word_turkish": "giysi",
+    "word_arabic": "ملابس"
+  },
+  {
+    "id": 146,
+    "word_english": "cloud",
+    "word_japanese": "雲",
+    "word_german": "Wolke",
+    "word_korean": "구름",
+    "word_french": "nuage",
+    "word_spanish": "nube",
+    "word_portuguese": "nuvem",
+    "word_italian": "nuvola",
+    "word_swedish": "moln",
+    "word_turkish": "bulut",
+    "word_arabic": "سحابة"
+  },
+  {
+    "id": 147,
+    "word_english": "coach",
+    "word_japanese": "コーチ",
+    "word_german": "Trainer",
+    "word_korean": "코치",
+    "word_french": "entraîneur",
+    "word_spanish": "entrenador",
+    "word_portuguese": "treinador",
+    "word_italian": "allenatore",
+    "word_swedish": "tränare",
+    "word_turkish": "koç",
+    "word_arabic": "مدرب"
+  },
+  {
+    "id": 148,
+    "word_english": "cold",
+    "word_japanese": "寒い",
+    "word_german": "kalt",
+    "word_korean": "추운",
+    "word_french": "froid",
+    "word_spanish": "frío",
+    "word_portuguese": "frio",
+    "word_italian": "freddo",
+    "word_swedish": "kall",
+    "word_turkish": "soğuk",
+    "word_arabic": "بارد"
+  },
+  {
+    "id": 149,
+    "word_english": "collect",
+    "word_japanese": "集める",
+    "word_german": "sammeln",
+    "word_korean": "모으다",
+    "word_french": "collecter",
+    "word_spanish": "recoger",
+    "word_portuguese": "recolher",
+    "word_italian": "raccogliere",
+    "word_swedish": "samla",
+    "word_turkish": "toplamak",
+    "word_arabic": "يجمع"
+  },
+  {
+    "id": 150,
+    "word_english": "color",
+    "word_japanese": "色",
+    "word_german": "Farbe",
+    "word_korean": "색",
+    "word_french": "couleur",
+    "word_spanish": "color",
+    "word_portuguese": "cor",
+    "word_italian": "colore",
+    "word_swedish": "färg",
+    "word_turkish": "renk",
+    "word_arabic": "لون"
+  },
+  {
+    "id": 151,
+    "word_english": "come",
+    "word_japanese": "来る",
+    "word_german": "kommen",
+    "word_korean": "오다",
+    "word_french": "venir",
+    "word_spanish": "venir",
+    "word_portuguese": "vir",
+    "word_italian": "venire",
+    "word_swedish": "komma",
+    "word_turkish": "gelmek",
+    "word_arabic": "يأتي"
+  },
+  {
+    "id": 152,
+    "word_english": "common",
+    "word_japanese": "一般的な",
+    "word_german": "häufig",
+    "word_korean": "흔한",
+    "word_french": "commun",
+    "word_spanish": "común",
+    "word_portuguese": "comum",
+    "word_italian": "comune",
+    "word_swedish": "vanlig",
+    "word_turkish": "yaygın",
+    "word_arabic": "شائع"
+  },
+  {
+    "id": 153,
+    "word_english": "company",
+    "word_japanese": "会社",
+    "word_german": "Unternehmen",
+    "word_korean": "회사",
+    "word_french": "entreprise",
+    "word_spanish": "empresa",
+    "word_portuguese": "empresa",
+    "word_italian": "azienda",
+    "word_swedish": "företag",
+    "word_turkish": "şirket",
+    "word_arabic": "شركة"
+  },
+  {
+    "id": 154,
+    "word_english": "compare",
+    "word_japanese": "比較する",
+    "word_german": "vergleichen",
+    "word_korean": "비교하다",
+    "word_french": "comparer",
+    "word_spanish": "comparar",
+    "word_portuguese": "comparar",
+    "word_italian": "confrontare",
+    "word_swedish": "jämföra",
+    "word_turkish": "karşılaştırmak",
+    "word_arabic": "يقارن"
+  },
+  {
+    "id": 155,
+    "word_english": "complete",
+    "word_japanese": "完了する",
+    "word_german": "abschließen",
+    "word_korean": "완료하다",
+    "word_french": "terminer",
+    "word_spanish": "completar",
+    "word_portuguese": "completar",
+    "word_italian": "completare",
+    "word_swedish": "slutföra",
+    "word_turkish": "tamamlamak",
+    "word_arabic": "يكمل"
+  },
+  {
+    "id": 156,
+    "word_english": "computer",
+    "word_japanese": "コンピューター",
+    "word_german": "Computer",
+    "word_korean": "컴퓨터",
+    "word_french": "ordinateur",
+    "word_spanish": "ordenador",
+    "word_portuguese": "computador",
+    "word_italian": "computer",
+    "word_swedish": "dator",
+    "word_turkish": "bilgisayar",
+    "word_arabic": "حاسوب"
+  },
+  {
+    "id": 157,
+    "word_english": "concert",
+    "word_japanese": "コンサート",
+    "word_german": "Konzert",
+    "word_korean": "콘서트",
+    "word_french": "concert",
+    "word_spanish": "concierto",
+    "word_portuguese": "concerto",
+    "word_italian": "concerto",
+    "word_swedish": "konsert",
+    "word_turkish": "konser",
+    "word_arabic": "حفلة موسيقية"
+  },
+  {
+    "id": 158,
+    "word_english": "condition",
+    "word_japanese": "状態",
+    "word_german": "Zustand",
+    "word_korean": "상태",
+    "word_french": "condition",
+    "word_spanish": "condición",
+    "word_portuguese": "condição",
+    "word_italian": "condizione",
+    "word_swedish": "tillstånd",
+    "word_turkish": "durum",
+    "word_arabic": "حالة"
+  },
+  {
+    "id": 159,
+    "word_english": "conference",
+    "word_japanese": "会議",
+    "word_german": "Konferenz",
+    "word_korean": "회의",
+    "word_french": "conférence",
+    "word_spanish": "conferencia",
+    "word_portuguese": "conferência",
+    "word_italian": "conferenza",
+    "word_swedish": "konferens",
+    "word_turkish": "konferans",
+    "word_arabic": "مؤتمر"
+  },
+  {
+    "id": 160,
+    "word_english": "confidence",
+    "word_japanese": "自信",
+    "word_german": "Vertrauen",
+    "word_korean": "자신감",
+    "word_french": "confiance",
+    "word_spanish": "confianza",
+    "word_portuguese": "confiança",
+    "word_italian": "fiducia",
+    "word_swedish": "självförtroende",
+    "word_turkish": "güven",
+    "word_arabic": "ثقة"
+  },
+  {
+    "id": 161,
+    "word_english": "confuse",
+    "word_japanese": "混乱させる",
+    "word_german": "verwirren",
+    "word_korean": "혼란스럽게 하다",
+    "word_french": "confondre",
+    "word_spanish": "confundir",
+    "word_portuguese": "confundir",
+    "word_italian": "confondere",
+    "word_swedish": "förvirra",
+    "word_turkish": "kafasını karıştırmak",
+    "word_arabic": "يربك"
+  },
+  {
+    "id": 162,
+    "word_english": "connect",
+    "word_japanese": "つなぐ",
+    "word_german": "verbinden",
+    "word_korean": "연결하다",
+    "word_french": "connecter",
+    "word_spanish": "conectar",
+    "word_portuguese": "ligar",
+    "word_italian": "collegare",
+    "word_swedish": "ansluta",
+    "word_turkish": "bağlamak",
+    "word_arabic": "يربط"
+  },
+  {
+    "id": 163,
+    "word_english": "contact",
+    "word_japanese": "連絡",
+    "word_german": "Kontakt",
+    "word_korean": "연락",
+    "word_french": "contact",
+    "word_spanish": "contacto",
+    "word_portuguese": "contacto",
+    "word_italian": "contatto",
+    "word_swedish": "kontakt",
+    "word_turkish": "iletişim",
+    "word_arabic": "اتصال"
+  },
+  {
+    "id": 164,
+    "word_english": "continue",
+    "word_japanese": "続ける",
+    "word_german": "fortsetzen",
+    "word_korean": "계속하다",
+    "word_french": "continuer",
+    "word_spanish": "continuar",
+    "word_portuguese": "continuar",
+    "word_italian": "continuare",
+    "word_swedish": "fortsätta",
+    "word_turkish": "devam etmek",
+    "word_arabic": "يستمر"
+  },
+  {
+    "id": 165,
+    "word_english": "control",
+    "word_japanese": "制御する",
+    "word_german": "kontrollieren",
+    "word_korean": "통제하다",
+    "word_french": "contrôler",
+    "word_spanish": "controlar",
+    "word_portuguese": "controlar",
+    "word_italian": "controllare",
+    "word_swedish": "kontrollera",
+    "word_turkish": "kontrol etmek",
+    "word_arabic": "يسيطر"
+  },
+  {
+    "id": 166,
+    "word_english": "conversation",
+    "word_japanese": "会話",
+    "word_german": "Gespräch",
+    "word_korean": "대화",
+    "word_french": "conversation",
+    "word_spanish": "conversación",
+    "word_portuguese": "conversa",
+    "word_italian": "conversazione",
+    "word_swedish": "samtal",
+    "word_turkish": "konuşma",
+    "word_arabic": "محادثة"
+  },
+  {
+    "id": 167,
+    "word_english": "cook",
+    "word_japanese": "料理する",
+    "word_german": "kochen",
+    "word_korean": "요리하다",
+    "word_french": "cuisiner",
+    "word_spanish": "cocinar",
+    "word_portuguese": "cozinhar",
+    "word_italian": "cucinare",
+    "word_swedish": "laga mat",
+    "word_turkish": "pişirmek",
+    "word_arabic": "يطبخ"
+  },
+  {
+    "id": 168,
+    "word_english": "copy",
+    "word_japanese": "コピー",
+    "word_german": "Kopie",
+    "word_korean": "복사본",
+    "word_french": "copie",
+    "word_spanish": "copia",
+    "word_portuguese": "cópia",
+    "word_italian": "copia",
+    "word_swedish": "kopia",
+    "word_turkish": "kopya",
+    "word_arabic": "نسخة"
+  },
+  {
+    "id": 169,
+    "word_english": "corner",
+    "word_japanese": "角",
+    "word_german": "Ecke",
+    "word_korean": "모퉁이",
+    "word_french": "coin",
+    "word_spanish": "esquina",
+    "word_portuguese": "esquina",
+    "word_italian": "angolo",
+    "word_swedish": "hörn",
+    "word_turkish": "köşe",
+    "word_arabic": "زاوية"
+  },
+  {
+    "id": 170,
+    "word_english": "cost",
+    "word_japanese": "費用",
+    "word_german": "Kosten",
+    "word_korean": "비용",
+    "word_french": "coût",
+    "word_spanish": "coste",
+    "word_portuguese": "custo",
+    "word_italian": "costo",
+    "word_swedish": "kostnad",
+    "word_turkish": "maliyet",
+    "word_arabic": "تكلفة"
+  },
+  {
+    "id": 171,
+    "word_english": "country",
+    "word_japanese": "国",
+    "word_german": "Land",
+    "word_korean": "나라",
+    "word_french": "pays",
+    "word_spanish": "país",
+    "word_portuguese": "país",
+    "word_italian": "paese",
+    "word_swedish": "land",
+    "word_turkish": "ülke",
+    "word_arabic": "بلد"
+  },
+  {
+    "id": 172,
+    "word_english": "courage",
+    "word_japanese": "勇気",
+    "word_german": "Mut",
+    "word_korean": "용기",
+    "word_french": "courage",
+    "word_spanish": "valor",
+    "word_portuguese": "coragem",
+    "word_italian": "coraggio",
+    "word_swedish": "mod",
+    "word_turkish": "cesaret",
+    "word_arabic": "شجاعة"
+  },
+  {
+    "id": 173,
+    "word_english": "course",
+    "word_japanese": "コース",
+    "word_german": "Kurs",
+    "word_korean": "과정",
+    "word_french": "cours",
+    "word_spanish": "curso",
+    "word_portuguese": "curso",
+    "word_italian": "corso",
+    "word_swedish": "kurs",
+    "word_turkish": "kurs",
+    "word_arabic": "دورة"
+  },
+  {
+    "id": 174,
+    "word_english": "create",
+    "word_japanese": "作る",
+    "word_german": "erstellen",
+    "word_korean": "만들다",
+    "word_french": "créer",
+    "word_spanish": "crear",
+    "word_portuguese": "criar",
+    "word_italian": "creare",
+    "word_swedish": "skapa",
+    "word_turkish": "yaratmak",
+    "word_arabic": "ينشئ"
+  },
+  {
+    "id": 175,
+    "word_english": "danger",
+    "word_japanese": "危険",
+    "word_german": "Gefahr",
+    "word_korean": "위험",
+    "word_french": "danger",
+    "word_spanish": "peligro",
+    "word_portuguese": "perigo",
+    "word_italian": "pericolo",
+    "word_swedish": "fara",
+    "word_turkish": "tehlike",
+    "word_arabic": "خطر"
+  },
+  {
+    "id": 176,
+    "word_english": "data",
+    "word_japanese": "データ",
+    "word_german": "Daten",
+    "word_korean": "데이터",
+    "word_french": "données",
+    "word_spanish": "datos",
+    "word_portuguese": "dados",
+    "word_italian": "dati",
+    "word_swedish": "data",
+    "word_turkish": "veri",
+    "word_arabic": "بيانات"
+  },
+  {
+    "id": 177,
+    "word_english": "date",
+    "word_japanese": "日付",
+    "word_german": "Datum",
+    "word_korean": "날짜",
+    "word_french": "date",
+    "word_spanish": "fecha",
+    "word_portuguese": "data",
+    "word_italian": "data",
+    "word_swedish": "datum",
+    "word_turkish": "tarih",
+    "word_arabic": "تاريخ"
+  },
+  {
+    "id": 178,
+    "word_english": "daughter",
+    "word_japanese": "娘",
+    "word_german": "Tochter",
+    "word_korean": "딸",
+    "word_french": "fille",
+    "word_spanish": "hija",
+    "word_portuguese": "filha",
+    "word_italian": "figlia",
+    "word_swedish": "dotter",
+    "word_turkish": "kız çocuk",
+    "word_arabic": "ابنة"
+  },
+  {
+    "id": 179,
+    "word_english": "day",
+    "word_japanese": "日",
+    "word_german": "Tag",
+    "word_korean": "날",
+    "word_french": "jour",
+    "word_spanish": "día",
+    "word_portuguese": "dia",
+    "word_italian": "giorno",
+    "word_swedish": "dag",
+    "word_turkish": "gün",
+    "word_arabic": "يوم"
+  },
+  {
+    "id": 180,
+    "word_english": "dead",
+    "word_japanese": "死んだ",
+    "word_german": "tot",
+    "word_korean": "죽은",
+    "word_french": "mort",
+    "word_spanish": "muerto",
+    "word_portuguese": "morto",
+    "word_italian": "morto",
+    "word_swedish": "död",
+    "word_turkish": "ölü",
+    "word_arabic": "ميت"
+  },
+  {
+    "id": 181,
+    "word_english": "deal",
+    "word_japanese": "対処する",
+    "word_german": "umgehen",
+    "word_korean": "다루다",
+    "word_french": "traiter",
+    "word_spanish": "tratar",
+    "word_portuguese": "lidar",
+    "word_italian": "trattare",
+    "word_swedish": "hantera",
+    "word_turkish": "iş yapmak",
+    "word_arabic": "يتعامل"
+  },
+  {
+    "id": 182,
+    "word_english": "debate",
+    "word_japanese": "討論",
+    "word_german": "Debatte",
+    "word_korean": "토론",
+    "word_french": "débat",
+    "word_spanish": "debate",
+    "word_portuguese": "debate",
+    "word_italian": "dibattito",
+    "word_swedish": "debatt",
+    "word_turkish": "tartışma",
+    "word_arabic": "نقاش"
+  },
+  {
+    "id": 183,
+    "word_english": "decide",
+    "word_japanese": "決める",
+    "word_german": "entscheiden",
+    "word_korean": "결정하다",
+    "word_french": "décider",
+    "word_spanish": "decidir",
+    "word_portuguese": "decidir",
+    "word_italian": "decidere",
+    "word_swedish": "bestämma",
+    "word_turkish": "karar vermek",
+    "word_arabic": "يقرر"
+  },
+  {
+    "id": 184,
+    "word_english": "deep",
+    "word_japanese": "深い",
+    "word_german": "tief",
+    "word_korean": "깊은",
+    "word_french": "profond",
+    "word_spanish": "profundo",
+    "word_portuguese": "profundo",
+    "word_italian": "profondo",
+    "word_swedish": "djup",
+    "word_turkish": "derin",
+    "word_arabic": "عميق"
+  },
+  {
+    "id": 185,
+    "word_english": "defend",
+    "word_japanese": "守る",
+    "word_german": "verteidigen",
+    "word_korean": "방어하다",
+    "word_french": "défendre",
+    "word_spanish": "defender",
+    "word_portuguese": "defender",
+    "word_italian": "difendere",
+    "word_swedish": "försvara",
+    "word_turkish": "savunmak",
+    "word_arabic": "يدافع"
+  },
+  {
+    "id": 186,
+    "word_english": "degree",
+    "word_japanese": "度",
+    "word_german": "Grad",
+    "word_korean": "도",
+    "word_french": "degré",
+    "word_spanish": "grado",
+    "word_portuguese": "grau",
+    "word_italian": "grado",
+    "word_swedish": "grad",
+    "word_turkish": "derece",
+    "word_arabic": "درجة"
+  },
+  {
+    "id": 187,
+    "word_english": "demand",
+    "word_japanese": "要求する",
+    "word_german": "fordern",
+    "word_korean": "요구하다",
+    "word_french": "exiger",
+    "word_spanish": "exigir",
+    "word_portuguese": "exigir",
+    "word_italian": "esigere",
+    "word_swedish": "kräva",
+    "word_turkish": "talep etmek",
+    "word_arabic": "يطالب"
+  },
+  {
+    "id": 188,
+    "word_english": "deny",
+    "word_japanese": "否定する",
+    "word_german": "leugnen",
+    "word_korean": "부인하다",
+    "word_french": "nier",
+    "word_spanish": "negar",
+    "word_portuguese": "negar",
+    "word_italian": "negare",
+    "word_swedish": "förneka",
+    "word_turkish": "inkar etmek",
+    "word_arabic": "ينكر"
+  },
+  {
+    "id": 189,
+    "word_english": "depart",
+    "word_japanese": "出発する",
+    "word_german": "abfahren",
+    "word_korean": "출발하다",
+    "word_french": "partir",
+    "word_spanish": "partir",
+    "word_portuguese": "partir",
+    "word_italian": "partire",
+    "word_swedish": "avresa",
+    "word_turkish": "ayrılmak",
+    "word_arabic": "يغادر"
+  },
+  {
+    "id": 190,
+    "word_english": "describe",
+    "word_japanese": "説明する",
+    "word_german": "beschreiben",
+    "word_korean": "묘사하다",
+    "word_french": "décrire",
+    "word_spanish": "describir",
+    "word_portuguese": "descrever",
+    "word_italian": "descrivere",
+    "word_swedish": "beskriva",
+    "word_turkish": "tanımlamak",
+    "word_arabic": "يصف"
+  },
+  {
+    "id": 191,
+    "word_english": "desire",
+    "word_japanese": "望む",
+    "word_german": "wünschen",
+    "word_korean": "바라다",
+    "word_french": "désirer",
+    "word_spanish": "desear",
+    "word_portuguese": "desejar",
+    "word_italian": "desiderare",
+    "word_swedish": "önska",
+    "word_turkish": "arzu etmek",
+    "word_arabic": "يرغب"
+  },
+  {
+    "id": 192,
+    "word_english": "develop",
+    "word_japanese": "発展する",
+    "word_german": "sich entwickeln",
+    "word_korean": "발전하다",
+    "word_french": "se développer",
+    "word_spanish": "desarrollarse",
+    "word_portuguese": "desenvolver-se",
+    "word_italian": "svilupparsi",
+    "word_swedish": "utvecklas",
+    "word_turkish": "gelişmek",
+    "word_arabic": "يتطور"
+  },
+  {
+    "id": 193,
+    "word_english": "difference",
+    "word_japanese": "違い",
+    "word_german": "Unterschied",
+    "word_korean": "차이",
+    "word_french": "différence",
+    "word_spanish": "diferencia",
+    "word_portuguese": "diferença",
+    "word_italian": "differenza",
+    "word_swedish": "skillnad",
+    "word_turkish": "fark",
+    "word_arabic": "فرق"
+  },
+  {
+    "id": 194,
+    "word_english": "different",
+    "word_japanese": "異なる",
+    "word_german": "anders",
+    "word_korean": "다른",
+    "word_french": "différent",
+    "word_spanish": "diferente",
+    "word_portuguese": "diferente",
+    "word_italian": "diverso",
+    "word_swedish": "annorlunda",
+    "word_turkish": "farklı",
+    "word_arabic": "مختلف"
+  },
+  {
+    "id": 195,
+    "word_english": "difficult",
+    "word_japanese": "難しい",
+    "word_german": "schwierig",
+    "word_korean": "어려운",
+    "word_french": "difficile",
+    "word_spanish": "difícil",
+    "word_portuguese": "difícil",
+    "word_italian": "difficile",
+    "word_swedish": "svår",
+    "word_turkish": "zor",
+    "word_arabic": "صعب"
+  },
+  {
+    "id": 196,
+    "word_english": "dinner",
+    "word_japanese": "夕食",
+    "word_german": "Abendessen",
+    "word_korean": "저녁 식사",
+    "word_french": "dîner",
+    "word_spanish": "cena",
+    "word_portuguese": "jantar",
+    "word_italian": "cena",
+    "word_swedish": "middag",
+    "word_turkish": "akşam yemeği",
+    "word_arabic": "عشاء"
+  },
+  {
+    "id": 197,
+    "word_english": "direct",
+    "word_japanese": "直接の",
+    "word_german": "direkt",
+    "word_korean": "직접적인",
+    "word_french": "direct",
+    "word_spanish": "directo",
+    "word_portuguese": "direto",
+    "word_italian": "diretto",
+    "word_swedish": "direkt",
+    "word_turkish": "doğrudan",
+    "word_arabic": "مباشر"
+  },
+  {
+    "id": 198,
+    "word_english": "disappear",
+    "word_japanese": "消える",
+    "word_german": "verschwinden",
+    "word_korean": "사라지다",
+    "word_french": "disparaître",
+    "word_spanish": "desaparecer",
+    "word_portuguese": "desaparecer",
+    "word_italian": "scomparire",
+    "word_swedish": "försvinna",
+    "word_turkish": "kaybolmak",
+    "word_arabic": "يختفي"
+  },
+  {
+    "id": 199,
+    "word_english": "discover",
+    "word_japanese": "発見する",
+    "word_german": "entdecken",
+    "word_korean": "발견하다",
+    "word_french": "découvrir",
+    "word_spanish": "descubrir",
+    "word_portuguese": "descobrir",
+    "word_italian": "scoprire",
+    "word_swedish": "upptäcka",
+    "word_turkish": "keşfetmek",
+    "word_arabic": "يكتشف"
+  },
+  {
+    "id": 200,
+    "word_english": "disease",
+    "word_japanese": "病気",
+    "word_german": "Krankheit",
+    "word_korean": "질병",
+    "word_french": "maladie",
+    "word_spanish": "enfermedad",
+    "word_portuguese": "doença",
+    "word_italian": "malattia",
+    "word_swedish": "sjukdom",
+    "word_turkish": "hastalık",
+    "word_arabic": "مرض"
+  },
+  {
+    "id": 201,
+    "word_english": "dish",
+    "word_japanese": "料理",
+    "word_german": "Gericht",
+    "word_korean": "요리",
+    "word_french": "plat",
+    "word_spanish": "plato",
+    "word_portuguese": "prato",
+    "word_italian": "piatto",
+    "word_swedish": "maträtt",
+    "word_turkish": "yemek",
+    "word_arabic": "طبق"
+  },
+  {
+    "id": 202,
+    "word_english": "distance",
+    "word_japanese": "距離",
+    "word_german": "Entfernung",
+    "word_korean": "거리",
+    "word_french": "distance",
+    "word_spanish": "distancia",
+    "word_portuguese": "distância",
+    "word_italian": "distanza",
+    "word_swedish": "avstånd",
+    "word_turkish": "mesafe",
+    "word_arabic": "مسافة"
+  },
+  {
+    "id": 203,
+    "word_english": "divide",
+    "word_japanese": "分ける",
+    "word_german": "teilen",
+    "word_korean": "나누다",
+    "word_french": "diviser",
+    "word_spanish": "dividir",
+    "word_portuguese": "dividir",
+    "word_italian": "dividere",
+    "word_swedish": "dela",
+    "word_turkish": "bölmek",
+    "word_arabic": "يقسم"
+  },
+  {
+    "id": 204,
+    "word_english": "do",
+    "word_japanese": "する",
+    "word_german": "machen",
+    "word_korean": "하다",
+    "word_french": "faire",
+    "word_spanish": "hacer",
+    "word_portuguese": "fazer",
+    "word_italian": "fare",
+    "word_swedish": "göra",
+    "word_turkish": "yapmak",
+    "word_arabic": "يفعل"
+  },
+  {
+    "id": 205,
+    "word_english": "doctor",
+    "word_japanese": "医者",
+    "word_german": "Arzt",
+    "word_korean": "의사",
+    "word_french": "médecin",
+    "word_spanish": "médico",
+    "word_portuguese": "médico",
+    "word_italian": "medico",
+    "word_swedish": "läkare",
+    "word_turkish": "doktor",
+    "word_arabic": "طبيب"
+  },
+  {
+    "id": 206,
+    "word_english": "dog",
+    "word_japanese": "犬",
+    "word_german": "Hund",
+    "word_korean": "개",
+    "word_french": "chien",
+    "word_spanish": "perro",
+    "word_portuguese": "cão",
+    "word_italian": "cane",
+    "word_swedish": "hund",
+    "word_turkish": "köpek",
+    "word_arabic": "كلب"
+  },
+  {
+    "id": 207,
+    "word_english": "door",
+    "word_japanese": "ドア",
+    "word_german": "Tür",
+    "word_korean": "문",
+    "word_french": "porte",
+    "word_spanish": "puerta",
+    "word_portuguese": "porta",
+    "word_italian": "porta",
+    "word_swedish": "dörr",
+    "word_turkish": "kapı",
+    "word_arabic": "باب"
+  },
+  {
+    "id": 208,
+    "word_english": "double",
+    "word_japanese": "二倍の",
+    "word_german": "doppelt",
+    "word_korean": "두 배의",
+    "word_french": "double",
+    "word_spanish": "doble",
+    "word_portuguese": "duplo",
+    "word_italian": "doppio",
+    "word_swedish": "dubbel",
+    "word_turkish": "çift",
+    "word_arabic": "مزدوج"
+  },
+  {
+    "id": 209,
+    "word_english": "down",
+    "word_japanese": "下へ",
+    "word_german": "nach unten",
+    "word_korean": "아래로",
+    "word_french": "vers le bas",
+    "word_spanish": "abajo",
+    "word_portuguese": "para baixo",
+    "word_italian": "giù",
+    "word_swedish": "ned",
+    "word_turkish": "aşağı",
+    "word_arabic": "إلى الأسفل"
+  },
+  {
+    "id": 210,
+    "word_english": "draw",
+    "word_japanese": "描く",
+    "word_german": "zeichnen",
+    "word_korean": "그리다",
+    "word_french": "dessiner",
+    "word_spanish": "dibujar",
+    "word_portuguese": "desenhar",
+    "word_italian": "disegnare",
+    "word_swedish": "rita",
+    "word_turkish": "çizmek",
+    "word_arabic": "يرسم"
+  },
+  {
+    "id": 211,
+    "word_english": "dream",
+    "word_japanese": "夢",
+    "word_german": "Traum",
+    "word_korean": "꿈",
+    "word_french": "rêve",
+    "word_spanish": "sueño",
+    "word_portuguese": "sonho",
+    "word_italian": "sogno",
+    "word_swedish": "dröm",
+    "word_turkish": "rüya",
+    "word_arabic": "حلم"
+  },
+  {
+    "id": 212,
+    "word_english": "dress",
+    "word_japanese": "ドレス",
+    "word_german": "Kleid",
+    "word_korean": "드레스",
+    "word_french": "robe",
+    "word_spanish": "vestido",
+    "word_portuguese": "vestido",
+    "word_italian": "vestito",
+    "word_swedish": "klänning",
+    "word_turkish": "elbise",
+    "word_arabic": "فستان"
+  },
+  {
+    "id": 213,
+    "word_english": "drink",
+    "word_japanese": "飲む",
+    "word_german": "trinken",
+    "word_korean": "마시다",
+    "word_french": "boire",
+    "word_spanish": "beber",
+    "word_portuguese": "beber",
+    "word_italian": "bere",
+    "word_swedish": "dricka",
+    "word_turkish": "içmek",
+    "word_arabic": "يشرب"
+  },
+  {
+    "id": 214,
+    "word_english": "drive",
+    "word_japanese": "運転する",
+    "word_german": "fahren",
+    "word_korean": "운전하다",
+    "word_french": "conduire",
+    "word_spanish": "conducir",
+    "word_portuguese": "conduzir",
+    "word_italian": "guidare",
+    "word_swedish": "köra",
+    "word_turkish": "sürmek",
+    "word_arabic": "يقود"
+  },
+  {
+    "id": 215,
+    "word_english": "drop",
+    "word_japanese": "落とす",
+    "word_german": "fallen lassen",
+    "word_korean": "떨어뜨리다",
+    "word_french": "laisser tomber",
+    "word_spanish": "dejar caer",
+    "word_portuguese": "deixar cair",
+    "word_italian": "lasciare cadere",
+    "word_swedish": "tappa",
+    "word_turkish": "düşürmek",
+    "word_arabic": "يسقط"
+  },
+  {
+    "id": 216,
+    "word_english": "dry",
+    "word_japanese": "乾いた",
+    "word_german": "trocken",
+    "word_korean": "마른",
+    "word_french": "sec",
+    "word_spanish": "seco",
+    "word_portuguese": "seco",
+    "word_italian": "secco",
+    "word_swedish": "torr",
+    "word_turkish": "kuru",
+    "word_arabic": "جاف"
+  },
+  {
+    "id": 217,
+    "word_english": "during",
+    "word_japanese": "〜の間に",
+    "word_german": "während",
+    "word_korean": "~동안",
+    "word_french": "pendant",
+    "word_spanish": "durante",
+    "word_portuguese": "durante",
+    "word_italian": "durante",
+    "word_swedish": "under",
+    "word_turkish": "sırasında",
+    "word_arabic": "خلال"
+  },
+  {
+    "id": 218,
+    "word_english": "each",
+    "word_japanese": "それぞれ",
+    "word_german": "jeder",
+    "word_korean": "각각",
+    "word_french": "chaque",
+    "word_spanish": "cada",
+    "word_portuguese": "cada",
+    "word_italian": "ciascuno",
+    "word_swedish": "varje",
+    "word_turkish": "her",
+    "word_arabic": "كل واحد"
+  },
+  {
+    "id": 219,
+    "word_english": "early",
+    "word_japanese": "早い",
+    "word_german": "früh",
+    "word_korean": "이른",
+    "word_french": "tôt",
+    "word_spanish": "temprano",
+    "word_portuguese": "cedo",
+    "word_italian": "presto",
+    "word_swedish": "tidig",
+    "word_turkish": "erken",
+    "word_arabic": "مبكر"
+  },
+  {
+    "id": 220,
+    "word_english": "earn",
+    "word_japanese": "稼ぐ",
+    "word_german": "verdienen",
+    "word_korean": "벌다",
+    "word_french": "gagner",
+    "word_spanish": "ganar",
+    "word_portuguese": "ganhar",
+    "word_italian": "guadagnare",
+    "word_swedish": "tjäna",
+    "word_turkish": "kazanmak",
+    "word_arabic": "يكسب"
+  },
+  {
+    "id": 221,
+    "word_english": "east",
+    "word_japanese": "東",
+    "word_german": "Osten",
+    "word_korean": "동쪽",
+    "word_french": "est",
+    "word_spanish": "este",
+    "word_portuguese": "leste",
+    "word_italian": "est",
+    "word_swedish": "öst",
+    "word_turkish": "doğu",
+    "word_arabic": "شرق"
+  },
+  {
+    "id": 222,
+    "word_english": "easy",
+    "word_japanese": "簡単な",
+    "word_german": "einfach",
+    "word_korean": "쉬운",
+    "word_french": "facile",
+    "word_spanish": "fácil",
+    "word_portuguese": "fácil",
+    "word_italian": "facile",
+    "word_swedish": "enkel",
+    "word_turkish": "kolay",
+    "word_arabic": "سهل"
+  },
+  {
+    "id": 223,
+    "word_english": "education",
+    "word_japanese": "教育",
+    "word_german": "Bildung",
+    "word_korean": "교육",
+    "word_french": "éducation",
+    "word_spanish": "educación",
+    "word_portuguese": "educação",
+    "word_italian": "istruzione",
+    "word_swedish": "utbildning",
+    "word_turkish": "eğitim",
+    "word_arabic": "تعليم"
+  },
+  {
+    "id": 224,
+    "word_english": "effect",
+    "word_japanese": "効果",
+    "word_german": "Wirkung",
+    "word_korean": "효과",
+    "word_french": "effet",
+    "word_spanish": "efecto",
+    "word_portuguese": "efeito",
+    "word_italian": "effetto",
+    "word_swedish": "effekt",
+    "word_turkish": "etki",
+    "word_arabic": "تأثير"
+  },
+  {
+    "id": 225,
+    "word_english": "enough",
+    "word_japanese": "十分な",
+    "word_german": "genug",
+    "word_korean": "충분한",
+    "word_french": "assez",
+    "word_spanish": "suficiente",
+    "word_portuguese": "suficiente",
+    "word_italian": "abbastanza",
+    "word_swedish": "tillräckligt",
+    "word_turkish": "yeterli",
+    "word_arabic": "كافٍ"
+  },
+  {
+    "id": 226,
+    "word_english": "even",
+    "word_japanese": "〜さえ",
+    "word_german": "sogar",
+    "word_korean": "심지어",
+    "word_french": "même",
+    "word_spanish": "incluso",
+    "word_portuguese": "até",
+    "word_italian": "perfino",
+    "word_swedish": "till och med",
+    "word_turkish": "hatta",
+    "word_arabic": "حتى"
+  },
+  {
+    "id": 227,
+    "word_english": "event",
+    "word_japanese": "イベント",
+    "word_german": "Veranstaltung",
+    "word_korean": "행사",
+    "word_french": "événement",
+    "word_spanish": "evento",
+    "word_portuguese": "evento",
+    "word_italian": "evento",
+    "word_swedish": "evenemang",
+    "word_turkish": "etkinlik",
+    "word_arabic": "حدث"
+  },
+  {
+    "id": 228,
+    "word_english": "every",
+    "word_japanese": "すべての",
+    "word_german": "jeder",
+    "word_korean": "모든",
+    "word_french": "chaque",
+    "word_spanish": "cada",
+    "word_portuguese": "cada",
+    "word_italian": "ogni",
+    "word_swedish": "varje",
+    "word_turkish": "her",
+    "word_arabic": "كل"
+  },
+  {
+    "id": 229,
+    "word_english": "everyone",
+    "word_japanese": "みんな",
+    "word_german": "alle",
+    "word_korean": "모두",
+    "word_french": "tout le monde",
+    "word_spanish": "todos",
+    "word_portuguese": "toda a gente",
+    "word_italian": "tutti",
+    "word_swedish": "alla",
+    "word_turkish": "herkes",
+    "word_arabic": "الجميع"
+  },
+  {
+    "id": 230,
+    "word_english": "everything",
+    "word_japanese": "すべて",
+    "word_german": "alles",
+    "word_korean": "모든 것",
+    "word_french": "tout",
+    "word_spanish": "todo",
+    "word_portuguese": "tudo",
+    "word_italian": "tutto",
+    "word_swedish": "allt",
+    "word_turkish": "her şey",
+    "word_arabic": "كل شيء"
+  },
+  {
+    "id": 231,
+    "word_english": "example",
+    "word_japanese": "例",
+    "word_german": "Beispiel",
+    "word_korean": "예",
+    "word_french": "exemple",
+    "word_spanish": "ejemplo",
+    "word_portuguese": "exemplo",
+    "word_italian": "esempio",
+    "word_swedish": "exempel",
+    "word_turkish": "örnek",
+    "word_arabic": "مثال"
+  },
+  {
+    "id": 232,
+    "word_english": "excuse",
+    "word_japanese": "許す",
+    "word_german": "entschuldigen",
+    "word_korean": "용서하다",
+    "word_french": "excuser",
+    "word_spanish": "disculpar",
+    "word_portuguese": "desculpar",
+    "word_italian": "scusare",
+    "word_swedish": "ursäkta",
+    "word_turkish": "özür dilemek",
+    "word_arabic": "يعذر"
+  },
+  {
+    "id": 233,
+    "word_english": "exercise",
+    "word_japanese": "運動",
+    "word_german": "Übung",
+    "word_korean": "운동",
+    "word_french": "exercice",
+    "word_spanish": "ejercicio",
+    "word_portuguese": "exercício",
+    "word_italian": "esercizio",
+    "word_swedish": "träning",
+    "word_turkish": "egzersiz",
+    "word_arabic": "تمرين"
+  },
+  {
+    "id": 234,
+    "word_english": "exist",
+    "word_japanese": "存在する",
+    "word_german": "existieren",
+    "word_korean": "존재하다",
+    "word_french": "exister",
+    "word_spanish": "existir",
+    "word_portuguese": "existir",
+    "word_italian": "esistere",
+    "word_swedish": "existera",
+    "word_turkish": "var olmak",
+    "word_arabic": "يوجد"
+  },
+  {
+    "id": 235,
+    "word_english": "expand",
+    "word_japanese": "拡大する",
+    "word_german": "erweitern",
+    "word_korean": "확장하다",
+    "word_french": "élargir",
+    "word_spanish": "ampliar",
+    "word_portuguese": "expandir",
+    "word_italian": "espandere",
+    "word_swedish": "utöka",
+    "word_turkish": "genişletmek",
+    "word_arabic": "يوسع"
+  },
+  {
+    "id": 236,
+    "word_english": "expect",
+    "word_japanese": "期待する",
+    "word_german": "erwarten",
+    "word_korean": "기대하다",
+    "word_french": "s'attendre à",
+    "word_spanish": "esperar",
+    "word_portuguese": "esperar",
+    "word_italian": "aspettarsi",
+    "word_swedish": "förvänta sig",
+    "word_turkish": "beklemek",
+    "word_arabic": "يتوقع"
+  },
+  {
+    "id": 237,
+    "word_english": "experience",
+    "word_japanese": "経験",
+    "word_german": "Erfahrung",
+    "word_korean": "경험",
+    "word_french": "expérience",
+    "word_spanish": "experiencia",
+    "word_portuguese": "experiência",
+    "word_italian": "esperienza",
+    "word_swedish": "erfarenhet",
+    "word_turkish": "deneyim",
+    "word_arabic": "خبرة"
+  },
+  {
+    "id": 238,
+    "word_english": "explain",
+    "word_japanese": "説明する",
+    "word_german": "erklären",
+    "word_korean": "설명하다",
+    "word_french": "expliquer",
+    "word_spanish": "explicar",
+    "word_portuguese": "explicar",
+    "word_italian": "spiegare",
+    "word_swedish": "förklara",
+    "word_turkish": "açıklamak",
+    "word_arabic": "يشرح"
+  },
+  {
+    "id": 239,
+    "word_english": "explore",
+    "word_japanese": "探索する",
+    "word_german": "erkunden",
+    "word_korean": "탐험하다",
+    "word_french": "explorer",
+    "word_spanish": "explorar",
+    "word_portuguese": "explorar",
+    "word_italian": "esplorare",
+    "word_swedish": "utforska",
+    "word_turkish": "keşfetmek",
+    "word_arabic": "يستكشف"
+  },
+  {
+    "id": 240,
+    "word_english": "expression",
+    "word_japanese": "表現",
+    "word_german": "Ausdruck",
+    "word_korean": "표현",
+    "word_french": "expression",
+    "word_spanish": "expresión",
+    "word_portuguese": "expressão",
+    "word_italian": "espressione",
+    "word_swedish": "uttryck",
+    "word_turkish": "ifade",
+    "word_arabic": "تعبير"
+  },
+  {
+    "id": 241,
+    "word_english": "eye",
+    "word_japanese": "目",
+    "word_german": "Auge",
+    "word_korean": "눈",
+    "word_french": "œil",
+    "word_spanish": "ojo",
+    "word_portuguese": "olho",
+    "word_italian": "occhio",
+    "word_swedish": "öga",
+    "word_turkish": "göz",
+    "word_arabic": "عين"
+  },
+  {
+    "id": 242,
+    "word_english": "face",
+    "word_japanese": "顔",
+    "word_german": "Gesicht",
+    "word_korean": "얼굴",
+    "word_french": "visage",
+    "word_spanish": "cara",
+    "word_portuguese": "rosto",
+    "word_italian": "viso",
+    "word_swedish": "ansikte",
+    "word_turkish": "yüz",
+    "word_arabic": "وجه"
+  },
+  {
+    "id": 243,
+    "word_english": "fact",
+    "word_japanese": "事実",
+    "word_german": "Tatsache",
+    "word_korean": "사실",
+    "word_french": "fait",
+    "word_spanish": "hecho",
+    "word_portuguese": "facto",
+    "word_italian": "fatto",
+    "word_swedish": "faktum",
+    "word_turkish": "gerçek",
+    "word_arabic": "حقيقة"
+  },
+  {
+    "id": 244,
+    "word_english": "fail",
+    "word_japanese": "失敗する",
+    "word_german": "scheitern",
+    "word_korean": "실패하다",
+    "word_french": "échouer",
+    "word_spanish": "fallar",
+    "word_portuguese": "falhar",
+    "word_italian": "fallire",
+    "word_swedish": "misslyckas",
+    "word_turkish": "başarısız olmak",
+    "word_arabic": "يفشل"
+  },
+  {
+    "id": 245,
+    "word_english": "fall",
+    "word_japanese": "落ちる",
+    "word_german": "fallen",
+    "word_korean": "떨어지다",
+    "word_french": "tomber",
+    "word_spanish": "caer",
+    "word_portuguese": "cair",
+    "word_italian": "cadere",
+    "word_swedish": "falla",
+    "word_turkish": "düşmek",
+    "word_arabic": "يسقط"
+  },
+  {
+    "id": 246,
+    "word_english": "family",
+    "word_japanese": "家族",
+    "word_german": "Familie",
+    "word_korean": "가족",
+    "word_french": "famille",
+    "word_spanish": "familia",
+    "word_portuguese": "família",
+    "word_italian": "famiglia",
+    "word_swedish": "familj",
+    "word_turkish": "aile",
+    "word_arabic": "عائلة"
+  },
+  {
+    "id": 247,
+    "word_english": "famous",
+    "word_japanese": "有名な",
+    "word_german": "berühmt",
+    "word_korean": "유명한",
+    "word_french": "célèbre",
+    "word_spanish": "famoso",
+    "word_portuguese": "famoso",
+    "word_italian": "famoso",
+    "word_swedish": "berömd",
+    "word_turkish": "ünlü",
+    "word_arabic": "مشهور"
+  },
+  {
+    "id": 248,
+    "word_english": "fast",
+    "word_japanese": "速い",
+    "word_german": "schnell",
+    "word_korean": "빠른",
+    "word_french": "rapide",
+    "word_spanish": "rápido",
+    "word_portuguese": "rápido",
+    "word_italian": "veloce",
+    "word_swedish": "snabb",
+    "word_turkish": "hızlı",
+    "word_arabic": "سريع"
+  },
+  {
+    "id": 249,
+    "word_english": "father",
+    "word_japanese": "父",
+    "word_german": "Vater",
+    "word_korean": "아버지",
+    "word_french": "père",
+    "word_spanish": "padre",
+    "word_portuguese": "pai",
+    "word_italian": "padre",
+    "word_swedish": "far",
+    "word_turkish": "baba",
+    "word_arabic": "أب"
+  },
+  {
+    "id": 250,
+    "word_english": "feel",
+    "word_japanese": "感じる",
+    "word_german": "fühlen",
+    "word_korean": "느끼다",
+    "word_french": "sentir",
+    "word_spanish": "sentir",
+    "word_portuguese": "sentir",
+    "word_italian": "sentire",
+    "word_swedish": "känna",
+    "word_turkish": "hissetmek",
+    "word_arabic": "يشعر"
+  },
+  {
+    "id": 251,
+    "word_english": "female",
+    "word_japanese": "女性",
+    "word_german": "weiblich",
+    "word_korean": "여성",
+    "word_french": "féminin",
+    "word_spanish": "femenino",
+    "word_portuguese": "feminino",
+    "word_italian": "femminile",
+    "word_swedish": "kvinnlig",
+    "word_turkish": "kadın",
+    "word_arabic": "أنثى"
+  },
+  {
+    "id": 252,
+    "word_english": "fight",
+    "word_japanese": "戦う",
+    "word_german": "kämpfen",
+    "word_korean": "싸우다",
+    "word_french": "se battre",
+    "word_spanish": "luchar",
+    "word_portuguese": "lutar",
+    "word_italian": "combattere",
+    "word_swedish": "slåss",
+    "word_turkish": "dövüşmek",
+    "word_arabic": "يقاتل"
+  },
+  {
+    "id": 253,
+    "word_english": "find",
+    "word_japanese": "見つける",
+    "word_german": "finden",
+    "word_korean": "찾다",
+    "word_french": "trouver",
+    "word_spanish": "encontrar",
+    "word_portuguese": "encontrar",
+    "word_italian": "trovare",
+    "word_swedish": "hitta",
+    "word_turkish": "bulmak",
+    "word_arabic": "يجد"
+  },
+  {
+    "id": 254,
+    "word_english": "fine",
+    "word_japanese": "良い",
+    "word_german": "gut",
+    "word_korean": "괜찮은",
+    "word_french": "bien",
+    "word_spanish": "bien",
+    "word_portuguese": "bom",
+    "word_italian": "bene",
+    "word_swedish": "bra",
+    "word_turkish": "iyi",
+    "word_arabic": "جيد"
+  },
+  {
+    "id": 255,
+    "word_english": "finish",
+    "word_japanese": "終える",
+    "word_german": "beenden",
+    "word_korean": "끝내다",
+    "word_french": "finir",
+    "word_spanish": "terminar",
+    "word_portuguese": "terminar",
+    "word_italian": "finire",
+    "word_swedish": "avsluta",
+    "word_turkish": "bitirmek",
+    "word_arabic": "ينهي"
+  },
+  {
+    "id": 256,
+    "word_english": "fire",
+    "word_japanese": "火",
+    "word_german": "Feuer",
+    "word_korean": "불",
+    "word_french": "feu",
+    "word_spanish": "fuego",
+    "word_portuguese": "fogo",
+    "word_italian": "fuoco",
+    "word_swedish": "eld",
+    "word_turkish": "ateş",
+    "word_arabic": "نار"
+  },
+  {
+    "id": 257,
+    "word_english": "first",
+    "word_japanese": "最初の",
+    "word_german": "erste",
+    "word_korean": "첫 번째",
+    "word_french": "premier",
+    "word_spanish": "primero",
+    "word_portuguese": "primeiro",
+    "word_italian": "primo",
+    "word_swedish": "första",
+    "word_turkish": "ilk",
+    "word_arabic": "أول"
+  },
+  {
+    "id": 258,
+    "word_english": "fish",
+    "word_japanese": "魚",
+    "word_german": "Fisch",
+    "word_korean": "물고기",
+    "word_french": "poisson",
+    "word_spanish": "pez",
+    "word_portuguese": "peixe",
+    "word_italian": "pesce",
+    "word_swedish": "fisk",
+    "word_turkish": "balık",
+    "word_arabic": "سمك"
+  },
+  {
+    "id": 259,
+    "word_english": "fit",
+    "word_japanese": "適した",
+    "word_german": "geeignet",
+    "word_korean": "적합한",
+    "word_french": "adapté",
+    "word_spanish": "adecuado",
+    "word_portuguese": "adequado",
+    "word_italian": "adatto",
+    "word_swedish": "lämplig",
+    "word_turkish": "uygun",
+    "word_arabic": "مناسب"
+  },
+  {
+    "id": 260,
+    "word_english": "five",
+    "word_japanese": "五",
+    "word_german": "fünf",
+    "word_korean": "다섯",
+    "word_french": "cinq",
+    "word_spanish": "cinco",
+    "word_portuguese": "cinco",
+    "word_italian": "cinque",
+    "word_swedish": "fem",
+    "word_turkish": "beş",
+    "word_arabic": "خمسة"
+  },
+  {
+    "id": 261,
+    "word_english": "floor",
+    "word_japanese": "床",
+    "word_german": "Boden",
+    "word_korean": "바닥",
+    "word_french": "sol",
+    "word_spanish": "suelo",
+    "word_portuguese": "chão",
+    "word_italian": "pavimento",
+    "word_swedish": "golv",
+    "word_turkish": "zemin",
+    "word_arabic": "أرضية"
+  },
+  {
+    "id": 262,
+    "word_english": "follow",
+    "word_japanese": "従う",
+    "word_german": "folgen",
+    "word_korean": "따라가다",
+    "word_french": "suivre",
+    "word_spanish": "seguir",
+    "word_portuguese": "seguir",
+    "word_italian": "seguire",
+    "word_swedish": "följa",
+    "word_turkish": "takip etmek",
+    "word_arabic": "يتبع"
+  },
+  {
+    "id": 263,
+    "word_english": "food",
+    "word_japanese": "食べ物",
+    "word_german": "Essen",
+    "word_korean": "음식",
+    "word_french": "nourriture",
+    "word_spanish": "comida",
+    "word_portuguese": "comida",
+    "word_italian": "cibo",
+    "word_swedish": "mat",
+    "word_turkish": "yiyecek",
+    "word_arabic": "طعام"
+  },
+  {
+    "id": 264,
+    "word_english": "for",
+    "word_japanese": "〜のために",
+    "word_german": "für",
+    "word_korean": "~을 위해",
+    "word_french": "pour",
+    "word_spanish": "para",
+    "word_portuguese": "para",
+    "word_italian": "per",
+    "word_swedish": "för",
+    "word_turkish": "için",
+    "word_arabic": "لـ"
+  },
+  {
+    "id": 265,
+    "word_english": "forest",
+    "word_japanese": "森",
+    "word_german": "Wald",
+    "word_korean": "숲",
+    "word_french": "forêt",
+    "word_spanish": "bosque",
+    "word_portuguese": "floresta",
+    "word_italian": "foresta",
+    "word_swedish": "skog",
+    "word_turkish": "orman",
+    "word_arabic": "غابة"
+  },
+  {
+    "id": 266,
+    "word_english": "forget",
+    "word_japanese": "忘れる",
+    "word_german": "vergessen",
+    "word_korean": "잊다",
+    "word_french": "oublier",
+    "word_spanish": "olvidar",
+    "word_portuguese": "esquecer",
+    "word_italian": "dimenticare",
+    "word_swedish": "glömma",
+    "word_turkish": "unutmak",
+    "word_arabic": "ينسى"
+  },
+  {
+    "id": 267,
+    "word_english": "form",
+    "word_japanese": "形",
+    "word_german": "Form",
+    "word_korean": "형태",
+    "word_french": "forme",
+    "word_spanish": "forma",
+    "word_portuguese": "forma",
+    "word_italian": "forma",
+    "word_swedish": "form",
+    "word_turkish": "şekil",
+    "word_arabic": "شكل"
+  },
+  {
+    "id": 268,
+    "word_english": "free",
+    "word_japanese": "無料の",
+    "word_german": "kostenlos",
+    "word_korean": "무료의",
+    "word_french": "gratuit",
+    "word_spanish": "gratis",
+    "word_portuguese": "grátis",
+    "word_italian": "gratis",
+    "word_swedish": "gratis",
+    "word_turkish": "ücretsiz",
+    "word_arabic": "مجاني"
+  },
+  {
+    "id": 269,
+    "word_english": "friend",
+    "word_japanese": "友達",
+    "word_german": "Freund",
+    "word_korean": "친구",
+    "word_french": "ami",
+    "word_spanish": "amigo",
+    "word_portuguese": "amigo",
+    "word_italian": "amico",
+    "word_swedish": "vän",
+    "word_turkish": "arkadaş",
+    "word_arabic": "صديق"
+  },
+  {
+    "id": 270,
+    "word_english": "from",
+    "word_japanese": "〜から",
+    "word_german": "von",
+    "word_korean": "~에서",
+    "word_french": "de",
+    "word_spanish": "de",
+    "word_portuguese": "de",
+    "word_italian": "da",
+    "word_swedish": "från",
+    "word_turkish": "den",
+    "word_arabic": "من"
+  },
+  {
+    "id": 271,
+    "word_english": "front",
+    "word_japanese": "前",
+    "word_german": "Vorderseite",
+    "word_korean": "앞",
+    "word_french": "avant",
+    "word_spanish": "frente",
+    "word_portuguese": "frente",
+    "word_italian": "fronte",
+    "word_swedish": "fram",
+    "word_turkish": "ön",
+    "word_arabic": "أمام"
+  },
+  {
+    "id": 272,
+    "word_english": "fruit",
+    "word_japanese": "果物",
+    "word_german": "Obst",
+    "word_korean": "과일",
+    "word_french": "fruit",
+    "word_spanish": "fruta",
+    "word_portuguese": "fruta",
+    "word_italian": "frutta",
+    "word_swedish": "frukt",
+    "word_turkish": "meyve",
+    "word_arabic": "فاكهة"
+  },
+  {
+    "id": 273,
+    "word_english": "full",
+    "word_japanese": "いっぱいの",
+    "word_german": "voll",
+    "word_korean": "가득 찬",
+    "word_french": "plein",
+    "word_spanish": "lleno",
+    "word_portuguese": "cheio",
+    "word_italian": "pieno",
+    "word_swedish": "full",
+    "word_turkish": "dolu",
+    "word_arabic": "ممتلئ"
+  },
+  {
+    "id": 274,
+    "word_english": "fun",
+    "word_japanese": "楽しみ",
+    "word_german": "Spaß",
+    "word_korean": "재미",
+    "word_french": "divertissement",
+    "word_spanish": "diversión",
+    "word_portuguese": "diversão",
+    "word_italian": "divertimento",
+    "word_swedish": "nöje",
+    "word_turkish": "eğlence",
+    "word_arabic": "متعة"
+  },
+  {
+    "id": 275,
+    "word_english": "future",
+    "word_japanese": "未来",
+    "word_german": "Zukunft",
+    "word_korean": "미래",
+    "word_french": "avenir",
+    "word_spanish": "futuro",
+    "word_portuguese": "futuro",
+    "word_italian": "futuro",
+    "word_swedish": "framtid",
+    "word_turkish": "gelecek",
+    "word_arabic": "مستقبل"
+  },
+  {
+    "id": 276,
+    "word_english": "game",
+    "word_japanese": "ゲーム",
+    "word_german": "Spiel",
+    "word_korean": "게임",
+    "word_french": "jeu",
+    "word_spanish": "juego",
+    "word_portuguese": "jogo",
+    "word_italian": "gioco",
+    "word_swedish": "spel",
+    "word_turkish": "oyun",
+    "word_arabic": "لعبة"
+  },
+  {
+    "id": 277,
+    "word_english": "garden",
+    "word_japanese": "庭",
+    "word_german": "Garten",
+    "word_korean": "정원",
+    "word_french": "jardin",
+    "word_spanish": "jardín",
+    "word_portuguese": "jardim",
+    "word_italian": "giardino",
+    "word_swedish": "trädgård",
+    "word_turkish": "bahçe",
+    "word_arabic": "حديقة"
+  },
+  {
+    "id": 278,
+    "word_english": "gas",
+    "word_japanese": "ガス",
+    "word_german": "Gas",
+    "word_korean": "가스",
+    "word_french": "gaz",
+    "word_spanish": "gas",
+    "word_portuguese": "gás",
+    "word_italian": "gas",
+    "word_swedish": "gas",
+    "word_turkish": "gaz",
+    "word_arabic": "غاز"
+  },
+  {
+    "id": 279,
+    "word_english": "general",
+    "word_japanese": "一般的な",
+    "word_german": "allgemein",
+    "word_korean": "일반적인",
+    "word_french": "général",
+    "word_spanish": "general",
+    "word_portuguese": "geral",
+    "word_italian": "generale",
+    "word_swedish": "allmän",
+    "word_turkish": "genel",
+    "word_arabic": "عام"
+  },
+  {
+    "id": 280,
+    "word_english": "girl",
+    "word_japanese": "女の子",
+    "word_german": "Mädchen",
+    "word_korean": "소녀",
+    "word_french": "fille",
+    "word_spanish": "niña",
+    "word_portuguese": "rapariga",
+    "word_italian": "ragazza",
+    "word_swedish": "flicka",
+    "word_turkish": "kız",
+    "word_arabic": "فتاة"
+  },
+  {
+    "id": 281,
+    "word_english": "give",
+    "word_japanese": "与える",
+    "word_german": "geben",
+    "word_korean": "주다",
+    "word_french": "donner",
+    "word_spanish": "dar",
+    "word_portuguese": "dar",
+    "word_italian": "dare",
+    "word_swedish": "ge",
+    "word_turkish": "vermek",
+    "word_arabic": "يعطي"
+  },
+  {
+    "id": 282,
+    "word_english": "glad",
+    "word_japanese": "うれしい",
+    "word_german": "froh",
+    "word_korean": "기쁜",
+    "word_french": "content",
+    "word_spanish": "contento",
+    "word_portuguese": "contente",
+    "word_italian": "contento",
+    "word_swedish": "glad",
+    "word_turkish": "mutlu",
+    "word_arabic": "سعيد"
+  },
+  {
+    "id": 283,
+    "word_english": "go",
+    "word_japanese": "行く",
+    "word_german": "gehen",
+    "word_korean": "가다",
+    "word_french": "aller",
+    "word_spanish": "ir",
+    "word_portuguese": "ir",
+    "word_italian": "andare",
+    "word_swedish": "gå",
+    "word_turkish": "gitmek",
+    "word_arabic": "يذهب"
+  },
+  {
+    "id": 284,
+    "word_english": "goal",
+    "word_japanese": "目標",
+    "word_german": "Ziel",
+    "word_korean": "목표",
+    "word_french": "objectif",
+    "word_spanish": "objetivo",
+    "word_portuguese": "objetivo",
+    "word_italian": "obiettivo",
+    "word_swedish": "mål",
+    "word_turkish": "hedef",
+    "word_arabic": "هدف"
+  },
+  {
+    "id": 285,
+    "word_english": "good",
+    "word_japanese": "良い",
+    "word_german": "gut",
+    "word_korean": "좋은",
+    "word_french": "bon",
+    "word_spanish": "bueno",
+    "word_portuguese": "bom",
+    "word_italian": "buono",
+    "word_swedish": "bra",
+    "word_turkish": "iyi",
+    "word_arabic": "جيد"
+  },
+  {
+    "id": 286,
+    "word_english": "grand",
+    "word_japanese": "壮大な",
+    "word_german": "großartig",
+    "word_korean": "웅장한",
+    "word_french": "grand",
+    "word_spanish": "grande",
+    "word_portuguese": "grandioso",
+    "word_italian": "grandioso",
+    "word_swedish": "stor",
+    "word_turkish": "büyük",
+    "word_arabic": "عظيم"
+  },
+  {
+    "id": 287,
+    "word_english": "grass",
+    "word_japanese": "草",
+    "word_german": "Gras",
+    "word_korean": "잔디",
+    "word_french": "herbe",
+    "word_spanish": "hierba",
+    "word_portuguese": "relva",
+    "word_italian": "erba",
+    "word_swedish": "gräs",
+    "word_turkish": "çimen",
+    "word_arabic": "عشب"
+  },
+  {
+    "id": 288,
+    "word_english": "great",
+    "word_japanese": "素晴らしい",
+    "word_german": "großartig",
+    "word_korean": "훌륭한",
+    "word_french": "excellent",
+    "word_spanish": "genial",
+    "word_portuguese": "excelente",
+    "word_italian": "fantastico",
+    "word_swedish": "fantastisk",
+    "word_turkish": "harika",
+    "word_arabic": "رائع"
+  },
+  {
+    "id": 289,
+    "word_english": "green",
+    "word_japanese": "緑",
+    "word_german": "grün",
+    "word_korean": "초록색",
+    "word_french": "vert",
+    "word_spanish": "verde",
+    "word_portuguese": "verde",
+    "word_italian": "verde",
+    "word_swedish": "grön",
+    "word_turkish": "yeşil",
+    "word_arabic": "أخضر"
+  },
+  {
+    "id": 290,
+    "word_english": "ground",
+    "word_japanese": "地面",
+    "word_german": "Boden",
+    "word_korean": "땅",
+    "word_french": "sol",
+    "word_spanish": "suelo",
+    "word_portuguese": "chão",
+    "word_italian": "suolo",
+    "word_swedish": "mark",
+    "word_turkish": "zemin",
+    "word_arabic": "أرض"
+  },
+  {
+    "id": 291,
+    "word_english": "group",
+    "word_japanese": "グループ",
+    "word_german": "Gruppe",
+    "word_korean": "그룹",
+    "word_french": "groupe",
+    "word_spanish": "grupo",
+    "word_portuguese": "grupo",
+    "word_italian": "gruppo",
+    "word_swedish": "grupp",
+    "word_turkish": "grup",
+    "word_arabic": "مجموعة"
+  },
+  {
+    "id": 292,
+    "word_english": "grow",
+    "word_japanese": "成長する",
+    "word_german": "wachsen",
+    "word_korean": "자라다",
+    "word_french": "grandir",
+    "word_spanish": "crecer",
+    "word_portuguese": "crescer",
+    "word_italian": "crescere",
+    "word_swedish": "växa",
+    "word_turkish": "büyümek",
+    "word_arabic": "ينمو"
+  },
+  {
+    "id": 293,
+    "word_english": "guess",
+    "word_japanese": "推測する",
+    "word_german": "raten",
+    "word_korean": "추측하다",
+    "word_french": "deviner",
+    "word_spanish": "adivinar",
+    "word_portuguese": "adivinhar",
+    "word_italian": "indovinare",
+    "word_swedish": "gissa",
+    "word_turkish": "tahmin etmek",
+    "word_arabic": "يخمن"
+  },
+  {
+    "id": 294,
+    "word_english": "hair",
+    "word_japanese": "髪",
+    "word_german": "Haar",
+    "word_korean": "머리카락",
+    "word_french": "cheveux",
+    "word_spanish": "pelo",
+    "word_portuguese": "cabelo",
+    "word_italian": "capelli",
+    "word_swedish": "hår",
+    "word_turkish": "saç",
+    "word_arabic": "شعر"
+  },
+  {
+    "id": 295,
+    "word_english": "half",
+    "word_japanese": "半分",
+    "word_german": "Hälfte",
+    "word_korean": "절반",
+    "word_french": "moitié",
+    "word_spanish": "mitad",
+    "word_portuguese": "metade",
+    "word_italian": "metà",
+    "word_swedish": "hälft",
+    "word_turkish": "yarım",
+    "word_arabic": "نصف"
+  },
+  {
+    "id": 296,
+    "word_english": "hand",
+    "word_japanese": "手",
+    "word_german": "Hand",
+    "word_korean": "손",
+    "word_french": "main",
+    "word_spanish": "mano",
+    "word_portuguese": "mão",
+    "word_italian": "mano",
+    "word_swedish": "hand",
+    "word_turkish": "el",
+    "word_arabic": "يد"
+  },
+  {
+    "id": 297,
+    "word_english": "happen",
+    "word_japanese": "起こる",
+    "word_german": "passieren",
+    "word_korean": "일어나다",
+    "word_french": "arriver",
+    "word_spanish": "suceder",
+    "word_portuguese": "acontecer",
+    "word_italian": "succedere",
+    "word_swedish": "hända",
+    "word_turkish": "olmak",
+    "word_arabic": "يحدث"
+  },
+  {
+    "id": 298,
+    "word_english": "happy",
+    "word_japanese": "幸せな",
+    "word_german": "glücklich",
+    "word_korean": "행복한",
+    "word_french": "heureux",
+    "word_spanish": "feliz",
+    "word_portuguese": "feliz",
+    "word_italian": "felice",
+    "word_swedish": "glad",
+    "word_turkish": "mutlu",
+    "word_arabic": "سعيد"
+  },
+  {
+    "id": 299,
+    "word_english": "hard",
+    "word_japanese": "難しい",
+    "word_german": "schwer",
+    "word_korean": "어려운",
+    "word_french": "difficile",
+    "word_spanish": "difícil",
+    "word_portuguese": "difícil",
+    "word_italian": "difficile",
+    "word_swedish": "svår",
+    "word_turkish": "zor",
+    "word_arabic": "صعب"
+  },
+  {
+    "id": 300,
+    "word_english": "have",
+    "word_japanese": "持っている",
+    "word_german": "haben",
+    "word_korean": "가지고 있다",
+    "word_french": "avoir",
+    "word_spanish": "tener",
+    "word_portuguese": "ter",
+    "word_italian": "avere",
+    "word_swedish": "ha",
+    "word_turkish": "sahip olmak",
+    "word_arabic": "يملك"
+  },
+  {
+    "id": 301,
+    "word_english": "he",
+    "word_japanese": "彼",
+    "word_german": "er",
+    "word_korean": "그",
+    "word_french": "il",
+    "word_spanish": "él",
+    "word_portuguese": "ele",
+    "word_italian": "lui",
+    "word_swedish": "han",
+    "word_turkish": "o",
+    "word_arabic": "هو"
+  },
+  {
+    "id": 302,
+    "word_english": "head",
+    "word_japanese": "頭",
+    "word_german": "Kopf",
+    "word_korean": "머리",
+    "word_french": "tête",
+    "word_spanish": "cabeza",
+    "word_portuguese": "cabeça",
+    "word_italian": "testa",
+    "word_swedish": "huvud",
+    "word_turkish": "baş",
+    "word_arabic": "رأس"
+  },
+  {
+    "id": 303,
+    "word_english": "health",
+    "word_japanese": "健康",
+    "word_german": "Gesundheit",
+    "word_korean": "건강",
+    "word_french": "santé",
+    "word_spanish": "salud",
+    "word_portuguese": "saúde",
+    "word_italian": "salute",
+    "word_swedish": "hälsa",
+    "word_turkish": "sağlık",
+    "word_arabic": "صحة"
+  },
+  {
+    "id": 304,
+    "word_english": "hear",
+    "word_japanese": "聞く",
+    "word_german": "hören",
+    "word_korean": "듣다",
+    "word_french": "entendre",
+    "word_spanish": "oír",
+    "word_portuguese": "ouvir",
+    "word_italian": "sentire",
+    "word_swedish": "höra",
+    "word_turkish": "duymak",
+    "word_arabic": "يسمع"
+  },
+  {
+    "id": 305,
+    "word_english": "heart",
+    "word_japanese": "心臓",
+    "word_german": "Herz",
+    "word_korean": "심장",
+    "word_french": "cœur",
+    "word_spanish": "corazón",
+    "word_portuguese": "coração",
+    "word_italian": "cuore",
+    "word_swedish": "hjärta",
+    "word_turkish": "kalp",
+    "word_arabic": "قلب"
+  },
+  {
+    "id": 306,
+    "word_english": "heavy",
+    "word_japanese": "重い",
+    "word_german": "schwer",
+    "word_korean": "무거운",
+    "word_french": "lourd",
+    "word_spanish": "pesado",
+    "word_portuguese": "pesado",
+    "word_italian": "pesante",
+    "word_swedish": "tung",
+    "word_turkish": "ağır",
+    "word_arabic": "ثقيل"
+  },
+  {
+    "id": 307,
+    "word_english": "help",
+    "word_japanese": "助ける",
+    "word_german": "helfen",
+    "word_korean": "돕다",
+    "word_french": "aider",
+    "word_spanish": "ayudar",
+    "word_portuguese": "ajudar",
+    "word_italian": "aiutare",
+    "word_swedish": "hjälpa",
+    "word_turkish": "yardım etmek",
+    "word_arabic": "يساعد"
+  },
+  {
+    "id": 308,
+    "word_english": "here",
+    "word_japanese": "ここ",
+    "word_german": "hier",
+    "word_korean": "여기",
+    "word_french": "ici",
+    "word_spanish": "aquí",
+    "word_portuguese": "aqui",
+    "word_italian": "qui",
+    "word_swedish": "här",
+    "word_turkish": "burada",
+    "word_arabic": "هنا"
+  },
+  {
+    "id": 309,
+    "word_english": "high",
+    "word_japanese": "高い",
+    "word_german": "hoch",
+    "word_korean": "높은",
+    "word_french": "haut",
+    "word_spanish": "alto",
+    "word_portuguese": "alto",
+    "word_italian": "alto",
+    "word_swedish": "hög",
+    "word_turkish": "yüksek",
+    "word_arabic": "عالٍ"
+  },
+  {
+    "id": 310,
+    "word_english": "him",
+    "word_japanese": "彼を",
+    "word_german": "ihn",
+    "word_korean": "그를",
+    "word_french": "lui",
+    "word_spanish": "lo",
+    "word_portuguese": "o",
+    "word_italian": "lui",
+    "word_swedish": "honom",
+    "word_turkish": "onu",
+    "word_arabic": "إياه"
+  },
+  {
+    "id": 311,
+    "word_english": "his",
+    "word_japanese": "彼の",
+    "word_german": "sein",
+    "word_korean": "그의",
+    "word_french": "son",
+    "word_spanish": "su",
+    "word_portuguese": "dele",
+    "word_italian": "suo",
+    "word_swedish": "hans",
+    "word_turkish": "onun",
+    "word_arabic": "له"
+  },
+  {
+    "id": 312,
+    "word_english": "history",
+    "word_japanese": "歴史",
+    "word_german": "Geschichte",
+    "word_korean": "역사",
+    "word_french": "histoire",
+    "word_spanish": "historia",
+    "word_portuguese": "história",
+    "word_italian": "storia",
+    "word_swedish": "historia",
+    "word_turkish": "tarih",
+    "word_arabic": "تاريخ"
+  },
+  {
+    "id": 313,
+    "word_english": "hit",
+    "word_japanese": "打つ",
+    "word_german": "schlagen",
+    "word_korean": "치다",
+    "word_french": "frapper",
+    "word_spanish": "golpear",
+    "word_portuguese": "bater",
+    "word_italian": "colpire",
+    "word_swedish": "slå",
+    "word_turkish": "vurmak",
+    "word_arabic": "يضرب"
+  },
+  {
+    "id": 314,
+    "word_english": "hold",
+    "word_japanese": "持つ",
+    "word_german": "halten",
+    "word_korean": "잡다",
+    "word_french": "tenir",
+    "word_spanish": "sostener",
+    "word_portuguese": "segurar",
+    "word_italian": "tenere",
+    "word_swedish": "hålla",
+    "word_turkish": "tutmak",
+    "word_arabic": "يمسك"
+  },
+  {
+    "id": 315,
+    "word_english": "home",
+    "word_japanese": "家",
+    "word_german": "Zuhause",
+    "word_korean": "집",
+    "word_french": "maison",
+    "word_spanish": "hogar",
+    "word_portuguese": "casa",
+    "word_italian": "casa",
+    "word_swedish": "hem",
+    "word_turkish": "ev",
+    "word_arabic": "منزل"
+  },
+  {
+    "id": 316,
+    "word_english": "hope",
+    "word_japanese": "望む",
+    "word_german": "hoffen",
+    "word_korean": "희망하다",
+    "word_french": "espérer",
+    "word_spanish": "esperar",
+    "word_portuguese": "esperar",
+    "word_italian": "sperare",
+    "word_swedish": "hoppas",
+    "word_turkish": "umut etmek",
+    "word_arabic": "يأمل"
+  },
+  {
+    "id": 317,
+    "word_english": "hour",
+    "word_japanese": "時間",
+    "word_german": "Stunde",
+    "word_korean": "시간",
+    "word_french": "heure",
+    "word_spanish": "hora",
+    "word_portuguese": "hora",
+    "word_italian": "ora",
+    "word_swedish": "timme",
+    "word_turkish": "saat",
+    "word_arabic": "ساعة"
+  },
+  {
+    "id": 318,
+    "word_english": "house",
+    "word_japanese": "家",
+    "word_german": "Haus",
+    "word_korean": "집",
+    "word_french": "maison",
+    "word_spanish": "casa",
+    "word_portuguese": "casa",
+    "word_italian": "casa",
+    "word_swedish": "hus",
+    "word_turkish": "ev",
+    "word_arabic": "بيت"
+  },
+  {
+    "id": 319,
+    "word_english": "how",
+    "word_japanese": "どうやって",
+    "word_german": "wie",
+    "word_korean": "어떻게",
+    "word_french": "comment",
+    "word_spanish": "cómo",
+    "word_portuguese": "como",
+    "word_italian": "come",
+    "word_swedish": "hur",
+    "word_turkish": "nasıl",
+    "word_arabic": "كيف"
+  },
+  {
+    "id": 320,
+    "word_english": "human",
+    "word_japanese": "人間",
+    "word_german": "Mensch",
+    "word_korean": "인간",
+    "word_french": "humain",
+    "word_spanish": "humano",
+    "word_portuguese": "humano",
+    "word_italian": "umano",
+    "word_swedish": "människa",
+    "word_turkish": "insan",
+    "word_arabic": "إنسان"
+  },
+  {
+    "id": 321,
+    "word_english": "I",
+    "word_japanese": "私",
+    "word_german": "ich",
+    "word_korean": "나",
+    "word_french": "je",
+    "word_spanish": "yo",
+    "word_portuguese": "eu",
+    "word_italian": "io",
+    "word_swedish": "jag",
+    "word_turkish": "ben",
+    "word_arabic": "أنا"
+  },
+  {
+    "id": 322,
+    "word_english": "idea",
+    "word_japanese": "考え",
+    "word_german": "Idee",
+    "word_korean": "아이디어",
+    "word_french": "idée",
+    "word_spanish": "idea",
+    "word_portuguese": "ideia",
+    "word_italian": "idea",
+    "word_swedish": "idé",
+    "word_turkish": "fikir",
+    "word_arabic": "فكرة"
+  },
+  {
+    "id": 323,
+    "word_english": "if",
+    "word_japanese": "もし",
+    "word_german": "wenn",
+    "word_korean": "만약",
+    "word_french": "si",
+    "word_spanish": "si",
+    "word_portuguese": "se",
+    "word_italian": "se",
+    "word_swedish": "om",
+    "word_turkish": "eğer",
+    "word_arabic": "إذا"
+  },
+  {
+    "id": 324,
+    "word_english": "important",
+    "word_japanese": "重要な",
+    "word_german": "wichtig",
+    "word_korean": "중요한",
+    "word_french": "important",
+    "word_spanish": "importante",
+    "word_portuguese": "importante",
+    "word_italian": "importante",
+    "word_swedish": "viktig",
+    "word_turkish": "önemli",
+    "word_arabic": "مهم"
+  },
+  {
+    "id": 325,
+    "word_english": "in",
+    "word_japanese": "中に",
+    "word_german": "in",
+    "word_korean": "안에",
+    "word_french": "dans",
+    "word_spanish": "en",
+    "word_portuguese": "em",
+    "word_italian": "in",
+    "word_swedish": "i",
+    "word_turkish": "içinde",
+    "word_arabic": "في"
+  },
+  {
+    "id": 326,
+    "word_english": "income",
+    "word_japanese": "収入",
+    "word_german": "Einkommen",
+    "word_korean": "소득",
+    "word_french": "revenu",
+    "word_spanish": "ingreso",
+    "word_portuguese": "rendimento",
+    "word_italian": "reddito",
+    "word_swedish": "inkomst",
+    "word_turkish": "gelir",
+    "word_arabic": "دخل"
+  },
+  {
+    "id": 327,
+    "word_english": "increase",
+    "word_japanese": "増やす",
+    "word_german": "erhöhen",
+    "word_korean": "증가시키다",
+    "word_french": "augmenter",
+    "word_spanish": "aumentar",
+    "word_portuguese": "aumentar",
+    "word_italian": "aumentare",
+    "word_swedish": "öka",
+    "word_turkish": "artırmak",
+    "word_arabic": "يزيد"
+  },
+  {
+    "id": 328,
+    "word_english": "information",
+    "word_japanese": "情報",
+    "word_german": "Information",
+    "word_korean": "정보",
+    "word_french": "information",
+    "word_spanish": "información",
+    "word_portuguese": "informação",
+    "word_italian": "informazione",
+    "word_swedish": "information",
+    "word_turkish": "bilgi",
+    "word_arabic": "معلومات"
+  },
+  {
+    "id": 329,
+    "word_english": "inside",
+    "word_japanese": "内側に",
+    "word_german": "innen",
+    "word_korean": "안쪽에",
+    "word_french": "à l'intérieur",
+    "word_spanish": "dentro",
+    "word_portuguese": "dentro",
+    "word_italian": "dentro",
+    "word_swedish": "inuti",
+    "word_turkish": "içinde",
+    "word_arabic": "في الداخل"
+  },
+  {
+    "id": 330,
+    "word_english": "instead",
+    "word_japanese": "代わりに",
+    "word_german": "stattdessen",
+    "word_korean": "대신에",
+    "word_french": "à la place",
+    "word_spanish": "en su lugar",
+    "word_portuguese": "em vez disso",
+    "word_italian": "invece",
+    "word_swedish": "istället",
+    "word_turkish": "yerine",
+    "word_arabic": "بدلًا من ذلك"
+  },
+  {
+    "id": 331,
+    "word_english": "interest",
+    "word_japanese": "興味",
+    "word_german": "Interesse",
+    "word_korean": "관심",
+    "word_french": "intérêt",
+    "word_spanish": "interés",
+    "word_portuguese": "interesse",
+    "word_italian": "interesse",
+    "word_swedish": "intresse",
+    "word_turkish": "ilgi",
+    "word_arabic": "اهتمام"
+  },
+  {
+    "id": 332,
+    "word_english": "interview",
+    "word_japanese": "面接",
+    "word_german": "Interview",
+    "word_korean": "면접",
+    "word_french": "entretien",
+    "word_spanish": "entrevista",
+    "word_portuguese": "entrevista",
+    "word_italian": "colloquio",
+    "word_swedish": "intervju",
+    "word_turkish": "mülakat",
+    "word_arabic": "مقابلة"
+  },
+  {
+    "id": 333,
+    "word_english": "into",
+    "word_japanese": "〜の中へ",
+    "word_german": "in ... hinein",
+    "word_korean": "~안으로",
+    "word_french": "dans",
+    "word_spanish": "dentro de",
+    "word_portuguese": "para dentro de",
+    "word_italian": "dentro",
+    "word_swedish": "in i",
+    "word_turkish": "içeri",
+    "word_arabic": "إلى داخل"
+  },
+  {
+    "id": 334,
+    "word_english": "is",
+    "word_japanese": "です",
+    "word_german": "ist",
+    "word_korean": "이다",
+    "word_french": "est",
+    "word_spanish": "es",
+    "word_portuguese": "é",
+    "word_italian": "è",
+    "word_swedish": "är",
+    "word_turkish": "dir",
+    "word_arabic": "هو"
+  },
+  {
+    "id": 335,
+    "word_english": "it",
+    "word_japanese": "それ",
+    "word_german": "es",
+    "word_korean": "그것",
+    "word_french": "il/elle",
+    "word_spanish": "eso",
+    "word_portuguese": "isso",
+    "word_italian": "esso",
+    "word_swedish": "det",
+    "word_turkish": "o",
+    "word_arabic": "هو/هي"
+  },
+  {
+    "id": 336,
+    "word_english": "job",
+    "word_japanese": "仕事",
+    "word_german": "Job",
+    "word_korean": "직업",
+    "word_french": "emploi",
+    "word_spanish": "trabajo",
+    "word_portuguese": "emprego",
+    "word_italian": "lavoro",
+    "word_swedish": "jobb",
+    "word_turkish": "iş",
+    "word_arabic": "وظيفة"
+  },
+  {
+    "id": 337,
+    "word_english": "join",
+    "word_japanese": "参加する",
+    "word_german": "beitreten",
+    "word_korean": "가입하다",
+    "word_french": "rejoindre",
+    "word_spanish": "unirse",
+    "word_portuguese": "juntar-se",
+    "word_italian": "unirsi",
+    "word_swedish": "gå med",
+    "word_turkish": "katılmak",
+    "word_arabic": "ينضم"
+  },
+  {
+    "id": 338,
+    "word_english": "journey",
+    "word_japanese": "旅",
+    "word_german": "Reise",
+    "word_korean": "여행",
+    "word_french": "voyage",
+    "word_spanish": "viaje",
+    "word_portuguese": "viagem",
+    "word_italian": "viaggio",
+    "word_swedish": "resa",
+    "word_turkish": "seyahat",
+    "word_arabic": "رحلة"
+  },
+  {
+    "id": 339,
+    "word_english": "judge",
+    "word_japanese": "判断する",
+    "word_german": "beurteilen",
+    "word_korean": "판단하다",
+    "word_french": "juger",
+    "word_spanish": "juzgar",
+    "word_portuguese": "julgar",
+    "word_italian": "giudicare",
+    "word_swedish": "döma",
+    "word_turkish": "yargılamak",
+    "word_arabic": "يحكم"
+  },
+  {
+    "id": 340,
+    "word_english": "jump",
+    "word_japanese": "跳ぶ",
+    "word_german": "springen",
+    "word_korean": "점프하다",
+    "word_french": "sauter",
+    "word_spanish": "saltar",
+    "word_portuguese": "saltar",
+    "word_italian": "saltare",
+    "word_swedish": "hoppa",
+    "word_turkish": "zıplamak",
+    "word_arabic": "يقفز"
+  },
+  {
+    "id": 341,
+    "word_english": "just",
+    "word_japanese": "ただ",
+    "word_german": "NUR",
+    "word_korean": "그저",
+    "word_french": "seulement",
+    "word_spanish": "solo",
+    "word_portuguese": "apenas",
+    "word_italian": "solo",
+    "word_swedish": "bara",
+    "word_turkish": "sadece",
+    "word_arabic": "فقط"
+  },
+  {
+    "id": 342,
+    "word_english": "keep",
+    "word_japanese": "保管する",
+    "word_german": "aufbewahren",
+    "word_korean": "보관하다",
+    "word_french": "garder",
+    "word_spanish": "guardar",
+    "word_portuguese": "guardar",
+    "word_italian": "conservare",
+    "word_swedish": "förvara",
+    "word_turkish": "saklamak",
+    "word_arabic": "يحتفظ بـ"
+  },
+  {
+    "id": 343,
+    "word_english": "key",
+    "word_japanese": "鍵",
+    "word_german": "Schlüssel",
+    "word_korean": "열쇠",
+    "word_french": "clé",
+    "word_spanish": "llave",
+    "word_portuguese": "chave",
+    "word_italian": "chiave",
+    "word_swedish": "nyckel",
+    "word_turkish": "anahtar",
+    "word_arabic": "مفتاح"
+  },
+  {
+    "id": 344,
+    "word_english": "kind",
+    "word_japanese": "親切",
+    "word_german": "Freundlichkeit",
+    "word_korean": "친절",
+    "word_french": "gentillesse",
+    "word_spanish": "amabilidad",
+    "word_portuguese": "gentileza",
+    "word_italian": "gentilezza",
+    "word_swedish": "vänlighet",
+    "word_turkish": "nezaket",
+    "word_arabic": "لطف"
+  },
+  {
+    "id": 345,
+    "word_english": "kitchen",
+    "word_japanese": "台所",
+    "word_german": "Küche",
+    "word_korean": "부엌",
+    "word_french": "cuisine",
+    "word_spanish": "cocina",
+    "word_portuguese": "cozinha",
+    "word_italian": "cucina",
+    "word_swedish": "kök",
+    "word_turkish": "mutfak",
+    "word_arabic": "مطبخ"
+  },
+  {
+    "id": 346,
+    "word_english": "know",
+    "word_japanese": "知る",
+    "word_german": "wissen",
+    "word_korean": "알다",
+    "word_french": "savoir",
+    "word_spanish": "saber",
+    "word_portuguese": "saber",
+    "word_italian": "sapere",
+    "word_swedish": "veta",
+    "word_turkish": "bilmek",
+    "word_arabic": "يعرف"
+  },
+  {
+    "id": 347,
+    "word_english": "land",
+    "word_japanese": "土地",
+    "word_german": "Land",
+    "word_korean": "땅",
+    "word_french": "terre",
+    "word_spanish": "tierra",
+    "word_portuguese": "terra",
+    "word_italian": "terra",
+    "word_swedish": "mark",
+    "word_turkish": "toprak",
+    "word_arabic": "أرض"
+  },
+  {
+    "id": 348,
+    "word_english": "large",
+    "word_japanese": "大きい",
+    "word_german": "groß",
+    "word_korean": "큰",
+    "word_french": "grand",
+    "word_spanish": "grande",
+    "word_portuguese": "grande",
+    "word_italian": "grande",
+    "word_swedish": "stor",
+    "word_turkish": "büyük",
+    "word_arabic": "كبير"
+  },
+  {
+    "id": 349,
+    "word_english": "last",
+    "word_japanese": "最後の",
+    "word_german": "letzte",
+    "word_korean": "마지막",
+    "word_french": "dernier",
+    "word_spanish": "último",
+    "word_portuguese": "último",
+    "word_italian": "ultimo",
+    "word_swedish": "sista",
+    "word_turkish": "son",
+    "word_arabic": "أخير"
+  },
+  {
+    "id": 350,
+    "word_english": "late",
+    "word_japanese": "遅い",
+    "word_german": "spät",
+    "word_korean": "늦은",
+    "word_french": "tard",
+    "word_spanish": "tarde",
+    "word_portuguese": "tarde",
+    "word_italian": "tardi",
+    "word_swedish": "sen",
+    "word_turkish": "geç",
+    "word_arabic": "متأخر"
+  },
+  {
+    "id": 351,
+    "word_english": "laugh",
+    "word_japanese": "笑う",
+    "word_german": "lachen",
+    "word_korean": "웃다",
+    "word_french": "rire",
+    "word_spanish": "reír",
+    "word_portuguese": "rir",
+    "word_italian": "ridere",
+    "word_swedish": "skratta",
+    "word_turkish": "gülmek",
+    "word_arabic": "يضحك"
+  },
+  {
+    "id": 352,
+    "word_english": "law",
+    "word_japanese": "法律",
+    "word_german": "Gesetz",
+    "word_korean": "법",
+    "word_french": "loi",
+    "word_spanish": "ley",
+    "word_portuguese": "lei",
+    "word_italian": "legge",
+    "word_swedish": "lag",
+    "word_turkish": "kanun",
+    "word_arabic": "قانون"
+  },
+  {
+    "id": 353,
+    "word_english": "learn",
+    "word_japanese": "学ぶ",
+    "word_german": "lernen",
+    "word_korean": "배우다",
+    "word_french": "apprendre",
+    "word_spanish": "aprender",
+    "word_portuguese": "aprender",
+    "word_italian": "imparare",
+    "word_swedish": "lära sig",
+    "word_turkish": "öğrenmek",
+    "word_arabic": "يتعلم"
+  },
+  {
+    "id": 354,
+    "word_english": "leave",
+    "word_japanese": "去る",
+    "word_german": "verlassen",
+    "word_korean": "떠나다",
+    "word_french": "partir",
+    "word_spanish": "irse",
+    "word_portuguese": "partir",
+    "word_italian": "partire",
+    "word_swedish": "lämna",
+    "word_turkish": "terk etmek",
+    "word_arabic": "يغادر"
+  },
+  {
+    "id": 355,
+    "word_english": "left",
+    "word_japanese": "左",
+    "word_german": "links",
+    "word_korean": "왼쪽",
+    "word_french": "gauche",
+    "word_spanish": "izquierda",
+    "word_portuguese": "esquerda",
+    "word_italian": "sinistra",
+    "word_swedish": "vänster",
+    "word_turkish": "sol",
+    "word_arabic": "يسار"
+  },
+  {
+    "id": 356,
+    "word_english": "leg",
+    "word_japanese": "脚",
+    "word_german": "Bein",
+    "word_korean": "다리",
+    "word_french": "jambe",
+    "word_spanish": "pierna",
+    "word_portuguese": "perna",
+    "word_italian": "gamba",
+    "word_swedish": "ben",
+    "word_turkish": "bacak",
+    "word_arabic": "ساق"
+  },
+  {
+    "id": 357,
+    "word_english": "lesson",
+    "word_japanese": "授業",
+    "word_german": "Unterricht",
+    "word_korean": "수업",
+    "word_french": "leçon",
+    "word_spanish": "lección",
+    "word_portuguese": "lição",
+    "word_italian": "lezione",
+    "word_swedish": "lektion",
+    "word_turkish": "ders",
+    "word_arabic": "درس"
+  },
+  {
+    "id": 358,
+    "word_english": "letter",
+    "word_japanese": "手紙",
+    "word_german": "Brief",
+    "word_korean": "편지",
+    "word_french": "lettre",
+    "word_spanish": "carta",
+    "word_portuguese": "carta",
+    "word_italian": "lettera",
+    "word_swedish": "brev",
+    "word_turkish": "mektup",
+    "word_arabic": "رسالة"
+  },
+  {
+    "id": 359,
+    "word_english": "library",
+    "word_japanese": "図書館",
+    "word_german": "Bibliothek",
+    "word_korean": "도서관",
+    "word_french": "bibliothèque",
+    "word_spanish": "biblioteca",
+    "word_portuguese": "biblioteca",
+    "word_italian": "biblioteca",
+    "word_swedish": "bibliotek",
+    "word_turkish": "kütüphane",
+    "word_arabic": "مكتبة"
+  },
+  {
+    "id": 360,
+    "word_english": "life",
+    "word_japanese": "人生",
+    "word_german": "Leben",
+    "word_korean": "삶",
+    "word_french": "vie",
+    "word_spanish": "vida",
+    "word_portuguese": "vida",
+    "word_italian": "vita",
+    "word_swedish": "liv",
+    "word_turkish": "hayat",
+    "word_arabic": "حياة"
+  },
+  {
+    "id": 361,
+    "word_english": "light",
+    "word_japanese": "光",
+    "word_german": "Licht",
+    "word_korean": "빛",
+    "word_french": "lumière",
+    "word_spanish": "luz",
+    "word_portuguese": "luz",
+    "word_italian": "luce",
+    "word_swedish": "ljus",
+    "word_turkish": "ışık",
+    "word_arabic": "ضوء"
+  },
+  {
+    "id": 362,
+    "word_english": "like",
+    "word_japanese": "〜のような",
+    "word_german": "wie",
+    "word_korean": "~처럼",
+    "word_french": "comme",
+    "word_spanish": "como",
+    "word_portuguese": "como",
+    "word_italian": "come",
+    "word_swedish": "som",
+    "word_turkish": "gibi",
+    "word_arabic": "مثل"
+  },
+  {
+    "id": 363,
+    "word_english": "line",
+    "word_japanese": "線",
+    "word_german": "Linie",
+    "word_korean": "선",
+    "word_french": "ligne",
+    "word_spanish": "línea",
+    "word_portuguese": "linha",
+    "word_italian": "linea",
+    "word_swedish": "linje",
+    "word_turkish": "hat",
+    "word_arabic": "خط"
+  },
+  {
+    "id": 364,
+    "word_english": "listen",
+    "word_japanese": "聞く",
+    "word_german": "zuhören",
+    "word_korean": "듣다",
+    "word_french": "écouter",
+    "word_spanish": "escuchar",
+    "word_portuguese": "ouvir",
+    "word_italian": "ascoltare",
+    "word_swedish": "lyssna",
+    "word_turkish": "dinlemek",
+    "word_arabic": "يستمع"
+  },
+  {
+    "id": 365,
+    "word_english": "little",
+    "word_japanese": "小さい",
+    "word_german": "klein",
+    "word_korean": "작은",
+    "word_french": "petit",
+    "word_spanish": "pequeño",
+    "word_portuguese": "pequeno",
+    "word_italian": "piccolo",
+    "word_swedish": "liten",
+    "word_turkish": "küçük",
+    "word_arabic": "صغير"
+  },
+  {
+    "id": 366,
+    "word_english": "live",
+    "word_japanese": "生きる",
+    "word_german": "leben",
+    "word_korean": "살다",
+    "word_french": "vivre",
+    "word_spanish": "vivir",
+    "word_portuguese": "viver",
+    "word_italian": "vivere",
+    "word_swedish": "leva",
+    "word_turkish": "yaşamak",
+    "word_arabic": "يعيش"
+  },
+  {
+    "id": 367,
+    "word_english": "long",
+    "word_japanese": "長い",
+    "word_german": "lang",
+    "word_korean": "긴",
+    "word_french": "long",
+    "word_spanish": "largo",
+    "word_portuguese": "longo",
+    "word_italian": "lungo",
+    "word_swedish": "lång",
+    "word_turkish": "uzun",
+    "word_arabic": "طويل"
+  },
+  {
+    "id": 368,
+    "word_english": "look",
+    "word_japanese": "見る",
+    "word_german": "schauen",
+    "word_korean": "보다",
+    "word_french": "regarder",
+    "word_spanish": "mirar",
+    "word_portuguese": "olhar",
+    "word_italian": "guardare",
+    "word_swedish": "titta",
+    "word_turkish": "bakmak",
+    "word_arabic": "ينظر"
+  },
+  {
+    "id": 369,
+    "word_english": "lot",
+    "word_japanese": "たくさん",
+    "word_german": "viel",
+    "word_korean": "많이",
+    "word_french": "beaucoup",
+    "word_spanish": "mucho",
+    "word_portuguese": "muito",
+    "word_italian": "molto",
+    "word_swedish": "mycket",
+    "word_turkish": "çok",
+    "word_arabic": "كثير"
+  },
+  {
+    "id": 370,
+    "word_english": "love",
+    "word_japanese": "愛する",
+    "word_german": "lieben",
+    "word_korean": "사랑하다",
+    "word_french": "aimer",
+    "word_spanish": "amar",
+    "word_portuguese": "amar",
+    "word_italian": "amare",
+    "word_swedish": "älska",
+    "word_turkish": "sevmek",
+    "word_arabic": "يحب"
+  }
 ]
